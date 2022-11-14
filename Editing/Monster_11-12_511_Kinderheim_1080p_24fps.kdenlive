@@ -1,64 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.8.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.10.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
- <producer id="producer0" in="00:00:00.000" out="00:23:55.264">
-  <property name="length">34412</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s16le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 09 : Elderly Soldier And A Young Girl</property>
-  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">275574926</property>
-  <property name="kdenlive:file_hash">0f2414ad4846c8f540c72d39f08640dd</property>
-  <property name="kdenlive:audio_max0">197</property>
- </producer>
- <producer id="producer1" in="00:00:00.000" out="00:23:55.430">
-  <property name="length">34416</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 10 - An Erased PastLR.wav</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s16le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 10 : An Erased Past</property>
-  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">275599484</property>
-  <property name="kdenlive:file_hash">3c0b87bf73579de075b43663958c9199</property>
-  <property name="kdenlive:audio_max0">211</property>
- </producer>
- <producer id="producer2" in="00:00:00.000" out="00:23:55.555">
+ <producer id="producer1" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 11 - Kinderheim 511.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">82</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -73,12 +23,12 @@
   <property name="meta.media.0.codec.name">hevc</property>
   <property name="meta.media.0.codec.long_name">HEVC (High Efficiency Video Coding)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.attr.0.stream.BPS.markup">2319496</property>
+  <property name="meta.attr.0.stream.BPS.markup">1977086</property>
   <property name="meta.attr.0.stream.DURATION.markup">00:23:55.518000000</property>
   <property name="meta.attr.0.stream.NUMBER_OF_FRAMES.markup">34418</property>
-  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">416209934</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">354767942</property>
   <property name="meta.attr.0.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.0.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.1.stream.type">audio</property>
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
@@ -94,7 +44,7 @@
   <property name="meta.attr.1.stream.NUMBER_OF_FRAMES.markup">44861</property>
   <property name="meta.attr.1.stream.NUMBER_OF_BYTES.markup">80390912</property>
   <property name="meta.attr.1.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.1.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.2.stream.type">audio</property>
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
@@ -105,24 +55,24 @@
   <property name="meta.media.2.codec.bit_rate">0</property>
   <property name="meta.attr.2.stream.language.markup">eng</property>
   <property name="meta.attr.2.stream.title.markup">English AAC DD_2.0</property>
-  <property name="meta.attr.2.stream.BPS.markup">167759</property>
+  <property name="meta.attr.2.stream.BPS.markup">157868</property>
   <property name="meta.attr.2.stream.DURATION.markup">00:23:55.285000000</property>
   <property name="meta.attr.2.stream.NUMBER_OF_FRAMES.markup">67279</property>
-  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">30097775</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">28323375</property>
   <property name="meta.attr.2.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.2.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.3.codec.name">ssa</property>
   <property name="meta.media.3.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
   <property name="meta.media.3.codec.bit_rate">0</property>
   <property name="meta.attr.3.stream.language.markup">eng</property>
   <property name="meta.attr.3.stream.title.markup">English (Full) ASS</property>
-  <property name="meta.attr.3.stream.BPS.markup">44</property>
-  <property name="meta.attr.3.stream.DURATION.markup">00:23:42.490000000</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">141</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">7862</property>
+  <property name="meta.attr.3.stream.BPS.markup">102</property>
+  <property name="meta.attr.3.stream.DURATION.markup">00:23:52.080000000</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">322</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">18334</property>
   <property name="meta.attr.3.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.3.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.4.codec.name">ssa</property>
   <property name="meta.media.4.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
@@ -130,44 +80,38 @@
   <property name="meta.attr.4.stream.language.markup">eng</property>
   <property name="meta.attr.4.stream.title.markup">English (Titles &amp; Signs) ASS</property>
   <property name="meta.attr.4.stream.BPS.markup">1</property>
-  <property name="meta.attr.4.stream.DURATION.markup">00:21:38.460000000</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">4</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">278</property>
+  <property name="meta.attr.4.stream.DURATION.markup">00:23:44.630000000</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">3</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">200</property>
   <property name="meta.attr.4.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.4.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.5.codec.name">ssa</property>
   <property name="meta.media.5.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
   <property name="meta.media.5.codec.bit_rate">0</property>
   <property name="meta.attr.5.stream.language.markup">ara</property>
   <property name="meta.attr.5.stream.title.markup">Arabic</property>
-  <property name="meta.attr.5.stream.BPS.markup">55</property>
-  <property name="meta.attr.5.stream.DURATION.markup">00:21:03.330000000</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">158</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">8797</property>
+  <property name="meta.attr.5.stream.BPS.markup">126</property>
+  <property name="meta.attr.5.stream.DURATION.markup">00:22:16.190000000</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">318</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">21119</property>
   <property name="meta.attr.5.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.5.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 09 : Elderly Soldier And A Young Girl</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 11 : Kinderheim 511</property>
   <property name="meta.attr.encoder.markup">libebml v1.4.2 + libmatroska v1.6.4</property>
-  <property name="meta.attr.creation_time.markup">2022-10-22T08:25:38.000000Z</property>
+  <property name="meta.attr.creation_time.markup">2022-10-22T08:26:35.000000Z</property>
   <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:id">2</property>
   <property name="kdenlive:active_streams">1;2</property>
-  <property name="kdenlive:file_size">546562530</property>
-  <property name="kdenlive:file_hash">10d26f59a28b41e2c6ccc00593ac5600</property>
-  <property name="kdenlive:audio_max1">180</property>
-  <property name="kdenlive:audio_max2">191</property>
+  <property name="kdenlive:file_size">483382970</property>
+  <property name="kdenlive:file_hash">b5782a0f2ff883bb9ea0b3a2e78ff8a1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
   <property name="meta.media.colorspace">709</property>
@@ -178,12 +122,18 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max1">181</property>
+  <property name="kdenlive:audio_max2">197</property>
  </producer>
- <producer id="producer3" in="00:00:00.000" out="00:23:55.514">
-  <property name="length">34418</property>
+ <producer id="producer0" in="00:00:00.000" out="00:24:09.509">
+  <property name="length">34754</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 10 - An Erased Past.mkv</property>
-  <property name="meta.media.nb_streams">82</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 12 - Modest Experiment.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">81</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
   <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
@@ -197,12 +147,12 @@
   <property name="meta.media.0.codec.name">hevc</property>
   <property name="meta.media.0.codec.long_name">HEVC (High Efficiency Video Coding)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.attr.0.stream.BPS.markup">1837948</property>
-  <property name="meta.attr.0.stream.DURATION.markup">00:23:55.518000000</property>
-  <property name="meta.attr.0.stream.NUMBER_OF_FRAMES.markup">34418</property>
-  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">329801077</property>
+  <property name="meta.attr.0.stream.BPS.markup">1781680</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:24:09.532000000</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_FRAMES.markup">34754</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">322825391</property>
   <property name="meta.attr.0.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:10</property>
+  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
   <property name="meta.attr.0.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.1.stream.type">audio</property>
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
@@ -214,11 +164,11 @@
   <property name="meta.attr.1.stream.language.markup">jpn</property>
   <property name="meta.attr.1.stream.title.markup">Japanese DVD AC-3 DD_2.0</property>
   <property name="meta.attr.1.stream.BPS.markup">448000</property>
-  <property name="meta.attr.1.stream.DURATION.markup">00:23:55.520000000</property>
-  <property name="meta.attr.1.stream.NUMBER_OF_FRAMES.markup">44860</property>
-  <property name="meta.attr.1.stream.NUMBER_OF_BYTES.markup">80389120</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:24:09.440000000</property>
+  <property name="meta.attr.1.stream.NUMBER_OF_FRAMES.markup">45295</property>
+  <property name="meta.attr.1.stream.NUMBER_OF_BYTES.markup">81168640</property>
   <property name="meta.attr.1.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:10</property>
+  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
   <property name="meta.attr.1.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.2.stream.type">audio</property>
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
@@ -229,69 +179,63 @@
   <property name="meta.media.2.codec.bit_rate">0</property>
   <property name="meta.attr.2.stream.language.markup">eng</property>
   <property name="meta.attr.2.stream.title.markup">English AAC DD_2.0</property>
-  <property name="meta.attr.2.stream.BPS.markup">156054</property>
-  <property name="meta.attr.2.stream.DURATION.markup">00:23:55.413000000</property>
-  <property name="meta.attr.2.stream.NUMBER_OF_FRAMES.markup">67285</property>
-  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">28000365</property>
+  <property name="meta.attr.2.stream.BPS.markup">167063</property>
+  <property name="meta.attr.2.stream.DURATION.markup">00:23:54.795000000</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_FRAMES.markup">67256</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">29962781</property>
   <property name="meta.attr.2.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:10</property>
+  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
   <property name="meta.attr.2.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.3.codec.name">ssa</property>
   <property name="meta.media.3.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
   <property name="meta.media.3.codec.bit_rate">0</property>
   <property name="meta.attr.3.stream.language.markup">eng</property>
   <property name="meta.attr.3.stream.title.markup">English (Full) ASS</property>
-  <property name="meta.attr.3.stream.BPS.markup">106</property>
-  <property name="meta.attr.3.stream.DURATION.markup">00:23:49.070000000</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">316</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">19090</property>
+  <property name="meta.attr.3.stream.BPS.markup">71</property>
+  <property name="meta.attr.3.stream.DURATION.markup">00:23:50.830000000</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">238</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">12792</property>
   <property name="meta.attr.3.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:10</property>
+  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
   <property name="meta.attr.3.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.4.codec.name">ssa</property>
   <property name="meta.media.4.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
   <property name="meta.media.4.codec.bit_rate">0</property>
   <property name="meta.attr.4.stream.language.markup">eng</property>
   <property name="meta.attr.4.stream.title.markup">English (Titles &amp; Signs) ASS</property>
-  <property name="meta.attr.4.stream.BPS.markup">1</property>
-  <property name="meta.attr.4.stream.DURATION.markup">00:21:51.470000000</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">3</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">204</property>
+  <property name="meta.attr.4.stream.BPS.markup">0</property>
+  <property name="meta.attr.4.stream.DURATION.markup">00:20:22.470000000</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">2</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">143</property>
   <property name="meta.attr.4.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:10</property>
+  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
   <property name="meta.attr.4.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.5.codec.name">ssa</property>
   <property name="meta.media.5.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
   <property name="meta.media.5.codec.bit_rate">0</property>
   <property name="meta.attr.5.stream.language.markup">ara</property>
   <property name="meta.attr.5.stream.title.markup">Arabic</property>
-  <property name="meta.attr.5.stream.BPS.markup">131</property>
-  <property name="meta.attr.5.stream.DURATION.markup">00:22:21.630000000</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">360</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">22061</property>
+  <property name="meta.attr.5.stream.BPS.markup">91</property>
+  <property name="meta.attr.5.stream.DURATION.markup">00:22:15.420000000</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">248</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">15212</property>
   <property name="meta.attr.5.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:10</property>
+  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
   <property name="meta.attr.5.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 10 : An Erased Past</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
   <property name="meta.attr.encoder.markup">libebml v1.4.2 + libmatroska v1.6.4</property>
-  <property name="meta.attr.creation_time.markup">2022-10-22T08:26:10.000000Z</property>
+  <property name="meta.attr.creation_time.markup">2022-10-22T08:27:04.000000Z</property>
   <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:id">3</property>
   <property name="kdenlive:active_streams">1;2</property>
-  <property name="kdenlive:file_size">458092872</property>
-  <property name="kdenlive:file_hash">2db7a8fe0113cab102dd9cb9dc770368</property>
-  <property name="kdenlive:audio_max1">180</property>
-  <property name="kdenlive:audio_max2">202</property>
+  <property name="kdenlive:file_size">453005305</property>
+  <property name="kdenlive:file_hash">af074ba6d1bffabf205ce6e38dd7f26c</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
   <property name="meta.media.colorspace">709</property>
@@ -302,14 +246,70 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max1">180</property>
+  <property name="kdenlive:audio_max2">203</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:23:55.264">
+  <property name="length">34412</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 11 - Kinderheim 511LR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 11 : Kinderheim 511</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">275574908</property>
+  <property name="kdenlive:file_hash">99b11edb439e421cd834f66a7b8fa940</property>
+  <property name="kdenlive:audio_max0">192</property>
+ </producer>
+ <producer id="producer3" in="00:00:00.000" out="00:23:54.805">
+  <property name="length">34401</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 12 - Modest ExperimentLR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">275480704</property>
+  <property name="kdenlive:file_hash">a3b31205fc606bfb57b65971a0309611</property>
+  <property name="kdenlive:audio_max0">213</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">2</property>
+  <property name="kdenlive:docproperties.activeTrack">3</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">2</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.compositing">1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
-  <property name="kdenlive:docproperties.documentid">1666909365844</property>
+  <property name="kdenlive:docproperties.documentid">1666912294110</property>
   <property name="kdenlive:docproperties.enableTimelineZone">0</property>
   <property name="kdenlive:docproperties.enableexternalproxy">0</property>
   <property name="kdenlive:docproperties.enableproxy">0</property>
@@ -320,12 +320,12 @@
     {
         "children": [
             {
-                "data": "1:3391",
+                "data": "2:43352",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:3391",
+                "data": "1:43304",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -334,60 +334,25 @@
     },
     {
         "children": [
-            {
-                "data": "2:13384",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:13407",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:13305",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:13310",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:13336",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:5692",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
             {
                 "children": [
                     {
-                        "data": "3:5431",
+                        "data": "3:32215",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "2:5431",
+                        "data": "0:32215",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
                 ],
                 "type": "Normal"
+            },
+            {
+                "data": "-2:32286",
+                "leaf": "subtitle",
+                "type": "Leaf"
             }
         ],
         "type": "Normal"
@@ -395,21 +360,61 @@
     {
         "children": [
             {
-                "data": "-2:85",
+                "data": "2:32519",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:32491",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "0:42523",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:42530",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:214",
                 "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
                 "children": [
                     {
-                        "data": "3:0",
-                        "leaf": "clip",
+                        "data": "-2:7446",
+                        "leaf": "subtitle",
                         "type": "Leaf"
                     },
                     {
-                        "data": "2:0",
-                        "leaf": "clip",
-                        "type": "Leaf"
+                        "children": [
+                            {
+                                "data": "1:0",
+                                "leaf": "clip",
+                                "type": "Leaf"
+                            },
+                            {
+                                "data": "2:0",
+                                "leaf": "clip",
+                                "type": "Leaf"
+                            }
+                        ],
+                        "type": "Normal"
                     }
                 ],
                 "type": "Normal"
@@ -419,8 +424,8 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">22.08.2</property>
-  <property name="kdenlive:docproperties.position">2057</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.08.3</property>
+  <property name="kdenlive:docproperties.position">32515</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile2</property>
@@ -447,24 +452,32 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Monster-Editing/Output/ep9.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">14871</property>
+  <property name="kdenlive:docproperties.scrollPos">18906</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">3</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:expandedFolders"/>
-  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:documentnotes">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Noto Sans'; font-size:10pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">srt formatting: https://docs.fileformat.com/video/srt/&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">adding empty char to raise subtitles by a line: https://emptycharacter.com/&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">list of dub voice actors: https://www.behindthevoiceactors.com/tv-shows/Monster/&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster_11-12_511_Kinderheim_1080p_24fps.mp4</property>
   <property name="xml_retain">1</property>
-  <entry producer="producer0" in="00:00:00.000" out="00:23:55.264"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:23:55.430"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:23:55.555"/>
-  <entry producer="producer3" in="00:00:00.000" out="00:23:55.514"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:23:55.555"/>
+  <entry producer="producer0" in="00:00:00.000" out="00:24:09.509"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:23:55.264"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:23:54.805"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="00:42:26.485">
+ <producer id="black_track" in="00:00:00.000" out="01:03:05.464">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -473,10 +486,14 @@
   <property name="mlt_image_format">rgba</property>
   <property name="set.test_audio">0</property>
  </producer>
- <producer id="producer4" in="00:00:00.000" out="00:23:55.264">
-  <property name="length">34412</property>
+ <producer id="producer4" in="00:00:00.000" out="00:23:54.805">
+  <property name="length">34401</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 12 - Modest ExperimentLR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -485,30 +502,38 @@
   <property name="meta.media.0.codec.name">pcm_s16le</property>
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 09 : Elderly Soldier And A Young Girl</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
   <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">275574926</property>
-  <property name="kdenlive:file_hash">0f2414ad4846c8f540c72d39f08640dd</property>
-  <property name="kdenlive:audio_max0">197</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">275480704</property>
+  <property name="kdenlive:file_hash">a3b31205fc606bfb57b65971a0309611</property>
+  <property name="kdenlive:audio_max0">213</property>
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
  <playlist id="playlist0">
-  <blank length="00:09:16.225"/>
-  <entry producer="producer4" in="00:10:04.963" out="00:10:08.842">
-   <property name="kdenlive:id">2</property>
-   <property name="kdenlive:activeeffect">2</property>
-   <filter id="filter0" in="00:10:04.963" out="00:10:06.882">
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="00:22:23.649"/>
+  <entry producer="producer4" in="00:03:28.320" out="00:03:40.707">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter0" in="00:03:40.415" out="00:03:40.707">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <blank length="00:06:57.516"/>
+  <entry producer="producer4" in="00:10:49.174" out="00:11:25.150">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter1" in="00:10:49.174" out="00:10:49.424">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -517,56 +542,49 @@
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter1" in="00:10:07.758" out="00:10:08.884">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadeout</property>
-    <property name="gain">1</property>
-    <property name="end">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter2">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">gain</property>
-    <property name="gain">1.25</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
  </playlist>
- <playlist id="playlist1"/>
- <tractor id="tractor0" in="00:00:00.000" out="00:09:20.103">
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000" out="00:30:09.593">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist0"/>
   <track hide="video" producer="playlist1"/>
-  <filter id="filter3">
+  <filter id="filter2">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter4">
+  <filter id="filter3">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter5">
+  <filter id="filter4">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
+   <property name="dbpeak">1</property>
    <property name="disable">1</property>
   </filter>
  </tractor>
  <producer id="producer5" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 11 - Kinderheim 511LR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -575,34 +593,59 @@
   <property name="meta.media.0.codec.name">pcm_s16le</property>
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 09 : Elderly Soldier And A Young Girl</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 11 : Kinderheim 511</property>
   <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">275574908</property>
+  <property name="kdenlive:file_hash">99b11edb439e421cd834f66a7b8fa940</property>
+  <property name="kdenlive:audio_max0">192</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:23:54.805">
+  <property name="length">34401</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 12 - Modest ExperimentLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
   <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">275574926</property>
-  <property name="kdenlive:file_hash">0f2414ad4846c8f540c72d39f08640dd</property>
-  <property name="kdenlive:audio_max0">197</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">275480704</property>
+  <property name="kdenlive:file_hash">a3b31205fc606bfb57b65971a0309611</property>
+  <property name="kdenlive:audio_max0">213</property>
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:02:21.438"/>
-  <entry producer="producer5" in="00:00:46.546" out="00:02:11.595">
-   <property name="kdenlive:id">2</property>
+  <entry producer="producer5" in="00:00:00.000" out="00:22:27.027">
+   <property name="kdenlive:id">4</property>
   </entry>
-  <blank length="00:05:28.445"/>
-  <entry producer="producer5" in="00:10:04.296" out="00:10:09.176">
-   <property name="kdenlive:id">2</property>
-   <filter id="filter6" in="00:10:04.296" out="00:10:04.546">
+  <blank length="00:00:08.091"/>
+  <entry producer="producer6" in="00:03:48.757" out="00:10:47.506">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter5" in="00:03:48.757" out="00:03:49.383">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -611,13 +654,26 @@
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter7" in="00:10:07.007" out="00:10:09.176">
+   <filter id="filter6" in="00:10:47.214" out="00:10:47.506">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:32.199"/>
+  <entry producer="producer6" in="00:11:29.029" out="00:23:37.037">
+   <property name="kdenlive:id">5</property>
+   <filter id="filter7" in="00:11:29.029" out="00:11:30.781">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
@@ -625,7 +681,7 @@
  <playlist id="playlist3">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor1" in="00:00:00.000" out="00:09:19.811">
+ <tractor id="tractor1" in="00:00:00.000" out="00:42:14.139">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -651,125 +707,18 @@
   <filter id="filter10">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
-   <property name="disable">1</property>
-  </filter>
- </tractor>
- <producer id="producer6" in="00:00:00.000" out="00:23:55.264">
-  <property name="length">34412</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s16le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 09 : Elderly Soldier And A Young Girl</property>
-  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">275574926</property>
-  <property name="kdenlive:file_hash">0f2414ad4846c8f540c72d39f08640dd</property>
-  <property name="kdenlive:audio_max0">197</property>
-  <property name="xml">was here</property>
-  <property name="set.test_audio">0</property>
-  <property name="set.test_image">1</property>
- </producer>
- <playlist id="playlist4">
-  <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer6" in="00:02:11.637" out="00:04:33.909">
-   <property name="kdenlive:id">2</property>
-   <filter id="filter11" in="00:04:31.865" out="00:04:33.951">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadeout</property>
-    <property name="gain">1</property>
-    <property name="end">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:01:24.233"/>
-  <entry producer="producer6" in="00:04:35.285" out="00:10:04.379">
-   <property name="kdenlive:id">2</property>
-   <filter id="filter12" in="00:04:35.285" out="00:04:36.161">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadein</property>
-    <property name="gain">0</property>
-    <property name="end">1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter13" in="00:10:03.879" out="00:10:04.379">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadeout</property>
-    <property name="gain">1</property>
-    <property name="end">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:02.586"/>
-  <entry producer="producer6" in="00:10:10.219" out="00:22:27.152">
-   <property name="kdenlive:id">2</property>
-   <filter id="filter14" in="00:10:10.219" out="00:10:11.845">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadein</property>
-    <property name="gain">0</property>
-    <property name="end">1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
- </playlist>
- <playlist id="playlist5">
-  <property name="kdenlive:audio_track">1</property>
- </playlist>
- <tractor id="tractor2" in="00:00:00.000" out="00:21:35.202">
-  <property name="kdenlive:audio_track">1</property>
-  <property name="kdenlive:trackheight">67</property>
-  <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="video" producer="playlist4"/>
-  <track hide="video" producer="playlist5"/>
-  <filter id="filter15">
-   <property name="window">75</property>
-   <property name="max_gain">20dB</property>
-   <property name="mlt_service">volume</property>
-   <property name="internal_added">237</property>
-   <property name="disable">1</property>
-  </filter>
-  <filter id="filter16">
-   <property name="channel">-1</property>
-   <property name="mlt_service">panner</property>
-   <property name="internal_added">237</property>
-   <property name="start">0.5</property>
-   <property name="disable">1</property>
-  </filter>
-  <filter id="filter17">
-   <property name="iec_scale">0</property>
-   <property name="mlt_service">audiolevel</property>
+   <property name="dbpeak">1</property>
    <property name="disable">1</property>
   </filter>
  </tractor>
  <producer id="producer7" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 11 - Kinderheim 511.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">82</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -784,12 +733,12 @@
   <property name="meta.media.0.codec.name">hevc</property>
   <property name="meta.media.0.codec.long_name">HEVC (High Efficiency Video Coding)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.attr.0.stream.BPS.markup">2319496</property>
+  <property name="meta.attr.0.stream.BPS.markup">1977086</property>
   <property name="meta.attr.0.stream.DURATION.markup">00:23:55.518000000</property>
   <property name="meta.attr.0.stream.NUMBER_OF_FRAMES.markup">34418</property>
-  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">416209934</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">354767942</property>
   <property name="meta.attr.0.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.0.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.1.stream.type">audio</property>
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
@@ -805,7 +754,7 @@
   <property name="meta.attr.1.stream.NUMBER_OF_FRAMES.markup">44861</property>
   <property name="meta.attr.1.stream.NUMBER_OF_BYTES.markup">80390912</property>
   <property name="meta.attr.1.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.1.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.2.stream.type">audio</property>
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
@@ -816,24 +765,24 @@
   <property name="meta.media.2.codec.bit_rate">0</property>
   <property name="meta.attr.2.stream.language.markup">eng</property>
   <property name="meta.attr.2.stream.title.markup">English AAC DD_2.0</property>
-  <property name="meta.attr.2.stream.BPS.markup">167759</property>
+  <property name="meta.attr.2.stream.BPS.markup">157868</property>
   <property name="meta.attr.2.stream.DURATION.markup">00:23:55.285000000</property>
   <property name="meta.attr.2.stream.NUMBER_OF_FRAMES.markup">67279</property>
-  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">30097775</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">28323375</property>
   <property name="meta.attr.2.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.2.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.3.codec.name">ssa</property>
   <property name="meta.media.3.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
   <property name="meta.media.3.codec.bit_rate">0</property>
   <property name="meta.attr.3.stream.language.markup">eng</property>
   <property name="meta.attr.3.stream.title.markup">English (Full) ASS</property>
-  <property name="meta.attr.3.stream.BPS.markup">44</property>
-  <property name="meta.attr.3.stream.DURATION.markup">00:23:42.490000000</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">141</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">7862</property>
+  <property name="meta.attr.3.stream.BPS.markup">102</property>
+  <property name="meta.attr.3.stream.DURATION.markup">00:23:52.080000000</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">322</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">18334</property>
   <property name="meta.attr.3.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.3.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.4.codec.name">ssa</property>
   <property name="meta.media.4.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
@@ -841,44 +790,168 @@
   <property name="meta.attr.4.stream.language.markup">eng</property>
   <property name="meta.attr.4.stream.title.markup">English (Titles &amp; Signs) ASS</property>
   <property name="meta.attr.4.stream.BPS.markup">1</property>
-  <property name="meta.attr.4.stream.DURATION.markup">00:21:38.460000000</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">4</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">278</property>
+  <property name="meta.attr.4.stream.DURATION.markup">00:23:44.630000000</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">3</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">200</property>
   <property name="meta.attr.4.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.4.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
   <property name="meta.media.5.codec.name">ssa</property>
   <property name="meta.media.5.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
   <property name="meta.media.5.codec.bit_rate">0</property>
   <property name="meta.attr.5.stream.language.markup">ara</property>
   <property name="meta.attr.5.stream.title.markup">Arabic</property>
-  <property name="meta.attr.5.stream.BPS.markup">55</property>
-  <property name="meta.attr.5.stream.DURATION.markup">00:21:03.330000000</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">158</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">8797</property>
+  <property name="meta.attr.5.stream.BPS.markup">126</property>
+  <property name="meta.attr.5.stream.DURATION.markup">00:22:16.190000000</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">318</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">21119</property>
   <property name="meta.attr.5.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
+  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:26:35</property>
   <property name="meta.attr.5.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 09 : Elderly Soldier And A Young Girl</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 11 : Kinderheim 511</property>
   <property name="meta.attr.encoder.markup">libebml v1.4.2 + libmatroska v1.6.4</property>
-  <property name="meta.attr.creation_time.markup">2022-10-22T08:25:38.000000Z</property>
+  <property name="meta.attr.creation_time.markup">2022-10-22T08:26:35.000000Z</property>
   <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:active_streams">1;2</property>
+  <property name="kdenlive:file_size">483382970</property>
+  <property name="kdenlive:file_hash">b5782a0f2ff883bb9ea0b3a2e78ff8a1</property>
+  <property name="kdenlive:audio_max1">181</property>
+  <property name="kdenlive:audio_max2">197</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.frame_rate_num">24000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1440</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="format">3</property>
+ </producer>
+ <producer id="producer8" in="00:00:00.000" out="00:24:09.509">
+  <property name="length">34754</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 12 - Modest Experiment.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
   <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">81</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23.976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1440</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p10le</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">hevc</property>
+  <property name="meta.media.0.codec.long_name">HEVC (High Efficiency Video Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.BPS.markup">1781680</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:24:09.532000000</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_FRAMES.markup">34754</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">322825391</property>
+  <property name="meta.attr.0.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.0.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">ac3</property>
+  <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
+  <property name="meta.media.1.codec.bit_rate">448000</property>
+  <property name="meta.attr.1.stream.language.markup">jpn</property>
+  <property name="meta.attr.1.stream.title.markup">Japanese DVD AC-3 DD_2.0</property>
+  <property name="meta.attr.1.stream.BPS.markup">448000</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:24:09.440000000</property>
+  <property name="meta.attr.1.stream.NUMBER_OF_FRAMES.markup">45295</property>
+  <property name="meta.attr.1.stream.NUMBER_OF_BYTES.markup">81168640</property>
+  <property name="meta.attr.1.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.1.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.2.stream.type">audio</property>
+  <property name="meta.media.2.codec.sample_fmt">fltp</property>
+  <property name="meta.media.2.codec.sample_rate">48000</property>
+  <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.name">aac</property>
+  <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.2.stream.language.markup">eng</property>
+  <property name="meta.attr.2.stream.title.markup">English AAC DD_2.0</property>
+  <property name="meta.attr.2.stream.BPS.markup">167063</property>
+  <property name="meta.attr.2.stream.DURATION.markup">00:23:54.795000000</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_FRAMES.markup">67256</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">29962781</property>
+  <property name="meta.attr.2.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.2.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.3.codec.name">ssa</property>
+  <property name="meta.media.3.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.3.codec.bit_rate">0</property>
+  <property name="meta.attr.3.stream.language.markup">eng</property>
+  <property name="meta.attr.3.stream.title.markup">English (Full) ASS</property>
+  <property name="meta.attr.3.stream.BPS.markup">71</property>
+  <property name="meta.attr.3.stream.DURATION.markup">00:23:50.830000000</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">238</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">12792</property>
+  <property name="meta.attr.3.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.3.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.4.codec.name">ssa</property>
+  <property name="meta.media.4.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.4.codec.bit_rate">0</property>
+  <property name="meta.attr.4.stream.language.markup">eng</property>
+  <property name="meta.attr.4.stream.title.markup">English (Titles &amp; Signs) ASS</property>
+  <property name="meta.attr.4.stream.BPS.markup">0</property>
+  <property name="meta.attr.4.stream.DURATION.markup">00:20:22.470000000</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">2</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">143</property>
+  <property name="meta.attr.4.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.4.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.5.codec.name">ssa</property>
+  <property name="meta.media.5.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.5.codec.bit_rate">0</property>
+  <property name="meta.attr.5.stream.language.markup">ara</property>
+  <property name="meta.attr.5.stream.title.markup">Arabic</property>
+  <property name="meta.attr.5.stream.BPS.markup">91</property>
+  <property name="meta.attr.5.stream.DURATION.markup">00:22:15.420000000</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">248</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">15212</property>
+  <property name="meta.attr.5.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.5.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
+  <property name="meta.attr.encoder.markup">libebml v1.4.2 + libmatroska v1.6.4</property>
+  <property name="meta.attr.creation_time.markup">2022-10-22T08:27:04.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:id">3</property>
   <property name="kdenlive:active_streams">1;2</property>
-  <property name="kdenlive:file_size">546562530</property>
-  <property name="kdenlive:file_hash">10d26f59a28b41e2c6ccc00593ac5600</property>
+  <property name="kdenlive:file_size">453005305</property>
+  <property name="kdenlive:file_hash">af074ba6d1bffabf205ce6e38dd7f26c</property>
   <property name="kdenlive:audio_max1">180</property>
-  <property name="kdenlive:audio_max2">191</property>
+  <property name="kdenlive:audio_max2">203</property>
   <property name="xml">was here</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -893,39 +966,188 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <playlist id="playlist6">
-  <entry producer="producer7" in="00:02:11.637" out="00:04:33.200">
-   <property name="kdenlive:id">4</property>
-   <filter id="filter18" in="00:04:31.823" out="00:04:33.200">
+ <playlist id="playlist4">
+  <entry producer="producer7" in="00:00:00.000" out="00:22:27.027">
+   <property name="kdenlive:id">2</property>
+   <filter id="filter11" in="00:22:23.607" out="00:22:27.027">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
-    <property name="alpha">00:00:00.000=1;00:00:01.376=0</property>
-    <property name="kdenlive:collapsed">0</property>
+    <property name="alpha">00:00:00.000=1;00:00:03.420=0</property>
    </filter>
   </entry>
-  <blank length="00:01:24.942"/>
-  <entry producer="producer7" in="00:04:35.285" out="00:10:03.879">
-   <property name="kdenlive:id">4</property>
-   <filter id="filter19" in="00:04:35.285" out="00:04:36.161">
+  <blank length="00:00:09.259"/>
+  <entry producer="producer8" in="00:03:49.925" out="00:10:47.422">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer8" in="00:10:49.466" out="00:11:23.690">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer8" in="00:11:31.031" out="00:23:37.037">
+   <property name="kdenlive:id">3</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor id="tractor2" in="00:00:00.000" out="00:42:14.139">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist4"/>
+  <track hide="audio" producer="playlist5"/>
+ </tractor>
+ <producer id="producer9" in="00:00:00.000" out="00:24:09.509">
+  <property name="length">34754</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 12 - Modest Experiment.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">81</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23.976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1440</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p10le</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">hevc</property>
+  <property name="meta.media.0.codec.long_name">HEVC (High Efficiency Video Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.BPS.markup">1781680</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:24:09.532000000</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_FRAMES.markup">34754</property>
+  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">322825391</property>
+  <property name="meta.attr.0.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.0.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">ac3</property>
+  <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
+  <property name="meta.media.1.codec.bit_rate">448000</property>
+  <property name="meta.attr.1.stream.language.markup">jpn</property>
+  <property name="meta.attr.1.stream.title.markup">Japanese DVD AC-3 DD_2.0</property>
+  <property name="meta.attr.1.stream.BPS.markup">448000</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:24:09.440000000</property>
+  <property name="meta.attr.1.stream.NUMBER_OF_FRAMES.markup">45295</property>
+  <property name="meta.attr.1.stream.NUMBER_OF_BYTES.markup">81168640</property>
+  <property name="meta.attr.1.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.1.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.2.stream.type">audio</property>
+  <property name="meta.media.2.codec.sample_fmt">fltp</property>
+  <property name="meta.media.2.codec.sample_rate">48000</property>
+  <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.name">aac</property>
+  <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.2.stream.language.markup">eng</property>
+  <property name="meta.attr.2.stream.title.markup">English AAC DD_2.0</property>
+  <property name="meta.attr.2.stream.BPS.markup">167063</property>
+  <property name="meta.attr.2.stream.DURATION.markup">00:23:54.795000000</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_FRAMES.markup">67256</property>
+  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">29962781</property>
+  <property name="meta.attr.2.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.2.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.3.codec.name">ssa</property>
+  <property name="meta.media.3.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.3.codec.bit_rate">0</property>
+  <property name="meta.attr.3.stream.language.markup">eng</property>
+  <property name="meta.attr.3.stream.title.markup">English (Full) ASS</property>
+  <property name="meta.attr.3.stream.BPS.markup">71</property>
+  <property name="meta.attr.3.stream.DURATION.markup">00:23:50.830000000</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">238</property>
+  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">12792</property>
+  <property name="meta.attr.3.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.3.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.4.codec.name">ssa</property>
+  <property name="meta.media.4.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.4.codec.bit_rate">0</property>
+  <property name="meta.attr.4.stream.language.markup">eng</property>
+  <property name="meta.attr.4.stream.title.markup">English (Titles &amp; Signs) ASS</property>
+  <property name="meta.attr.4.stream.BPS.markup">0</property>
+  <property name="meta.attr.4.stream.DURATION.markup">00:20:22.470000000</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">2</property>
+  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">143</property>
+  <property name="meta.attr.4.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.4.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.media.5.codec.name">ssa</property>
+  <property name="meta.media.5.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.5.codec.bit_rate">0</property>
+  <property name="meta.attr.5.stream.language.markup">ara</property>
+  <property name="meta.attr.5.stream.title.markup">Arabic</property>
+  <property name="meta.attr.5.stream.BPS.markup">91</property>
+  <property name="meta.attr.5.stream.DURATION.markup">00:22:15.420000000</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">248</property>
+  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">15212</property>
+  <property name="meta.attr.5.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
+  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:27:04</property>
+  <property name="meta.attr.5.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
+  <property name="meta.attr.encoder.markup">libebml v1.4.2 + libmatroska v1.6.4</property>
+  <property name="meta.attr.creation_time.markup">2022-10-22T08:27:04.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:active_streams">1;2</property>
+  <property name="kdenlive:file_size">453005305</property>
+  <property name="kdenlive:file_hash">af074ba6d1bffabf205ce6e38dd7f26c</property>
+  <property name="kdenlive:audio_max1">180</property>
+  <property name="kdenlive:audio_max2">203</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.frame_rate_num">24000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1440</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="format">3</property>
+ </producer>
+ <playlist id="playlist6">
+  <blank length="00:22:23.649"/>
+  <entry producer="producer9" in="00:03:28.320" out="00:03:40.707">
+   <property name="kdenlive:id">3</property>
+   <filter id="filter12" in="00:03:28.320" out="00:03:31.740">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
-    <property name="alpha">00:00:00.000=0;00:00:00.876=1</property>
+    <property name="alpha">00:00:00.000=0;00:00:03.420=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer7" in="00:10:04.504" out="00:10:08.508">
-   <property name="kdenlive:id">4</property>
+  <entry producer="producer9" in="00:03:39.289" out="00:03:39.373">
+   <property name="kdenlive:id">3</property>
   </entry>
-  <entry producer="producer7" in="00:10:11.178" out="00:22:27.152">
-   <property name="kdenlive:id">4</property>
+  <entry producer="producer9" in="00:03:38.789" out="00:03:38.872">
+   <property name="kdenlive:id">3</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:21:35.202">
+ <tractor id="tractor3" in="00:00:00.000" out="00:22:36.286">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -934,172 +1156,12 @@
   <track hide="audio" producer="playlist6"/>
   <track hide="audio" producer="playlist7"/>
  </tractor>
- <producer id="producer8" in="00:00:00.000" out="00:23:55.555">
-  <property name="length">34419</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
-  <property name="meta.media.nb_streams">82</property>
-  <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">23.976</property>
-  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.width">1440</property>
-  <property name="meta.media.0.codec.height">1080</property>
-  <property name="meta.media.0.codec.rotate">0</property>
-  <property name="meta.media.0.codec.pix_fmt">yuv420p10le</property>
-  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.colorspace">709</property>
-  <property name="meta.media.0.codec.color_trc">1</property>
-  <property name="meta.media.0.codec.name">hevc</property>
-  <property name="meta.media.0.codec.long_name">HEVC (High Efficiency Video Coding)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.attr.0.stream.BPS.markup">2319496</property>
-  <property name="meta.attr.0.stream.DURATION.markup">00:23:55.518000000</property>
-  <property name="meta.attr.0.stream.NUMBER_OF_FRAMES.markup">34418</property>
-  <property name="meta.attr.0.stream.NUMBER_OF_BYTES.markup">416209934</property>
-  <property name="meta.attr.0.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.0.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
-  <property name="meta.attr.0.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.media.1.stream.type">audio</property>
-  <property name="meta.media.1.codec.sample_fmt">fltp</property>
-  <property name="meta.media.1.codec.sample_rate">48000</property>
-  <property name="meta.media.1.codec.channels">2</property>
-  <property name="meta.media.1.codec.name">ac3</property>
-  <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
-  <property name="meta.media.1.codec.bit_rate">448000</property>
-  <property name="meta.attr.1.stream.language.markup">jpn</property>
-  <property name="meta.attr.1.stream.title.markup">Japanese DVD AC-3 DD_2.0</property>
-  <property name="meta.attr.1.stream.BPS.markup">448000</property>
-  <property name="meta.attr.1.stream.DURATION.markup">00:23:55.552000000</property>
-  <property name="meta.attr.1.stream.NUMBER_OF_FRAMES.markup">44861</property>
-  <property name="meta.attr.1.stream.NUMBER_OF_BYTES.markup">80390912</property>
-  <property name="meta.attr.1.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.1.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
-  <property name="meta.attr.1.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.media.2.stream.type">audio</property>
-  <property name="meta.media.2.codec.sample_fmt">fltp</property>
-  <property name="meta.media.2.codec.sample_rate">48000</property>
-  <property name="meta.media.2.codec.channels">2</property>
-  <property name="meta.media.2.codec.name">aac</property>
-  <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.2.codec.bit_rate">0</property>
-  <property name="meta.attr.2.stream.language.markup">eng</property>
-  <property name="meta.attr.2.stream.title.markup">English AAC DD_2.0</property>
-  <property name="meta.attr.2.stream.BPS.markup">167759</property>
-  <property name="meta.attr.2.stream.DURATION.markup">00:23:55.285000000</property>
-  <property name="meta.attr.2.stream.NUMBER_OF_FRAMES.markup">67279</property>
-  <property name="meta.attr.2.stream.NUMBER_OF_BYTES.markup">30097775</property>
-  <property name="meta.attr.2.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.2.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
-  <property name="meta.attr.2.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.media.3.codec.name">ssa</property>
-  <property name="meta.media.3.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
-  <property name="meta.media.3.codec.bit_rate">0</property>
-  <property name="meta.attr.3.stream.language.markup">eng</property>
-  <property name="meta.attr.3.stream.title.markup">English (Full) ASS</property>
-  <property name="meta.attr.3.stream.BPS.markup">44</property>
-  <property name="meta.attr.3.stream.DURATION.markup">00:23:42.490000000</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_FRAMES.markup">141</property>
-  <property name="meta.attr.3.stream.NUMBER_OF_BYTES.markup">7862</property>
-  <property name="meta.attr.3.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.3.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
-  <property name="meta.attr.3.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.media.4.codec.name">ssa</property>
-  <property name="meta.media.4.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
-  <property name="meta.media.4.codec.bit_rate">0</property>
-  <property name="meta.attr.4.stream.language.markup">eng</property>
-  <property name="meta.attr.4.stream.title.markup">English (Titles &amp; Signs) ASS</property>
-  <property name="meta.attr.4.stream.BPS.markup">1</property>
-  <property name="meta.attr.4.stream.DURATION.markup">00:21:38.460000000</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_FRAMES.markup">4</property>
-  <property name="meta.attr.4.stream.NUMBER_OF_BYTES.markup">278</property>
-  <property name="meta.attr.4.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.4.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
-  <property name="meta.attr.4.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.media.5.codec.name">ssa</property>
-  <property name="meta.media.5.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
-  <property name="meta.media.5.codec.bit_rate">0</property>
-  <property name="meta.attr.5.stream.language.markup">ara</property>
-  <property name="meta.attr.5.stream.title.markup">Arabic</property>
-  <property name="meta.attr.5.stream.BPS.markup">55</property>
-  <property name="meta.attr.5.stream.DURATION.markup">00:21:03.330000000</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_FRAMES.markup">158</property>
-  <property name="meta.attr.5.stream.NUMBER_OF_BYTES.markup">8797</property>
-  <property name="meta.attr.5.stream._STATISTICS_WRITING_APP.markup">mkvmerge v61.0.0 ('So') 64-bit</property>
-  <property name="meta.attr.5.stream._STATISTICS_WRITING_DATE_UTC.markup">2022-10-22 08:25:38</property>
-  <property name="meta.attr.5.stream._STATISTICS_TAGS.markup">BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 09 : Elderly Soldier And A Young Girl</property>
-  <property name="meta.attr.encoder.markup">libebml v1.4.2 + libmatroska v1.6.4</property>
-  <property name="meta.attr.creation_time.markup">2022-10-22T08:25:38.000000Z</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">4</property>
-  <property name="kdenlive:active_streams">1;2</property>
-  <property name="kdenlive:file_size">546562530</property>
-  <property name="kdenlive:file_hash">10d26f59a28b41e2c6ccc00593ac5600</property>
-  <property name="kdenlive:audio_max1">180</property>
-  <property name="kdenlive:audio_max2">191</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.frame_rate_num">24000</property>
-  <property name="meta.media.frame_rate_den">1001</property>
-  <property name="meta.media.colorspace">709</property>
-  <property name="meta.media.color_trc">1</property>
-  <property name="meta.media.has_b_frames">2</property>
-  <property name="meta.media.width">1440</property>
-  <property name="meta.media.height">1080</property>
-  <property name="meta.media.color_range">mpeg</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="set.test_audio">1</property>
-  <property name="set.test_image">0</property>
- </producer>
- <playlist id="playlist8">
-  <blank length="00:02:21.438"/>
-  <entry producer="producer8" in="00:00:46.546" out="00:02:11.595">
-   <property name="kdenlive:id">4</property>
-   <filter id="filter20" in="00:00:46.546" out="00:00:46.713">
-    <property name="start">1</property>
-    <property name="level">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_from_black</property>
-    <property name="alpha">00:00:00.000=0;00:00:00.167=1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter21" in="00:02:10.719" out="00:02:11.595">
-    <property name="start">1</property>
-    <property name="level">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_to_black</property>
-    <property name="alpha">00:00:00.000=1;00:00:00.876=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
- </playlist>
- <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:03:46.505">
-  <property name="kdenlive:trackheight">67</property>
-  <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist8"/>
-  <track hide="audio" producer="playlist9"/>
- </tractor>
- <tractor id="tractor5" in="00:00:00.000" out="00:42:26.485">
+ <tractor id="tractor4" in="00:00:00.000" out="01:03:05.464">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
   <track producer="tractor2"/>
   <track producer="tractor3"/>
-  <track producer="tractor4"/>
   <transition id="transition0">
    <property name="a_track">0</property>
    <property name="b_track">1</property>
@@ -1123,49 +1185,37 @@
   <transition id="transition2">
    <property name="a_track">0</property>
    <property name="b_track">3</property>
-   <property name="mlt_service">mix</property>
-   <property name="kdenlive_id">mix</property>
-   <property name="internal_added">237</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
    <property name="always_active">1</property>
-   <property name="accepts_blanks">1</property>
-   <property name="sum">1</property>
+   <property name="internal_added">237</property>
   </transition>
   <transition id="transition3">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
    <property name="version">0.1</property>
    <property name="mlt_service">frei0r.cairoblend</property>
-   <property name="kdenlive_id">frei0r.cairoblend</property>
-   <property name="internal_added">237</property>
    <property name="always_active">1</property>
-  </transition>
-  <transition id="transition4">
-   <property name="a_track">0</property>
-   <property name="b_track">5</property>
-   <property name="version">0.1</property>
-   <property name="mlt_service">frei0r.cairoblend</property>
-   <property name="kdenlive_id">frei0r.cairoblend</property>
    <property name="internal_added">237</property>
-   <property name="always_active">1</property>
   </transition>
-  <filter id="filter22">
+  <filter id="filter13">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter23">
+  <filter id="filter14">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter24">
+  <filter id="filter15">
    <property name="mlt_service">avfilter.subtitles</property>
    <property name="internal_added">237</property>
-   <property name="av.filename">/tmp/1666909365844.srt</property>
+   <property name="av.filename">/tmp/1666912294110.srt</property>
    <property name="av.force_style">Outline=0,Shadow=1,</property>
   </filter>
  </tractor>
