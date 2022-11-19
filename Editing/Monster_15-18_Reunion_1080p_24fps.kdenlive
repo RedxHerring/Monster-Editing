@@ -545,33 +545,6 @@
   <property name="kdenlive:file_hash">0645762c70aa2e5c8074d6adcdcb6b1d</property>
   <property name="kdenlive:audio_max0">196</property>
  </producer>
- <producer id="producer4" in="00:00:00.000" out="00:23:55.305">
-  <property name="length">34413</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s16le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1411200</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 16 : Wolf's Confession</property>
-  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">7</property>
-  <property name="kdenlive:file_size">253186176</property>
-  <property name="kdenlive:file_hash">5132c6867fd5c2b38e4b25b40a531f57</property>
-  <property name="kdenlive:audio_max0">201</property>
- </producer>
  <producer id="producer5" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
@@ -652,10 +625,38 @@
   <property name="kdenlive:file_hash">c1c5c22fb90110217815fb39e73fbeef</property>
   <property name="kdenlive:audio_max0">210</property>
  </producer>
+ <producer id="producer4" in="00:00:00.000" out="00:23:55.305">
+  <property name="length">34413</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1411200</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 16 : Wolf's Confession</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">1</property>
+  <property name="kdenlive:originalurl">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">253186176</property>
+  <property name="kdenlive:file_hash">5132c6867fd5c2b38e4b25b40a531f57</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:audio_max0">201</property>
+ </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">2</property>
+  <property name="kdenlive:docproperties.activeTrack">4</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.audioTarget">2</property>
   <property name="kdenlive:docproperties.compositing">1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1668217499931</property>
@@ -669,12 +670,12 @@
     {
         "children": [
             {
-                "data": "3:62152",
+                "data": "1:24576",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:62146",
+                "data": "3:24576",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -684,34 +685,19 @@
     {
         "children": [
             {
-                "data": "1:42804",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:42827",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:31614",
+                "data": "-2:89519",
                 "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
                 "children": [
                     {
-                        "data": "2:31561",
+                        "data": "2:89474",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "4:31561",
+                        "data": "3:89474",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
@@ -724,227 +710,12 @@
     {
         "children": [
             {
-                "data": "3:43092",
+                "data": "1:30586",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:43092",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:89523",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "2:89478",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "3:89478",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:44457",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:44457",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:61607",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "3:61581",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:61559",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:67797",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:67809",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:39715",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:39715",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:36671",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:36626",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:63967",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:63947",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:64925",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:64937",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:37748",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:37745",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:45288",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:45288",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:10948",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:10965",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:7679",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:7706",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:60068",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:60068",
+                "data": "3:30587",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -984,12 +755,377 @@
     {
         "children": [
             {
-                "data": "2:66005",
+                "data": "-2:3528",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "1:0",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "3:0",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:31614",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:31561",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "4:31561",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:10948",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
+                "data": "3:10965",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:37650",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:37668",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:45288",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:45288",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:67793",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:67806",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:37748",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:37745",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:36671",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:36626",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:44434",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:44434",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:44445",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:43092",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:43092",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:62152",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:62146",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:60068",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:60068",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:63967",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:63947",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:72297",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:72297",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:13900",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:13900",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:13941",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:14364",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:64925",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:64937",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:7679",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:7706",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
                 "data": "3:66005",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:67785",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:66005",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:26442",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:26442",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:61607",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "3:61581",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:61559",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:44457",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:44457",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:15765",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:15765",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1005,6 +1141,36 @@
             },
             {
                 "data": "3:6185",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:46910",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:46899",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:39715",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:39715",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1039,127 +1205,12 @@
     {
         "children": [
             {
-                "data": "-2:3528",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "1:0",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "3:0",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:13900",
+                "data": "1:42804",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:13900",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:13941",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:14364",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:26442",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:26442",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:44434",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:44434",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:44445",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:72301",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:72301",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:30586",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:30587",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:24576",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:24576",
+                "data": "3:42827",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1169,7 +1220,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.08.3</property>
-  <property name="kdenlive:docproperties.position">89695</property>
+  <property name="kdenlive:docproperties.position">39760</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile2</property>
@@ -1190,21 +1241,21 @@
   <property name="kdenlive:docproperties.renderratio">0</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">1</property>
-  <property name="kdenlive:docproperties.renderrescalewidth">720</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">1</property>
   <property name="kdenlive:docproperties.renderspeed">6</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Monster-Editing/Output/Monster_15-18_Reunion_1080p_24fps.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">17406</property>
+  <property name="kdenlive:docproperties.scrollPos">720</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">11</property>
+  <property name="kdenlive:docproperties.zoom">14</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 &lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
@@ -1218,12 +1269,12 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer2" in="00:00:00.000" out="00:23:55.514"/>
   <entry producer="producer3" in="00:00:00.000" out="00:23:55.472"/>
   <entry producer="producer7" in="00:00:00.000" out="00:23:54.680"/>
-  <entry producer="producer4" in="00:00:00.000" out="00:23:55.305"/>
   <entry producer="producer5" in="00:00:00.000" out="00:23:55.430"/>
   <entry producer="producer6" in="00:00:00.000" out="00:23:55.180"/>
   <entry producer="producer8" in="00:00:00.000" out="00:02:41.959"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:23:55.305"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="01:44:23.023">
+ <producer id="black_track" in="00:00:00.000" out="01:44:22.856">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -1272,7 +1323,7 @@ p, li { white-space: pre-wrap; }
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">gain</property>
-    <property name="gain">0.25</property>
+    <property name="gain">0.5</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
    <filter id="filter1" in="00:09:19.436" out="00:09:37.663">
@@ -1403,10 +1454,6 @@ p, li { white-space: pre-wrap; }
   <property name="length">34413</property>
   <property name="eof">pause</property>
   <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -1418,12 +1465,17 @@ p, li { white-space: pre-wrap; }
   <property name="meta.attr.title.markup">Monster : Chapter 16 : Wolf's Confession</property>
   <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:originalurl">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="kdenlive:id">7</property>
   <property name="kdenlive:file_size">253186176</property>
   <property name="kdenlive:file_hash">5132c6867fd5c2b38e4b25b40a531f57</property>
+  <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:audio_max0">201</property>
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
@@ -1502,16 +1554,17 @@ p, li { white-space: pre-wrap; }
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">gain</property>
-    <property name="gain">0.25</property>
+    <property name="gain">0.71</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter11" in="00:00:24.233" out="00:00:30.906">
+   <filter id="filter11" in="00:00:04.046" out="00:00:30.906">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="producer11" in="00:00:30.948" out="00:00:48.548">
@@ -1712,6 +1765,7 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive_id">fadein</property>
     <property name="gain">0</property>
     <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
    <filter id="filter30" in="00:04:22.814" out="00:04:23.315">
     <property name="window">75</property>
@@ -1720,6 +1774,7 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:39.957"/>
@@ -1735,7 +1790,7 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:01:14.765"/>
+  <blank length="00:01:14.598"/>
   <entry producer="producer13" in="00:07:15.432" out="00:10:23.232">
    <property name="kdenlive:id">8</property>
    <filter id="filter32" in="00:07:15.432" out="00:07:15.807">
@@ -1763,7 +1818,7 @@ p, li { white-space: pre-wrap; }
  <playlist id="playlist3">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor1" in="00:00:00.000" out="01:02:12.930">
+ <tractor id="tractor1" in="00:00:00.000" out="01:02:12.763">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -1827,10 +1882,6 @@ p, li { white-space: pre-wrap; }
   <property name="length">34413</property>
   <property name="eof">pause</property>
   <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -1842,12 +1893,17 @@ p, li { white-space: pre-wrap; }
   <property name="meta.attr.title.markup">Monster : Chapter 16 : Wolf's Confession</property>
   <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:originalurl">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="kdenlive:id">7</property>
   <property name="kdenlive:file_size">253186176</property>
   <property name="kdenlive:file_hash">5132c6867fd5c2b38e4b25b40a531f57</property>
+  <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:audio_max0">201</property>
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
@@ -2019,6 +2075,7 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive_id">fadein</property>
     <property name="gain">0</property>
     <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
    <filter id="filter46" in="00:06:33.575" out="00:06:33.909">
     <property name="window">75</property>
@@ -2027,6 +2084,7 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:01:20.938"/>
@@ -2161,18 +2219,19 @@ p, li { white-space: pre-wrap; }
    </filter>
   </entry>
   <blank length="00:00:44.169"/>
-  <entry producer="producer16" in="00:05:52.219" out="00:07:07.341">
+  <entry producer="producer16" in="00:05:52.219" out="00:07:07.424">
    <property name="kdenlive:id">8</property>
-   <filter id="filter59" in="00:07:06.965" out="00:07:07.341">
+   <filter id="filter59" in="00:07:07.090" out="00:07:07.466">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:15:03.879"/>
+  <blank length="00:15:03.629"/>
   <entry producer="producer17" in="00:02:17.226" out="00:23:36.954">
    <property name="kdenlive:id">9</property>
    <filter id="filter60" in="00:02:17.226" out="00:02:17.517">
@@ -2188,7 +2247,7 @@ p, li { white-space: pre-wrap; }
  <playlist id="playlist5">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor2" in="00:00:00.000" out="01:23:31.740">
+ <tractor id="tractor2" in="00:00:00.000" out="01:23:31.573">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -3329,10 +3388,13 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer24" in="00:05:06.673" out="00:05:51.176">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer24" in="00:05:52.219" out="00:07:07.424">
+  <entry producer="producer24" in="00:05:52.219" out="00:07:06.423">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer24" in="00:07:15.933" out="00:10:23.232">
+  <entry producer="producer24" in="00:07:06.632" out="00:07:07.466">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer24" in="00:07:15.974" out="00:10:23.232">
    <property name="kdenlive:id">4</property>
   </entry>
   <entry producer="producer24" in="00:10:24.399" out="00:22:20.771">
@@ -3350,7 +3412,7 @@ p, li { white-space: pre-wrap; }
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="01:23:31.740">
+ <tractor id="tractor3" in="00:00:00.000" out="01:23:31.573">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3805,7 +3867,7 @@ p, li { white-space: pre-wrap; }
   <track hide="audio" producer="playlist8"/>
   <track hide="audio" producer="playlist9"/>
  </tractor>
- <tractor id="tractor5" in="00:00:00.000" out="01:44:23.023">
+ <tractor id="tractor5" in="00:00:00.000" out="01:44:22.856">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
