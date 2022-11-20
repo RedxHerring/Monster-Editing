@@ -29,7 +29,7 @@ Düsseldorf
 <font size="24"><b>Dr. Becker</b></font>
 
 7
-00:19:36,133 --> 00:19:39,053
+00:19:41,889 --> 00:19:44,809
 <font size="32"><b>Downfall</b></font> 
 ‎ 
 ‎ 
@@ -37,7 +37,7 @@ Düsseldorf
 ‎
 
 8
-00:39:45,299 --> 00:39:49,720
+00:39:44,965 --> 00:39:49,386
 <font size="32"><b>A Murder</b></font> 
 ‎ 
 ‎ 
@@ -45,12 +45,12 @@ Düsseldorf
 ‎
 
 9
-00:42:43,978 --> 00:42:47,398
+00:42:43,644 --> 00:42:47,064
 <font size="24"><b>Inspector Lunge</b></font>
 
 10
-00:48:53,680 --> 00:48:56,808
-<font size="32"><b>9 Years Later</b></font> 
+00:48:53,347 --> 00:48:56,475
+<font size="32">9 Years Later</font> 
 ‎ 
 ‎ 
 ‎ 
@@ -59,7 +59,15 @@ Düsseldorf
 ‎
 
 11
-00:59:07,460 --> 00:59:10,797
+00:49:16,578 --> 00:49:20,874
+<font face="Times New Roman" size="24"> 
+Köln 
+(Germany) 
+</font> 
+‎
+
+12
+00:59:07,126 --> 00:59:10,463
 <font size="32"><b>Night of the Execution</b></font> 
 ‎ 
 ‎ 

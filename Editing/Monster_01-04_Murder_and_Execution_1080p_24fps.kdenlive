@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.10.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
  <producer id="producer0" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
@@ -651,6 +651,10 @@
   <property name="length">34756</property>
   <property name="eof">pause</property>
   <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 23 - Eva's Confession.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -836,10 +840,6 @@
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
   <property name="format">3</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -853,7 +853,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:id">11</property>
   <property name="kdenlive:active_streams">1;2;7;8</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="kdenlive:file_size">894702572</property>
@@ -885,7 +885,7 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:id">12</property>
   <property name="kdenlive:file_size">253104254</property>
   <property name="kdenlive:file_hash">47988474c2d795924980a7ae31fe769e</property>
   <property name="kdenlive:audio_max0">189</property>
@@ -907,22 +907,12 @@
     {
         "children": [
             {
-                "data": "3:102085",
+                "data": "4:85754",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:102096",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:102114",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:102138",
+                "data": "3:85748",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -932,19 +922,19 @@
     {
         "children": [
             {
-                "data": "4:85707",
+                "data": "3:4036",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
                 "children": [
                     {
-                        "data": "2:85505",
+                        "data": "5:4052",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "4:85517",
+                        "data": "2:4052",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
@@ -957,12 +947,12 @@
     {
         "children": [
             {
-                "data": "4:23715",
+                "data": "4:25427",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:23715",
+                "data": "3:25437",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -972,12 +962,12 @@
     {
         "children": [
             {
-                "data": "2:10818",
+                "data": "4:102053",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:10818",
+                "data": "2:102054",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -987,12 +977,17 @@
     {
         "children": [
             {
-                "data": "4:62145",
+                "data": "4:55214",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:62140",
+                "data": "3:55200",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:55246",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1002,12 +997,12 @@
     {
         "children": [
             {
-                "data": "1:8242",
+                "data": "4:77838",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "5:8251",
+                "data": "3:77804",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1017,22 +1012,12 @@
     {
         "children": [
             {
-                "children": [
-                    {
-                        "data": "3:40074",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "4:40096",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
+                "data": "4:41384",
+                "leaf": "clip",
+                "type": "Leaf"
             },
             {
-                "data": "4:40067",
+                "data": "3:41290",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1042,39 +1027,134 @@
     {
         "children": [
             {
-                "data": "4:23197",
-                "leaf": "clip",
+                "data": "-2:70887",
+                "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
-                "data": "3:23187",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:85054",
+                "data": "-2:70330",
                 "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
                 "children": [
                     {
-                        "data": "5:84969",
+                        "data": "4:68476",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "3:84949",
+                        "data": "3:68472",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
                 ],
                 "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:92007",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:92002",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:15076",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:15083",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:62288",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:62285",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:62137",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:62132",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:81867",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:81865",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:14307",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:14307",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:55181",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:55163",
+                "leaf": "clip",
+                "type": "Leaf"
             }
         ],
         "type": "Normal"
@@ -1097,12 +1177,12 @@
     {
         "children": [
             {
-                "data": "4:25435",
+                "data": "4:78426",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:25445",
+                "data": "2:78407",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1112,682 +1192,22 @@
     {
         "children": [
             {
-                "data": "3:41600",
+                "data": "4:41492",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:41626",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:4172",
+                "data": "4:41516",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "children": [
-                    {
-                        "data": "2:4183",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "5:4183",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:55556",
+                "data": "4:41602",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:55556",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:107066",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:107055",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:102010",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:102015",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:85762",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:85756",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:77846",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:77812",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:96312",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:96317",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:101713",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:101678",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:27018",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:27018",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:55189",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:55171",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:10537",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:10537",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:55222",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:55208",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:55254",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:28199",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:28282",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:28282",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:12089",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:12032",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:77194",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:77197",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:13040",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:13125",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:55464",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:55403",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:58902",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:58858",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:92015",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:92010",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:62296",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:62293",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:68484",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:68480",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:9927",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:9963",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:9937",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:55922",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:55922",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:11786",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:11786",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:107045",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "4:103474",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:103474",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:95365",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:95362",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:95515",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:95652",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:95816",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:95997",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:96158",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:11901",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:11905",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:96547",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:96557",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:44943",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:44943",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:8897",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:8889",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:79495",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:79507",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:42280",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:42280",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:44843",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:12038",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:12043",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:4699",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "3:4426",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "5:4434",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:101583",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:101536",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:8915",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:8922",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:61474",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "2:59238",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "4:59266",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:52585",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:52585",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:103080",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:103094",
+                "data": "2:41514",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1807,17 +1227,17 @@
                 "type": "Leaf"
             },
             {
+                "data": "-2:2692",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
                 "data": "-2:3543",
                 "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
                 "data": "-2:3387",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:2692",
                 "leaf": "subtitle",
                 "type": "Leaf"
             },
@@ -1832,17 +1252,12 @@
     {
         "children": [
             {
-                "data": "4:11948",
+                "data": "4:106931",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:11877",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:11958",
+                "data": "3:106920",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1852,12 +1267,12 @@
     {
         "children": [
             {
-                "data": "5:77149",
+                "data": "4:102971",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:77137",
+                "data": "3:102985",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1867,187 +1282,12 @@
     {
         "children": [
             {
-                "data": "-2:57190",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "4:57158",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:57140",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:78434",
+                "data": "4:55548",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:78415",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:81875",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:81873",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:39314",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:39316",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:97322",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:97322",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:871",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:0",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:11844",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:11844",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:14307",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:14307",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:77485",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:77485",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:103197",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:103211",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:102162",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:102163",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:111186",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:111195",
+                "data": "3:55548",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2087,12 +1327,12 @@
     {
         "children": [
             {
-                "data": "4:101823",
+                "data": "3:8915",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:101823",
+                "data": "5:8922",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2102,44 +1342,19 @@
     {
         "children": [
             {
-                "data": "4:41500",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:41524",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:41610",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:41522",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:4036",
+                "data": "3:4172",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
                 "children": [
                     {
-                        "data": "5:4052",
+                        "data": "2:4183",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "2:4052",
+                        "data": "5:4183",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
@@ -2152,14 +1367,874 @@
     {
         "children": [
             {
-                "data": "4:41392",
+                "data": "2:111051",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:41298",
+                "data": "5:111060",
                 "leaf": "clip",
                 "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:4699",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "3:4426",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "5:4434",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:41592",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:41618",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:12038",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:12043",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:96304",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:96309",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:42272",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:42272",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:44835",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:101901",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:101906",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:79487",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:79499",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:85699",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:85497",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "4:85509",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:44935",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:44935",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:12089",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:12032",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:96539",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:96549",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:77186",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:77189",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:11901",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:11905",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:10818",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:10818",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:106910",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "4:103389",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:103356",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:55456",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:55395",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:27010",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:27010",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:23707",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:23707",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:101802",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:101801",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:103088",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:103102",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:103348",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:103361",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:97314",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:97314",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "data": "3:40066",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "4:40088",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            },
+            {
+                "data": "4:40059",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:55914",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:55914",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:40915",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:40915",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:100881",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:100902",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:871",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:58894",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:58850",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:28337",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:28274",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:28274",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:57182",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "4:57150",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:57132",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:95357",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:95808",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:95507",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:95354",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:95644",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:95989",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:96150",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:11786",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:11786",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:11948",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:11877",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:11958",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:9927",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:9963",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:9937",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:10537",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:10537",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:13040",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:13125",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:101692",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:101657",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:77141",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:77129",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:101976",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:102029",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:101987",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:102005",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:52577",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:52577",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:61466",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:59230",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "4:59258",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:101562",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:101515",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:8897",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:8889",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:39306",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:39308",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:8242",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:8251",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:11844",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:11844",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:23189",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:23179",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:77477",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:77477",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:85046",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "5:84961",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "3:84941",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
             }
         ],
         "type": "Normal"
@@ -2167,7 +2242,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.08.3</property>
-  <property name="kdenlive:docproperties.position">114852</property>
+  <property name="kdenlive:docproperties.position">114724</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile2</property>
@@ -2195,13 +2270,13 @@
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Monster-Editing/Output/Monster_1-4_Murder_and_Execution_1080p_24fps.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">7121167</property>
+  <property name="kdenlive:docproperties.scrollPos">7111316</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
-  <property name="kdenlive:docproperties.zoneout">114860</property>
+  <property name="kdenlive:docproperties.zoneout">114725</property>
   <property name="kdenlive:docproperties.zoom">0</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
@@ -2223,7 +2298,7 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer9" in="00:00:00.000" out="00:24:09.593"/>
   <entry producer="producer10" in="00:00:00.000" out="00:23:54.846"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="01:40:41.917">
+ <producer id="black_track" in="00:00:00.000" out="01:40:36.286">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -2232,12 +2307,19 @@ p, li { white-space: pre-wrap; }
   <property name="mlt_image_format">rgba</property>
   <property name="set.test_audio">0</property>
  </producer>
- <playlist id="playlist0"/>
- <playlist id="playlist1"/>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
  <tractor id="tractor0" in="00:00:00.000">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist0"/>
   <track hide="video" producer="playlist1"/>
   <filter id="filter0">
@@ -2483,10 +2565,23 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:22:10.052"/>
+  <blank length="00:00:56.431"/>
+  <entry producer="producer11" in="00:12:43.877" out="00:13:16.433">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter15" in="00:13:16.141" out="00:13:16.433">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:20:40.666"/>
   <entry producer="producer12" in="00:14:19.353" out="00:14:24.316">
    <property name="kdenlive:id">6</property>
-   <filter id="filter15" in="00:14:19.353" out="00:14:22.356">
+   <filter id="filter16" in="00:14:19.353" out="00:14:22.356">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2494,7 +2589,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0</property>
     <property name="end">1</property>
    </filter>
-   <filter id="filter16" in="00:14:21.313" out="00:14:24.316">
+   <filter id="filter17" in="00:14:21.313" out="00:14:24.316">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2506,7 +2601,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:07:05.797"/>
   <entry producer="producer12" in="00:21:44.836" out="00:21:48.173">
    <property name="kdenlive:id">6</property>
-   <filter id="filter17" in="00:21:47.297" out="00:21:48.173">
+   <filter id="filter18" in="00:21:47.297" out="00:21:48.173">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2515,7 +2610,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter18" in="00:21:44.836" out="00:21:45.587">
+   <filter id="filter19" in="00:21:44.836" out="00:21:45.587">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2528,7 +2623,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:27:59.309"/>
   <entry producer="producer13" in="00:09:46.421" out="00:09:54.388">
    <property name="kdenlive:id">10</property>
-   <filter id="filter19" in="00:09:46.713" out="00:09:54.388">
+   <filter id="filter20" in="00:09:46.713" out="00:09:54.388">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2537,7 +2632,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter20" in="00:09:46.421" out="00:09:46.797">
+   <filter id="filter21" in="00:09:46.421" out="00:09:46.797">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2546,7 +2641,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter21">
+   <filter id="filter22">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2558,7 +2653,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:04.546"/>
   <entry producer="producer13" in="00:09:46.421" out="00:09:55.555">
    <property name="kdenlive:id">10</property>
-   <filter id="filter22" in="00:09:52.719" out="00:09:55.555">
+   <filter id="filter23" in="00:09:52.719" out="00:09:55.555">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2567,7 +2662,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter23" in="00:09:46.421" out="00:09:46.797">
+   <filter id="filter24" in="00:09:46.421" out="00:09:46.797">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2576,7 +2671,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter24">
+   <filter id="filter25">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2588,7 +2683,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:05.088"/>
   <entry producer="producer13" in="00:09:46.421" out="00:09:53.428">
    <property name="kdenlive:id">10</property>
-   <filter id="filter25" in="00:09:51.051" out="00:09:53.428">
+   <filter id="filter26" in="00:09:51.051" out="00:09:53.428">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2597,7 +2692,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter26" in="00:09:46.421" out="00:09:46.797">
+   <filter id="filter27" in="00:09:46.421" out="00:09:46.797">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2606,7 +2701,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter27">
+   <filter id="filter28">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2615,19 +2710,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:07:27.069"/>
-  <entry producer="producer13" in="00:18:18.227" out="00:18:21.313">
+  <blank length="00:03:10.302"/>
+  <entry producer="producer13" in="00:13:11.386" out="00:13:40.749">
    <property name="kdenlive:id">10</property>
-   <filter id="filter28" in="00:18:18.227" out="00:18:19.478">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadein</property>
-    <property name="gain">0</property>
-    <property name="end">1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter29" in="00:18:19.061" out="00:18:21.313">
+   <filter id="filter29" in="00:13:39.831" out="00:13:40.791">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2636,7 +2722,59 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter30">
+   <filter id="filter30" in="00:13:11.386" out="00:13:12.054">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <blank length="00:01:02.669"/>
+  <entry producer="producer13" in="00:15:17.559" out="00:15:30.280">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter93" in="00:15:17.559" out="00:15:18.268">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter31" in="00:15:29.238" out="00:15:30.280">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:02:26.652"/>
+  <entry producer="producer13" in="00:18:18.227" out="00:18:21.313">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter32" in="00:18:18.227" out="00:18:20.187">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter33" in="00:18:19.061" out="00:18:21.313">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter34">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2649,7 +2787,7 @@ p, li { white-space: pre-wrap; }
  <playlist id="playlist3">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor1" in="00:00:00.000" out="01:14:27.819">
+ <tractor id="tractor1" in="00:00:00.000" out="01:14:22.189">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -2658,21 +2796,21 @@ p, li { white-space: pre-wrap; }
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist2"/>
   <track hide="video" producer="playlist3"/>
-  <filter id="filter31">
+  <filter id="filter35">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter32">
+  <filter id="filter36">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter33">
+  <filter id="filter37">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
@@ -2807,7 +2945,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:46.964"/>
   <entry producer="producer14" in="00:03:21.146" out="00:04:23.148">
    <property name="kdenlive:id">4</property>
-   <filter id="filter34" in="00:03:21.146" out="00:03:25.692">
+   <filter id="filter38" in="00:03:21.146" out="00:03:25.692">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2826,7 +2964,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:09.676"/>
   <entry producer="producer14" in="00:04:55.222" out="00:04:56.807">
    <property name="kdenlive:id">4</property>
-   <filter id="filter35" in="00:04:55.180" out="00:04:56.807">
+   <filter id="filter39" in="00:04:55.180" out="00:04:56.807">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2835,7 +2973,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter36" in="00:04:55.222" out="00:04:56.807">
+   <filter id="filter40" in="00:04:55.222" out="00:04:56.807">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2848,7 +2986,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:02:53.136"/>
   <entry producer="producer14" in="00:08:06.715" out="00:08:08.050">
    <property name="kdenlive:id">4</property>
-   <filter id="filter37" in="00:08:06.715" out="00:08:07.049">
+   <filter id="filter41" in="00:08:06.715" out="00:08:07.049">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2857,7 +2995,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter38" in="00:08:07.841" out="00:08:08.050">
+   <filter id="filter42" in="00:08:07.841" out="00:08:08.050">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2870,7 +3008,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:43.418"/>
   <entry producer="producer14" in="00:08:59.768" out="00:09:25.776">
    <property name="kdenlive:id">4</property>
-   <filter id="filter39" in="00:08:59.768" out="00:08:59.977">
+   <filter id="filter43" in="00:08:59.768" out="00:08:59.977">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2879,7 +3017,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter40" in="00:09:25.400" out="00:09:25.776">
+   <filter id="filter44" in="00:09:25.400" out="00:09:25.776">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2891,7 +3029,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:09.593"/>
   <entry producer="producer14" in="00:09:38.080" out="00:10:18.977">
    <property name="kdenlive:id">4</property>
-   <filter id="filter41" in="00:09:38.080" out="00:09:38.538">
+   <filter id="filter45" in="00:09:38.080" out="00:09:38.538">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2900,7 +3038,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter42" in="00:10:18.894" out="00:10:18.977">
+   <filter id="filter46" in="00:10:18.894" out="00:10:18.977">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2913,7 +3051,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:01.877"/>
   <entry producer="producer14" in="00:10:21.772" out="00:10:25.150">
    <property name="kdenlive:id">4</property>
-   <filter id="filter43" in="00:10:24.900" out="00:10:25.150">
+   <filter id="filter47" in="00:10:24.900" out="00:10:25.150">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2921,7 +3059,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">1</property>
     <property name="end">0</property>
    </filter>
-   <filter id="filter44" in="00:10:21.772" out="00:10:21.855">
+   <filter id="filter48" in="00:10:21.772" out="00:10:21.855">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2933,7 +3071,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:01.335"/>
   <entry producer="producer14" in="00:10:34.952" out="00:10:38.747">
    <property name="kdenlive:id">4</property>
-   <filter id="filter45" in="00:10:34.952" out="00:10:37.246">
+   <filter id="filter49" in="00:10:34.952" out="00:10:37.246">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2942,7 +3080,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter46" in="00:10:38.247" out="00:10:38.747">
+   <filter id="filter50" in="00:10:38.247" out="00:10:38.747">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2955,7 +3093,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:37.287"/>
   <entry producer="producer14" in="00:11:28.028" out="00:11:35.535">
    <property name="kdenlive:id">4</property>
-   <filter id="filter47" in="00:11:28.028" out="00:11:28.320">
+   <filter id="filter51" in="00:11:28.028" out="00:11:28.320">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2965,10 +3103,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:49.299"/>
-  <entry producer="producer14" in="00:12:43.877" out="00:18:55.264">
+  <blank length="00:01:21.396"/>
+  <entry producer="producer14" in="00:13:16.558" out="00:18:55.264">
    <property name="kdenlive:id">4</property>
-   <filter id="filter48" in="00:18:54.346" out="00:18:55.264">
+   <filter id="filter52" in="00:18:54.346" out="00:18:55.264">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2977,11 +3115,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-  </entry>
-  <blank length="00:00:20.938"/>
-  <entry producer="producer14" in="00:19:18.769" out="00:20:34.409">
-   <property name="kdenlive:id">4</property>
-   <filter id="filter49" in="00:19:18.769" out="00:19:18.894">
+   <filter id="filter53" in="00:13:16.558" out="00:13:16.642">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2990,7 +3124,20 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter50" in="00:20:31.490" out="00:20:34.409">
+  </entry>
+  <blank length="00:00:21.230"/>
+  <entry producer="producer14" in="00:19:18.769" out="00:20:34.409">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter54" in="00:19:18.769" out="00:19:18.894">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter55" in="00:20:31.490" out="00:20:34.409">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3003,7 +3150,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:02.085"/>
   <entry producer="producer15" in="00:00:00.000" out="00:00:53.011">
    <property name="kdenlive:id">6</property>
-   <filter id="filter51" out="00:00:04.421">
+   <filter id="filter56" out="00:00:04.421">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3015,7 +3162,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:07:39.831"/>
   <entry producer="producer15" in="00:09:59.101" out="00:10:32.199">
    <property name="kdenlive:id">6</property>
-   <filter id="filter52" in="00:09:59.101" out="00:09:59.393">
+   <filter id="filter57" in="00:09:59.101" out="00:09:59.393">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3024,7 +3171,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter53" in="00:10:31.698" out="00:10:32.199">
+   <filter id="filter58" in="00:10:31.698" out="00:10:32.199">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3037,7 +3184,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:33.992"/>
   <entry producer="producer15" in="00:11:09.676" out="00:11:29.404">
    <property name="kdenlive:id">6</property>
-   <filter id="filter54" in="00:11:29.196" out="00:11:29.404">
+   <filter id="filter59" in="00:11:29.196" out="00:11:29.404">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3050,7 +3197,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:05.214"/>
   <entry producer="producer15" in="00:11:48.507" out="00:11:52.427">
    <property name="kdenlive:id">6</property>
-   <filter id="filter55" in="00:11:48.507" out="00:11:48.715">
+   <filter id="filter60" in="00:11:48.507" out="00:11:48.715">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3059,7 +3206,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter56" in="00:11:51.885" out="00:11:52.427">
+   <filter id="filter61" in="00:11:51.885" out="00:11:52.427">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3072,7 +3219,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:27.653"/>
   <entry producer="producer15" in="00:12:27.069" out="00:14:16.600">
    <property name="kdenlive:id">6</property>
-   <filter id="filter57" in="00:14:14.556" out="00:14:16.600">
+   <filter id="filter62" in="00:14:14.556" out="00:14:16.600">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3085,7 +3232,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:05:20.270"/>
   <entry producer="producer15" in="00:19:56.098" out="00:21:45.170">
    <property name="kdenlive:id">6</property>
-   <filter id="filter58" in="00:19:56.098" out="00:19:57.849">
+   <filter id="filter63" in="00:19:56.098" out="00:19:57.849">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3094,7 +3241,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter59" in="00:21:44.211" out="00:21:45.170">
+   <filter id="filter64" in="00:21:44.211" out="00:21:45.170">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3107,7 +3254,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:08.425"/>
   <entry producer="producer15" in="00:22:01.001" out="00:22:11.470">
    <property name="kdenlive:id">6</property>
-   <filter id="filter60" in="00:22:01.001" out="00:22:03.086">
+   <filter id="filter65" in="00:22:01.001" out="00:22:03.086">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3116,7 +3263,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter61" in="00:22:07.466" out="00:22:11.470">
+   <filter id="filter66" in="00:22:07.466" out="00:22:11.470">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3133,7 +3280,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:14.014"/>
   <entry producer="producer16" in="00:04:01.501" out="00:06:02.961">
    <property name="kdenlive:id">8</property>
-   <filter id="filter62" in="00:04:01.501" out="00:04:02.628">
+   <filter id="filter67" in="00:04:01.501" out="00:04:02.628">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3142,7 +3289,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter63" in="00:06:02.586" out="00:06:02.961">
+   <filter id="filter68" in="00:06:02.586" out="00:06:02.961">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3154,7 +3301,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:05.923"/>
   <entry producer="producer16" in="00:06:11.303" out="00:10:31.448">
    <property name="kdenlive:id">8</property>
-   <filter id="filter64" in="00:06:11.303" out="00:06:11.428">
+   <filter id="filter69" in="00:06:11.303" out="00:06:11.428">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3163,7 +3310,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter65" in="00:10:29.821" out="00:10:31.448">
+   <filter id="filter70" in="00:10:29.821" out="00:10:31.448">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3176,7 +3323,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:05:58.976"/>
   <entry producer="producer16" in="00:16:59.393" out="00:17:02.753">
    <property name="kdenlive:id">8</property>
-   <filter id="filter66" in="00:16:59.393" out="00:17:00.292">
+   <filter id="filter71" in="00:16:59.393" out="00:17:00.292">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3189,7 +3336,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:11.094"/>
   <entry producer="producer16" in="00:17:02.794" out="00:17:19.645">
    <property name="kdenlive:id">8</property>
-   <filter id="filter67" in="00:17:16.808" out="00:17:19.645">
+   <filter id="filter72" in="00:17:16.808" out="00:17:19.645">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3201,7 +3348,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:21.897"/>
   <entry producer="producer16" in="00:17:50.676" out="00:18:36.703">
    <property name="kdenlive:id">8</property>
-   <filter id="filter68" in="00:17:50.676" out="00:17:51.802">
+   <filter id="filter73" in="00:17:50.676" out="00:17:51.802">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3209,7 +3356,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0</property>
     <property name="end">1</property>
    </filter>
-   <filter id="filter69" in="00:18:36.370" out="00:18:36.703">
+   <filter id="filter74" in="00:18:36.370" out="00:18:36.703">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3221,7 +3368,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:38.163"/>
   <entry producer="producer16" in="00:20:16.099" out="00:22:27.152">
    <property name="kdenlive:id">8</property>
-   <filter id="filter70" in="00:20:16.099" out="00:20:16.225">
+   <filter id="filter75" in="00:20:16.099" out="00:20:16.225">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3233,7 +3380,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:20.395"/>
   <entry producer="producer17" in="00:02:45.337" out="00:02:56.223">
    <property name="kdenlive:id">10</property>
-   <filter id="filter71" in="00:02:45.337" out="00:02:45.921">
+   <filter id="filter76" in="00:02:45.337" out="00:02:45.921">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3242,7 +3389,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter72" in="00:02:55.889" out="00:02:56.223">
+   <filter id="filter77" in="00:02:55.889" out="00:02:56.223">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3254,7 +3401,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:04:20.395"/>
   <entry producer="producer17" in="00:07:26.777" out="00:09:53.220">
    <property name="kdenlive:id">10</property>
-   <filter id="filter73" in="00:07:26.777" out="00:07:27.110">
+   <filter id="filter78" in="00:07:26.777" out="00:07:27.110">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3263,7 +3410,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter74" in="00:09:47.464" out="00:09:53.220">
+   <filter id="filter79" in="00:09:47.464" out="00:09:53.220">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3276,7 +3423,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:05.380"/>
   <entry producer="producer17" in="00:09:46.672" out="00:09:56.223">
    <property name="kdenlive:id">10</property>
-   <filter id="filter75" in="00:09:46.672" out="00:09:47.798">
+   <filter id="filter80" in="00:09:46.672" out="00:09:47.798">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3285,7 +3432,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter76">
+   <filter id="filter81">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3293,7 +3440,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0.5</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter77" in="00:09:53.220" out="00:09:56.223">
+   <filter id="filter82" in="00:09:53.220" out="00:09:56.223">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3306,7 +3453,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:04.796"/>
   <entry producer="producer17" in="00:09:46.672" out="00:09:56.223">
    <property name="kdenlive:id">10</property>
-   <filter id="filter78" in="00:09:46.672" out="00:09:47.464">
+   <filter id="filter83" in="00:09:46.672" out="00:09:47.464">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3314,14 +3461,14 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0</property>
     <property name="end">1</property>
    </filter>
-   <filter id="filter79">
+   <filter id="filter84">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">gain</property>
     <property name="gain">0.5</property>
    </filter>
-   <filter id="filter80" in="00:09:53.220" out="00:09:56.223">
+   <filter id="filter85" in="00:09:53.220" out="00:09:56.223">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3333,7 +3480,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:03.545"/>
   <entry producer="producer17" in="00:09:46.463" out="00:09:56.640">
    <property name="kdenlive:id">10</property>
-   <filter id="filter81" in="00:09:46.463" out="00:09:46.713">
+   <filter id="filter86" in="00:09:46.463" out="00:09:46.713">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3342,7 +3489,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter82" in="00:09:56.306" out="00:09:56.640">
+   <filter id="filter87" in="00:09:56.306" out="00:09:56.640">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3353,9 +3500,9 @@ p, li { white-space: pre-wrap; }
    </filter>
   </entry>
   <blank length="00:00:31.907"/>
-  <entry producer="producer17" in="00:10:42.084" out="00:13:40.749">
+  <entry producer="producer17" in="00:10:42.084" out="00:13:12.304">
    <property name="kdenlive:id">10</property>
-   <filter id="filter83" in="00:10:42.084" out="00:10:43.919">
+   <filter id="filter88" in="00:10:42.084" out="00:10:43.919">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3364,19 +3511,20 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter84" in="00:13:39.790" out="00:13:40.749">
+   <filter id="filter89" in="00:13:11.220" out="00:13:12.346">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:02.961"/>
+  <blank length="00:00:30.864"/>
   <entry producer="producer17" in="00:13:56.890" out="00:14:03.837">
    <property name="kdenlive:id">10</property>
-   <filter id="filter85" in="00:13:56.890" out="00:13:57.641">
+   <filter id="filter90" in="00:13:56.890" out="00:13:57.641">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3385,7 +3533,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter86" in="00:14:03.086" out="00:14:03.837">
+   <filter id="filter91" in="00:14:03.086" out="00:14:03.837">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3394,30 +3542,32 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
    </filter>
   </entry>
-  <blank length="00:00:06.882"/>
+  <blank length="00:00:03.212"/>
   <entry producer="producer17" in="00:14:12.095" out="00:14:15.641">
    <property name="kdenlive:id">10</property>
-   <filter id="filter87" in="00:14:12.095" out="00:14:12.346">
+   <filter id="filter92" in="00:14:12.095" out="00:14:12.346">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadein</property>
     <property name="gain">0</property>
     <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter88" in="00:14:15.390" out="00:14:15.641">
+   <filter id="filter94" in="00:14:15.390" out="00:14:15.641">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:02.794"/>
   <entry producer="producer17" in="00:14:21.271" out="00:15:01.335">
    <property name="kdenlive:id">10</property>
-   <filter id="filter89" in="00:14:21.271" out="00:14:22.940">
+   <filter id="filter95" in="00:14:21.271" out="00:14:22.940">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3426,7 +3576,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter90" in="00:15:00.876" out="00:15:01.335">
+   <filter id="filter96" in="00:15:00.876" out="00:15:01.335">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3436,31 +3586,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:03.003"/>
-  <entry producer="producer17" in="00:15:17.559" out="00:15:29.071">
+  <blank length="00:00:14.181"/>
+  <entry producer="producer17" in="00:15:30.822" out="00:18:00.167">
    <property name="kdenlive:id">10</property>
-   <filter id="filter91" in="00:15:17.559" out="00:15:18.268">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadein</property>
-    <property name="gain">0</property>
-    <property name="end">1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer17" in="00:15:30.113" out="00:18:01.001">
-   <property name="kdenlive:id">10</property>
-   <filter id="filter92" in="00:15:30.113" out="00:15:30.280">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadein</property>
-    <property name="gain">0</property>
-    <property name="end">1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter93" in="00:17:59.601" out="00:18:01.001">
+   <filter id="filter97" in="00:17:59.685" out="00:18:00.167">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3469,11 +3598,20 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter98" in="00:15:30.822" out="00:15:31.448">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
-  <blank length="00:02:50.717"/>
+  <blank length="00:02:51.551"/>
   <entry producer="producer17" in="00:21:03.754" out="00:23:36.954">
    <property name="kdenlive:id">10</property>
-   <filter id="filter94" in="00:21:03.754" out="00:21:04.004">
+   <filter id="filter99" in="00:21:03.754" out="00:21:04.004">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3487,7 +3625,7 @@ p, li { white-space: pre-wrap; }
  <playlist id="playlist5">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor2" in="00:00:00.000" out="01:19:50.634">
+ <tractor id="tractor2" in="00:00:00.000" out="01:19:45.003">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -3496,21 +3634,21 @@ p, li { white-space: pre-wrap; }
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist4"/>
   <track hide="video" producer="playlist5"/>
-  <filter id="filter95">
+  <filter id="filter100">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter96">
+  <filter id="filter101">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter97">
+  <filter id="filter102">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
@@ -3644,6 +3782,10 @@ p, li { white-space: pre-wrap; }
   <property name="length">34402</property>
   <property name="eof">pause</property>
   <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 23 - Eva's ConfessionLR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -3655,14 +3797,10 @@ p, li { white-space: pre-wrap; }
   <property name="meta.attr.title.markup">Monster : Chapter 23 : Eva's Confession</property>
   <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:id">12</property>
   <property name="kdenlive:file_size">253104254</property>
   <property name="kdenlive:file_hash">47988474c2d795924980a7ae31fe769e</property>
   <property name="kdenlive:audio_max0">189</property>
@@ -3678,7 +3816,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:55.555"/>
   <entry producer="producer18" in="00:04:23.190" out="00:04:24.399">
    <property name="kdenlive:id">4</property>
-   <filter id="filter98" in="00:04:23.148" out="00:04:24.399">
+   <filter id="filter103" in="00:04:23.148" out="00:04:24.399">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3687,7 +3825,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter99" in="00:04:23.190" out="00:04:24.399">
+   <filter id="filter104" in="00:04:23.190" out="00:04:24.399">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3700,7 +3838,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:04.421"/>
   <entry producer="producer18" in="00:04:29.905" out="00:04:30.781">
    <property name="kdenlive:id">4</property>
-   <filter id="filter100" in="00:04:29.905" out="00:04:30.781">
+   <filter id="filter105" in="00:04:29.905" out="00:04:30.781">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3709,7 +3847,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter101" in="00:04:29.863" out="00:04:30.781">
+   <filter id="filter106" in="00:04:29.863" out="00:04:30.781">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3722,7 +3860,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:09.676"/>
   <entry producer="producer18" in="00:04:42.960" out="00:04:55.180">
    <property name="kdenlive:id">4</property>
-   <filter id="filter102" in="00:04:42.960" out="00:04:43.293">
+   <filter id="filter107" in="00:04:42.960" out="00:04:43.293">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3734,7 +3872,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer18" in="00:04:57.015" out="00:07:25.025">
    <property name="kdenlive:id">4</property>
-   <filter id="filter103" in="00:07:24.233" out="00:07:25.025">
+   <filter id="filter108" in="00:07:24.233" out="00:07:25.025">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3746,7 +3884,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:26.944"/>
   <entry producer="producer18" in="00:08:09.927" out="00:08:55.055">
    <property name="kdenlive:id">4</property>
-   <filter id="filter104" in="00:08:52.844" out="00:08:55.055">
+   <filter id="filter109" in="00:08:52.844" out="00:08:55.055">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3755,7 +3893,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter105" in="00:08:09.927" out="00:08:10.135">
+   <filter id="filter110" in="00:08:09.927" out="00:08:10.135">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3768,7 +3906,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:22.481"/>
   <entry producer="producer18" in="00:09:25.317" out="00:09:38.038">
    <property name="kdenlive:id">4</property>
-   <filter id="filter106" in="00:09:25.317" out="00:09:26.401">
+   <filter id="filter111" in="00:09:25.317" out="00:09:26.401">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3777,7 +3915,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter107" in="00:09:37.246" out="00:09:38.038">
+   <filter id="filter112" in="00:09:37.246" out="00:09:38.038">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3790,7 +3928,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:43.126"/>
   <entry producer="producer18" in="00:10:28.570" out="00:10:34.910">
    <property name="kdenlive:id">4</property>
-   <filter id="filter108" in="00:10:32.574" out="00:10:34.910">
+   <filter id="filter113" in="00:10:32.574" out="00:10:34.910">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3799,7 +3937,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter109" in="00:10:28.570" out="00:10:31.490">
+   <filter id="filter114" in="00:10:28.570" out="00:10:31.490">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3812,7 +3950,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:00.334"/>
   <entry producer="producer18" in="00:10:38.580" out="00:10:40.666">
    <property name="kdenlive:id">4</property>
-   <filter id="filter110" in="00:10:38.580" out="00:10:38.789">
+   <filter id="filter115" in="00:10:38.580" out="00:10:38.789">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3825,7 +3963,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:39.665"/>
   <entry producer="producer18" in="00:11:46.255" out="00:12:39.581">
    <property name="kdenlive:id">4</property>
-   <filter id="filter111" in="00:11:46.255" out="00:11:49.967">
+   <filter id="filter116" in="00:11:46.255" out="00:11:49.967">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3835,10 +3973,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:06:09.885"/>
+  <blank length="00:06:09.551"/>
   <entry producer="producer18" in="00:18:56.139" out="00:19:18.393">
    <property name="kdenlive:id">4</property>
-   <filter id="filter112" in="00:18:56.139" out="00:18:57.057">
+   <filter id="filter117" in="00:18:56.139" out="00:18:57.057">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3847,7 +3985,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter113" in="00:19:18.185" out="00:19:18.393">
+   <filter id="filter118" in="00:19:18.185" out="00:19:18.393">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3860,7 +3998,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:11.929"/>
   <entry producer="producer18" in="00:21:16.642" out="00:22:26.610">
    <property name="kdenlive:id">4</property>
-   <filter id="filter114" in="00:21:16.642" out="00:21:17.851">
+   <filter id="filter119" in="00:21:16.642" out="00:21:17.851">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3869,7 +4007,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter115" in="00:22:22.189" out="00:22:26.610">
+   <filter id="filter120" in="00:22:22.189" out="00:22:26.610">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3882,19 +4020,20 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:48.298"/>
   <entry producer="producer19" in="00:02:18.685" out="00:09:59.059">
    <property name="kdenlive:id">6</property>
-   <filter id="filter116" in="00:09:58.976" out="00:09:59.059">
+   <filter id="filter121" in="00:09:58.976" out="00:09:59.059">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:31.406"/>
   <entry producer="producer19" in="00:10:33.116" out="00:11:08.467">
    <property name="kdenlive:id">6</property>
-   <filter id="filter117" in="00:10:33.116" out="00:10:34.034">
+   <filter id="filter122" in="00:10:33.116" out="00:10:34.034">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3907,7 +4046,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:15.641"/>
   <entry producer="producer19" in="00:11:34.326" out="00:11:45.462">
    <property name="kdenlive:id">6</property>
-   <filter id="filter118" in="00:11:34.326" out="00:11:38.205">
+   <filter id="filter123" in="00:11:34.326" out="00:11:38.205">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3916,7 +4055,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter119" in="00:11:42.960" out="00:11:45.462">
+   <filter id="filter124" in="00:11:42.960" out="00:11:45.462">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3929,7 +4068,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:01.418"/>
   <entry producer="producer19" in="00:11:55.097" out="00:12:25.901">
    <property name="kdenlive:id">6</property>
-   <filter id="filter120" in="00:11:55.097" out="00:11:55.639">
+   <filter id="filter125" in="00:11:55.097" out="00:11:55.639">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3942,7 +4081,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:48.632"/>
   <entry producer="producer19" in="00:14:34.201" out="00:19:56.348">
    <property name="kdenlive:id">6</property>
-   <filter id="filter121" in="00:14:34.201" out="00:14:34.868">
+   <filter id="filter126" in="00:14:34.201" out="00:14:34.868">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3950,7 +4089,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0</property>
     <property name="end">1</property>
    </filter>
-   <filter id="filter122" in="00:19:53.762" out="00:19:56.348">
+   <filter id="filter127" in="00:19:53.762" out="00:19:56.348">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3962,7 +4101,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:45.963"/>
   <entry producer="producer19" in="00:21:50.342" out="00:22:00.959">
    <property name="kdenlive:id">6</property>
-   <filter id="filter123" in="00:21:50.342" out="00:21:51.051">
+   <filter id="filter128" in="00:21:50.342" out="00:21:51.051">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3971,19 +4110,20 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter124" in="00:21:59.601" out="00:22:00.959">
+   <filter id="filter129" in="00:21:59.601" out="00:22:00.959">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:03.837"/>
   <entry producer="producer19" in="00:22:11.511" out="00:22:26.735">
    <property name="kdenlive:id">6</property>
-   <filter id="filter125" in="00:22:11.511" out="00:22:12.512">
+   <filter id="filter130" in="00:22:11.511" out="00:22:12.512">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3995,7 +4135,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer20" in="00:00:00.000" out="00:00:53.095">
    <property name="kdenlive:id">8</property>
-   <filter id="filter126" in="00:00:50.384" out="00:00:53.095">
+   <filter id="filter131" in="00:00:50.384" out="00:00:53.095">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4008,7 +4148,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:09.343"/>
   <entry producer="producer20" in="00:03:38.247" out="00:03:55.222">
    <property name="kdenlive:id">8</property>
-   <filter id="filter127" in="00:03:38.247" out="00:03:40.207">
+   <filter id="filter132" in="00:03:38.247" out="00:03:40.207">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4021,7 +4161,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:59.893"/>
   <entry producer="producer20" in="00:06:04.588" out="00:06:11.386">
    <property name="kdenlive:id">8</property>
-   <filter id="filter128" in="00:06:04.588" out="00:06:04.796">
+   <filter id="filter133" in="00:06:04.588" out="00:06:04.796">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4034,7 +4174,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:04:17.601"/>
   <entry producer="producer20" in="00:10:46.380" out="00:16:48.715">
    <property name="kdenlive:id">8</property>
-   <filter id="filter129" in="00:10:46.380" out="00:10:47.756">
+   <filter id="filter134" in="00:10:46.380" out="00:10:47.756">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4047,7 +4187,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:01.084"/>
   <entry producer="producer20" in="00:16:48.298" out="00:17:00.375">
    <property name="kdenlive:id">8</property>
-   <filter id="filter130" in="00:16:48.298" out="00:16:48.632">
+   <filter id="filter135" in="00:16:48.298" out="00:16:48.632">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4060,7 +4200,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:13.639"/>
   <entry producer="producer20" in="00:17:23.941" out="00:17:50.509">
    <property name="kdenlive:id">8</property>
-   <filter id="filter131" in="00:17:23.941" out="00:17:25.359">
+   <filter id="filter136" in="00:17:23.941" out="00:17:25.359">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4069,7 +4209,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter132" in="00:17:49.216" out="00:17:50.509">
+   <filter id="filter137" in="00:17:49.216" out="00:17:50.509">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4082,7 +4222,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:43.585"/>
   <entry producer="producer20" in="00:18:36.453" out="00:20:15.766">
    <property name="kdenlive:id">8</property>
-   <filter id="filter133" in="00:18:36.453" out="00:18:37.079">
+   <filter id="filter138" in="00:18:36.453" out="00:18:37.079">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4091,7 +4231,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter134" in="00:20:15.682" out="00:20:15.766">
+   <filter id="filter139" in="00:20:15.682" out="00:20:15.766">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4103,7 +4243,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:02:08.133"/>
   <entry producer="producer21" in="00:02:19.978" out="00:02:43.752">
    <property name="kdenlive:id">10</property>
-   <filter id="filter135" in="00:02:43.627" out="00:02:43.752">
+   <filter id="filter140" in="00:02:43.627" out="00:02:43.752">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4116,7 +4256,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:09.843"/>
   <entry producer="producer21" in="00:02:59.768" out="00:07:21.021">
    <property name="kdenlive:id">10</property>
-   <filter id="filter136" in="00:02:59.768" out="00:03:00.500">
+   <filter id="filter141" in="00:02:59.768" out="00:03:00.500">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4125,7 +4265,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter137" in="00:07:20.687" out="00:07:21.021">
+   <filter id="filter142" in="00:07:20.687" out="00:07:21.021">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4137,8 +4277,8 @@ p, li { white-space: pre-wrap; }
   </entry>
   <blank length="00:02:19.394"/>
   <entry producer="producer22" in="00:17:40.415" out="00:18:20.979">
-   <property name="kdenlive:id">15</property>
-   <filter id="filter138" in="00:18:20.187" out="00:18:21.021">
+   <property name="kdenlive:id">12</property>
+   <filter id="filter143" in="00:18:20.145" out="00:18:20.979">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4147,7 +4287,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter139" in="00:17:40.415" out="00:17:40.540">
+   <filter id="filter144" in="00:17:40.415" out="00:17:40.540">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4160,7 +4300,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:08.800"/>
   <entry producer="producer21" in="00:10:01.877" out="00:10:36.453">
    <property name="kdenlive:id">10</property>
-   <filter id="filter140" in="00:10:01.877" out="00:10:02.252">
+   <filter id="filter145" in="00:10:01.877" out="00:10:02.252">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4169,7 +4309,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter141" in="00:10:32.282" out="00:10:36.453">
+   <filter id="filter146" in="00:10:32.282" out="00:10:36.453">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4179,10 +4319,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:02:53.470"/>
+  <blank length="00:02:52.928"/>
   <entry producer="producer21" in="00:13:44.962" out="00:13:52.302">
    <property name="kdenlive:id">10</property>
-   <filter id="filter142" in="00:13:44.962" out="00:13:45.921">
+   <filter id="filter147" in="00:13:44.962" out="00:13:45.921">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4192,30 +4332,32 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:04.588"/>
-  <entry producer="producer21" in="00:14:03.879" out="00:14:12.262">
+  <blank length="00:00:04.546"/>
+  <entry producer="producer21" in="00:14:07.507" out="00:14:12.262">
    <property name="kdenlive:id">10</property>
-   <filter id="filter143" in="00:14:03.879" out="00:14:04.004">
+   <filter id="filter148" in="00:14:07.507" out="00:14:07.633">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadein</property>
     <property name="gain">0</property>
     <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter144" in="00:14:11.887" out="00:14:12.262">
+   <filter id="filter149" in="00:14:11.929" out="00:14:12.304">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:02.502"/>
   <entry producer="producer21" in="00:14:15.682" out="00:14:20.646">
    <property name="kdenlive:id">10</property>
-   <filter id="filter145" in="00:14:18.977" out="00:14:20.646">
+   <filter id="filter150" in="00:14:18.977" out="00:14:20.646">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4224,7 +4366,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter146" in="00:14:15.682" out="00:14:16.058">
+   <filter id="filter151" in="00:14:15.682" out="00:14:16.058">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4237,7 +4379,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:37.079"/>
   <entry producer="producer21" in="00:15:08.884" out="00:15:14.223">
    <property name="kdenlive:id">10</property>
-   <filter id="filter147" in="00:15:08.884" out="00:15:09.885">
+   <filter id="filter152" in="00:15:08.884" out="00:15:09.885">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4246,7 +4388,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter148" in="00:15:13.805" out="00:15:14.223">
+   <filter id="filter153" in="00:15:13.805" out="00:15:14.223">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4256,10 +4398,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:09.968"/>
-  <entry producer="producer21" in="00:15:29.112" out="00:15:30.072">
+  <blank length="00:00:09.760"/>
+  <entry producer="producer21" in="00:15:30.113" out="00:15:31.240">
    <property name="kdenlive:id">10</property>
-   <filter id="filter149" in="00:15:29.112" out="00:15:30.072">
+   <filter id="filter154" in="00:15:30.113" out="00:15:30.489">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4268,7 +4410,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter150" in="00:15:29.071" out="00:15:30.072">
+   <filter id="filter155" in="00:15:30.739" out="00:15:31.240">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4278,10 +4420,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:02:28.862"/>
+  <blank length="00:02:27.819"/>
   <entry producer="producer21" in="00:18:11.053" out="00:21:03.712">
    <property name="kdenlive:id">10</property>
-   <filter id="filter151" in="00:18:11.053" out="00:18:12.387">
+   <filter id="filter156" in="00:18:11.053" out="00:18:12.387">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -4290,20 +4432,21 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter152" in="00:21:03.378" out="00:21:03.712">
+   <filter id="filter157" in="00:21:03.378" out="00:21:03.712">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
  <playlist id="playlist7">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor3" in="00:00:00.000" out="01:17:17.768">
+ <tractor id="tractor3" in="00:00:00.000" out="01:17:12.137">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -4312,21 +4455,21 @@ p, li { white-space: pre-wrap; }
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist6"/>
   <track hide="video" producer="playlist7"/>
-  <filter id="filter153">
+  <filter id="filter158">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter154">
+  <filter id="filter159">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter155">
+  <filter id="filter160">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
@@ -5359,7 +5502,7 @@ p, li { white-space: pre-wrap; }
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:id">11</property>
   <property name="kdenlive:active_streams">1;2;7;8</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="kdenlive:file_size">894702572</property>
@@ -5790,7 +5933,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer24" in="00:00:36.286" out="00:01:52.219">
    <property name="kdenlive:id">2</property>
-   <filter id="filter156" in="00:01:48.257" out="00:01:52.219">
+   <filter id="filter161" in="00:01:48.257" out="00:01:52.219">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -5802,7 +5945,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:05:01.793"/>
   <entry producer="producer24" in="00:08:58.267" out="00:09:23.649">
    <property name="kdenlive:id">2</property>
-   <filter id="filter157" in="00:08:58.267" out="00:08:59.726">
+   <filter id="filter162" in="00:08:58.267" out="00:08:59.726">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -5841,9 +5984,13 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer24" in="00:11:49.800" out="00:12:39.081">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="producer24" in="00:12:43.877" out="00:18:54.596">
+  <entry producer="producer24" in="00:12:43.877" out="00:13:16.183">
    <property name="kdenlive:id">2</property>
   </entry>
+  <entry producer="producer24" in="00:13:16.850" out="00:18:54.596">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <blank length="00:00:00.292"/>
   <entry producer="producer24" in="00:18:56.556" out="00:19:18.143">
    <property name="kdenlive:id">2</property>
   </entry>
@@ -5852,7 +5999,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer24" in="00:21:16.225" out="00:22:26.610">
    <property name="kdenlive:id">2</property>
-   <filter id="filter158" in="00:22:22.189" out="00:22:26.610">
+   <filter id="filter163" in="00:22:22.189" out="00:22:26.610">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -5864,7 +6011,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:48.298"/>
   <entry producer="producer26" in="00:02:18.685" out="00:09:58.850">
    <property name="kdenlive:id">5</property>
-   <filter id="filter159" in="00:02:18.685" out="00:02:19.019">
+   <filter id="filter164" in="00:02:18.685" out="00:02:19.019">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -5899,7 +6046,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer26" in="00:11:56.181" out="00:12:25.901">
    <property name="kdenlive:id">5</property>
-   <filter id="filter160" in="00:12:23.482" out="00:12:25.901">
+   <filter id="filter165" in="00:12:23.482" out="00:12:25.901">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -5911,7 +6058,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:48.632"/>
   <entry producer="producer26" in="00:14:34.201" out="00:19:52.886">
    <property name="kdenlive:id">5</property>
-   <filter id="filter161" in="00:14:34.201" out="00:14:35.994">
+   <filter id="filter166" in="00:14:34.201" out="00:14:35.994">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -5972,7 +6119,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer30" in="00:20:16.183" out="00:22:26.777">
    <property name="kdenlive:id">7</property>
-   <filter id="filter162" in="00:22:25.609" out="00:22:26.777">
+   <filter id="filter167" in="00:22:25.609" out="00:22:26.777">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -5995,7 +6142,7 @@ p, li { white-space: pre-wrap; }
    <property name="kdenlive:id">9</property>
   </entry>
   <entry producer="producer32" in="00:17:40.457" out="00:18:20.103">
-   <property name="kdenlive:id">13</property>
+   <property name="kdenlive:id">11</property>
   </entry>
   <entry producer="producer31" in="00:09:46.672" out="00:09:56.640">
    <property name="kdenlive:id">9</property>
@@ -6003,7 +6150,10 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer31" in="00:10:02.294" out="00:10:34.159">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer31" in="00:10:42.084" out="00:13:39.748">
+  <entry producer="producer31" in="00:10:42.084" out="00:13:11.678">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer31" in="00:13:12.262" out="00:13:39.748">
    <property name="kdenlive:id">9</property>
   </entry>
   <entry producer="producer31" in="00:13:46.922" out="00:13:52.302">
@@ -6012,7 +6162,7 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer31" in="00:13:58.350" out="00:14:02.920">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer31" in="00:14:03.879" out="00:14:11.845">
+  <entry producer="producer31" in="00:14:07.549" out="00:14:11.845">
    <property name="kdenlive:id">9</property>
   </entry>
   <entry producer="producer31" in="00:14:12.304" out="00:14:15.641">
@@ -6033,10 +6183,13 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer31" in="00:15:08.300" out="00:15:13.722">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer31" in="00:15:18.143" out="00:15:29.071">
+  <entry producer="producer31" in="00:15:18.143" out="00:15:28.904">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer31" in="00:15:30.113" out="00:17:59.893">
+  <entry producer="producer31" in="00:15:30.113" out="00:15:31.240">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer31" in="00:15:32.199" out="00:17:59.893">
    <property name="kdenlive:id">9</property>
   </entry>
   <entry producer="producer31" in="00:18:11.511" out="00:21:03.712">
@@ -6044,7 +6197,7 @@ p, li { white-space: pre-wrap; }
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="01:17:17.768">
+ <tractor id="tractor4" in="00:00:00.000" out="01:17:12.137">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -6307,6 +6460,7 @@ p, li { white-space: pre-wrap; }
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
+  <property name="format">3</property>
  </producer>
  <producer id="producer37" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
@@ -6543,7 +6697,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:47.965"/>
   <entry producer="producer35" in="00:03:22.147" out="00:04:23.148">
    <property name="kdenlive:id">2</property>
-   <filter id="filter163" in="00:03:22.147" out="00:03:26.109">
+   <filter id="filter168" in="00:03:22.147" out="00:03:26.109">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -6572,7 +6726,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer35" in="00:08:10.219" out="00:08:53.595">
    <property name="kdenlive:id">2</property>
-   <filter id="filter164" in="00:08:52.052" out="00:08:53.595">
+   <filter id="filter169" in="00:08:52.052" out="00:08:53.595">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -6581,10 +6735,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:11:51.343"/>
+  <blank length="00:11:51.009"/>
   <entry producer="producer36" in="00:00:00.000" out="00:00:53.011">
    <property name="kdenlive:id">5</property>
-   <filter id="filter165" out="00:00:04.421">
+   <filter id="filter170" out="00:00:04.421">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -6592,7 +6746,7 @@ p, li { white-space: pre-wrap; }
     <property name="alpha">00:00:00.000=0;00:00:04.421=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter166" in="00:00:52.678" out="00:00:53.011">
+   <filter id="filter171" in="00:00:52.678" out="00:00:53.011">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -6604,7 +6758,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:09:43.502"/>
   <entry producer="producer36" in="00:12:27.069" out="00:14:18.393">
    <property name="kdenlive:id">5</property>
-   <filter id="filter167" in="00:12:27.069" out="00:12:29.488">
+   <filter id="filter172" in="00:12:27.069" out="00:12:29.488">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -6612,7 +6766,7 @@ p, li { white-space: pre-wrap; }
     <property name="alpha">00:00:00.000=0;00:00:02.419=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter168" in="00:14:15.974" out="00:14:18.393">
+   <filter id="filter173" in="00:14:15.974" out="00:14:18.393">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -6635,7 +6789,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:05:24.191"/>
   <entry producer="producer38" in="00:02:20.812" out="00:02:43.627">
    <property name="kdenlive:id">9</property>
-   <filter id="filter169" in="00:02:20.812" out="00:02:23.232">
+   <filter id="filter174" in="00:02:20.812" out="00:02:23.232">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -6644,13 +6798,13 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:17:51.009"/>
+  <blank length="00:17:45.712"/>
   <entry producer="producer38" in="00:21:04.129" out="00:23:36.954">
    <property name="kdenlive:id">9</property>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="01:19:50.634">
+ <tractor id="tractor5" in="00:00:00.000" out="01:19:45.003">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -6659,7 +6813,7 @@ p, li { white-space: pre-wrap; }
   <track hide="audio" producer="playlist10"/>
   <track hide="audio" producer="playlist11"/>
  </tractor>
- <tractor id="tractor6" in="00:00:00.000" out="01:40:41.917">
+ <tractor id="tractor6" in="00:00:00.000" out="01:40:36.286">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -6712,34 +6866,32 @@ p, li { white-space: pre-wrap; }
    <property name="b_track">5</property>
    <property name="version">0.1</property>
    <property name="mlt_service">frei0r.cairoblend</property>
-   <property name="kdenlive_id">frei0r.cairoblend</property>
-   <property name="internal_added">237</property>
    <property name="always_active">1</property>
+   <property name="internal_added">237</property>
   </transition>
   <transition id="transition5">
    <property name="a_track">0</property>
    <property name="b_track">6</property>
    <property name="version">0.1</property>
    <property name="mlt_service">frei0r.cairoblend</property>
-   <property name="kdenlive_id">frei0r.cairoblend</property>
-   <property name="internal_added">237</property>
    <property name="always_active">1</property>
+   <property name="internal_added">237</property>
   </transition>
-  <filter id="filter170">
+  <filter id="filter175">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter171">
+  <filter id="filter176">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter172">
+  <filter id="filter177">
    <property name="mlt_service">avfilter.subtitles</property>
    <property name="internal_added">237</property>
    <property name="av.filename">/tmp/1666493296366.srt</property>
