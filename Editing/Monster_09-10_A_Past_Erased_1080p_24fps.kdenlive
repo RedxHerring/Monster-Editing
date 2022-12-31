@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.10.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxarch/Videos/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
  <producer id="producer0" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -31,7 +31,7 @@
  <producer id="producer1" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 10 - An Erased PastLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 10 - An Erased PastLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -58,7 +58,11 @@
  <producer id="producer2" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">82</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -156,10 +160,6 @@
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
   <property name="format">3</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">-1</property>
@@ -183,7 +183,11 @@
  <producer id="producer3" in="00:00:00.000" out="00:23:55.514">
   <property name="length">34418</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 10 - An Erased Past.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 10 - An Erased Past.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">82</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -281,10 +285,6 @@
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
   <property name="format">3</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">-1</property>
@@ -308,7 +308,7 @@
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">4</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">2</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.compositing">1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1666909365844</property>
@@ -466,11 +466,59 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">22.08.3</property>
-  <property name="kdenlive:docproperties.position">5516</property>
+  <property name="kdenlive:docproperties.guidesCategories">[
+    {
+        "color": "#9b59b6",
+        "comment": "Category 1",
+        "index": 0
+    },
+    {
+        "color": "#3daee9",
+        "comment": "Category 2",
+        "index": 1
+    },
+    {
+        "color": "#1abc9c",
+        "comment": "Category 3",
+        "index": 2
+    },
+    {
+        "color": "#1cdc9a",
+        "comment": "Category 4",
+        "index": 3
+    },
+    {
+        "color": "#c9ce3b",
+        "comment": "Category 5",
+        "index": 4
+    },
+    {
+        "color": "#fdbc4b",
+        "comment": "Category 6",
+        "index": 5
+    },
+    {
+        "color": "#f39c1f",
+        "comment": "Category 7",
+        "index": 6
+    },
+    {
+        "color": "#f47750",
+        "comment": "Category 8",
+        "index": 7
+    },
+    {
+        "color": "#da4453",
+        "comment": "Category 9",
+        "index": 8
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.12.0</property>
+  <property name="kdenlive:docproperties.position">5487</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile2</property>
+  <property name="kdenlive:docproperties.profile">/home/redxarch/.local/share/kdenlive/profiles/customprofile0</property>
   <property name="kdenlive:docproperties.proxyextension"/>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
@@ -478,23 +526,24 @@
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
   <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
-  <property name="kdenlive:docproperties.rendercustomquality">100</property>
+  <property name="kdenlive:docproperties.rendercustomquality">30</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
+  <property name="kdenlive:docproperties.renderprofile">WebM-AV1/Opus (libre)</property>
   <property name="kdenlive:docproperties.renderratio">0</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">720</property>
   <property name="kdenlive:docproperties.renderrescalewidth">960</property>
-  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderspeed">1</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.scrollPos">21798</property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxarch/Videos/Monster/Monster-Editing/Output/Monster_9-10_A_Past_Erased_1080p_24fps.webm</property>
+  <property name="kdenlive:docproperties.scrollPos">257660</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
@@ -512,7 +561,6 @@ p, li { white-space: pre-wrap; }
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">list of dub voice actors: https://www.behindthevoiceactors.com/tv-shows/Monster/&lt;/p>
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></property>
-  <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Monster-Editing/Output/Monster_9-10_A_Past_Erased_1080p_24fps.mp4</property>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:23:55.264"/>
   <entry producer="producer1" in="00:00:00.000" out="00:23:55.430"/>
@@ -531,7 +579,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer4" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -628,7 +676,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer5" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -658,7 +706,11 @@ p, li { white-space: pre-wrap; }
  <producer id="producer6" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 10 - An Erased PastLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 10 - An Erased PastLR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -670,10 +722,6 @@ p, li { white-space: pre-wrap; }
   <property name="meta.attr.title.markup">Monster : Chapter 10 : An Erased Past</property>
   <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
@@ -754,7 +802,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer7" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 09 - Elderly Soldier And A Young GirlLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -784,7 +832,11 @@ p, li { white-space: pre-wrap; }
  <producer id="producer8" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 10 - An Erased PastLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 10 - An Erased PastLR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -796,10 +848,6 @@ p, li { white-space: pre-wrap; }
   <property name="meta.attr.title.markup">Monster : Chapter 10 : An Erased Past</property>
   <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
@@ -909,7 +957,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer9" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1037,7 +1085,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer10" in="00:00:00.000" out="00:23:55.514">
   <property name="length">34418</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 10 - An Erased Past.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 10 - An Erased Past.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1217,7 +1265,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer11" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 09 - Elderly Soldier And A Young Girl.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1345,7 +1393,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer12" in="00:00:00.000" out="00:23:55.514">
   <property name="length">34418</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 10 - An Erased Past.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 10 - An Erased Past.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1554,16 +1602,20 @@ p, li { white-space: pre-wrap; }
   <transition id="transition3">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
-   <property name="version">0.1</property>
-   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition4">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
-   <property name="version">0.1</property>
-   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
