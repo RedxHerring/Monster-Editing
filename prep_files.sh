@@ -1,16 +1,16 @@
 #!/bin/sh
 cd Orig
 # Uncomment the following to extract subtitles from the 1080p source. Change the track selected as needed.
-# for i in *.mkv; do mkvextract tracks "$i" 4:"../Subs/${i%.*}TitlesnSigns.srt"; done
-# file_path="../Subs/"
-# suffix="TitlesnSigns.ass"
-# for i in *.mkv; do
-#     if test -f "$file_path${i%.*}$suffix"; then
-#         echo "$file_path${i%.*}$suffix already exists"
-#     else
-#         mkvextract tracks "$i" 4:"$file_path${i%.*}$suffix" ;
-#     fi
-# done
+for i in *.mkv; do mkvextract tracks "$i" 4:"../Subs/${i%.*}TitlesnSigns.srt"; done
+file_path="../Subs/"
+suffix="TitlesnSigns.ass"
+for i in *.mkv; do
+    if test -f "$file_path${i%.*}$suffix"; then
+        echo "$file_path${i%.*}$suffix already exists"
+    else
+        mkvextract tracks "$i" 4:"$file_path${i%.*}$suffix" ;
+    fi
+done
 
 # Uncomment the following to extract the English audio from the 1080p mkv source. Change the mapping as needed to select different languages
 file_path="../WAV/"
