@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxarch/Videos/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
  <producer id="producer0" in="00:00:00.000" out="00:24:09.509">
   <property name="length">34754</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 15 - Be My Baby.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 15 - Be My Baby.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -146,7 +146,7 @@
  <producer id="producer1" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -271,7 +271,7 @@
  <producer id="producer2" in="00:00:00.000" out="00:23:55.514">
   <property name="length">34418</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 17 - Reunion.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 17 - Reunion.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -396,7 +396,7 @@
  <producer id="producer3" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 18 - The Fifth Spoonful Of Sugar.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 18 - The Fifth Spoonful Of Sugar.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -521,7 +521,7 @@
  <producer id="producer7" in="00:00:00.000" out="00:23:54.680">
   <property name="length">34398</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -542,13 +542,13 @@
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">6</property>
   <property name="kdenlive:file_size">275460216</property>
-  <property name="kdenlive:file_hash">0645762c70aa2e5c8074d6adcdcb6b1d</property>
   <property name="kdenlive:audio_max0">196</property>
+  <property name="kdenlive:file_hash">26d0123b9c9826864119cd850c89a59f</property>
  </producer>
  <producer id="producer4" in="00:00:00.000" out="00:23:55.305">
   <property name="length">34413</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -566,7 +566,7 @@
   <property name="mlt_service">avformat</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:originalurl">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="kdenlive:id">7</property>
   <property name="kdenlive:file_size">253186176</property>
   <property name="kdenlive:file_hash">5132c6867fd5c2b38e4b25b40a531f57</property>
@@ -576,7 +576,7 @@
  <producer id="producer5" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 17 - ReunionLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 17 - ReunionLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -603,7 +603,7 @@
  <producer id="producer6" in="00:00:00.000" out="00:23:55.180">
   <property name="length">34410</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 18 - The Fifth Spoonful Of SugarLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 18 - The Fifth Spoonful Of SugarLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -630,7 +630,7 @@
  <producer id="producer8" in="00:00:00.000" out="00:02:41.959">
   <property name="length">3884</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/ClipsnRandom/The Ronettes - Be My Baby (Official Audio) - YouTube.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/ClipsnRandom/The Ronettes - Be My Baby (Official Audio) - YouTube.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -654,7 +654,7 @@
   <property name="kdenlive:audio_max0">210</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">0</property>
+  <property name="kdenlive:docproperties.activeTrack">1</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.compositing">1</property>
@@ -667,266 +667,6 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.groups">[
-    {
-        "children": [
-            {
-                "data": "-2:61607",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "3:61581",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:61559",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:26442",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:26442",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:66005",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:67785",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:66005",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:10948",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:10965",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:37650",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:37668",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:45288",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:45288",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:44457",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:44457",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:24576",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:24576",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:15765",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:15765",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:42889",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:42870",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "0:13215",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:13651",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:13199",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:13205",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:6159",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:6185",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:89519",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "2:89474",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "3:89474",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:46910",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:46899",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:30586",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:30587",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
     {
         "children": [
             {
@@ -955,12 +695,12 @@
     {
         "children": [
             {
-                "data": "3:39715",
+                "data": "1:30524",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:39715",
+                "data": "3:30525",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -970,12 +710,12 @@
     {
         "children": [
             {
-                "data": "1:42946",
+                "data": "3:46848",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:42925",
+                "data": "2:46837",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -985,19 +725,19 @@
     {
         "children": [
             {
-                "data": "-2:31614",
+                "data": "-2:89457",
                 "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
                 "children": [
                     {
-                        "data": "2:31561",
+                        "data": "2:89412",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "4:31561",
+                        "data": "3:89412",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
@@ -1010,12 +750,12 @@
     {
         "children": [
             {
-                "data": "1:42804",
+                "data": "1:45226",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:42827",
+                "data": "4:45226",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1025,12 +765,12 @@
     {
         "children": [
             {
-                "data": "1:67793",
+                "data": "3:63905",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:67806",
+                "data": "2:63885",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1040,12 +780,12 @@
     {
         "children": [
             {
-                "data": "1:37748",
+                "data": "1:72235",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:37745",
+                "data": "3:72235",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1055,12 +795,12 @@
     {
         "children": [
             {
-                "data": "4:36671",
+                "data": "4:15765",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:36626",
+                "data": "0:15765",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1070,17 +810,12 @@
     {
         "children": [
             {
-                "data": "3:44434",
+                "data": "3:39653",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:44434",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:44445",
+                "data": "2:39653",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1090,12 +825,12 @@
     {
         "children": [
             {
-                "data": "3:43092",
+                "data": "1:42884",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:43092",
+                "data": "3:42863",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1105,12 +840,17 @@
     {
         "children": [
             {
-                "data": "3:62152",
+                "data": "3:44372",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:62146",
+                "data": "1:44372",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:44383",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1120,12 +860,12 @@
     {
         "children": [
             {
-                "data": "1:60068",
+                "data": "3:43030",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:60068",
+                "data": "2:43030",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1135,37 +875,12 @@
     {
         "children": [
             {
-                "data": "3:63967",
+                "data": "1:14370",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:63947",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:72297",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:72297",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:13900",
+                "data": "1:13930",
                 "leaf": "clip",
                 "type": "Leaf"
             },
@@ -1175,12 +890,7 @@
                 "type": "Leaf"
             },
             {
-                "data": "1:13924",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:14364",
+                "data": "3:13900",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1190,12 +900,197 @@
     {
         "children": [
             {
-                "data": "1:64925",
+                "data": "-2:31552",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:31499",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "4:31499",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:42827",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:64937",
+                "data": "2:42808",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:42742",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:42765",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:67731",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:67744",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:13651",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:13205",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:13205",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:13215",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:6159",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:6185",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:37686",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:37683",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:62090",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:62084",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:21048",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:21072",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:37588",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:37606",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:26380",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:26380",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:21075",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:21086",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1216,45 +1111,228 @@
             }
         ],
         "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:61545",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "3:61519",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:61497",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:60006",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:60006",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:36609",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:36564",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:65943",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:67723",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:65943",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:44395",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:44395",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:10948",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:10965",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:24514",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:24514",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:64863",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:64875",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">22.08.3</property>
-  <property name="kdenlive:docproperties.position">13367</property>
+  <property name="kdenlive:docproperties.guidesCategories">[
+    {
+        "color": "#9b59b6",
+        "comment": "Category 1",
+        "index": 0
+    },
+    {
+        "color": "#3daee9",
+        "comment": "Category 2",
+        "index": 1
+    },
+    {
+        "color": "#1abc9c",
+        "comment": "Category 3",
+        "index": 2
+    },
+    {
+        "color": "#1cdc9a",
+        "comment": "Category 4",
+        "index": 3
+    },
+    {
+        "color": "#c9ce3b",
+        "comment": "Category 5",
+        "index": 4
+    },
+    {
+        "color": "#fdbc4b",
+        "comment": "Category 6",
+        "index": 5
+    },
+    {
+        "color": "#f39c1f",
+        "comment": "Category 7",
+        "index": 6
+    },
+    {
+        "color": "#f47750",
+        "comment": "Category 8",
+        "index": 7
+    },
+    {
+        "color": "#da4453",
+        "comment": "Category 9",
+        "index": 8
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.12.0</property>
+  <property name="kdenlive:docproperties.position">13870</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile2</property>
+  <property name="kdenlive:docproperties.profile">/home/redxarch/.local/share/kdenlive/profiles/customprofile0</property>
   <property name="kdenlive:docproperties.proxyextension"/>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
   <property name="kdenlive:docproperties.rendercustomquality">100</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
+  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
   <property name="kdenlive:docproperties.renderratio">0</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">1</property>
   <property name="kdenlive:docproperties.renderrescalewidth">1</property>
-  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderspeed">1</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Monster-Editing/Output/Monster_15-18_Reunion_1080p_24fps.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">16034</property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxarch/Videos/Monster/Monster-Editing/Output/Monster_15-18_Reunion_1080p_24fps.mp4</property>
+  <property name="kdenlive:docproperties.scrollPos">15753</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
-  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoneout">120094</property>
   <property name="kdenlive:docproperties.zoom">6</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
@@ -1274,7 +1352,7 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer6" in="00:00:00.000" out="00:23:55.180"/>
   <entry producer="producer8" in="00:00:00.000" out="00:02:41.959"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="01:44:22.856">
+ <producer id="black_track" in="00:00:00.000" out="01:44:20.270">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -1286,7 +1364,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer9" in="00:00:00.000" out="00:23:54.680">
   <property name="length">34398</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1300,7 +1378,7 @@ p, li { white-space: pre-wrap; }
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 15 : Be My Baby</property>
-  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="meta.attr.encoder.markup">Lavf59.34.102</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
@@ -1318,6 +1396,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:09:11.178"/>
   <entry producer="producer9" in="00:09:19.436" out="00:09:38.830">
    <property name="kdenlive:id">6</property>
+   <property name="kdenlive:activeeffect">2</property>
    <filter id="filter0">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -1346,9 +1425,9 @@ p, li { white-space: pre-wrap; }
    </filter>
   </entry>
   <blank length="00:01:26.944"/>
-  <entry producer="producer9" in="00:11:07.633" out="00:17:16.642">
+  <entry producer="producer9" in="00:11:07.633" out="00:14:48.966">
    <property name="kdenlive:id">6</property>
-   <filter id="filter3" in="00:17:14.890" out="00:17:16.642">
+   <filter id="filter3" in="00:14:48.507" out="00:14:48.966">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1361,7 +1440,7 @@ p, li { white-space: pre-wrap; }
  <playlist id="playlist1">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor0" in="00:00:00.000" out="00:17:06.548">
+ <tractor id="tractor0" in="00:00:00.000" out="00:14:38.872">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -1394,7 +1473,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer10" in="00:00:00.000" out="00:23:54.680">
   <property name="length">34398</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1408,7 +1487,7 @@ p, li { white-space: pre-wrap; }
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 15 : Be My Baby</property>
-  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="meta.attr.encoder.markup">Lavf59.34.102</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
@@ -1424,7 +1503,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer11" in="00:00:00.000" out="00:02:41.959">
   <property name="length">3884</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/ClipsnRandom/The Ronettes - Be My Baby (Official Audio) - YouTube.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/ClipsnRandom/The Ronettes - Be My Baby (Official Audio) - YouTube.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1453,7 +1532,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer12" in="00:00:00.000" out="00:23:55.305">
   <property name="length">34413</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1471,7 +1550,7 @@ p, li { white-space: pre-wrap; }
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:originalurl">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="kdenlive:id">7</property>
   <property name="kdenlive:file_size">253186176</property>
   <property name="kdenlive:file_hash">5132c6867fd5c2b38e4b25b40a531f57</property>
@@ -1484,7 +1563,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer13" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 17 - ReunionLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 17 - ReunionLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1546,10 +1625,10 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:01:32.074"/>
+  <blank length="00:01:32.324"/>
   <entry producer="producer11" in="00:00:00.000" out="00:00:30.197">
    <property name="kdenlive:id">10</property>
-   <property name="kdenlive:activeeffect">2</property>
+   <property name="kdenlive:activeeffect">5</property>
    <filter id="filter10">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -1558,7 +1637,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0.71</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter11" in="00:00:03.378" out="00:00:30.239">
+   <filter id="filter11" in="00:00:03.337" out="00:00:30.197">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1584,10 +1663,32 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter14">
+    <property name="mlt_service">avfilter.bass</property>
+    <property name="kdenlive_id">avfilter.bass</property>
+    <property name="av.g">1</property>
+    <property name="av.f">100</property>
+    <property name="av.t">h</property>
+    <property name="av.w">0.5</property>
+    <property name="av.p">2</property>
+    <property name="av.m">1</property>
+    <property name="av.n">0</property>
+    <property name="av.a">di</property>
+    <property name="av.r">auto</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter15">
+    <property name="mlt_service">avfilter.virtualbass</property>
+    <property name="kdenlive_id">avfilter.virtualbass</property>
+    <property name="av.cutoff">250</property>
+    <property name="av.strength">3</property>
+    <property name="position">frame</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry producer="producer11" in="00:00:30.239" out="00:00:48.548">
    <property name="kdenlive:id">10</property>
-   <filter id="filter14">
+   <filter id="filter16">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1598,7 +1699,8 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer11" in="00:00:48.590" out="00:01:47.130">
    <property name="kdenlive:id">10</property>
-   <filter id="filter15">
+   <property name="kdenlive:activeeffect">3</property>
+   <filter id="filter17">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1606,7 +1708,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0.12</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter16" in="00:00:52.636" out="00:01:47.130">
+   <filter id="filter18" in="00:00:52.636" out="00:01:47.130">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1615,11 +1717,53 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter19">
+    <property name="mlt_service">avfilter.bass</property>
+    <property name="kdenlive_id">avfilter.bass</property>
+    <property name="av.g">1</property>
+    <property name="av.f">100</property>
+    <property name="av.t">h</property>
+    <property name="av.w">0.5</property>
+    <property name="av.p">2</property>
+    <property name="av.m">1</property>
+    <property name="av.n">0</property>
+    <property name="av.a">di</property>
+    <property name="av.r">auto</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter20">
+    <property name="mlt_service">avfilter.virtualbass</property>
+    <property name="kdenlive_id">avfilter.virtualbass</property>
+    <property name="av.cutoff">250</property>
+    <property name="av.strength">3</property>
+    <property name="position">frame</property>
+   </filter>
   </entry>
-  <blank length="00:06:07.382"/>
+  <blank length="00:03:39.998"/>
+  <entry producer="producer10" in="00:14:49.091" out="00:14:50.634">
+   <property name="kdenlive:id">6</property>
+   <filter id="filter21" in="00:14:49.091" out="00:14:49.841">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter22" in="00:14:50.259" out="00:14:50.634">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <blank length="00:02:22.981"/>
   <entry producer="producer10" in="00:17:19.853" out="00:18:37.621">
    <property name="kdenlive:id">6</property>
-   <filter id="filter17" in="00:17:19.853" out="00:17:20.145">
+   <filter id="filter23" in="00:17:19.853" out="00:17:20.145">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1632,7 +1776,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:02:52.844"/>
   <entry producer="producer10" in="00:21:45.796" out="00:22:27.361">
    <property name="kdenlive:id">6</property>
-   <filter id="filter18" in="00:21:45.796" out="00:21:46.129">
+   <filter id="filter24" in="00:21:45.796" out="00:21:46.129">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1644,7 +1788,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:03:30.322"/>
   <entry producer="producer12" in="00:05:45.629" out="00:06:29.446">
    <property name="kdenlive:id">7</property>
-   <filter id="filter19" in="00:05:45.629" out="00:05:46.255">
+   <filter id="filter25" in="00:05:45.629" out="00:05:46.255">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1652,7 +1796,7 @@ p, li { white-space: pre-wrap; }
     <property name="gain">0</property>
     <property name="end">1</property>
    </filter>
-   <filter id="filter20" in="00:06:29.196" out="00:06:29.446">
+   <filter id="filter26" in="00:06:29.196" out="00:06:29.446">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1664,7 +1808,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:02.920"/>
   <entry producer="producer12" in="00:06:33.450" out="00:07:58.016">
    <property name="kdenlive:id">7</property>
-   <filter id="filter21" in="00:06:33.450" out="00:06:34.493">
+   <filter id="filter27" in="00:06:33.450" out="00:06:34.493">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1673,7 +1817,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter22" in="00:07:53.929" out="00:07:58.016">
+   <filter id="filter28" in="00:07:53.929" out="00:07:58.016">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1685,7 +1829,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:02:06.298"/>
   <entry producer="producer12" in="00:10:06.840" out="00:10:12.721">
    <property name="kdenlive:id">7</property>
-   <filter id="filter23" in="00:10:06.840" out="00:10:08.175">
+   <filter id="filter29" in="00:10:06.840" out="00:10:08.175">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1694,7 +1838,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter24" in="00:10:10.469" out="00:10:12.721">
+   <filter id="filter30" in="00:10:10.469" out="00:10:12.721">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1706,7 +1850,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer12" in="00:10:18.393" out="00:10:24.858">
    <property name="kdenlive:id">7</property>
-   <filter id="filter25" in="00:10:20.771" out="00:10:24.858">
+   <filter id="filter31" in="00:10:20.771" out="00:10:24.858">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1715,7 +1859,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter26" in="00:10:18.393" out="00:10:20.896">
+   <filter id="filter32" in="00:10:18.393" out="00:10:20.896">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1728,7 +1872,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:55.555"/>
   <entry producer="producer12" in="00:11:20.854" out="00:11:24.816">
    <property name="kdenlive:id">7</property>
-   <filter id="filter27" in="00:11:21.897" out="00:11:24.816">
+   <filter id="filter33" in="00:11:21.897" out="00:11:24.816">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1741,7 +1885,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:31.615"/>
   <entry producer="producer12" in="00:12:00.083" out="00:13:10.010">
    <property name="kdenlive:id">7</property>
-   <filter id="filter28" in="00:12:00.083" out="00:12:00.250">
+   <filter id="filter34" in="00:12:00.083" out="00:12:00.250">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1750,7 +1894,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter29" in="00:13:07.883" out="00:13:10.010">
+   <filter id="filter35" in="00:13:07.883" out="00:13:10.010">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1763,7 +1907,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:09:06.465"/>
   <entry producer="producer13" in="00:00:00.000" out="00:01:04.546">
    <property name="kdenlive:id">8</property>
-   <filter id="filter30" out="00:00:00.626">
+   <filter id="filter36" out="00:00:00.626">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1776,7 +1920,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:22.105"/>
   <entry producer="producer13" in="00:03:07.424" out="00:04:23.315">
    <property name="kdenlive:id">8</property>
-   <filter id="filter31" in="00:03:07.424" out="00:03:08.008">
+   <filter id="filter37" in="00:03:07.424" out="00:03:08.008">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1785,7 +1929,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter32" in="00:04:22.814" out="00:04:23.315">
+   <filter id="filter38" in="00:04:22.814" out="00:04:23.315">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1798,7 +1942,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:39.957"/>
   <entry producer="producer13" in="00:05:06.173" out="00:05:51.176">
    <property name="kdenlive:id">8</property>
-   <filter id="filter33" in="00:05:06.173" out="00:05:06.548">
+   <filter id="filter39" in="00:05:06.173" out="00:05:06.548">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1811,7 +1955,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:14.598"/>
   <entry producer="producer13" in="00:07:15.432" out="00:10:23.232">
    <property name="kdenlive:id">8</property>
-   <filter id="filter34" in="00:07:15.432" out="00:07:15.807">
+   <filter id="filter40" in="00:07:15.432" out="00:07:15.807">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1823,7 +1967,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer13" in="00:10:24.399" out="00:22:21.730">
    <property name="kdenlive:id">8</property>
-   <filter id="filter35" in="00:22:19.728" out="00:22:21.730">
+   <filter id="filter41" in="00:22:19.728" out="00:22:21.730">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1836,7 +1980,7 @@ p, li { white-space: pre-wrap; }
  <playlist id="playlist3">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor1" in="00:00:00.000" out="01:02:12.763">
+ <tractor id="tractor1" in="00:00:00.000" out="01:02:10.177">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -1845,21 +1989,21 @@ p, li { white-space: pre-wrap; }
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist2"/>
   <track hide="video" producer="playlist3"/>
-  <filter id="filter36">
+  <filter id="filter42">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter37">
+  <filter id="filter43">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter38">
+  <filter id="filter44">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
@@ -1869,7 +2013,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer14" in="00:00:00.000" out="00:23:54.680">
   <property name="length">34398</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 15 - Be My BabyLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1883,7 +2027,7 @@ p, li { white-space: pre-wrap; }
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 15 : Be My Baby</property>
-  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="meta.attr.encoder.markup">Lavf59.34.102</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
@@ -1899,7 +2043,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer15" in="00:00:00.000" out="00:23:55.305">
   <property name="length">34413</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1917,7 +2061,7 @@ p, li { white-space: pre-wrap; }
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:originalurl">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 16 - Wolf's ConfessionLR.wav</property>
   <property name="kdenlive:id">7</property>
   <property name="kdenlive:file_size">253186176</property>
   <property name="kdenlive:file_hash">5132c6867fd5c2b38e4b25b40a531f57</property>
@@ -1930,7 +2074,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer16" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 17 - ReunionLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 17 - ReunionLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1960,7 +2104,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer17" in="00:00:00.000" out="00:23:55.180">
   <property name="length">34410</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 18 - The Fifth Spoonful Of SugarLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 18 - The Fifth Spoonful Of SugarLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -1992,7 +2136,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:04:16.892"/>
   <entry producer="producer14" in="00:04:18.894" out="00:05:23.482">
    <property name="kdenlive:id">6</property>
-   <filter id="filter39" in="00:04:18.894" out="00:04:19.978">
+   <filter id="filter45" in="00:04:18.894" out="00:04:19.978">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2001,7 +2145,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter40" in="00:05:23.315" out="00:05:23.482">
+   <filter id="filter46" in="00:05:23.315" out="00:05:23.482">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2014,7 +2158,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:02:15.140"/>
   <entry producer="producer14" in="00:07:44.920" out="00:09:19.394">
    <property name="kdenlive:id">6</property>
-   <filter id="filter41" in="00:07:44.920" out="00:07:46.213">
+   <filter id="filter47" in="00:07:44.920" out="00:07:46.213">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2023,7 +2167,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter42" in="00:09:19.102" out="00:09:19.394">
+   <filter id="filter48" in="00:09:19.102" out="00:09:19.394">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2036,7 +2180,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:18.185"/>
   <entry producer="producer14" in="00:09:37.621" out="00:09:47.965">
    <property name="kdenlive:id">6</property>
-   <filter id="filter43" in="00:09:37.621" out="00:09:39.081">
+   <filter id="filter49" in="00:09:37.621" out="00:09:39.081">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2049,10 +2193,31 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer14" in="00:09:48.006" out="00:11:05.881">
    <property name="kdenlive:id">6</property>
   </entry>
-  <blank length="00:07:25.234"/>
+  <blank length="00:03:41.375"/>
+  <entry producer="producer14" in="00:14:51.718" out="00:17:16.642">
+   <property name="kdenlive:id">6</property>
+   <filter id="filter50" in="00:17:14.932" out="00:17:16.683">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter51" in="00:14:51.718" out="00:14:52.094">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <blank length="00:01:16.308"/>
   <entry producer="producer14" in="00:18:38.413" out="00:21:31.740">
    <property name="kdenlive:id">6</property>
-   <filter id="filter44" in="00:21:31.323" out="00:21:31.740">
+   <filter id="filter52" in="00:21:31.323" out="00:21:31.740">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2064,7 +2229,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:40.165"/>
   <entry producer="producer15" in="00:01:58.183" out="00:05:30.781">
    <property name="kdenlive:id">7</property>
-   <filter id="filter45" in="00:01:58.183" out="00:01:59.726">
+   <filter id="filter53" in="00:01:58.183" out="00:01:59.726">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2073,7 +2238,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter46" in="00:05:30.530" out="00:05:30.781">
+   <filter id="filter54" in="00:05:30.530" out="00:05:30.781">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2086,7 +2251,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:42.084"/>
   <entry producer="producer15" in="00:06:29.488" out="00:06:33.909">
    <property name="kdenlive:id">7</property>
-   <filter id="filter47" in="00:06:29.488" out="00:06:29.780">
+   <filter id="filter55" in="00:06:29.488" out="00:06:29.780">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2095,7 +2260,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter48" in="00:06:33.575" out="00:06:33.909">
+   <filter id="filter56" in="00:06:33.575" out="00:06:33.909">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2108,7 +2273,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:20.938"/>
   <entry producer="producer15" in="00:07:57.182" out="00:10:07.424">
    <property name="kdenlive:id">7</property>
-   <filter id="filter49" in="00:07:57.182" out="00:07:57.849">
+   <filter id="filter57" in="00:07:57.182" out="00:07:57.849">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2117,7 +2282,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter50" in="00:10:06.590" out="00:10:07.424">
+   <filter id="filter58" in="00:10:06.590" out="00:10:07.424">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2130,7 +2295,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:01.293"/>
   <entry producer="producer15" in="00:10:12.179" out="00:10:18.352">
    <property name="kdenlive:id">7</property>
-   <filter id="filter51" in="00:10:12.179" out="00:10:14.306">
+   <filter id="filter59" in="00:10:12.179" out="00:10:14.306">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2139,7 +2304,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter52" in="00:10:15.891" out="00:10:18.352">
+   <filter id="filter60" in="00:10:15.891" out="00:10:18.352">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2152,7 +2317,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:03.045"/>
   <entry producer="producer15" in="00:10:24.900" out="00:11:20.812">
    <property name="kdenlive:id">7</property>
-   <filter id="filter53" in="00:10:24.900" out="00:10:25.150">
+   <filter id="filter61" in="00:10:24.900" out="00:10:25.150">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2164,7 +2329,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:00.959"/>
   <entry producer="producer15" in="00:11:24.858" out="00:11:59.726">
    <property name="kdenlive:id">7</property>
-   <filter id="filter54" in="00:11:24.858" out="00:11:25.067">
+   <filter id="filter62" in="00:11:24.858" out="00:11:25.067">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2173,7 +2338,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter55" in="00:11:59.559" out="00:11:59.726">
+   <filter id="filter63" in="00:11:59.559" out="00:11:59.726">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2185,7 +2350,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:06.965"/>
   <entry producer="producer15" in="00:13:15.724" out="00:22:27.110">
    <property name="kdenlive:id">7</property>
-   <filter id="filter56" in="00:13:15.724" out="00:13:16.600">
+   <filter id="filter64" in="00:13:15.724" out="00:13:16.600">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2194,7 +2359,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter57" in="00:22:23.357" out="00:22:27.110">
+   <filter id="filter65" in="00:22:23.357" out="00:22:27.110">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2206,7 +2371,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:00.042"/>
   <entry producer="producer16" in="00:02:29.905" out="00:02:54.763">
    <property name="kdenlive:id">8</property>
-   <filter id="filter58" in="00:02:54.429" out="00:02:54.763">
+   <filter id="filter66" in="00:02:54.429" out="00:02:54.763">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2218,7 +2383,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:14.723"/>
   <entry producer="producer16" in="00:04:24.483" out="00:05:06.131">
    <property name="kdenlive:id">8</property>
-   <filter id="filter59" in="00:04:24.483" out="00:04:25.067">
+   <filter id="filter67" in="00:04:24.483" out="00:04:25.067">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2227,7 +2392,7 @@ p, li { white-space: pre-wrap; }
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter60" in="00:05:05.839" out="00:05:06.131">
+   <filter id="filter68" in="00:05:05.839" out="00:05:06.131">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2239,7 +2404,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:00:44.169"/>
   <entry producer="producer16" in="00:05:52.219" out="00:07:07.424">
    <property name="kdenlive:id">8</property>
-   <filter id="filter61" in="00:07:07.049" out="00:07:07.424">
+   <filter id="filter69" in="00:07:07.049" out="00:07:07.424">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2252,7 +2417,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:15:03.629"/>
   <entry producer="producer17" in="00:02:17.226" out="00:23:36.954">
    <property name="kdenlive:id">9</property>
-   <filter id="filter62" in="00:02:17.226" out="00:02:17.517">
+   <filter id="filter70" in="00:02:17.226" out="00:02:17.517">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2265,7 +2430,7 @@ p, li { white-space: pre-wrap; }
  <playlist id="playlist5">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor2" in="00:00:00.000" out="01:23:31.573">
+ <tractor id="tractor2" in="00:00:00.000" out="01:23:28.987">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -2274,21 +2439,21 @@ p, li { white-space: pre-wrap; }
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist4"/>
   <track hide="video" producer="playlist5"/>
-  <filter id="filter63">
+  <filter id="filter71">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter64">
+  <filter id="filter72">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter65">
+  <filter id="filter73">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
@@ -2298,7 +2463,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer18" in="00:00:00.000" out="00:24:09.509">
   <property name="length">34754</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 15 - Be My Baby.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 15 - Be My Baby.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -2443,7 +2608,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer19" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -2571,7 +2736,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer20" in="00:00:00.000" out="00:11:57.724">
   <property name="length">17210</property>
   <property name="eof">pause</property>
-  <property name="resource">2.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="resource">2:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">23</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -2673,7 +2838,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">2</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -2693,7 +2858,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer21" in="00:00:00.000" out="00:15:57.015">
   <property name="length">22946</property>
   <property name="eof">pause</property>
-  <property name="resource">1.500000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="resource">1.5:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">23</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -2795,7 +2960,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1.5</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -2815,7 +2980,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer22" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">23</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -2917,7 +3082,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -2937,7 +3102,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer23" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">23</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -3039,7 +3204,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -3059,7 +3224,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer24" in="00:00:00.000" out="00:23:55.514">
   <property name="length">34418</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 17 - Reunion.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 17 - Reunion.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3187,7 +3352,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer25" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 18 - The Fifth Spoonful Of Sugar.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 18 - The Fifth Spoonful Of Sugar.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3330,7 +3495,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer18" in="00:09:48.006" out="00:11:05.756">
    <property name="kdenlive:id">2</property>
-   <filter id="filter66" in="00:11:02.544" out="00:11:05.756">
+   <filter id="filter74" in="00:11:02.544" out="00:11:05.756">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -3339,7 +3504,7 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:06:07.507"/>
+  <blank length="00:06:04.922"/>
   <entry producer="producer18" in="00:17:19.853" out="00:18:37.621">
    <property name="kdenlive:id">2</property>
   </entry>
@@ -3348,7 +3513,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer18" in="00:21:45.837" out="00:22:27.361">
    <property name="kdenlive:id">2</property>
-   <filter id="filter67" in="00:22:26.401" out="00:22:27.361">
+   <filter id="filter75" in="00:22:26.401" out="00:22:27.361">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -3384,7 +3549,7 @@ p, li { white-space: pre-wrap; }
   <blank length="00:01:07.674"/>
   <entry producer="producer19" in="00:13:16.183" out="00:22:24.942">
    <property name="kdenlive:id">3</property>
-   <filter id="filter68" in="00:22:23.357" out="00:22:24.942">
+   <filter id="filter76" in="00:22:23.357" out="00:22:24.942">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -3417,7 +3582,7 @@ p, li { white-space: pre-wrap; }
   </entry>
   <entry producer="producer24" in="00:10:24.399" out="00:22:20.771">
    <property name="kdenlive:id">4</property>
-   <filter id="filter69" in="00:22:19.269" out="00:22:20.771">
+   <filter id="filter77" in="00:22:19.269" out="00:22:20.771">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -3430,7 +3595,7 @@ p, li { white-space: pre-wrap; }
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="01:23:31.573">
+ <tractor id="tractor3" in="00:00:00.000" out="01:23:28.987">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3442,7 +3607,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer26" in="00:00:00.000" out="00:24:09.509">
   <property name="length">34754</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 15 - Be My Baby.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 15 - Be My Baby.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3587,7 +3752,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer27" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 16 - Wolf's Confession.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3715,7 +3880,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer28" in="00:00:00.000" out="00:23:55.514">
   <property name="length">34418</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 17 - Reunion.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 17 - Reunion.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3842,13 +4007,19 @@ p, li { white-space: pre-wrap; }
  </producer>
  <playlist id="playlist8">
   <blank length="00:10:57.557"/>
-  <entry producer="producer26" in="00:11:07.633" out="00:17:15.098">
+  <entry producer="producer26" in="00:11:07.633" out="00:14:48.966">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer26" in="00:14:50.092" out="00:14:50.634">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer26" in="00:14:52.177" out="00:17:15.098">
    <property name="kdenlive:id">2</property>
   </entry>
   <blank length="00:04:51.343"/>
   <entry producer="producer27" in="00:01:58.183" out="00:05:31.281">
    <property name="kdenlive:id">3</property>
-   <filter id="filter70" in="00:01:58.183" out="00:01:59.142">
+   <filter id="filter78" in="00:01:58.183" out="00:01:59.142">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -3876,7 +4047,7 @@ p, li { white-space: pre-wrap; }
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:42:48.423">
+ <tractor id="tractor4" in="00:00:00.000" out="00:42:45.837">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3885,7 +4056,7 @@ p, li { white-space: pre-wrap; }
   <track hide="audio" producer="playlist8"/>
   <track hide="audio" producer="playlist9"/>
  </tractor>
- <tractor id="tractor5" in="00:00:00.000" out="01:44:22.856">
+ <tractor id="tractor5" in="00:00:00.000" out="01:44:20.270">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -3925,34 +4096,38 @@ p, li { white-space: pre-wrap; }
   <transition id="transition3">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
-   <property name="version">0.1</property>
-   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition4">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
-   <property name="version">0.1</property>
-   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
-  <filter id="filter71">
+  <filter id="filter79">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter72">
+  <filter id="filter80">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter73">
+  <filter id="filter81">
    <property name="mlt_service">avfilter.subtitles</property>
    <property name="internal_added">237</property>
    <property name="av.filename">/tmp/1668217499931.srt</property>

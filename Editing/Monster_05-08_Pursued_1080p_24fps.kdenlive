@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxarch/Videos/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
  <producer id="producer0" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -128,7 +128,7 @@
  <producer id="producer3" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -252,7 +252,7 @@
  <producer id="producer1" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -376,7 +376,7 @@
  <producer id="producer2" in="00:00:00.000" out="00:24:09.593">
   <property name="length">34756</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -500,7 +500,7 @@
  <producer id="producer4" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 05 - The Girl From HeidelbergLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 05 - The Girl From HeidelbergLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -527,7 +527,7 @@
  <producer id="producer5" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 06 - Disappearance ReportLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 06 - Disappearance ReportLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -554,7 +554,7 @@
  <producer id="producer6" in="00:00:00.000" out="00:23:55.180">
   <property name="length">34410</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 07 - Mansion Of TragedyLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 07 - Mansion Of TragedyLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -581,7 +581,7 @@
  <producer id="producer7" in="00:00:00.000" out="00:23:54.846">
   <property name="length">34402</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 08 - The FugitiveLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 08 - The FugitiveLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -608,7 +608,7 @@
  <producer id="producer8" in="00:00:00.000" out="00:01:40.040">
   <property name="length">2399</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/ClipsnRandom/08 gingerly.mp3</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/ClipsnRandom/08 gingerly.mp3</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">fltp</property>
@@ -657,12 +657,12 @@
     {
         "children": [
             {
-                "data": "4:32763",
+                "data": "3:86891",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:32743",
+                "data": "1:86891",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -672,12 +672,12 @@
     {
         "children": [
             {
-                "data": "4:6511",
+                "data": "2:6240",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:6473",
+                "data": "3:6252",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -687,12 +687,12 @@
     {
         "children": [
             {
-                "data": "3:58860",
+                "data": "3:96348",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:58839",
+                "data": "3:96307",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -702,12 +702,12 @@
     {
         "children": [
             {
-                "data": "2:71650",
+                "data": "3:66512",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:71692",
+                "data": "2:66502",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -717,184 +717,69 @@
     {
         "children": [
             {
-                "data": "2:64978",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:64978",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:54835",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:54829",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:95895",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:95895",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:58751",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:58751",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:66318",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:66315",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:62185",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:62165",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:55471",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:55497",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:55471",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:78934",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:78972",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:16893",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:14240",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:9623",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:14240",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:55846",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:55846",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:104804",
+                "data": "-2:2919",
                 "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
                 "children": [
                     {
-                        "data": "2:104547",
+                        "data": "1:2876",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "3:104686",
+                        "data": "4:2876",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            },
+            {
+                "data": "-2:3015",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "data": "-2:3410",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:70174",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:70174",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "0:76392",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "3:77035",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:76988",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
@@ -907,24 +792,14 @@
     {
         "children": [
             {
-                "data": "-2:34212",
-                "leaf": "subtitle",
+                "data": "1:26438",
+                "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "children": [
-                    {
-                        "data": "3:34164",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:34164",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
+                "data": "4:26451",
+                "leaf": "clip",
+                "type": "Leaf"
             }
         ],
         "type": "Normal"
@@ -932,12 +807,42 @@
     {
         "children": [
             {
-                "data": "3:62376",
+                "data": "2:35775",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:62327",
+                "data": "3:35845",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:59541",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:59433",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:506",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:500",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1088,6 +993,581 @@
             },
             {
                 "data": "2:84555",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:69763",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:69782",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:69763",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:32763",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:32743",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:55944",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:55957",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:6511",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:6473",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:58860",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:58839",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:55527",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:55527",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:71650",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:71692",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:40729",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:40745",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:64978",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:64978",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:62376",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:62327",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:58648",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:58651",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:34212",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "3:34164",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:34164",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:451",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:452",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:65937",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:65908",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:65883",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:65925",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:104804",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:104547",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "3:104686",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:62973",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:62907",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:16893",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:16871",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:55846",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:55846",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:42028",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:42116",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:16893",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:14240",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:9623",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "-2:14240",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:59613",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:59630",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:78934",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:78972",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:78745",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:78760",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:55471",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:55497",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:55471",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:52388",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:52388",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:62185",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:62165",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:69798",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:69765",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:66318",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:66315",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:69649",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:69648",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:58751",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:58751",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:95826",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:95826",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:95895",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:95895",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:93724",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:93683",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:54835",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:54829",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1358,508 +1838,76 @@
             }
         ],
         "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:506",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:500",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:59541",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:59433",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:35775",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:35845",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:26438",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:26451",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "0:76392",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "3:77035",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:76988",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:70174",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:70174",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:2919",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "1:2876",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "4:2876",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            },
-            {
-                "data": "-2:3015",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:3410",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:66512",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:66502",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:96348",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:96307",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:6240",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:6252",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:86891",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:86891",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:69763",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:69782",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:69763",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:55944",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:55957",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:0",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:0",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:55527",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:55527",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:40729",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:40745",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:93724",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:93683",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:95826",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:95826",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:69649",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:69648",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:69798",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:69765",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:52388",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:52388",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:78745",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:78760",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:59613",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:59630",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:42028",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:42116",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:16893",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:16871",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:62973",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:62907",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:65937",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:65908",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:65883",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:65925",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:451",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:452",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:58648",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:58651",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">22.08.3</property>
-  <property name="kdenlive:docproperties.position">2910</property>
+  <property name="kdenlive:docproperties.guidesCategories">[
+    {
+        "color": "#9b59b6",
+        "comment": "Category 1",
+        "index": 0
+    },
+    {
+        "color": "#3daee9",
+        "comment": "Category 2",
+        "index": 1
+    },
+    {
+        "color": "#1abc9c",
+        "comment": "Category 3",
+        "index": 2
+    },
+    {
+        "color": "#1cdc9a",
+        "comment": "Category 4",
+        "index": 3
+    },
+    {
+        "color": "#c9ce3b",
+        "comment": "Category 5",
+        "index": 4
+    },
+    {
+        "color": "#fdbc4b",
+        "comment": "Category 6",
+        "index": 5
+    },
+    {
+        "color": "#f39c1f",
+        "comment": "Category 7",
+        "index": 6
+    },
+    {
+        "color": "#f47750",
+        "comment": "Category 8",
+        "index": 7
+    },
+    {
+        "color": "#da4453",
+        "comment": "Category 9",
+        "index": 8
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.12.0</property>
+  <property name="kdenlive:docproperties.position">4312</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile2</property>
+  <property name="kdenlive:docproperties.profile">/home/redxarch/.local/share/kdenlive/profiles/customprofile0</property>
   <property name="kdenlive:docproperties.proxyextension"/>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
   <property name="kdenlive:docproperties.rendercustomquality">100</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
+  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
   <property name="kdenlive:docproperties.renderratio">0</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">1</property>
@@ -1869,7 +1917,7 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Monster-Editing/Output/Monster_05-08_Pursued_1080p_24fps.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxarch/Videos/Monster/Monster-Editing/Output/Monster_05-08_Pursued_1080p_24fps.mp4</property>
   <property name="kdenlive:docproperties.scrollPos">2970</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
@@ -1912,7 +1960,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer9" in="00:00:00.000" out="00:01:40.040">
   <property name="length">2399</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/ClipsnRandom/08 gingerly.mp3</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/ClipsnRandom/08 gingerly.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2016,7 +2064,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer10" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 05 - The Girl From HeidelbergLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 05 - The Girl From HeidelbergLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2046,7 +2094,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer11" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 06 - Disappearance ReportLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 06 - Disappearance ReportLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2076,7 +2124,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer12" in="00:00:00.000" out="00:23:55.180">
   <property name="length">34410</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 07 - Mansion Of TragedyLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 07 - Mansion Of TragedyLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2106,7 +2154,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer13" in="00:00:00.000" out="00:23:54.846">
   <property name="length">34402</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 08 - The FugitiveLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 08 - The FugitiveLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2781,7 +2829,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer14" in="00:00:00.000" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 05 - The Girl From HeidelbergLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 05 - The Girl From HeidelbergLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2811,7 +2859,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer15" in="00:00:00.000" out="00:23:55.430">
   <property name="length">34416</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 06 - Disappearance ReportLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 06 - Disappearance ReportLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2841,7 +2889,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer16" in="00:00:00.000" out="00:23:55.180">
   <property name="length">34410</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 07 - Mansion Of TragedyLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 07 - Mansion Of TragedyLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2871,7 +2919,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer17" in="00:00:00.000" out="00:23:54.846">
   <property name="length">34402</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 08 - The FugitiveLR.wav</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 08 - The FugitiveLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -3584,7 +3632,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer18" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3711,7 +3759,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer19" in="00:00:00.000" out="00:31:54.054">
   <property name="length">45892</property>
   <property name="eof">pause</property>
-  <property name="resource">0.750000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">0.75:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">31</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -3813,7 +3861,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">0.75</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -3833,7 +3881,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer20" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3961,7 +4009,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer21" in="00:00:00.000" out="00:11:57.683">
   <property name="length">17209</property>
   <property name="eof">pause</property>
-  <property name="resource">2.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
+  <property name="resource">2:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">71</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4063,7 +4111,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">2</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -4083,7 +4131,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer22" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4211,7 +4259,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer23" in="00:00:00.000" out="00:15:56.974">
   <property name="length">22945</property>
   <property name="eof">pause</property>
-  <property name="resource">1.500000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="resource">1.5:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">23</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4313,7 +4361,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1.5</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -4333,7 +4381,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer24" in="00:00:00.000" out="00:05:58.850">
   <property name="length">8604</property>
   <property name="eof">pause</property>
-  <property name="resource">4.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="resource">4:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">23</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4435,7 +4483,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">4</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -4455,7 +4503,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer25" in="00:00:00.000" out="00:09:34.159">
   <property name="length">13767</property>
   <property name="eof">pause</property>
-  <property name="resource">2.500000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="resource">2.5:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">23</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4557,7 +4605,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">2.5</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -4577,7 +4625,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer26" in="00:00:00.000" out="00:24:09.593">
   <property name="length">34756</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4705,7 +4753,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer27" in="00:00:00.000" out="00:16:06.423">
   <property name="length">23171</property>
   <property name="eof">pause</property>
-  <property name="resource">1.500000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="resource">1.5:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">24</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4807,7 +4855,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1.5</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -4827,7 +4875,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer28" in="00:00:00.000" out="00:48:19.228">
   <property name="length">69512</property>
   <property name="eof">pause</property>
-  <property name="resource">0.500000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="resource">0.5:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">24</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4929,7 +4977,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">0.5</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -4949,7 +4997,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer29" in="00:00:00.000" out="01:36:38.455">
   <property name="length">139024</property>
   <property name="eof">pause</property>
-  <property name="resource">0.250000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="resource">0.25:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">24</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -5051,7 +5099,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">0.25</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 08 - The Fugitive.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -5294,7 +5342,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer30" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5422,7 +5470,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer31" in="00:00:00.000" out="00:15:57.015">
   <property name="length">22946</property>
   <property name="eof">pause</property>
-  <property name="resource">1.500000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">1.5:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">31</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -5524,7 +5572,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1.5</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -5544,7 +5592,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer32" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">31</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -5646,7 +5694,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -5666,7 +5714,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer33" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">-3.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">-3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">31</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -5768,7 +5816,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">-3</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -5788,7 +5836,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer34" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">31</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -5890,7 +5938,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -5910,7 +5958,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer35" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3.000000:/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">31</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -6012,7 +6060,7 @@ p, li { white-space: pre-wrap; }
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 05 - The Girl From Heidelberg.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
@@ -6032,7 +6080,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer36" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 06 - Disappearance Report.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -6160,7 +6208,7 @@ p, li { white-space: pre-wrap; }
  <producer id="producer37" in="00:00:00.000" out="00:23:55.472">
   <property name="length">34417</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 07 - Mansion Of Tragedy.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -6431,16 +6479,20 @@ p, li { white-space: pre-wrap; }
   <transition id="transition3">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
-   <property name="version">0.1</property>
-   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition4">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
-   <property name="version">0.1</property>
-   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
