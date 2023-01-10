@@ -1,7 +1,6 @@
 #!/bin/sh
 cd Orig
 # Uncomment the following to extract subtitles from the 1080p source. Change the track selected as needed.
-for i in *.mkv; do mkvextract tracks "$i" 4:"../Subs/${i%.*}TitlesnSigns.srt"; done
 file_path="../Subs/"
 suffix="TitlesnSigns.ass"
 for i in *.mkv; do
@@ -40,3 +39,20 @@ done
 # for i in *.mkv; do ffmpeg -i "$i" -vn "../WAV/${i%.*}LR.wav" ;done
 
 cd - 
+
+# Another desired feature is auto-generated subtitels, which work best through youtube.
+# I have uploaded the playlist here (), which may be either privated or unlisted at a given time.
+# Following the guide here: https://askubuntu.com/questions/24059/automatically-generate-subtitles-close-caption-from-a-video-using-speech-to-text
+# We can download the vtt or srt files. 
+youtube-dl --write-auto-sub --write-sub --sub-lang en --convert-subs ass --yes-playlist --skip-download https://www.youtube.com/watch?v=Tq4WLmjmH4k&list=PLDZtzd7wcODk_gz_ZtlOvDmaTbspJHQEL&index=1
+# Assuming they come as vtt and are downloaded into Subs/, we want to convert them to ass:
+
+cd Subs
+suffix=".ass"
+for i in *.vtt; do
+    if test -f "${i%.*}$suffix"; then
+        echo "${i%.*}$suffix already exists"
+    else
+        ffmpeg -i "$i" 4:"${i%.*}$suffix" ;
+    fi
+done

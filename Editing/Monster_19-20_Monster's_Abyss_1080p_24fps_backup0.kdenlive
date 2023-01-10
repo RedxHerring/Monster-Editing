@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxarch/Videos/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.10.0" root="/home/redxherring/Videos/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
  <producer id="producer0" in="00:00:00.000" out="00:24:09.509">
   <property name="length">34754</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 19 - The Monster's Abyss.mkv</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 19 - The Monster's Abyss.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -129,7 +129,7 @@
  <producer id="producer1" in="00:00:00.000" out="00:23:56.598">
   <property name="length">34444</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 20 - Journey To Freiham.mkv</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 20 - Journey To Freiham.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -345,7 +345,7 @@
  <producer id="producer3" in="00:00:00.000" out="00:23:54.721">
   <property name="length">34399</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 19 - The Monster's AbyssLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 19 - The Monster's AbyssLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -372,7 +372,7 @@
  <producer id="producer2" in="00:00:00.000" out="00:23:56.306">
   <property name="length">34437</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 20 - Journey To FreihamLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 20 - Journey To FreihamLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -527,84 +527,36 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.guidesCategories">[
-    {
-        "color": "#9b59b6",
-        "comment": "Category 1",
-        "index": 0
-    },
-    {
-        "color": "#3daee9",
-        "comment": "Category 2",
-        "index": 1
-    },
-    {
-        "color": "#1abc9c",
-        "comment": "Category 3",
-        "index": 2
-    },
-    {
-        "color": "#1cdc9a",
-        "comment": "Category 4",
-        "index": 3
-    },
-    {
-        "color": "#c9ce3b",
-        "comment": "Category 5",
-        "index": 4
-    },
-    {
-        "color": "#fdbc4b",
-        "comment": "Category 6",
-        "index": 5
-    },
-    {
-        "color": "#f39c1f",
-        "comment": "Category 7",
-        "index": 6
-    },
-    {
-        "color": "#f47750",
-        "comment": "Category 8",
-        "index": 7
-    },
-    {
-        "color": "#da4453",
-        "comment": "Category 9",
-        "index": 8
-    }
-]
-</property>
-  <property name="kdenlive:docproperties.kdenliveversion">22.12.0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.08.3</property>
   <property name="kdenlive:docproperties.position">4663</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/redxarch/.local/share/kdenlive/profiles/customprofile0</property>
+  <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile2</property>
   <property name="kdenlive:docproperties.proxyextension"/>
   <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
+  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
   <property name="kdenlive:docproperties.rendercustomquality">100</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H265 (HEVC)</property>
   <property name="kdenlive:docproperties.renderratio">0</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">1</property>
-  <property name="kdenlive:docproperties.renderrescalewidth">1</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">720</property>
   <property name="kdenlive:docproperties.renderspeed">8</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/redxarch/Videos/Monster/Monster-Editing/Output/Monster_19-20_Monster's_Abyss_1080p_24fps.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">98</property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Monster-Editing/Output/Monster_19-20_Monster's_Abyss_1080p_24fps.mp4</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
@@ -704,7 +656,7 @@
  <producer id="producer4" in="00:00:00.000" out="00:23:54.721">
   <property name="length">34399</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 19 - The Monster's AbyssLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 19 - The Monster's AbyssLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -734,7 +686,7 @@
  <producer id="producer5" in="00:00:00.000" out="00:23:56.306">
   <property name="length">34437</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 20 - Journey To FreihamLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 20 - Journey To FreihamLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -856,7 +808,7 @@
  <producer id="producer6" in="00:00:00.000" out="00:23:54.721">
   <property name="length">34399</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 19 - The Monster's AbyssLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 19 - The Monster's AbyssLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -886,7 +838,7 @@
  <producer id="producer7" in="00:00:00.000" out="00:23:56.306">
   <property name="length">34437</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 20 - Journey To FreihamLR.wav</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 20 - Journey To FreihamLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -989,7 +941,7 @@
  <producer id="producer8" in="00:00:00.000" out="00:24:09.509">
   <property name="length">34754</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 19 - The Monster's Abyss.mkv</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 19 - The Monster's Abyss.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1117,7 +1069,7 @@
  <producer id="producer9" in="00:00:00.000" out="00:23:56.598">
   <property name="length">34444</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 20 - Journey To Freiham.mkv</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 20 - Journey To Freiham.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1363,7 +1315,7 @@
  <producer id="producer10" in="00:00:00.000" out="00:23:56.598">
   <property name="length">34444</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 20 - Journey To Freiham.mkv</property>
+  <property name="resource">/home/redxherring/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 20 - Journey To Freiham.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1646,20 +1598,16 @@
   <transition id="transition4">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
-   <property name="compositing">0</property>
-   <property name="distort">0</property>
-   <property name="rotate_center">0</property>
-   <property name="mlt_service">qtblend</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition5">
    <property name="a_track">0</property>
    <property name="b_track">6</property>
-   <property name="compositing">0</property>
-   <property name="distort">0</property>
-   <property name="rotate_center">0</property>
-   <property name="mlt_service">qtblend</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
