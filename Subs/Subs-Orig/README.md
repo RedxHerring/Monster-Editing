@@ -1,0 +1,1 @@
+These are subtitle files extracted from the Original videos downloaded, upscaled or not (though as of writing only the upscaled .mkv files contain subtitle files within).
