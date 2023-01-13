@@ -1,7 +1,7 @@
 #!/bin/sh
 cd Orig
 # Uncomment the following to extract subtitles from the 1080p source. Change the track selected as needed.
-file_path="../Subs/"
+file_path="../Subs/Subs-Orig"
 suffix="TitlesnSigns.ass"
 for i in *.mkv; do
     if test -f "$file_path${i%.*}$suffix"; then
