@@ -7,6 +7,8 @@ import sys
 file_name = sys.argv[1]
 search_text = sys.argv[2]
 replacement_text = sys.argv[3]
+if '\n' not in replacement_text:
+    replacement_text = f'{replacement_text}\n'
 
 with open(file_name,'r') as file:
     # Reading the content of the file

@@ -1,1 +1,7 @@
-test.txt
+*.txt
+*.mkv
+*.cbz
+*.flac
+*.jpg
+*.JPG
+*.pdf
