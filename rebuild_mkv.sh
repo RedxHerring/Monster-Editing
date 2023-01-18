@@ -11,20 +11,72 @@ for mkv in Orig/*.mkv; do
     echo "Found $SAVmkv, will use for english dub"
     SAVmkv="$SAVdir$SAVmkv"
     outmkv="Output/$vid_name"
+    ninputs=2 # assume 2 video inputs
+    # First use ffmpeg to put the video and audio together
+    # ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
+    # -i "$mkv" -i "$SAVmkv" \
+    # -map 0:v -map 0:a:0 -map 0:s:1 -map 0:t -map 1:a:1 \
+    # -c:v av1_qsv -c:a libopus -c:s copy \
+    # -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:s:0 0:s:s:1 -map_metadata:s:t 0:s:t \
+    # "$outmkv"
+
+    # if [[ "$epnum" == "15" ]]; then # extra audio file
+    #     ffmpeg -y -loglevel warning -i "$outmkv" -i "$mkv" -map 0 -map 1:a:1 -c copy -c:a:2 libopus -map_metadata:0 0 "$outmkv"
+    # fi
+
 
     # Set up inputs.txt, which will contain video and subtitle inputs
     rm -f inputs.txt
+    # Set up mappings.txt, which will contain subtitle mappings
+    rm -f mappings.txt
     # Set up map-fonts.txt, which will contain font streams from the original input
     rm -f map-fonts.txt
     # Set up outputs.txt, which will contain video and subtitle output parameters
     rm -f outputs.txt
-    # Search Full-Subs for ones matchign the episode
+    # Search Full-Subs for ones matching the episode
     nsubs=0
     for sub in $(find Subs/Full-Subs -type f -name '*.ass'); do
         subepnum=$(echo $sub | grep -E -o [0-9]{2})
-        if [[ "$epnum" == "$subepnum" ]]; then
+        if [[ "$epnum" == "$subepnum" ]]; then # valid episode
+            # find language
+            lang=$(echo $(basename $(dirname $sub)))
+            if [[ $lang == "ara" ]]; then
+                sub_text="Arabic"
+            elif [[ $lang == "deu" ]]; then
+                sub_text="Dutch"
+            elif [[ $lang == "eng" ]]; then
+                sub_text="English"
+            elif [[ $lang == "ind" ]]; then
+                sub_text="Indonesian"
+            elif [[ $lang == "ita" ]]; then
+                sub_text="Italian"
+            elif [[ $lang == "msa" ]]; then
+                sub_text="Malay"
+            elif [[ $lang == "pol" ]]; then
+                sub_text="Polish"
+            elif [[ $lang == "por" ]]; then
+                sub_text="Portuguese"
+            elif [[ $lang == "ron" ]]; then
+                sub_text="Romanian"
+            elif [[ $lang == "spa" ]]; then
+                sub_text="Spanish"
+            elif [[ $lang == "tha" ]]; then
+                sub_text="Thai"
+            elif [[ $lang == "tur" ]]; then
+                sub_text="Turkish"
+            elif [[ $lang == "vie" ]]; then
+                sub_text="Vietnamese"
+            elif [[ $lang == "jpn" ]]; then
+                sub_text="Japanese"
+            elif [[ $lang == "zho" ]]; then
+                sub_text="Chinese"
+            fi
+            echo "Found $sub_text subtitles"
+            nsubs=$(expr $nsubs + 1) # iterate first since titles and signs already added
+            echo "-metadata:s:s:$nsubs language=$lang" >> outputs.txt
             echo "-i $sub" >> inputs.txt
-            nsubs=$(expr $nsubs + 1)
+            echo "-map $ninputs" >> mappings.txt
+            ninputs=$(expr $ninputs + 1)
         fi
     done
     echo "Adding $nsubs additional subtitle files"
@@ -51,23 +103,23 @@ for mkv in Orig/*.mkv; do
     done
     echo "Adding $nfonts additional font files"
 
-    # Now run actual ffmpeg command
+    #Now run actual ffmpeg command
     if [[ "$epnum" == "15" ]]; then # extra audio file
-        echo "ffmpeg -y -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 2 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
-        ffmpeg -y -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 4 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
+        echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus -c:s copy -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
+        # ffmpeg params
+        ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
+        -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
+        -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+        -c copy -c:v av1_qsv -c:a libopus \
+        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:s:0 0:s:s:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
     else
-        echo "ffmpeg -y -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 2 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
-        ffmpeg -y -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 4 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
-        # ffmpeg -y \ 
-        # -i "$mkv" -i "$SAVmkv" \ 
-        # 'cat inputs.txt | xargs echo' \ 
-        # -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 \ 
-        # 'cat map-fonts.txt | xargs echo' \ 
-        # -c:v librav1e -speed 2 \ 
-        # -c:a libopus -b:a 100K \ 
-        # -map_metadata -1 -map_metadata:s:t 0:s:t \ 
-        # 'cat outputs.txt | xargs echo' \ 
-        # "$outmkv"
+        echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus -c:s copy -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
+        # ffmpeg params
+        ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
+        -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
+        -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+        -c copy -c:v av1_qsv -c:a libopus \
+        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:s:0 0:s:s:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
     fi
 
 done
