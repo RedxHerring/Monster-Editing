@@ -30,35 +30,45 @@ for mkv in Orig/*.mkv; do
     echo "Adding $nsubs additional subtitle files"
 
     # Now we need to find which streams have fonts that we need to copy over
-    nfontsi=0
+    nfonts=0
     for fontline in $(ffprobe -v error -hide_banner -of default=noprint_wrappers=0 -print_format flat -show_entries stream=index:stream_tags=mimetype "$mkv" | grep font); do
         strm=$(echo $fontline | grep -E -o [0-9]{2}) # assume 2-digit number
         if [[ "$strm" == "" ]]; then # actually 1 digit
             strm="$(echo $fontline | grep -E -o [0-9]{1})"
         fi
         echo "-map 0:$strm" >> map-fonts.txt
-        nfontsi=$(expr $nfontsi + 1)
+        nfonts=$(expr $nfonts + 1)
     done
-    echo "Adding $nfontsi font files from original mkv"
+    echo "Adding $nfonts font files from original mkv"
     
     # Now we need to add additional font files from Full-Subs
-    nfonts=0
     for font in $(find Subs/Full-Subs \( -iname "*.ttf" -or -iname "*.otf" \)); do
         if [[ $font == *"Subs/Full-Subs/"* ]]; then # extra check since it seems to pick up extra files otherwise
-            echo "-attach $font" >> inputs.txt
+            echo "-attach "$font"" >> inputs.txt
             echo "-metadata:s:t:$nfonts mimetype=application/x-truetype-font" >> outputs.txt
-            nfonts=$(expr $nfonts + 1)
+            nfonts=$(expr $nfonts + 1) # note since streams are 0-indexed we make sure to iterate after using the value as the index
         fi
     done
     echo "Adding $nfonts additional font files"
-    # if [[ "$epnum" == "15" ]]; then # extra audio file
-    #     ffmpeg -i "$mkv" -i "$SAVmkv" \ # video inputs
-    #     'cat inputs.txt | xargs echo'\
-    #     -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1\ # mapping
-    #     -c:v librav1e -speed 2 # video encoding
-    # else
 
-    # fi
+    # Now run actual ffmpeg command
+    if [[ "$epnum" == "15" ]]; then # extra audio file
+        echo "ffmpeg -y -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 2 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
+        ffmpeg -y -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 4 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
+    else
+        echo "ffmpeg -y -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 2 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
+        ffmpeg -y -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v librav1e -speed 4 -c:a libopus -b:a 100K -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
+        # ffmpeg -y \ 
+        # -i "$mkv" -i "$SAVmkv" \ 
+        # 'cat inputs.txt | xargs echo' \ 
+        # -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 \ 
+        # 'cat map-fonts.txt | xargs echo' \ 
+        # -c:v librav1e -speed 2 \ 
+        # -c:a libopus -b:a 100K \ 
+        # -map_metadata -1 -map_metadata:s:t 0:s:t \ 
+        # 'cat outputs.txt | xargs echo' \ 
+        # "$outmkv"
+    fi
 
 done
 

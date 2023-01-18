@@ -38,20 +38,46 @@ for lang in *; do # loop through directories
     # Now move all remaining files along with it, as they might be important font files
     cp -n $lang/* ../Full-Subs/$lang/
 done
-cd ../ # back to Subs/
-rm -r gdrive-subs
+
+cd ../Full-Subs 
 
 # All subtitles need to be formatted correctly for 1080p
-for sub in $(find Full-Subs -type f -name '*.ass'); do
-    python ../find_replace_lines.py "$sub" "Audio File:" ""
-    python ../find_replace_lines.py "$sub" "Video File:" ""
-    python ../find_replace_lines.py "$sub" "PlayResX:" "PlayResX: 1440"
-    python ../find_replace_lines.py "$sub" "PlayResY:" "PlayResY: 1080"
-    python ../find_replace_lines.py "$sub" "Style: Monster," "Style: Monster,Jesaya Free,72,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,3.375,1.6875,2,20,20,90,1"
-    python ../find_replace_lines.py "$sub" "Style: Bible Verse," "Style: Bible Verse,X-Files,27,&H00908B87,&H000000FF,&H00F3F3F1,&H00000000,0,0,0,0,92,100,0,0,1,0,0,2,20,20,23,1"
-    python ../find_replace_lines.py "$sub" "Style: Default," "Style: Default,Jesaya Free,72,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,3.375,1.6875,2,20,20,90,1"
-    python ../find_replace_lines.py "$sub" "Style: Monster - Default," "Style: Monster - Default,Jesaya Free,72,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,3.375,1.6875,2,20,20,90,1"
+for sub in $(find . -type f -name '*.ass'); do
+    python ../../find_replace_lines.py "$sub" "Audio File:" ""
+    python ../../find_replace_lines.py "$sub" "Video File:" ""
+    python ../../find_replace_lines.py "$sub" "PlayResX:" "PlayResX: 1440"
+    python ../../find_replace_lines.py "$sub" "PlayResY:" "PlayResY: 1080"
+    python ../../find_replace_lines.py "$sub" "Style: Monster," "Style: Monster,Jesaya Free,72,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,3.375,1.6875,2,20,20,90,1"
+    python ../../find_replace_lines.py "$sub" "Style: Bible Verse," "Style: Bible Verse,X-Files,27,&H00908B87,&H000000FF,&H00F3F3F1,&H00000000,0,0,0,0,92,100,0,0,1,0,0,2,20,20,23,1"
+    python ../../find_replace_lines.py "$sub" "Style: Default," "Style: Default,Jesaya Free,72,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,3.375,1.6875,2,20,20,90,1"
+    python ../../find_replace_lines.py "$sub" "Style: Monster - Default," "Style: Monster - Default,Jesaya Free,72,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,3.375,1.6875,2,20,20,90,1"
 done
+
+# Rename any fontfiles with whitespace
+for lang in *; do
+    cd "$lang"
+    for font in *.ttf *.otf; do
+        echo "Checking $font" 
+        font_nws=${font// /_} # no white space
+        if [ "$font" != "$font_nws" ]; then # Contains whitespace
+            echo "Renaming $font to $font_nws"
+            mv "$font" "$font_nws"
+            fontname=$(basename -- "$font") # remove path
+            fontname="${fontname%.*}" # remove extension
+            fontname_nws=$(basename -- "$font_nws") # remove path
+            fontname_nws="${fontname_nws%.*}" # remove extension
+            find -type f -exec sed -i "s/$fontname/$fontname_nws/g" {} +
+        fi
+    done
+    cd ../ # back to Full-Subs
+done
+
+# Remove languages that produce bugs in rebuild_mkv.sh
+rm -r zho
+rm -r jpn
+
+cd ../ # back to Subs/
+rm -r gdrive-subs
 
 zip -r Full-Subs.zip Full-Subs > nul
 rm nul
