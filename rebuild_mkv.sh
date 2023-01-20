@@ -12,18 +12,6 @@ for mkv in Orig/*.mkv; do
     SAVmkv="$SAVdir$SAVmkv"
     outmkv="Output/$vid_name"
     ninputs=2 # assume 2 video inputs
-    # First use ffmpeg to put the video and audio together
-    # ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
-    # -i "$mkv" -i "$SAVmkv" \
-    # -map 0:v -map 0:a:0 -map 0:s:1 -map 0:t -map 1:a:1 \
-    # -c:v av1_qsv -c:a libopus -c:s copy \
-    # -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:s:0 0:s:s:1 -map_metadata:s:t 0:s:t \
-    # "$outmkv"
-
-    # if [[ "$epnum" == "15" ]]; then # extra audio file
-    #     ffmpeg -y -loglevel warning -i "$outmkv" -i "$mkv" -map 0 -map 1:a:1 -c copy -c:a:2 libopus -map_metadata:0 0 "$outmkv"
-    # fi
-
 
     # Set up inputs.txt, which will contain video and subtitle inputs
     rm -f inputs.txt

@@ -12,7 +12,8 @@ rm -rf gdrive-subs
 
 # get new custom subs
 mkdir -p gdrive-subs
-unzip -q -d gdrive-subs drive-download*.zip
+# unzip -q -d gdrive-subs drive-download*.zip
+unzip -q -d gdrive-subs Finalized*.zip
 
 # Copy the NFLX-Subs as the baseline for the final product
 cp -R NFLX-Subs Full-Subs
