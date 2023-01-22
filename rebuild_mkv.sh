@@ -59,11 +59,16 @@ for mkv in Orig/*.mkv; do
             elif [[ $lang == "zho" ]]; then
                 sub_text="Chinese"
             fi
+            if [[ "$lang" == "eng" ]] && [[ "$sub" != *"itles"* ]]; then
+                idefault=$nsubs # pick this subs track as default in ffmpeg
+            elif [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
+                sub_text="$sub_text-Titles+Signs"
+            fi
             echo "Found $sub_text subtitles"
-            nsubs=$(expr $nsubs + 1) # iterate first since titles and signs already added
-            echo "-metadata:s:s:$nsubs language=$lang" >> outputs.txt
+            echo "-metadata:s:s:$nsubs language=$lang -metadata:s:s:$nsubs title=$sub_text" >> outputs.txt
             echo "-i $sub" >> inputs.txt
             echo "-map $ninputs" >> mappings.txt
+            nsubs=$(expr $nsubs + 1) # iterate after since titles and signs will be added
             ninputs=$(expr $ninputs + 1)
         fi
     done
@@ -97,17 +102,19 @@ for mkv in Orig/*.mkv; do
         # ffmpeg params
         ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
         -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
-        -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+        -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
         -c copy -c:v av1_qsv -c:a libopus \
-        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:s:0 0:s:s:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
+        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+        -disposition:s:s:"$idefault" forced "$outmkv"
     else
         echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus -c:s copy -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
         # ffmpeg params
         ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
         -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
-        -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+        -map 0:v -map 0:a:0 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
         -c copy -c:v av1_qsv -c:a libopus \
-        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:s:0 0:s:s:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) "$outmkv"
+        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+        -disposition:s:s:"$idefault" forced "$outmkv"
     fi
 
 done

@@ -25,4 +25,3 @@ for vid in *.mp4; do
         fi
     done
 done
-cd-
