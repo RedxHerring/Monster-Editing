@@ -102,18 +102,18 @@ for mkv in Orig/*.mkv; do
         # ffmpeg params
         ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
         -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
-        -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
-        -c copy -c:v av1_qsv -c:a libopus \
-        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+        -map 0:v:0 -map 1:a:0 -map 0:a:1 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+        -c:v av1_qsv -c:a libopus -c:s copy -c:t copy \
+        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
         -disposition:s:s:"$idefault" forced "$outmkv"
     else
-        echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus -c:s copy -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
+        echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $mkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 1:a:0 -map 1:a:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus  -c:t copy -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo)  $outmkv"
         # ffmpeg params
         ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
         -i "$mkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
-        -map 0:v -map 0:a:0 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
-        -c copy -c:v av1_qsv -c:a libopus \
-        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 0:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+        -map 0:v:0 -map 1:a:0 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+        -c:v av1_qsv -c:a libopus -c:s copy -c:t copy \
+        -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
         -disposition:s:s:"$idefault" forced "$outmkv"
     fi
 

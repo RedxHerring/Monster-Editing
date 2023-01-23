@@ -119,6 +119,10 @@ for sub in $(find . -type f -name '*.ass'); do
         find -type f -exec sed -i "s/$style0,,/$style1,,/g" {} +
     fi
 done
+# Fix any missed namings in all files
+ find -type f -exec sed -i "s/Shubert,,/Shuwald,,/g" {} +
+ find -type f -exec sed -i "s/Runge,,/Lunge,,/g" {} +
+
 
 # Rename any fontfiles with whitespace
 for lang in *; do
