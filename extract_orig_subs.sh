@@ -30,3 +30,7 @@ for vid in *.mkv; do
         echo "ffmpeg -y -loglevel error -i "$vid" -map s:$strm "$file_path$lang/$out_name$suffix""
     done
 done
+cd "$file_path"
+# Fix any missed namings in all files
+ find -type f -exec sed -i "s/Schubert/Schuwald/g" {} +
+ find -type f -exec sed -i "s/Runge/Lunge/g" {} +

@@ -120,8 +120,8 @@ for sub in $(find . -type f -name '*.ass'); do
     fi
 done
 # Fix any missed namings in all files
- find -type f -exec sed -i "s/Shubert,,/Shuwald,,/g" {} +
- find -type f -exec sed -i "s/Runge,,/Lunge,,/g" {} +
+ find -type f -exec sed -i "s/Schubert/Schuwald/g" {} +
+ find -type f -exec sed -i "s/Runge/Lunge/g" {} +
 
 
 # Rename any fontfiles with whitespace

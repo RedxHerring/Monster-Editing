@@ -38,6 +38,11 @@ for sub in $(find . -type f -name '*.ass'); do
     python ../../find_replace_lines.py "$sub" "Style: Names," ""
     python ../../find_replace_lines.py "$sub" "Style: Bible-Verse," ""
 
+    style0="Monster-Title"
+    style1="Title"
+    python ../../find_replace_lines.py "$sub" "Style: $style0," ""
+    sed -i "s/$style0,,/$style1,,/g" $sub
+
     # Then put in place new style lines
     if [ $epnum -eq 1 ]; then
         python ../../find_replace_lines.py "$sub" "Style: Default," "Style: Default,Jesaya Free,28,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,1.5,0.75,2,10,10,10,1" \
@@ -79,7 +84,8 @@ done
 
 cd ../../ # back to top directory
 # Rebuild the episodes with edited subs
-for epnum in "${epnums[@]}"; do
-echo "Rebuilding $epnum"
-    sh rebuild1_mkv.sh "$epnum"
-done
+echo "Rebuild $epnums"
+# for epnum in "${epnums[@]}"; do
+#     echo "Rebuilding $epnum"
+#     sh rebuild_mkv.sh "$epnum"
+# done
