@@ -106,7 +106,7 @@ if [[ "$epnum" == "15" ]]; then # extra audio file
     -i "$Origmkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
     -map 0:v:0 -map 1:a:0 -map 0:a:1 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
     -c:v av1_qsv -preset 1 -extbrc 0 -look_ahead_depth 36 -c:a libopus -c:s copy -c:t copy \
-    -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
     -disposition:s:s:"$idefault" forced "$outmkv"
 else
     echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 1:a:0 -map 1:a:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus  -c:t copy -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo)  $outmkv"
@@ -115,7 +115,7 @@ else
     -i "$Origmkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
     -map 0:v:0 -map 1:a:0 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
     -c:v av1_qsv -preset 1 -extbrc 0 -look_ahead_depth 36 -c:a libopus -c:s copy -c:t copy \
-    -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
     -disposition:s:s:"$idefault" forced "$outmkv"
 fi
 
