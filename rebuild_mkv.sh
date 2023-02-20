@@ -32,6 +32,8 @@ for sub in $(find Subs/Full-Subs -type f -name '*.ass'); do
         lang=$(echo $(basename $(dirname $sub)))
         if [[ $lang == "ara" ]]; then
             sub_text="Arabic"
+        elif [[ $lang == "bra" ]]; then
+            sub_text="Brazilian-Portuguese"
         elif [[ $lang == "deu" ]]; then
             sub_text="Dutch"
         elif [[ $lang == "eng" ]]; then
@@ -65,6 +67,8 @@ for sub in $(find Subs/Full-Subs -type f -name '*.ass'); do
             idefault=$nsubs # pick this subs track as default in ffmpeg
         elif [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
             sub_text="$sub_text-Titles+Signs"
+        elif [[ "$lang" == "spa" ]] && [[ "$sub" == *"roadcast"* ]]; then
+            sub_text="$sub_text-Original_Broadcast"
         fi
         echo "Found $sub_text subtitles"
         echo "-metadata:s:s:$nsubs language=$lang -metadata:s:s:$nsubs title=$sub_text" >> outputs.txt

@@ -1,16 +1,14 @@
-# Using https://github.com/intel/intel-extension-for-pytorch
-
+import intel_extension_for_pytorch
 import torch
-import torchvision.models as models
+from diffusers import StableDiffusionPipeline
 
-model = models.resnet50(pretrained=True)
-model.eval()
-data = torch.rand(1, 3, 224, 224)
-
-import intel_extension_for_pytorch as ipex
-model = model.to('xpu')
-data = data.to('xpu')
-model = ipex.optimize(model)
-
-with torch.no_grad():
-  model(data)
+model_id="runwayml/stable-diffusion-v1-5"
+prompt = "vivid red hot air ballons over paris in the evening"
+pipe = StableDiffusionPipeline.from_pretrained(
+    model_id,
+    torch_dtype=torch.float16,  # this can be torch.float32 as well
+    revision="fp16",
+    use_auth_token="<the token you generated>")
+pipe = pipe.to("xpu")
+image = pipe(prompt).images[0]
+image.save(f"{prompt[:5]}.png")
