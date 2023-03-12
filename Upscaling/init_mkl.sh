@@ -9,7 +9,7 @@ MKL_LIB22=/opt/intel/oneapi/mkl/2022.2.0/lib/intel64
 MKL_LIB23=/opt/intel/oneapi/mkl/2023.0.0/lib/intel64
 PYTHON39_LIB=/opt/intel/oneapi/intelpython/python3.9/lib
 # export LD_PRELOAD=${MKL_INTEL64}libmkl_intel_lp64.so.2:${MKL_INTEL64}/libmkl_intel_ilp64.so.2:${MKL_INTEL64}/libmkl_sequential.so.2:${MKL_INTEL64}/libmkl_core.so.2:${MKL_INTEL64}/libmkl_sycl.so.2:${COMPILER_LIB}/libsycl.so.5
-
+source /opt/intel/oneapi/setvars.sh
 usepython39=0
 if [[ usepython39 -eq 1 ]]; then
     export LD_LIBRARY_PATH=$PYTHON39_LIB

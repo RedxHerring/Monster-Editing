@@ -8,3 +8,4 @@
 *.opus
 *.wav
 .vscode/*
+*.pth
