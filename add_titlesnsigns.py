@@ -1,6 +1,7 @@
 # Simple python function to add lines from one subtitle file to another.
 import sys
 import datetime
+import numpy as np
 # using https://stackoverflow.com/questions/65199011/is-there-a-way-to-check-similarity-between-two-full-sentences-in-python
 import spacy
 nlp = spacy.load("en_core_web_lg") # large language model
@@ -15,54 +16,64 @@ main_sub = sys.argv[1]
 titles_sub = sys.argv[2]
 
 time_thresh = 5 # seconds within which we'll look for the title line
-added_lines = 0 # iterate when we insert instead of replacing, ie when replacing one line with multiple lines
 popped_lines = []
-line_times = []
-idx0 = -1 # index of first dialogue line
+inserted_times = []
 with open(main_sub,'r') as mainf, open(titles_sub, 'r') as titlesf:
     # Reading the content of the file
     # using the read() function and storing
     # them in a new variable
     linest = titlesf.readlines()
-    linesm = mainf.readlines()
-    lines_out = linesm.copy()
-    
-    # Loop through titles lines
+    dialinest = linest.copy()
+    times_t = []
     for kt,linet in enumerate(linest): # loop through lines in titles file
         if linet.find("Dialogue:") != -1: # have arrived at a dialogue line
             line_list = linet.split(',')
             # Find start time of title sub line
             t_startt = datetime.datetime.strptime(line_list[1],'%H:%M:%S.%f') 
-            t_start_numt = t_startt.minute*60 + t_startt.second + t_startt.microsecond/1e6
-            line_list = linet.split(',,') # assume nothing in Effect column
-            text_t = line_list[-1] # actual subtitle text
-            doct = nlp(text_t.lower()) # force lowercase
-            # Now loop through main file to check if a similaar sub is already there, and either replace or insert
-            inserted = False
-            for km,linem in enumerate(linesm) :
-                if linem.find("Dialogue:") != -1:
-                    if idx0 == -1:
-                        idx0 = km # set index that we can use later
-                    line_list = linem.split(',')
-                    # Find start time of title sub line
-                    t_startm = datetime.datetime.strptime(line_list[1],'%H:%M:%S.%f') 
-                    line_times.append(t_startm.minute*60 + t_startm.second + t_startm.microsecond/1e6)
-                    line_list = linem.split(',,') # assume nothing in Effect column
-                    text_m = line_list[-1].lower()
-                    docm = nlp(text_m)
-                    if abs((t_startm - t_startt).total_seconds()) < time_thresh:
-                        if doct.similarity(docm) > .5 and km not in popped_lines:
-                            idxi = idx0 + num_less_than(line_times, line_times[-1])
-                            line_times.pop(-1)
-                            lines_out.pop(idxi) # remove this line since we're adding a new version
-                            popped_lines.append(km)
-                    if t_startm > t_startt and not inserted:
-                        idxi = idx0 + num_less_than(line_times, t_start_numt)
-                        lines_out.insert(idxi,linet)
-                        line_times.append(t_start_numt)
-                        inserted = True
-                    if (t_startm - t_startt).total_seconds() > time_thresh:
-                        break
+            times_t.append(t_startt.minute*60 + t_startt.second + t_startt.microsecond/1e6)
+        else:
+            dialinest.pop(0) # we know all the dialogue is at the end so we can always pop the first line
+    times_t = np.asarray(times_t)
+    linesm = mainf.readlines()
+    lines_out = linesm.copy()
+    times_m = []
+    num_popped = 0
+    idx1 = -1
+    for km,linem in enumerate(linesm):
+        if linem.find("Dialogue:") != -1:
+            if idx1 == -1:
+                idx1 = km
+            line_list = linem.split(',')
+            # Find start time of title sub line
+            t_startm = datetime.datetime.strptime(line_list[1],'%H:%M:%S.%f') 
+            t_start_numm = t_startm.minute*60 + t_startm.second + t_startm.microsecond/1e6
+            times_m.append(t_start_numm)
+            line_list = linem.split(',,') # assume nothing in Effect column
+            text_m = line_list[-1]
+            if len(text_m) < 20:
+                text_m = '{\}{\}' + text_m + '{\}{\}' # add some chaos
+            docm = nlp(text_m.lower())
+            idxst = np.asarray(np.asarray(np.abs(times_t-t_start_numm) < time_thresh).nonzero())
+            
+            for idxt in idxst.flat:
+                linet = dialinest[idxt]
+                line_list = linet.split(',,') # assume nothing in Effect column
+                text_t = line_list[-1] # actual subtitle text
+                doct = nlp(text_t.lower()) # force lowercase
+                if doct.similarity(docm) > .5:
+                    idxi = km - num_popped
+                    lines_out.pop(idxi)
+                    times_m.pop(-1)
+                    num_popped += 1
+                    break # got to next km, linem
+    times_m = np.asarray(times_m)
+    # Now last loop to insert titles and signs lines
+    
+    for kt,linet in enumerate(dialinest):
+        idxi = np.where(times_m>times_t[kt])[0][0]
+        lines_out.insert(idx1+idxi,linet)
+        times_m = np.insert(times_m,idxi,times_t[kt])
+
 
 with open(main_sub,'w') as file:
     file.writelines(lines_out)
