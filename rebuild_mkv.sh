@@ -1,5 +1,7 @@
-# Given an epnum in the input, rebuild that mkv
+# Given an epnum in the input, rebuild that mkvz
+
 SAVdir='Monster [Ultimate Collection] By Kira [SEV]/Monster [2004-2005] DVDRip x265 AC-3 DD 2.0 Kira [SEV]/'
+FREdir='[Community] Monster [MULTI DVDRIP 540p x265 AC3]'
 
 epnum=$1 # episode number should be first and only argument
 Origmkv=$(ls Orig/ | grep "Chapter $epnum")
@@ -9,9 +11,13 @@ vid_name=${Origmkv:5}
 echo "Preparing $vid_name..."
 epnum=$(echo $vid_name | grep -E -o [0-9]{2})
 epnum=${epnum:0:2}
-SAVmkv=$(ls "$SAVdir" | grep "Chapter $epnum")
-echo "Found $SAVmkv, will use for english dub"
-SAVmkv="$SAVdir$SAVmkv"
+# Find episode with better audio files
+SAVmkv="$SAVdir$(ls "$SAVdir" | grep "Chapter $epnum")"
+echo "Found $SAVmkv, will use for japanese and english dub"
+# Find episode with french dub
+FREmkv="$FREdir$(ls "$FREdir" | grep "Monster $epnum")"
+echo "Found $FREmkv, will use for french dub"
+
 outmkv="Output/$vid_name"
 ninputs=2 # assume 2 video inputs
 
@@ -23,7 +29,7 @@ rm -f mappings.txt
 rm -f map-fonts.txt
 # Set up outputs.txt, which will contain video and subtitle output parameters
 rm -f outputs.txt
-# Search Full-Subs for ones matching the episode
+# Search Full-Subs for subtitle files matching the episode
 nsubs=0
 for sub in $(find Subs/Full-Subs -type f -name '*.ass'); do
     subepnum=$(echo $sub | grep -E -o [0-9]{2})
@@ -38,6 +44,8 @@ for sub in $(find Subs/Full-Subs -type f -name '*.ass'); do
             sub_text="Dutch"
         elif [[ $lang == "eng" ]]; then
             sub_text="English"
+        elif [[ $lang == "fre" ]]; then
+            sub_text="French"
         elif [[ $lang == "ind" ]]; then
             sub_text="Indonesian"
         elif [[ $lang == "ita" ]]; then
@@ -78,48 +86,30 @@ for sub in $(find Subs/Full-Subs -type f -name '*.ass'); do
         ninputs=$(expr $ninputs + 1)
     fi
 done
-echo "Adding $nsubs additional subtitle files"
+echo "Adding $nsubs subtitle files"
 
-# Now we need to find which streams have fonts that we need to copy over
-nfonts=0
-for fontline in $(ffprobe -v error -hide_banner -of default=noprint_wrappers=0 -print_format flat -show_entries stream=index:stream_tags=mimetype "$Origmkv" | grep font); do
-    strm=$(echo $fontline | grep -E -o [0-9]{2}) # assume 2-digit number
-    if [[ "$strm" == "" ]]; then # actually 1 digit
-        strm="$(echo $fontline | grep -E -o [0-9]{1})"
-    fi
-    echo "-map 0:$strm" >> map-fonts.txt
-    nfonts=$(expr $nfonts + 1)
-done
-echo "Adding $nfonts font files from original mkv"
-
-# Now we need to add additional font files from Full-Subs
-for font in $(find Subs/Full-Subs \( -iname "*.ttf" -or -iname "*.otf" \)); do
-    if [[ $font == *"Subs/Full-Subs/"* ]]; then # extra check since it seems to pick up extra files otherwise
-        echo "-attach "$font"" >> inputs.txt
-        echo "-metadata:s:t:$nfonts mimetype=application/x-truetype-font" >> outputs.txt
-        nfonts=$(expr $nfonts + 1) # note since streams are 0-indexed we make sure to iterate after using the value as the index
-    fi
-done
-echo "Adding $nfonts additional font files"
+# We'll map the french subs directly from the french source file, but we need to know the index to map the metadata
+nsubs=$(expr $nsubs + 1)
+echo "map-metadata:s:s:$nsubs 2:s:s:1" >> outputs.txt
 
 #Now run actual ffmpeg command
 if [[ "$epnum" == "15" ]]; then # extra audio file
     echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus -c:s copy -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
     # ffmpeg params
     ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
-    -i "$Origmkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
-    -map 0:v:0 -map 1:a:0 -map 0:a:1 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+    -i "$Origmkv" -i "$SAVmkv" -i "$FREmkv" $(cat inputs.txt | xargs echo) \
+    -map 0:v:0 -map 1:a:0 -map 0:a:1 -map 1:a:1 -map 2:a:1 $(cat mappings.txt | xargs echo) -map 2:s -map 0:t -map 2:t \
     -c:v av1_qsv -preset 1 -extbrc 0 -look_ahead_depth 36 -c:a libopus -c:s copy -c:t copy \
-    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:a:3 2:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
     -disposition:s:s:"$idefault" forced "$outmkv"
 else
     echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 1:a:0 -map 1:a:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus  -c:t copy -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo)  $outmkv"
     # ffmpeg params
     ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
-    -i "$Origmkv" -i "$SAVmkv" $(cat inputs.txt | xargs echo) \
-    -map 0:v:0 -map 1:a:0 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) $(cat map-fonts.txt | xargs echo) \
+    -i "$Origmkv" -i "$SAVmkv" -i "$FREmkv" $(cat inputs.txt | xargs echo) \
+    -map 0:v:0 -map 1:a:0 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) -map 2:s -map 0:t -map 2:t  \
     -c:v av1_qsv -preset 1 -extbrc 0 -look_ahead_depth 36 -c:a libopus -c:s copy -c:t copy \
-    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:a:2 2:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
     -disposition:s:s:"$idefault" forced "$outmkv"
 fi
 
