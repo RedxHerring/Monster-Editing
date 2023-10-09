@@ -8,9 +8,9 @@ over_write=true
 rip_path="Blu-Ray/Ripped-Titles"
 mkdir -p $rip_path
 
-# for title in {0..15}; do
-#     mplayer -dumpstream br://$title -nocache -bluray-device $1 -dumpfile "$rip_path/title$title.mpg"
-# done
+for title in {0..15}; do
+    mplayer -dumpstream br://$title -nocache -bluray-device $1 -dumpfile "$rip_path/title$title.mpg"
+done
 echo "Titles from $1 saved in $rip_path. View and rename them, deleting any repeats or undesired videos."
 read -p "When finished renaming, press Enter to start encoding process." </dev/tty
 out_path="Blu-Ray/Encoded"
