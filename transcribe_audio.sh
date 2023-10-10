@@ -8,6 +8,6 @@ export LD_PRELOAD=/usr/lib/libstdc++.so.6.0.32
 lang=$(echo $(basename $1))
 mkdir -p Subs/$lang
 for afile in "$1/"*.flac; do
-    whisper "$afile" --model large-v2 --task translate --language de --logprob_threshold -.4 --beam_size 10 --patience 2 --output_format srt --output_dir Subs/$lang/
+    whisper "$afile" --model large-v2 --task transcribe --language de --logprob_threshold -.4 --beam_size 10 --patience 2 --output_format srt --output_dir Subs/$lang/
 done
 # sudo intel_gpu_top
