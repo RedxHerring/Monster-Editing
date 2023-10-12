@@ -5,7 +5,7 @@ Heidelberg
 </font>
 
 2
-00:02:05,750 --> 00:02:09,502
+00:02:05,750 --> 00:02:09,504
 <font size="24"><b>The Girl of Heidelberg</b></font> 
 ‎ 
 ‎ 
@@ -13,7 +13,7 @@ Heidelberg
 ‎
 
 3
-00:02:22,225 --> 00:02:25,102
+00:02:22,225 --> 00:02:25,103
 <font size="24"><b>Nina Fortner</b></font>
 
 4
@@ -63,7 +63,7 @@ Pursued
 ‎
 
 9
-01:12:51,200 --> 01:12:55,872
+01:12:51,200 --> 01:12:55,871
 <font face="Times New Roman" size="28"> 
 5 Months Later 
 </font> 
