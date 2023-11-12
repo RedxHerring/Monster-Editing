@@ -29,7 +29,7 @@ Friedrich Emmanuel School
 ‎
 
 3
-00:14:13,310 --> 00:14:16,188
+00:14:12,685 --> 00:14:15,563
 <font size="28"> 
 Monday 
 </font> 
@@ -40,7 +40,7 @@ Monday
 ‎
 
 4
-00:19:21,243 --> 00:19:23,996
+00:19:20,617 --> 00:19:23,370
 <font size="28"> 
 Wednesday 
 </font> 
@@ -51,7 +51,7 @@ Wednesday
 ‎
 
 5
-00:20:55,504 --> 00:20:58,006
+00:20:54,878 --> 00:20:57,381
 <font size="28"> 
 Friday 
 </font> 
@@ -62,7 +62,7 @@ Friday
 ‎
 
 6
-00:22:08,869 --> 00:22:13,874
+00:22:08,243 --> 00:22:13,248
 <font size="20"> 
 Reichwein Psychotherapy Center 
 (Munich) 
@@ -82,7 +82,7 @@ Reichwein Psychotherapy Center
 ‎‎
 
 7
-00:24:42,439 --> 00:24:46,234
+00:24:41,813 --> 00:24:45,609
 <font size="36"><b> 
 The Secret Woods 
 </b></font> 
@@ -91,7 +91,7 @@ The Secret Woods
 ‎‎‎
 
 8
-00:45:09,039 --> 00:45:11,875
+00:45:08,414 --> 00:45:11,250
 <font size="36"><b> 
 Proof 
 </b></font> 
@@ -100,7 +100,7 @@ Proof
 ‎‎‎
 
 9
-01:05:52,490 --> 01:05:55,952
+01:05:51,864 --> 01:05:55,326
 <font size="36"><b> 
 Just One Case 
 </b></font> 
@@ -109,7 +109,7 @@ Just One Case
 ‎‎‎
 
 10
-01:26:34,522 --> 01:26:37,400
+01:26:33,563 --> 01:26:36,441
 <font size="36"><b> 
 Execution 
 </b></font> 
