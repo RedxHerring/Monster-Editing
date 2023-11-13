@@ -1,1228 +1,1224 @@
 1
-00:00:01,000 --> 00:00:02,000
-Entschuldigen Sie!
+00:00:01,000 --> 00:00:03,060
+Ich mache noch ein Foto von dem Leisensack.
 
 2
-00:00:02,000 --> 00:00:03,000
-Mach noch ein Foto von dem Leichensack!
+00:00:04,260 --> 00:00:05,840
+Sie muss weiter. Ich bitte Sie.
 
 3
-00:00:04,000 --> 00:00:05,000
-Sie muss beitreten!
+00:00:06,000 --> 00:00:07,340
+Sie ist der aktuelle Stand der Ermittlungen.
 
 4
-00:00:05,000 --> 00:00:06,000
-Ich bitte Sie!
-
-5
-00:00:06,000 --> 00:00:07,000
-Das ist der aktuelle Stand der Ermittlungen!
-
-6
-00:00:07,000 --> 00:00:09,000
-Hören Sie nicht zu verarbeiten!
-
-7
-00:00:09,000 --> 00:00:10,000
+00:00:08,800 --> 00:00:10,080
 Gab es weitere Morde?
 
-8
-00:00:10,000 --> 00:00:14,000
+5
+00:00:10,100 --> 00:00:13,700
 Können Sie uns nicht wenigstens sagen, wie die Polizei momentan diesen Fall einschätzt?
 
-9
-00:00:14,000 --> 00:00:17,000
+6
+00:00:13,740 --> 00:00:16,000
 Handelt es sich hier ebenso um einen Fall der besagten Paarmordserie?
 
+7
+00:00:17,040 --> 00:00:20,300
+Die getöteten Jobs hatten laut unseren Recherchen ebenfalls keine Kinder.
+
+8
+00:00:20,960 --> 00:00:22,920
+Und es ist wieder ein Paar mittleren Alters.
+
+9
+00:00:23,040 --> 00:00:27,180
+Das passt doch genau in diese Mordserie, die sich mittlerweile über ganz Deutschland erstreckt.
+
 10
-00:00:17,000 --> 00:00:21,000
-Die getöteten Jobs hatten laut unseren Recherchen ebenfalls keine Kinder!
-
-11
-00:00:21,000 --> 00:00:23,000
-Und es ist wieder ein Paar mittleren Alters!
-
-12
-00:00:23,000 --> 00:00:27,000
-Das passt doch genau in diese Mordserie, die sich mittlerweile über ganz Deutschland erstreckt!
-
-13
-00:00:27,000 --> 00:00:29,000
-Kein Kommentar!
-
-14
-00:00:29,000 --> 00:00:33,000
-Stimmt es, dass das Bundeskriminalamt den dafür zuständigen Ermittler hierher schickt?
-
-15
-00:00:33,000 --> 00:00:35,000
-Also steht dieser Fall in Zusammenhang mit den Paarmorden?
-
-16
-00:00:35,000 --> 00:00:37,000
+00:00:27,480 --> 00:00:28,000
 Kein Kommentar.
 
-17
-00:00:39,000 --> 00:00:43,000
-Vielleicht sollte ich mit dem Ermittler vom Bundeskriminalamt persönlich sprechen.
+11
+00:00:28,000 --> 00:00:28,760
+Kein Kommentar.
 
-18
-00:00:43,000 --> 00:00:45,000
-Dann komme ich vielleicht schneller voran.
+12
+00:00:29,280 --> 00:00:33,160
+Stimmt es, dass das Bundeskriminalamt den dafür zuständigen Ermittler hierher schickt?
 
-19
-00:00:46,000 --> 00:00:47,000
+13
+00:00:33,160 --> 00:00:35,560
+Also steht dieser Fall in Zusammenhang mit den Paarmorden?
+
+14
+00:00:35,740 --> 00:00:37,100
+Kein Kommentar.
+
+15
+00:00:39,400 --> 00:00:44,760
+Vielleicht sollte ich mit dem Ermittler vom Bundeskriminalamt persönlich sprechen, dann komme ich vielleicht schneller voran.
+
+16
+00:00:46,000 --> 00:00:47,320
 Überlass das ruhig mir.
 
-20
-00:00:48,000 --> 00:00:50,000
+17
+00:00:48,100 --> 00:00:50,000
 Ich sorge dafür, dass wir die anderen Blätter überholen.
 
-21
-00:00:50,000 --> 00:00:53,000
+18
+00:00:50,660 --> 00:00:52,840
 Und lass bitte genügend Platz für die Schlagzeile frei.
 
-22
-00:00:55,000 --> 00:00:56,000
+19
+00:00:55,140 --> 00:00:56,080
 Also bis dann.
 
+20
+00:00:58,520 --> 00:00:59,240
+Entschuldigen Sie!
+
+21
+00:01:00,820 --> 00:01:02,920
+Hallo, Kipper, mein Name, vom Hamburger Tag.
+
+22
+00:01:04,640 --> 00:01:07,820
+Sie sind der Ermittler vom Bundeskriminalamt, habe ich recht?
+
 23
-00:00:56,000 --> 00:01:05,900
-Entschuldigen Sie! Hallo, Kipper, mein Name, vom Hamburger Tag. Sie sind der Ermittler
+00:01:07,960 --> 00:01:09,340
+Darf ich Ihnen eine Frage stellen?
 
 24
-00:01:05,900 --> 00:01:10,400
-vom Bundeskriminalamt, habe ich recht? Darf ich Ihnen eine Frage stellen? Gibt es einen
+00:01:09,740 --> 00:01:13,580
+Gibt es einen Zusammenhang zwischen dem aktuellen Fall und der Paarmordserie?
 
 25
-00:01:10,400 --> 00:01:14,040
-Zusammenhang zwischen dem aktuellen Fall und der Paarmordserie?
+00:01:14,000 --> 00:01:15,760
+Herr Kipper, vom Hamburger Tag.
 
 26
-00:01:14,040 --> 00:01:21,560
-Herr Kipper vom Hamburger Tag, das sage ich jetzt Ihnen und sonst niemandem. Sie haben
+00:01:16,580 --> 00:01:18,920
+Das sage ich jetzt Ihnen und sonst niemandem.
 
 27
-00:01:21,560 --> 00:01:27,560
-Du hast vollkommen recht. Der aktuelle Fall steht definitiv mit der Paarmordserie in Verbindung.
+00:01:20,820 --> 00:01:22,500
+Sie haben vollkommen recht.
 
 28
-00:01:27,560 --> 00:01:30,560
-Hab ich's mir doch gedacht. Der Verdächtige ist der japanische Arzt?
+00:01:22,500 --> 00:01:26,720
+Der aktuelle Fall steht definitiv mit der Paarmordserie in Verbindung.
 
 29
-00:01:30,560 --> 00:01:35,560
-Ich hab mir soeben den Bericht angesehen. Es ist ganz klar die gleiche Vorgehensweise.
+00:01:27,220 --> 00:01:30,040
+Habe ich mir doch gedacht, der Verdächtige ist der japanische Arzt?
 
 30
-00:01:35,560 --> 00:01:37,560
-Das wird eine super Story.
+00:01:30,360 --> 00:01:34,600
+Ich habe mir soeben den Bericht angesehen. Es ist ganz klar die gleiche Vorgehensweise.
 
 31
-00:01:38,560 --> 00:01:39,560
-Danke!
+00:01:35,160 --> 00:01:36,520
+Das wird eine super Story.
 
 32
-00:01:39,560 --> 00:01:40,560
-Warten Sie mal kurz.
+00:01:38,120 --> 00:01:38,600
+Danke.
 
 33
-00:01:40,560 --> 00:01:41,560
-Ja?
+00:01:39,020 --> 00:01:40,080
+Warten Sie mal kurz.
 
 34
-00:01:41,560 --> 00:01:45,560
-Der Hamburger Tag ist doch eine der ganz großen Zeitungen.
+00:01:40,320 --> 00:01:40,480
+Ja?
 
 35
-00:01:45,560 --> 00:01:50,560
-Also ist davon auszugehen, dass sich auch andere große Blätter in ganz Deutschland auf Ihren Artikel stützen.
+00:01:41,340 --> 00:01:44,380
+Der Hamburger Tag ist doch eine der ganz großen Zeitungen.
 
 36
-00:01:50,560 --> 00:01:53,560
-Selbstverständlich. Vielen Dank für die Zusammenarbeit.
+00:01:44,980 --> 00:01:49,620
+Also ist davon auszugehen, dass sich auch andere große Blätter in ganz Deutschland auf Ihren Artikel stützen.
 
 37
-00:02:20,560 --> 00:02:23,560
-Untertitel der Amara.org-Community
+00:01:49,620 --> 00:01:53,060
+Na selbstverständlich. Vielen Dank für die Zusammenarbeit.
 
 38
-00:02:50,560 --> 00:02:53,560
-Untertitel der Amara.org-Community
+00:01:56,720 --> 00:02:26,700
+Untertitelung des ZDF, 2020
 
 39
-00:03:20,560 --> 00:03:40,560
-Ich bin jetzt der Täter und versetze mich in die Situation hinein.
+00:02:26,720 --> 00:02:56,700
+Untertitelung des ZDF, 2020
 
 40
-00:03:40,560 --> 00:03:43,560
-Klopfe ich an?
+00:02:56,720 --> 00:03:26,700
+Untertitelung des ZDF, 2020
 
 41
-00:03:43,560 --> 00:03:47,560
-Ja, das Wichtigste ist jetzt, die Bewohner nicht zu warnen.
+00:03:26,720 --> 00:03:34,180
+Ich bin jetzt der Täter.
 
 42
-00:03:50,560 --> 00:03:52,560
-Sie sind ein nettes Ehepaar.
+00:03:36,280 --> 00:03:40,660
+Ich bin jetzt der Täter und versetze mich in die Situation hinein.
 
 43
-00:03:53,560 --> 00:03:56,560
-Freundlich bitten sie mich herein und führen mich ins Wohnzimmer.
+00:03:41,460 --> 00:03:42,460
+Klopfe ich an?
 
 44
-00:03:57,560 --> 00:04:00,560
-Die beiden schöpfen keinerlei Verdacht gegen mich.
+00:03:43,560 --> 00:03:46,980
+Ja, das Wichtigste ist jetzt, die Bewohner nicht zu warnen.
 
 45
-00:04:06,560 --> 00:04:08,560
-Der Sessel des Hausherrn.
+00:03:51,780 --> 00:03:53,820
+Sie sind ein nettes Ehepaar.
 
 46
-00:04:09,560 --> 00:04:12,560
-Ich setze mich natürlich auf das Sofa.
+00:03:54,200 --> 00:03:57,240
+Freundlich bitten sie mich herein und führen mich ins Wohnzimmer.
 
 47
-00:04:15,560 --> 00:04:19,560
-Einige Minuten später liegt der Hausherr dort tot auf dem Boden.
+00:03:58,500 --> 00:04:01,180
+Die beiden schöpfen keinerlei Verdacht gegen mich.
 
 48
-00:04:21,560 --> 00:04:23,560
-Aber bis jetzt habe ich noch nichts getan.
+00:04:06,720 --> 00:04:08,780
+Der Sessel des Hausherrn.
 
 49
-00:04:24,560 --> 00:04:25,560
-Wo ist die Ehefrau?
+00:04:10,180 --> 00:04:12,640
+Ich setze mich natürlich auf das Sofa.
 
 50
-00:04:26,560 --> 00:04:28,560
-Genau, sie ist noch nicht im Wohnzimmer.
+00:04:16,460 --> 00:04:19,760
+Einige Minuten später liegt der Hausherr dort tot auf dem Boden.
 
 51
-00:04:29,560 --> 00:04:31,560
-Sie brüht gerade in der Küche Tee auf.
+00:04:19,760 --> 00:04:24,020
+Aber bis jetzt habe ich noch nichts getan.
 
 52
-00:04:32,560 --> 00:04:36,560
-Bevor der Tee eingeschenkt wird, wird sie von hinten in der Küche erstochen.
+00:04:25,080 --> 00:04:26,300
+Wo ist die Ehefrau?
 
 53
-00:04:38,560 --> 00:04:42,560
-Das ist das Zeichen für mich, dass ich langsam aber sicher zur Tat schreiten muss.
+00:04:27,240 --> 00:04:29,320
+Genau, sie ist noch nicht im Wohnzimmer.
 
 54
-00:04:44,560 --> 00:04:49,560
-Ich ziehe das Messer hervor, der Hausherr gerät wie erwartet in Panik und ich steche auf ihn ein.
+00:04:30,020 --> 00:04:32,280
+Sie brüht gerade in der Küche Tee auf.
 
 55
-00:04:50,560 --> 00:04:52,560
-Aber ich erwische ihn nicht.
+00:04:33,500 --> 00:04:37,000
+Bevor der Tee eingeschenkt wird, wird sie von hinten in der Küche erstochen.
 
 56
-00:04:53,240 --> 00:04:55,800
-An der linken Hand getroffen, flieht der Hausherr.
+00:04:38,520 --> 00:04:42,880
+Das ist das Zeichen für mich, dass ich langsam aber sicher zur Tat schreiten muss.
 
 57
-00:04:56,880 --> 00:05:03,360
-Ich erwische beim nächsten Versuch die rechte Schulter. Wieder nicht getroffen. Was bin ich nur für ein armseliger Dilettant?
+00:04:44,340 --> 00:04:48,880
+Ich ziehe das Messer hervor, der Hausherr gerät wie erwartet in Panik und ich...
 
 58
-00:05:04,040 --> 00:05:06,040
-Der Hausherr schreit nach seiner Ehefrau.
+00:04:48,880 --> 00:04:52,420
+Ich steche auf ihn ein, aber ich erwische ihn nicht.
 
 59
-00:05:06,640 --> 00:05:12,080
-Aber sie ist noch in der Küche und kann ihn nicht hören. Sie wird in letzter Zeit immer schwerhöriger.
+00:04:53,280 --> 00:04:56,040
+An der linken Hand getroffen, flieht der Hausherr.
 
 60
-00:05:12,920 --> 00:05:14,920
-Richtig, ich bin mir dessen genau bewusst.
+00:04:57,120 --> 00:04:59,640
+Ich erwische beim nächsten Versuch die rechte Schulter.
 
 61
-00:05:14,920 --> 00:05:19,920
-Schrei und wein, so viel du willst, ich erledige zuerst dich und dann sie.
+00:05:00,140 --> 00:05:03,380
+Wieder nicht getroffen, was bin ich nur für ein armseliger Dilettant.
 
 62
-00:05:19,920 --> 00:05:20,920
-Du bist in der Falle.
+00:05:04,080 --> 00:05:06,300
+Der Hausherr schreit nach seiner Ehefrau.
 
 63
-00:05:21,920 --> 00:05:23,920
-Ein Abdruck von seiner linken Hand.
+00:05:06,960 --> 00:05:09,120
+Aber sie ist noch in der Küche und kann ihn nicht hören.
 
 64
-00:05:24,920 --> 00:05:27,920
-Von dieser Kommode hier ist mir der Hausherr ausgeliefert.
+00:05:09,740 --> 00:05:12,160
+Sie wird in letzter Zeit immer schwerhöriger.
 
 65
-00:05:28,920 --> 00:05:29,920
-Ich töte ihn!
+00:05:12,960 --> 00:05:15,140
+Richtig, ich bin mir dessen genau bewusst.
 
 66
-00:05:31,920 --> 00:05:35,920
-Nein, etwas Geduld noch, hier töte ich ihn noch nicht.
+00:05:15,600 --> 00:05:17,740
+Schrei und wein so viel du willst.
 
 67
-00:05:36,920 --> 00:05:39,920
-Der Hausherr stürmt fünf Meter weiter auf dem Boden.
+00:05:17,740 --> 00:05:19,960
+Ich erledige zuerst dich und dann Zing.
 
 68
-00:05:40,920 --> 00:05:43,920
-Warum? Warum töte ich ihn eigentlich nicht hier und jetzt?
+00:05:20,100 --> 00:05:21,280
+Du bist in der Falle.
 
 69
-00:05:44,920 --> 00:05:46,920
-Warum?
+00:05:22,340 --> 00:05:24,060
+Ein Abdruck von seiner linken Hand.
 
 70
-00:05:54,920 --> 00:05:55,920
-Ist das...
+00:05:25,140 --> 00:05:27,820
+Von dieser Kommode hier ist mir der Hausherr ausgeliefert.
 
 71
-00:05:55,920 --> 00:05:58,920
-Soll das hier der Mann sein, der das Ehepaar Job umgebracht hat?
+00:05:28,880 --> 00:05:29,960
+Ich töte ihn!
 
 72
-00:05:58,920 --> 00:05:59,920
-Nein.
+00:05:32,300 --> 00:05:35,640
+Nein, etwas Geduld. Noch hier töte ich ihn noch nicht.
 
 73
-00:05:59,920 --> 00:06:02,920
-Nein, das hat das nicht unbedingt zu bedeuten.
+00:05:37,020 --> 00:05:39,800
+Der Hausherr stirbt fünf Meter weiter auf dem Boden.
 
 74
-00:06:02,920 --> 00:06:04,920
-Ich bitte derzeit alle Nachbarn hier um Unterstützung.
+00:05:40,940 --> 00:05:44,060
+Warum? Warum töte ich ihn eigentlich nicht hier und jetzt?
 
 75
-00:06:04,920 --> 00:06:06,920
-Verstehen Sie?
+00:05:45,440 --> 00:05:45,860
+Warum?
 
 76
-00:06:06,920 --> 00:06:08,920
-Wenn dieser Mann hier irgendwann auftauchen sollte,
+00:05:47,740 --> 00:05:59,360
+Ist das... soll das hier der Mann sein, der das Ehepaar Job umgebracht hat?
 
 77
-00:06:08,920 --> 00:06:10,920
-verhalten Sie sich bitte einfach so wie immer
+00:05:59,780 --> 00:06:02,760
+Nein. Nein, das hat das nicht unbedingt zu bedeuten.
 
 78
-00:06:10,920 --> 00:06:12,920
-und geben Sie mir, sobald Sie können, Bescheid.
+00:06:02,760 --> 00:06:06,240
+Ich bitte derzeit alle Nachbarn hier um Unterstützung. Verstehen Sie?
 
 79
-00:06:12,920 --> 00:06:14,920
-Mehr nicht. Das war's dann auch schon.
+00:06:06,900 --> 00:06:13,260
+Wenn dieser Mann hier irgendwann auftauchen sollte, verhalten Sie sich bitte einfach so wie immer und geben Sie mir sobald Sie können Bescheid.
 
 80
-00:06:15,920 --> 00:06:16,920
-Ist gut.
+00:06:13,600 --> 00:06:15,240
+Mehr nicht. Das war's dann auch schon.
 
 81
-00:06:16,920 --> 00:06:19,920
-Ihnen droht keinerlei Gefahr. Das garantiere ich Ihnen.
+00:06:16,180 --> 00:06:16,780
+Ist gut.
 
 82
-00:06:21,920 --> 00:06:26,920
-Aber dass ein derart schreckliches Verbrechen ausgerechnet in einer so ruhigen Gegend passiert...
+00:06:16,780 --> 00:06:20,140
+Ihnen droht keinerlei Gefahr. Das garantiere ich Ihnen.
 
 83
-00:06:26,920 --> 00:06:31,920
-In der Tat. Die Jobs waren so hilfsbereite und nette Menschen.
+00:06:21,920 --> 00:06:26,780
+Aber dass ein derart schreckliches Verbrechen ausgerechnet in einer so ruhigen Gegend passiert...
 
 84
-00:06:31,920 --> 00:06:36,920
-Frau Job war immer gut gelaunt und hat fröhlich gegrüßt, wenn ich sie angesprochen habe.
+00:06:27,660 --> 00:06:31,640
+In der Tat. Die Jobs waren so hilfsbereit und nette Menschen.
 
 85
-00:06:36,920 --> 00:06:38,920
-Wenn Sie sie angesprochen haben?
+00:06:32,400 --> 00:06:36,600
+Frau Job war immer gut gelaunt und hat fröhlich gegrüßt, wenn ich sie angesprochen habe.
 
 86
-00:06:38,920 --> 00:06:43,920
-Meiner Kenntnis nach litt Frau Jopp schon seit über einem Jahr an Schwerhörigkeit, oder?
+00:06:37,140 --> 00:06:38,660
+Wenn Sie sie angesprochen haben?
 
 87
-00:06:43,920 --> 00:06:45,920
-Ach, tat sie das?
+00:06:39,360 --> 00:06:43,740
+Meiner Kenntnis nach litt Frau Job schon seit über einem Jahr an Schwerhörigkeit, oder?
 
 88
-00:06:45,920 --> 00:06:48,920
-So steht es in ihrer Patientenakte.
+00:06:44,500 --> 00:06:45,960
+Ach, tat sie das?
 
 89
-00:06:48,920 --> 00:06:52,920
-Daher dürfte sie ihre Grüße auch so gut wie nie gehört haben.
+00:06:46,520 --> 00:06:48,380
+So steht es in ihrer Patientenakte.
 
 90
-00:06:52,920 --> 00:06:59,920
-Ach, dann muss das arme Ding meine Anwesenheit wohl irgendwie wahrgenommen haben und hat dann eben zurückgegrüßt.
+00:06:49,420 --> 00:06:52,360
+Daher dürfte sie ihre Grüße auch so gut wie nie gehört haben.
 
 91
-00:06:59,920 --> 00:07:04,920
-In der Nachbarschaft war also bisher gar nicht bekannt, dass Frau Jopp schwerhörig war?
+00:06:53,220 --> 00:06:59,880
+Ach, dann muss das arme Ding meine Anwesenheit wohl irgendwie wahrgenommen haben und hat dann eben zurückgegrüßt.
 
 92
-00:07:04,920 --> 00:07:06,920
-Nein, sicher nicht.
+00:07:00,420 --> 00:07:04,260
+In der Nachbarschaft war also bisher gar nicht bekannt, dass Frau Job schwerhörig war?
 
 93
-00:07:08,920 --> 00:07:17,920
-Achtung, eine stattliche Firma. Es in so jungen Jahren soweit zu bringen, ist eine sehr beachtliche Leistung, ich muss schon sagen, Herr Giebel.
+00:07:04,900 --> 00:07:06,460
+Nein, sicher nicht.
 
 94
-00:07:17,920 --> 00:07:23,920
-Ach was, wir haben eben Glück, dass sich die Autos unserer Vertragspartner so gut verkaufen.
+00:07:08,520 --> 00:07:11,000
+Alle Achtung, eine stattliche Firma.
 
 95
-00:07:23,920 --> 00:07:29,920
-Ich möchte Ihnen hiermit mein herzliches Beileid zum Tode Ihres Onkels und Ihrer Tante aussprechen.
+00:07:11,740 --> 00:07:15,900
+Es in so jungen Jahren so weit zu bringen, ist eine sehr beachtliche Leistung.
 
 96
-00:07:29,920 --> 00:07:34,920
-Danke, meine Tante und mein Onkel waren meine einzigen Verwandten, jetzt bin ich allein.
+00:07:15,960 --> 00:07:17,940
+Ich muss schon sagen, Herr Gebel...
 
 97
-00:07:34,920 --> 00:07:37,920
-Die beiden hatten ja keine eigenen Kinder.
+00:07:17,940 --> 00:07:22,920
+Ach was! Wir haben eben Glück, dass sich die Autos unserer Vertragspartner so gut verkaufen.
 
 98
-00:07:37,920 --> 00:07:40,920
-Da haben sie sie als ihren Neffen sicher umso mehr geliebt.
+00:07:24,300 --> 00:07:29,020
+Ich möchte Ihnen hiermit mein herzliches Beileid zum Tode Ihres Onkels und Ihrer Tante aussprechen.
 
 99
-00:07:40,920 --> 00:07:43,920
-Ja, ich war wie ein Sohn für sie.
+00:07:29,780 --> 00:07:34,540
+Danke. Meine Tante und mein Onkel waren meine einzigen Verwandten. Jetzt bin ich allein.
 
 100
-00:07:43,920 --> 00:07:46,920
-Sie werden den Täter doch bestimmt finden, oder?
+00:07:35,560 --> 00:07:41,200
+Die beiden hatten ja keine eigenen Kinder. Da haben sie Sie als ihren Neffen sicher umso mehr geliebt.
 
 101
-00:07:46,920 --> 00:07:49,920
-Na sicher. Wir haben ihn ja praktisch schon.
+00:07:41,200 --> 00:07:46,760
+Ja, ich war wie ein Sohn für Sie. Sie werden den Täter doch bestimmt finden, oder?
 
 102
-00:07:49,920 --> 00:07:52,920
-Es handelt sich also um diesen ehemaligen Chirurgen?
+00:07:47,340 --> 00:07:49,940
+Na sicher. Wir haben ihn ja praktisch schon.
 
 103
-00:07:52,920 --> 00:07:54,920
-Sie sind ja voll im Bilde.
+00:07:50,220 --> 00:07:52,840
+Es handelt sich also um diesen ehemaligen Chirurgen?
 
 104
-00:07:54,920 --> 00:07:59,920
-Selbstverständlich. Es gab ja bereits einige Fälle, die genauso waren wie dieser.
+00:07:53,100 --> 00:07:54,660
+Sie sind ja voll im Bilde.
 
 105
-00:07:59,920 --> 00:08:03,920
-Die Erbschaft. Wie hoch wird sie etwa ausfallen?
+00:07:55,380 --> 00:07:59,120
+Selbstverständlich. Es gab ja bereits einige Fälle, die genauso waren wie dieser.
 
 106
-00:08:03,920 --> 00:08:04,920
-Was?
+00:08:00,200 --> 00:08:03,300
+Die Erbschaft. Wie hoch wird sie etwa ausfallen?
 
 107
-00:08:04,920 --> 00:08:09,480
-Naja, die Jobs verfügten schließlich über ein beträchtliches Vermögen.
+00:08:03,840 --> 00:08:04,200
+Was?
 
 108
+00:08:05,080 --> 00:08:08,840
+Naja, die Jobs verfügten schließlich über ein beträchtliches Vermögen.
+
+109
 00:08:09,480 --> 00:08:12,600
 Denken Sie, dass das jetzt irgendwas mit dem Fall zu tun hat?
 
-109
-00:08:12,600 --> 00:08:17,640
+110
+00:08:13,900 --> 00:08:17,260
 Als Erbe, Herr Giebel, kommen wohl nur Sie ganz allein in Frage.
 
-110
-00:08:17,640 --> 00:08:21,360
+111
+00:08:17,840 --> 00:08:19,880
 Oder bin ich da etwa falsch informiert?
 
-111
-00:08:21,360 --> 00:08:22,480
-Worauf wollen Sie hinaus?
-
 112
-00:08:22,480 --> 00:08:25,160
-Das ist wirklich nicht der richtige Moment für solche Fragen.
+00:08:21,220 --> 00:08:25,060
+Worauf wollen Sie hinaus? Das ist wirklich nicht der richtige Moment für solche Fragen.
 
 113
-00:08:25,160 --> 00:08:30,240
-So manches Unternehmen scheint nach außen in Bestens zu florieren, doch schaut man hinter
+00:08:25,960 --> 00:08:29,380
+So manches Unternehmen scheint nach außen in Bestens zu florieren,
 
 114
-00:08:30,240 --> 00:08:32,480
-die Kulissen, stehen Sie kurz vor dem Ruin.
+00:08:29,500 --> 00:08:32,240
+doch schaut man hinter die Kulissen, stehen Sie kurz vor dem Ruin.
 
 115
-00:08:32,480 --> 00:08:35,080
+00:08:32,680 --> 00:08:34,780
 So etwas kommt häufiger vor, als man denkt.
 
 116
-00:08:35,080 --> 00:08:39,000
+00:08:35,400 --> 00:08:38,920
 Wollen Sie mir etwa unterstellen, dass ich die beiden umgebracht habe?
 
 117
-00:08:39,000 --> 00:08:40,960
+00:08:39,020 --> 00:08:40,220
 Was erlauben Sie sich eigentlich?
 
 118
-00:08:40,960 --> 00:08:42,400
-Seien Sie unbesorgt.
+00:08:41,000 --> 00:08:44,660
+Seien Sie unbesorgt. Sie haben ja zum Glück ein perfektes Alibi.
 
 119
-00:08:42,400 --> 00:08:44,800
-Sie haben ja zum Glück ein perfektes Alibi.
+00:08:46,320 --> 00:08:50,680
+Sie waren gemeinsam mit Ihren Angestellten bei einem Geschäftstermin und danach essen.
 
 120
-00:08:44,800 --> 00:08:51,000
-Sie waren gemeinsam mit Ihren Angestellten bei einem Geschäftstermin und danach Essen.
-
-121
-00:08:51,000 --> 00:08:52,000
+00:08:50,820 --> 00:08:51,880
 Dafür gibt es Zeugen.
 
+121
+00:08:53,200 --> 00:08:55,280
+Was? Was wollen Sie damit sagen?
+
 122
-00:08:52,000 --> 00:08:55,280
-Was, was wollen Sie damit sagen?
+00:08:56,020 --> 00:08:59,580
+Sie sind jedenfalls nicht unser Täter. Das stimmt doch, oder?
 
 123
-00:08:55,280 --> 00:08:58,640
-Sie sind jedenfalls nicht unser Täter.
+00:09:03,020 --> 00:09:03,980
+Kommissar Runge!
 
 124
-00:08:58,640 --> 00:08:59,640
-Das stimmt doch, oder?
+00:09:05,520 --> 00:09:06,560
+Sie sind's wieder.
 
 125
-00:08:59,640 --> 00:09:06,640
-Kommissar Runge! Ach, Sie sind's wieder.
+00:09:06,800 --> 00:09:07,880
+Was hat das zu bedeuten?
 
 126
-00:09:06,640 --> 00:09:09,640
-Was hat das zu bedeuten? Was meinen Sie?
+00:09:08,400 --> 00:09:09,260
+Was meinen Sie?
 
 127
-00:09:09,640 --> 00:09:13,640
-Jetzt verkaufen Sie mich nicht für dumm. Ich stelle schon seit Tagen Nachforschungen
+00:09:09,720 --> 00:09:11,420
+Jetzt verkaufen Sie mich nicht für dumm.
 
 128
-00:09:13,640 --> 00:09:17,640
-zu diesem dubiosen Neffen an. Auf den ersten Blick läuft seine Firma zwar hervorragend,
+00:09:11,780 --> 00:09:14,900
+Ich stelle schon seit Tagen Nachforschungen zu diesem dubiosen Neffen an.
 
 129
-00:09:17,640 --> 00:09:21,640
-aber wenn man genauer hinsieht, steckt das Unternehmen ziemlich in der Klemme.
+00:09:15,300 --> 00:09:17,940
+Auf den ersten Blick läuft seine Firma zwar hervorragend,
 
 130
-00:09:21,640 --> 00:09:25,640
-Und Sie haben die Firma des Neffen gründlich unter die Lupe genommen.
+00:09:18,040 --> 00:09:21,300
+aber wenn man genauer hinsieht, steckt das Unternehmen ziemlich in der Klemme.
 
 131
-00:09:25,640 --> 00:09:28,640
-Es wird Zeit, dass Sie mich endlich aufklären.
+00:09:22,140 --> 00:09:25,100
+Und Sie haben die Firma des Neffen gründlich unter die Lupe genommen.
 
 132
-00:09:29,640 --> 00:09:31,640
-Sind Sie also immer noch der Überzeugung,
+00:09:26,360 --> 00:09:28,800
+Es wird Zeit, dass Sie mich endlich aufklären.
 
 133
-00:09:31,640 --> 00:09:34,640
-dass dieser Fall in die Reihe der Paar-Mordserie gehört?
+00:09:30,080 --> 00:09:31,840
+Sind Sie also immer noch der Überzeugung,
 
 134
-00:09:34,640 --> 00:09:37,640
-Alle namhaften Zeitungen stützen sich doch auf meinen Artikel.
+00:09:31,840 --> 00:09:34,460
+dass dieser Fall in die Reihe der Paarmordserie gehört?
 
 135
-00:09:37,640 --> 00:09:40,640
-Wenn der Fall nicht in Zusammenhang mit der Mordserie steht,
+00:09:34,780 --> 00:09:38,080
+Alle namhaften Zeitungen stützen sich doch auf meinen Artikel.
 
 136
-00:09:40,640 --> 00:09:42,640
-wird das ein riesengroßer Skandal werden.
+00:09:38,400 --> 00:09:43,060
+Wenn der Fall nicht in Zusammenhang mit der Mordserie steht, wird das ein riesengroßer Skandal werden.
 
 137
-00:09:43,640 --> 00:09:45,640
+00:09:44,200 --> 00:09:45,760
 Sie liegen vollkommen richtig.
 
 138
-00:09:46,640 --> 00:09:48,640
-Das Werk eines Trittbrettfahrers.
+00:09:46,760 --> 00:09:50,960
+Das Werk eines Trittbrettfahrers. Er täuscht den Mord als Fall der Serie vor.
 
 139
-00:09:48,640 --> 00:09:50,640
-Er täuscht den Mord als Fall der Serie vor.
+00:09:51,620 --> 00:09:54,740
+Hab ich mir doch gedacht. Ich muss sofort einen neuen Artikel schreiben.
 
 140
-00:09:51,640 --> 00:09:52,640
-Hab ich mir doch gedacht.
-
-141
-00:09:52,640 --> 00:09:54,640
-Ich muss sofort einen neuen Artikel schreiben.
-
-142
-00:09:54,640 --> 00:09:57,640
+00:09:55,200 --> 00:09:57,320
 Nein. Lassen Sie ihn, wie er ist.
 
+141
+00:09:57,320 --> 00:10:02,320
+Ich möchte, dass Sie weiterhin so über diesen Fall schreiben, als wäre er ein Teil der Paarmordserie.
+
+142
+00:10:03,320 --> 00:10:06,140
+Machen Sie Witze? Wieso soll ich in meinem Artikel Lügen verbreiten?
+
 143
-00:09:57,640 --> 00:10:00,640
-Ich möchte, dass Sie weiterhin so über diesen Fall schreiben,
+00:10:06,140 --> 00:10:07,940
+Das ist egal, Sie schreiben es so.
 
 144
-00:10:00,640 --> 00:10:02,640
-als wäre er ein Teil der Paar-Mords-Serie.
+00:10:08,240 --> 00:10:13,480
+Ich mag Ihnen wie ein kleiner, unwichtiger Journalist erscheinen, aber ich lasse mich nicht unter Druck setzen.
 
 145
-00:10:02,640 --> 00:10:04,640
-Machen Sie Witze?
+00:10:13,860 --> 00:10:18,300
+Kipper war Ihr Name richtig. Sie haben eine wirklich sehr entzückende Freundin.
 
 146
-00:10:04,640 --> 00:10:06,640
-Wieso soll ich in meinem Artikel Lügen verbreiten?
+00:10:18,300 --> 00:10:25,200
+In Ihrem gemütlichen Heim warten zwar Ihre wunderschöne Frau und Ihre Tochter auf Sie,
 
 147
-00:10:06,640 --> 00:10:08,640
-Das ist egal. Sie schreiben es so.
-
-148
-00:10:08,640 --> 00:10:11,640
-Ich mag Ihnen wie ein kleiner, unwichtiger Journalist erscheinen,
-
-149
-00:10:11,640 --> 00:10:13,640
-aber ich lasse mich nicht unter Druck setzen.
-
-150
-00:10:13,640 --> 00:10:15,640
-Kipper war Ihr Name richtig.
-
-151
-00:10:15,640 --> 00:10:18,640
-Sie haben eine wirklich sehr entzückende Freundin.
-
-152
-00:10:19,640 --> 00:10:21,640
-In Ihrem gemütlichen Heim
-
-153
-00:10:21,640 --> 00:10:24,640
-Warten zwar Ihre wunderschöne Frau und Ihre Tochter auf Sie,
-
-154
-00:10:24,640 --> 00:10:29,640
+00:10:25,280 --> 00:10:29,460
 aber bei so viel Sexappeal wird man schon mal schwach und begeht einen Seitensprung.
 
-155
-00:10:34,640 --> 00:10:36,640
+148
+00:10:32,320 --> 00:10:36,160
 Bleiben Sie bei Ihrer Version.
 
-156
-00:10:36,640 --> 00:10:40,640
-Oder nein, fangen Sie an, eine Serie über diesen Palmore zu schreiben.
+149
+00:10:36,880 --> 00:10:40,680
+Oder nein, fangen Sie an, eine Serie über diesen Paar Mord zu schreiben.
 
-157
-00:10:43,640 --> 00:10:47,640
+150
+00:10:43,540 --> 00:10:47,380
 Damit locken wir diesen Kerl auf jeden Fall heraus.
 
-158
-00:10:47,640 --> 00:10:54,640
+151
+00:10:49,860 --> 00:10:51,160
 Ich zähle auf Sie.
 
-159
-00:10:54,640 --> 00:11:03,640
+152
+00:10:57,540 --> 00:10:58,460
 Ich komme.
 
-160
-00:11:03,640 --> 00:11:09,640
+153
+00:11:03,320 --> 00:11:05,660
 Entschuldigen Sie bitte, ich habe nur eine kurze Frage an Sie.
 
-161
-00:11:09,640 --> 00:11:13,640
+154
+00:11:09,880 --> 00:11:12,680
 Verstehe. Sie müssen ein wunderbares Paar gewesen sein.
 
-162
-00:11:13,640 --> 00:11:14,640
+155
+00:11:13,780 --> 00:11:14,220
 Allerdings.
 
-163
-00:11:14,640 --> 00:11:18,640
+156
+00:11:14,800 --> 00:11:18,500
 Wissen Sie zufällig, ob die beiden früher mal ein Pflegekind bei sich aufgenommen haben?
 
-164
-00:11:18,640 --> 00:11:19,640
+157
+00:11:18,640 --> 00:11:19,500
 Nicht, dass ich wüsste.
 
-165
-00:11:19,640 --> 00:11:24,640
+158
+00:11:19,980 --> 00:11:24,380
 Und kann es auch nicht sein, dass nur für ganz kurze Zeit mal ein Kind bei Ihnen gelebt hat?
 
-166
-00:11:24,640 --> 00:11:29,640
-Nein, da war keins. Die Jobs hatten nur einen Neffen. Sie haben viel für ihn getan. Er lag Ihnen sehr am Herzen.
+159
+00:11:24,680 --> 00:11:27,180
+Nein, da war keins. Die Jobs hatten nur einen Neffen.
 
-167
-00:11:30,640 --> 00:11:33,640
+160
+00:11:27,180 --> 00:11:29,820
+Sie haben viel für ihn getan. Er lag Ihnen sehr am Herzen.
+
+161
+00:11:29,820 --> 00:11:33,120
 Möchten Sie vielleicht noch eine Tasse Tee?
 
-168
-00:11:33,640 --> 00:11:34,640
+162
+00:11:33,560 --> 00:11:34,700
 Nein, vielen Dank.
 
-169
-00:11:34,640 --> 00:11:37,640
+163
+00:11:35,240 --> 00:11:37,060
 Ach, ein Tässchen trinken Sie doch noch.
 
-170
-00:11:37,640 --> 00:11:48,640
-Es besteht kein Zweifel, es ist der Mann vom Foto. Er ist gerade bei mir zu Hause.
+164
+00:11:42,840 --> 00:11:45,560
+Es besteht kein Zweifel, es ist der Mann vom Foto.
 
-171
-00:11:48,640 --> 00:11:51,640
+165
+00:11:46,100 --> 00:11:47,500
+Er ist gerade bei mir zu Hause.
+
+166
+00:11:48,560 --> 00:11:51,360
 Verstehe. Ich danke Ihnen für Ihre Mithilfe.
 
-172
-00:11:56,640 --> 00:11:59,640
-Herr Kommissar Runge, da ist Besuch für Sie.
+167
+00:11:56,540 --> 00:11:59,080
+Herr Kommissar Runge, das ist Besuch für Sie.
 
-173
-00:11:59,640 --> 00:12:00,640
+168
+00:11:59,820 --> 00:12:00,700
 Wer ist es?
 
-174
-00:12:00,640 --> 00:12:03,640
-Der Neffe von dem ermordeten Ehepaar, den Jobs.
+169
+00:12:00,820 --> 00:12:03,340
+Der Neffe von dem ermordeten Ehepaar, den J.
 
-175
-00:12:03,640 --> 00:12:08,800
-Geben Sie es zu, Sie halten mich doch für den Täter, oder?
+170
+00:12:05,440 --> 00:12:08,700
+Geben Sie es zu. Sie halten mich doch für den Täter, oder?
 
-176
-00:12:08,800 --> 00:12:09,800
+171
+00:12:08,840 --> 00:12:09,600
 So ist es doch.
 
-177
-00:12:09,800 --> 00:12:15,080
+172
+00:12:10,900 --> 00:12:15,060
 Sie glauben bestimmt, ich habe es auf das Vermögen abgesehen und die beiden ermordet.
 
-178
-00:12:15,080 --> 00:12:21,680
-Es stimmt zwar, dass ich aktuell einige Verbindlichkeiten habe und ich gebe zu, dass ihr großes Vermögen
+173
+00:12:16,060 --> 00:12:19,360
+Es stimmt zwar, dass ich aktuell einige Verbindlichkeiten habe,
 
-179
-00:12:21,680 --> 00:12:24,560
-mir aus der Klemme helfen und alles einfacher machen könnte.
+174
+00:12:19,360 --> 00:12:24,360
+und ich gebe zu, dass Ihr großes Vermögen mir aus der Klemme helfen und alles einfacher machen könnte.
 
-180
-00:12:24,560 --> 00:12:27,240
+175
+00:12:24,700 --> 00:12:27,220
 Aber hören Sie mal, so ein schlechter Mensch bin ich nicht.
 
-181
-00:12:27,240 --> 00:12:31,040
+176
+00:12:27,220 --> 00:12:31,040
 Und das wollten Sie mir so dringend mitteilen?
 
-182
-00:12:31,040 --> 00:12:37,040
+177
+00:12:32,600 --> 00:12:36,660
 Dringend? Sie behandeln mich wie einen Mörder und tun jetzt so, als wäre nichts?
 
-183
-00:12:37,040 --> 00:12:42,040
+178
+00:12:38,160 --> 00:12:41,840
 Falls das alles ist, bitte ich Sie, mich jetzt zu entschuldigen. Ich muss los.
 
-184
-00:12:42,040 --> 00:12:47,040
+179
+00:12:42,540 --> 00:12:46,500
 Augenblick mal! Ich verlange, dass Sie diese unverschämten Anschuldigungen zurücknehmen!
 
-185
-00:12:47,040 --> 00:12:53,040
+180
+00:12:47,560 --> 00:12:51,920
 Übrigens, die Polizei hat die Männer, die Sie beschattet haben, in der Zwischenzeit abgezogen.
 
-186
-00:12:53,040 --> 00:12:59,040
-Zudem hält sie die hiesige Polizei für unschuldig. Genügt Ihnen das nicht, Herr Giebel?
+181
+00:12:54,420 --> 00:12:57,200
+Zudem hält sie die hiesige Polizei für unschuldig.
 
-187
-00:12:59,040 --> 00:13:03,040
+182
+00:12:57,860 --> 00:12:59,160
+Genügt Ihnen das nicht, Herr Giebel?
+
+183
+00:12:59,520 --> 00:13:03,340
 Und wer bitte wird dann in diesem Mordfall von der Polizei als Täter verdächtigt?
 
-188
-00:13:04,040 --> 00:13:09,040
+184
+00:13:04,140 --> 00:13:08,840
 Wer der Täter ist, wird sich noch früh genug herausstellen.
 
-189
-00:13:11,040 --> 00:13:14,040
+185
+00:13:10,780 --> 00:13:14,520
 Ich werde alles dran setzen, um den Mörder zur Rechenschaft zu ziehen.
 
-190
-00:13:23,040 --> 00:13:26,040
+186
+00:13:23,180 --> 00:13:27,060
 Wenn da Blutflecken zu finden sind, dann...
 
-191
-00:13:27,040 --> 00:13:29,040
+187
+00:13:27,060 --> 00:13:28,920
 Hat er ihn verfehlt?
 
-192
-00:13:30,040 --> 00:13:35,040
+188
+00:13:30,120 --> 00:13:35,160
 Wollen Sie damit sagen, dass der japanische Arzt in diesem Mordfall nicht als Hauptverdächtiger gilt?
 
-193
-00:13:36,040 --> 00:13:42,040
+189
+00:13:36,440 --> 00:13:42,920
 Ganz genau so ist es. Es liegt klar auf der Hand, dass wir es bei diesem Paarmord mit einem Nachahmungstäter zu tun haben.
 
-194
-00:13:43,040 --> 00:13:45,040
+190
+00:13:43,040 --> 00:13:45,180
 Und was genau bringt Sie zu dieser Annahme?
 
-195
-00:13:46,040 --> 00:13:49,040
+191
+00:13:45,720 --> 00:13:49,660
 Bei diesem Fall gibt es etwas, das bei den anderen Paarmorden nicht vorkam.
 
-196
-00:13:52,040 --> 00:13:55,040
-Der Täter hat das Opfer hier in die Enge getrieben.
+192
+00:13:49,660 --> 00:13:55,440
+Der Täter hat das Opfer hier in die Enge getrieben
 
-197
-00:13:56,040 --> 00:13:58,040
-Doch er hat es nicht hier getötet.
+193
+00:13:55,440 --> 00:13:57,840
+Doch er hat es nicht hier getötet
 
-198
-00:13:59,040 --> 00:14:01,040
-Er hat die Tat dort drüben begangen.
+194
+00:13:57,840 --> 00:14:00,720
+Er hat die Tat dort drüben begangen
 
-199
-00:14:03,040 --> 00:14:04,040
+195
+00:14:00,720 --> 00:14:03,800
 Aber warum?
 
-200
-00:14:04,040 --> 00:14:06,040
+196
+00:14:04,520 --> 00:14:06,300
 Warum hat er einen Moment gezögert?
 
-201
-00:14:14,040 --> 00:14:15,040
-Das gibt's nicht.
+197
+00:14:13,260 --> 00:14:14,560
+Das gibt's nicht
 
-202
-00:14:15,040 --> 00:14:17,040
-Hier waren Emotionen im Spiel.
+198
+00:14:14,560 --> 00:14:17,180
+Hier waren Emotionen im Spiel
 
-203
-00:14:18,040 --> 00:14:19,040
+199
+00:14:17,180 --> 00:14:18,440
 Emotionen?
 
-204
-00:14:19,040 --> 00:14:23,040
-Der Mann, den wir suchen, stahl an den Tatorten immer Geld oder Wertsachen,
+200
+00:14:19,100 --> 00:14:25,160
+Der Mann, den wir suchen, stahl an den Tatorten immer Geld oder Wertsachen, um die Tat nach Raubmord aussehen zu lassen.
 
-205
-00:14:23,040 --> 00:14:25,040
-um die Tat nach Raubmord aussehen zu lassen.
-
-206
-00:14:25,040 --> 00:14:28,040
+201
+00:14:25,500 --> 00:14:28,500
 Es war keinerlei Empathie oder Emotionen zu erkennen.
 
-207
-00:14:28,040 --> 00:14:33,040
+202
+00:14:28,980 --> 00:14:33,620
 Der aktuelle Fall lässt jedoch überwiegend auf emotionale Motive schließen.
 
-208
-00:14:34,040 --> 00:14:39,040
+203
+00:14:34,860 --> 00:14:39,320
 Der Täter geriet völlig aus der Fassung, als er sich mit dem Opfer im Spiegel erblickte.
 
-209
-00:14:40,040 --> 00:14:45,040
-Aber seien Sie unbesorgt, die lokale Polizei ist absolut unfähig.
+204
+00:14:39,920 --> 00:14:45,120
+Aber seien Sie unbesorgt. Die lokale Polizei ist absolut unfähig.
 
-210
-00:14:50,040 --> 00:14:53,040
-Egal wie man es betrachtet, es ist die Tat eines Mörders,
+205
+00:14:48,440 --> 00:14:55,260
+Egal, wie man es betrachtet, es ist die Tat eines Mörders, der Johann imitiert hat.
 
-211
-00:14:53,040 --> 00:15:01,040
-eines Mörders, der Johann imitiert hat. Wie lange soll das alles noch so weitergehen?
+206
+00:14:57,540 --> 00:14:59,660
+Wie lange soll das alles noch so weitergehen?
 
-212
-00:15:01,040 --> 00:15:04,040
+207
+00:15:00,980 --> 00:15:01,740
 Wie lange nur?
 
-213
-00:15:11,040 --> 00:15:14,040
+208
+00:15:11,160 --> 00:15:13,200
 Es ist schon eine Weile her.
 
+209
+00:15:13,200 --> 00:15:19,060
+Endlich begegnen wir uns wieder
+
+210
+00:15:19,060 --> 00:15:21,400
+Dr. Tenma
+
+211
+00:15:21,400 --> 00:15:27,120
+Ich habe so lange nach Ihnen gesucht
+
+212
+00:15:27,120 --> 00:15:28,760
+Überall
+
+213
+00:15:28,760 --> 00:15:32,280
+Ich will mich nur mit Ihnen unterhalten
+
 214
-00:15:17,040 --> 00:15:22,040
-Endlich begegnen wir uns wieder, Dr. Tenma.
+00:15:38,280 --> 00:15:39,920
+Weglaufen ist zwecklos
 
 215
-00:15:24,040 --> 00:15:27,040
-Ich habe so lange nach Ihnen gesucht.
-
-216
-00:15:28,040 --> 00:15:29,040
-Überall.
-
-217
-00:15:30,040 --> 00:15:32,040
-Ich will mich nur mit Ihnen unterhalten.
-
-218
-00:15:38,040 --> 00:15:40,040
-Weglaufen ist zwecklos.
-
-219
-00:15:41,040 --> 00:15:43,040
+00:15:39,920 --> 00:15:42,760
 Wieso reden wir nicht in Ruhe?
 
-220
-00:15:45,040 --> 00:15:49,040
+216
+00:15:44,200 --> 00:15:49,240
 Wie lange wollen Sie dieses Spiel noch spielen, Dr. Tenma?
 
+217
+00:15:55,680 --> 00:15:57,680
+Hände hoch, keine Bewegung!
+
+218
+00:16:09,120 --> 00:16:11,820
+Es ist alles Ihre Schuld.
+
+219
+00:16:13,200 --> 00:16:26,040
+Ich weiß, ich gebe es zu.
+
+220
+00:16:26,240 --> 00:16:28,140
+Ich habe das Ehepaar hier verbaut und ich werde halt.
+
 221
-00:15:53,040 --> 00:15:55,040
-Hände hoch! Keine Bewegung!
+00:16:28,200 --> 00:16:30,020
+Ich stelle mich. Bitte schießt mich nicht.
 
 222
-00:16:07,040 --> 00:16:09,040
-Es ist alles ihre Schuld.
+00:16:31,200 --> 00:16:33,360
+Sie sind mir doch vollkommen egal.
 
 223
-00:16:23,040 --> 00:16:30,040
-Ich weiß, ich gebe es zu, ich habe das Ehepaar hier verwandelt, ich war da, ich stelle mich, bitte schießt sie nicht!
+00:16:33,660 --> 00:16:35,000
+Sie stehen mir nur im Weg.
 
 224
-00:16:31,040 --> 00:16:35,040
-Sie sind mir doch vollkommen egal, sie stehen mir nur im Weg.
+00:16:40,000 --> 00:16:40,440
+Verdammt.
 
 225
-00:16:39,040 --> 00:16:40,040
-Verdammt!
-
-226
-00:16:53,040 --> 00:17:04,400
+00:16:43,200 --> 00:17:03,760
 Woher kommt diese Verletzung?
 
-227
-00:17:04,400 --> 00:17:06,920
+226
+00:17:04,060 --> 00:17:06,900
 Wenn ich ihn hier so liegen lasse, wird er ganz sicher verbluten.
 
-228
-00:17:06,920 --> 00:17:13,920
+227
+00:17:06,900 --> 00:17:13,980
 Wer hat ihm das angetan?
 
-229
-00:17:13,920 --> 00:17:16,920
+228
+00:17:13,980 --> 00:17:16,780
 Ich muss ihn unbedingt ins Krankenhaus bringen.
 
+229
+00:17:16,780 --> 00:17:42,040
+so ein mist sind sie bei bewusstsein wo ist der schlüssel für die handschellen falls sie
+
 230
-00:17:31,920 --> 00:17:33,920
-Ach, so ein Mist.
+00:17:42,040 --> 00:17:48,540
+Ihre Waffe suchen. Die ist bei mir. Sagen Sie mir sofort, wo sich der Schlüssel befindet. Sonst
 
 231
-00:17:36,920 --> 00:17:39,920
-Sind Sie bei Bewusstsein? Wo ist der Schlüssel für die Handschellen?
+00:17:48,540 --> 00:17:53,620
+kann ich Sie nicht medizinisch versorgen. Ich habe mir Ihre Wunde angesehen. Sie haben Glück,
 
 232
-00:17:39,920 --> 00:17:46,840
-Handschellen. Falls sie ihre Waffe suchen, die ist bei mir. Sagen sie mir sofort, wo
+00:17:53,740 --> 00:17:59,260
+es sind keine wichtigen Organe verletzt. Aber Sie verlieren sehr viel Blut. Ich muss die Blutung
 
 233
-00:17:46,840 --> 00:17:50,480
-sich der Schlüssel befindet, sonst kann ich sie nicht medizinisch versorgen.
+00:17:59,260 --> 00:18:11,180
+stoppen, sonst sterben Sie. Gestehen Sie endlich, Dr. Tenma. Was sagen Sie da?
 
 234
-00:17:50,480 --> 00:17:54,720
-Ich habe mir ihre Wunde angesehen. Sie haben Glück, es sind keine wichtigen
-
-235
-00:17:54,720 --> 00:17:57,760
-Organe verletzt, aber sie verlieren sehr viel Blut.
-
-236
-00:17:57,760 --> 00:18:02,440
-Ich muss die Blutung stoppen, sonst sterben sie.
-
-237
-00:18:02,440 --> 00:18:09,040
-Gestehen Sie endlich, Dr.
-
-238
-00:18:09,040 --> 00:18:10,040
-Tenma.
-
-239
-00:18:10,040 --> 00:18:11,040
-Was sagen Sie da?
-
-240
-00:18:11,040 --> 00:18:16,960
+00:18:12,040 --> 00:18:16,620
 Der Mord an Direktor Heinemann, Chefarzt Oppenheim, dem Neurochirurgen in der Klinik
 
-241
-00:18:16,960 --> 00:18:21,920
+235
+00:18:16,620 --> 00:18:21,120
 und die unschuldigen Ehepaare, die in den letzten drei Jahren skrupellos ermordet wurden.
 
-242
-00:18:21,920 --> 00:18:24,960
-Gestehen Sie, dass Sie für diese Taten verantwortlich sind.
+236
+00:18:21,940 --> 00:18:24,500
+Gestehen Sie, dass Sie für diese Taten verantwortlich sind?
 
-243
-00:18:24,960 --> 00:18:28,080
+237
+00:18:25,360 --> 00:18:27,640
 Wenn ich die Blutung nicht stoppe, werden Sie sterben.
 
-244
-00:18:28,080 --> 00:18:30,800
+238
+00:18:28,100 --> 00:18:30,420
 Oder soll das Johans Werk gewesen sein?
 
-245
-00:18:30,800 --> 00:18:34,800
-Sie suchen immerzu nach Johan, der angeblich der wahre Täter ist.
+239
+00:18:30,900 --> 00:18:34,540
+Sie suchen immerzu nach Johann, der angeblich der wahre Täter ist.
 
-246
-00:18:34,800 --> 00:18:38,000
-Doch Johan ist nicht real. Er existiert nur in Ihrem Kopf.
+240
+00:18:34,940 --> 00:18:38,060
+Doch Johann ist nicht real. Er existiert nur in Ihrem Kopf.
 
-247
-00:18:38,000 --> 00:18:41,500
-Johan sind Sie und nur Sie allein, Dr. Tenma.
+241
+00:18:38,060 --> 00:18:41,080
+Johann sind Sie und nur Sie allein, Dr. Tenma.
 
-248
-00:18:41,500 --> 00:18:43,000
+242
+00:18:41,660 --> 00:18:42,660
 Also gestehen Sie.
 
-249
-00:18:44,800 --> 00:18:47,600
+243
+00:18:44,680 --> 00:18:47,640
 Mir stehen hier keine chirurgischen Instrumente zur Verfügung,
 
-250
-00:18:47,600 --> 00:18:50,600
+244
+00:18:47,820 --> 00:18:50,480
 aber für eine behelfsmäßige Erstversorgung habe ich alles.
 
-251
-00:18:50,600 --> 00:18:52,400
+245
+00:18:50,780 --> 00:18:52,440
 Dazu brauche ich aber dringend meine Hände.
 
-252
-00:18:52,400 --> 00:18:55,600
-Ich versuche Ihnen gerade, das Leben zu retten. Verstehen Sie das nicht?
+246
+00:18:52,580 --> 00:18:54,160
+Ich versuche Ihnen gerade das Leben zu retten.
 
-253
-00:18:56,400 --> 00:18:59,700
+247
+00:18:54,240 --> 00:18:55,280
+Verstehen Sie das nicht?
+
+248
+00:18:56,500 --> 00:18:59,520
 Als Dr. Tenma sind Sie ein pflichtbewusster Arzt,
 
-254
-00:18:59,700 --> 00:19:02,700
-der keiner Fliege etwas zu Leide tun würde.
+249
+00:18:59,520 --> 00:19:02,200
+der keiner Fliege etwas zu leide tun würde.
 
-255
-00:19:03,700 --> 00:19:06,700
+250
+00:19:03,440 --> 00:19:06,160
 Aber als Johann haben Sie Menschen auf dem Gewissen.
 
-256
-00:19:07,700 --> 00:19:09,700
+251
+00:19:07,620 --> 00:19:09,880
 Sie täuschen sich. Das ist nicht wahr.
 
-257
-00:19:10,700 --> 00:19:12,700
+252
+00:19:09,880 --> 00:19:12,740
 Wann wird Dr. Kenzo Tenma zu Johann?
 
-258
-00:19:13,700 --> 00:19:16,700
+253
+00:19:13,300 --> 00:19:16,780
 Wann wird aus dem selbstlosen Arzt ein kaltblütiger Mörder?
 
-259
-00:19:18,700 --> 00:19:20,700
+254
+00:19:18,420 --> 00:19:20,380
 Glauben Sie mir, Sie irren sich.
 
-260
-00:19:21,700 --> 00:19:23,700
+255
+00:19:21,080 --> 00:19:23,540
 Ich habe mich noch nie geirrt.
 
-261
-00:19:24,700 --> 00:19:27,700
+256
+00:19:24,460 --> 00:19:27,840
 Durch den starken Blutverlust können Sie nicht mehr klar denken, Herr Runge.
 
-262
-00:19:27,700 --> 00:19:29,700
-Wir haben ihre Taten analysiert.
+257
+00:19:28,160 --> 00:19:30,020
+Wir haben Ihre Taten analysiert.
 
-263
-00:19:30,700 --> 00:19:32,700
-Sie sollten ihre Kräfte schonen.
+258
+00:19:30,860 --> 00:19:32,540
+Sie sollten Ihre Kräfte schonen.
 
-264
-00:19:32,700 --> 00:19:36,700
-Es sind keine Effekthandlungen gewesen, denn es geschah völlig emotionslos.
+259
+00:19:32,960 --> 00:19:37,360
+Es sind keine Affekthandlungen gewesen, denn es geschah völlig emotionslos.
 
-265
-00:19:37,700 --> 00:19:38,700
+260
+00:19:37,980 --> 00:19:38,900
 Hören Sie auf.
 
-266
-00:19:38,700 --> 00:19:44,700
-Als Arzt ist man Tag für Tag mit dem Tod konfrontiert, da härtet man ab, Dr. Tenma.
+261
+00:19:38,900 --> 00:19:44,880
+Als Arzt ist man Tag für Tag mit dem Tod konfrontiert. Da härtet man ab, Dr. Tenma.
 
-267
-00:19:45,700 --> 00:19:51,700
-Die Morde waren an Kaltblütigkeit nicht zu überbieten und das hat sie verraten.
+262
+00:19:46,240 --> 00:19:51,920
+Die Morde waren an Kaltblütigkeit nicht zu überbieten. Und das hat sie verraten.
 
-268
-00:19:52,700 --> 00:19:54,700
+263
+00:19:53,100 --> 00:19:54,920
 Sie sind wirklich eiskalt.
 
-269
-00:19:54,700 --> 00:19:56,700
+264
+00:19:55,700 --> 00:19:57,280
 Da muss ich Ihnen widersprechen.
 
-270
-00:19:59,700 --> 00:20:03,700
-Ich hatte vor jeder einzelnen OP sehr große Angst,
+265
+00:20:00,360 --> 00:20:06,600
+Ich hatte vor jeder einzelnen OP sehr große Angst, dass mir ein Fehler unterlaufen könnte.
 
-271
-00:20:03,700 --> 00:20:06,700
-dass mir ein Fehler unterlaufen könnte,
-
-272
-00:20:06,700 --> 00:20:09,700
+266
+00:20:06,600 --> 00:20:09,960
 dass unerwartete Komplikationen auftreten.
 
-273
-00:20:09,700 --> 00:20:11,700
+267
+00:20:10,340 --> 00:20:12,240
 Ich zitterte jedes Mal am ganzen Körper.
 
-274
-00:20:11,700 --> 00:20:15,700
-Ob ein Mensch lebt oder stirbt, liegt ganz allein in meinen Händen.
+268
+00:20:12,660 --> 00:20:14,500
+Ob ein Mensch lebt oder bestirbt,
 
-275
-00:20:15,700 --> 00:20:17,700
+269
+00:20:14,540 --> 00:20:16,100
+die ganz allein in meinen Händen.
+
+270
+00:20:17,100 --> 00:20:17,840
 Diesen Händen.
 
-276
-00:20:19,700 --> 00:20:22,700
-Behaupten Sie nicht, dass mich das kalt lässt!
+271
+00:20:20,460 --> 00:20:22,500
+Behaupten Sie nicht, dass mich das Kalk lässt!
 
-277
-00:20:24,700 --> 00:20:26,700
+272
+00:20:25,480 --> 00:20:26,340
+Mein Bauch.
+
+273
+00:20:27,420 --> 00:20:28,060
+Keine...
+
+274
+00:20:28,060 --> 00:20:29,300
 Ich werde Sie retten.
 
-278
-00:20:26,700 --> 00:20:28,700
-Ich schieße.
+275
+00:20:30,320 --> 00:20:31,680
+Ich... ich schieße.
 
-279
-00:20:28,700 --> 00:20:30,700
+276
+00:20:32,040 --> 00:20:33,600
 Die Blutung muss gestoppt werden.
 
-280
-00:20:30,700 --> 00:20:32,700
+277
+00:20:33,600 --> 00:20:35,200
 Sagen Sie mir, wo der Schlüssel ist.
 
-281
-00:20:32,700 --> 00:20:34,700
+278
+00:20:35,260 --> 00:20:36,360
 In einer der Hosentaschen?
 
-282
-00:20:34,700 --> 00:20:36,700
+279
+00:20:36,600 --> 00:20:38,760
 Ich...
 
+280
+00:20:38,760 --> 00:20:59,560
+Schön, dass es Ihnen wieder besser geht.
+
+281
+00:20:59,560 --> 00:21:01,380
+Da sind wir wirklich erleichtert.
+
+282
+00:21:01,720 --> 00:21:04,480
+Sie machen einen viel entspannteren Eindruck als bei der Arbeit.
+
 283
-00:20:54,700 --> 00:21:01,780
-schön dass es ihnen wieder besser geht da sind wir wirklich erleichtert sie
+00:21:04,880 --> 00:21:07,180
+Danke, dass Sie sich die Zeit nehmen, mich zu besuchen.
 
 284
-00:21:01,780 --> 00:21:05,620
-machen einen viel entspannteren eindruck als bei der arbeit danke dass sie sich
+00:21:07,760 --> 00:21:11,380
+Laut den Ärzten haben Sie eine sehr gute Erstversorgung erhalten.
 
 285
-00:21:05,620 --> 00:21:09,820
-die zeit nehmen mich zu besuchen laut den ärzten haben sie eine sehr gute
+00:21:12,120 --> 00:21:16,820
+Wären Sie nicht so professionell behandelt worden, wären Sie jetzt wohl nicht mehr am Leben.
 
 286
-00:21:09,820 --> 00:21:15,260
-erstversorgung erhalten wären sie nicht so professionell behandelt worden wären
+00:21:17,280 --> 00:21:21,200
+Tenma. Also hat das Gute in ihm mir heute das Leben gerettet.
 
 287
-00:21:15,260 --> 00:21:20,660
-sie jetzt wohl nicht mehr am leben also hat das gute in ihm mir heute das leben
+00:21:21,680 --> 00:21:23,700
+Tenma ist uns wieder einmal entwischt.
 
 288
-00:21:20,660 --> 00:21:27,180
-gerettet. Tenma ist uns wieder einmal entwischt. Dafür hat Giebel den Mord an den Jobs gestanden.
+00:21:24,360 --> 00:21:26,680
+Dafür hat Giebel den Mord an den Jobs gestanden.
 
 289
-00:21:27,180 --> 00:21:30,060
-Das ist ganz allein ihr Verdienst. Danke.
+00:21:27,180 --> 00:21:29,140
+Das ist ganz allein Ihr Verdienst.
 
 290
-00:21:30,060 --> 00:21:40,380
-Was denken Sie? Runge hat Tenma zu verdanken, dass er am Leben ist. Das könnte seine Unbefangenheit
+00:21:29,620 --> 00:21:30,040
+Danke.
 
 291
-00:21:40,380 --> 00:21:45,260
-bei den Ermittlungen beeinflussen. Vielleicht wäre es besser, Runge vom Tenma-Fall abzuziehen.
+00:21:33,000 --> 00:21:34,320
+Was denken Sie?
 
 292
-00:21:45,260 --> 00:21:51,540
-Ich hoffe doch, dass Kommissar Runge Ihnen nicht allzu sehr zur Last fällt.
+00:21:34,480 --> 00:21:38,360
+Hm. Runge hat Tenma zu verdanken, dass er am Leben ist.
 
 293
-00:21:51,540 --> 00:21:53,700
-Aber nein, das Gegenteil ist der Fall.
+00:21:38,920 --> 00:21:41,980
+Das könnte seine Unbefangenheit bei den Ermittlungen beeinflussen.
 
 294
-00:21:53,700 --> 00:21:55,780
-Herr Runge ist ein sehr pflegeleichter Patient.
+00:21:42,380 --> 00:21:45,260
+Vielleicht wäre es besser, Runge vom Tenma-Fall abzuziehen.
 
 295
-00:21:55,780 --> 00:21:59,460
-Ich sag ihm immer, dass er mit der Genesung nichts überstürzen und es ruhig angehen
+00:21:47,200 --> 00:21:51,380
+Ich hoffe doch, dass Kommissar Runge Ihnen nicht allzu sehr zur Last fällt.
 
 296
-00:21:59,460 --> 00:22:00,460
-lassen soll.
+00:21:51,580 --> 00:21:55,460
+Aber nein, das Gegenteil ist der Fall. Herr Runge ist ein sehr pflegeleichter Patient.
 
 297
-00:22:00,460 --> 00:22:04,260
-Aber er knetet schon Bälle und geht ausgiebig im Flur spazieren.
+00:21:56,040 --> 00:22:00,000
+Ich sag ihm immer, dass er mit der Genesung nichts überstürzen und es ruhig angehen lassen soll.
 
 298
-00:22:04,260 --> 00:22:07,740
-So kann er schon bald wieder seiner größten Freude nachgehen.
+00:22:00,000 --> 00:22:03,980
+Aber er knetet schon Bälle und geht ausgiebig im Flur spazieren.
 
 299
-00:22:07,740 --> 00:22:08,740
-Was meinen Sie?
+00:22:04,280 --> 00:22:07,220
+So kann er schon bald wieder seiner größten Freude nachgehen.
 
 300
-00:22:08,740 --> 00:22:11,260
-Na, sein aktueller Fall.
+00:22:07,720 --> 00:22:08,540
+Was meinen Sie?
 
 301
-00:22:11,260 --> 00:22:13,540
-Er geht voll darin auf und will gleich weiter ermitteln.
+00:22:09,380 --> 00:22:13,520
+Na, sein aktueller Fall. Er geht voll darin auf und will gleich weiter ermitteln.
 
 302
-00:22:13,540 --> 00:22:16,540
-Warten Sie, wie hieß er nochmal?
+00:22:14,620 --> 00:22:18,480
+Warten Sie, wie hieß er noch mal? Ja, genau. Tenma.
 
 303
-00:22:16,540 --> 00:22:18,540
-Ja genau, Tenma.
-
-304
-00:22:18,540 --> 00:22:23,540
+00:22:19,320 --> 00:22:23,380
 Er meinte, dass ihm kaum etwas mehr Freude bereite, als diesen Tenma zu jagen.
 
+304
+00:22:33,980 --> 00:22:35,980
+Amen.
+
 305
-00:22:43,540 --> 00:22:46,540
-Untertitel der Amara.org-Community
+00:23:03,980 --> 00:23:33,960
+Untertitelung des ZDF, 2020
 
 306
-00:23:13,540 --> 00:23:16,540
-Untertitel der Amara.org-Community
-
-307
-00:23:43,540 --> 00:23:46,540
-Untertitel der Amara.org-Community
+00:23:33,980 --> 00:23:54,380
+Untertitelung des ZDF, 2020
 

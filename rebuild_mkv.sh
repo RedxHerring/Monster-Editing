@@ -1,122 +1,159 @@
-# Given an epnum in the input, rebuild that mkvz
+# Given an epnum in the input, rebuild that mkv
 
-SAVdir='Monster [Ultimate Collection] By Kira [SEV]/Monster [2004-2005] DVDRip x265 AC-3 DD 2.0 Kira [SEV]/'
-FREdir='[Community] Monster [MULTI DVDRIP 540p x265 AC3]'
+function get_language() { # input shorthand $lang and get full language name
+    if [[ $1 == "ara" ]]; then
+        echo "Arabic"
+    elif [[ $1 == "bra" ]]; then
+        echo "Brazilian-Portuguese"
+    elif [[ $1 == "deu" ]]; then
+        echo "Dutch"
+    elif [[ $1 == "eng" ]]; then
+        echo "English"
+    elif [[ $1 == "fre" ]]; then
+        echo "French"
+    elif [[ $1 == "ind" ]]; then
+        echo "Indonesian"
+    elif [[ $1 == "ita" ]]; then
+        echo "Italian"
+    elif [[ $1 == "msa" ]]; then
+        echo "Malay"
+    elif [[ $1 == "pol" ]]; then
+        echo "Polish"
+    elif [[ $1 == "por" ]]; then
+        echo "Portuguese"
+    elif [[ $1 == "ron" ]]; then
+        echo "Romanian"
+    elif [[ $1 == "spa" ]]; then
+        echo "Spanish"
+    elif [[ $1 == "tha" ]]; then
+        echo "Thai"
+    elif [[ $1 == "tur" ]]; then
+        echo "Turkish"
+    elif [[ $1 == "vie" ]]; then
+        echo "Vietnamese"
+    elif [[ $1 == "jpn" ]]; then
+        echo "Japanese"
+    elif [[ $1 == "zho" ]]; then
+        echo "Chinese"
+    fi
+}
+
+pwd0=$(pwd)
 
 epnum=$1 # episode number should be first and only argument
 Origmkv=$(ls Orig/ | grep "Chapter $epnum")
-echo "Found $Origmkv, will use for high-res source"
+echo "Found $Origmkv, will use for high-res video source"
 Origmkv="Orig/$Origmkv"
 vid_name=${Origmkv:5}
 echo "Preparing $vid_name..."
-epnum=$(echo $vid_name | grep -E -o [0-9]{2})
-epnum=${epnum:0:2}
-# Find episode with better audio files
-SAVmkv="$SAVdir$(ls "$SAVdir" | grep "Chapter $epnum")"
-echo "Found $SAVmkv, will use for japanese and english dub"
-# Find episode with french dub
-FREmkv="$FREdir$(ls "$FREdir" | grep "Monster $epnum")"
-echo "Found $FREmkv, will use for french dub"
+FREdir='[Community] Monster [MULTI DVDRIP 540p x265 AC3]'
+FREmkv="$FREdir/$(ls "$FREdir" | grep "Monster $epnum")"
+echo "Found $FREmkv, will use for french subtitles"
 
 outmkv="Output/$vid_name"
-ninputs=2 # assume 2 video inputs
+ninputs=2 # assume 2 video inputs: 1080p upscaled and french source
 
 # Set up inputs.txt, which will contain video and subtitle inputs
 rm -f inputs.txt
 # Set up mappings.txt, which will contain subtitle mappings
 rm -f mappings.txt
-# Set up map-fonts.txt, which will contain font streams from the original input
-rm -f map-fonts.txt
-# Set up outputs.txt, which will contain video and subtitle output parameters
+# Set up attach-fonts.txt, which will contain font files in Subs/Full-Subs, which will be added before fonts streams from video inputs
+rm -f attach-fonts.txt
+# Set up outputs.txt, which will contain video and subtitle output metadata
 rm -f outputs.txt
-# Search Full-Subs for subtitle files matching the episode
-nsubs=0
-for sub in $(find Subs/Full-Subs -type f -name '*.ass'); do
-    subepnum=$(echo $sub | grep -E -o [0-9]{2})
-    if [[ "$epnum" == "$subepnum" ]]; then # valid episode
-        # find language
-        lang=$(echo $(basename $(dirname $sub)))
-        if [[ $lang == "ara" ]]; then
-            sub_text="Arabic"
-        elif [[ $lang == "bra" ]]; then
-            sub_text="Brazilian-Portuguese"
-        elif [[ $lang == "deu" ]]; then
-            sub_text="Dutch"
-        elif [[ $lang == "eng" ]]; then
-            sub_text="English"
-        elif [[ $lang == "fre" ]]; then
-            sub_text="French"
-        elif [[ $lang == "ind" ]]; then
-            sub_text="Indonesian"
-        elif [[ $lang == "ita" ]]; then
-            sub_text="Italian"
-        elif [[ $lang == "msa" ]]; then
-            sub_text="Malay"
-        elif [[ $lang == "pol" ]]; then
-            sub_text="Polish"
-        elif [[ $lang == "por" ]]; then
-            sub_text="Portuguese"
-        elif [[ $lang == "ron" ]]; then
-            sub_text="Romanian"
-        elif [[ $lang == "spa" ]]; then
-            sub_text="Spanish"
-        elif [[ $lang == "tha" ]]; then
-            sub_text="Thai"
-        elif [[ $lang == "tur" ]]; then
-            sub_text="Turkish"
-        elif [[ $lang == "vie" ]]; then
-            sub_text="Vietnamese"
-        elif [[ $lang == "jpn" ]]; then
-            sub_text="Japanese"
-        elif [[ $lang == "zho" ]]; then
-            sub_text="Chinese"
-        fi
-        if [[ "$lang" == "eng" ]] && [[ "$sub" != *"itles"* ]]; then
-            idefault=$nsubs # pick this subs track as default in ffmpeg
-        elif [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
-            sub_text="$sub_text-Titles+Signs"
-        elif [[ "$lang" == "spa" ]] && [[ "$sub" == *"roadcast"* ]]; then
-            sub_text="$sub_text-Original_Broadcast"
-        fi
-        echo "Found $sub_text subtitles"
-        echo "-metadata:s:s:$nsubs language=$lang -metadata:s:s:$nsubs title=$sub_text" >> outputs.txt
-        echo "-i $sub" >> inputs.txt
-        echo "-map $ninputs" >> mappings.txt
-        nsubs=$(expr $nsubs + 1) # iterate after since titles and signs will be added
+
+# Add Audio tracks in defined order so we can add the write metadata titles later
+nainputs=0
+cd Audio
+for lang in *; do
+    echo "-i Audio/$lang/Ep$epnum.flac" >> $pwd0/inputs.txt
+    echo "-map $ninputs" >> $pwd0/mappings.txt
+    if [[ $lang == "deu" ]]; then # need to use different codec for 5.1
+        echo "-c:a:$nainputs libvorbis -q:a:0 7" >> $pwd0/mappings.txt
+    else
+        echo "-c:a:$nainputs libopus -b:a:1 108000" >> $pwd0/mappings.txt
+    fi
+    echo "-metadata:s:a:$nainputs language=$lang -metadata:s:a:$nainputs title=$(get_language $lang)-Audio" >> $pwd0/outputs.txt
+    ninputs=$(expr $ninputs + 1)
+    nainputs=$(expr $nainputs + 1)
+    if [[ "$epnum" == "15" ]] && [[ $lang == "jpn" ]]; then # extra audio file
+        echo "-i Audio/jpn/Ep15Orig.flac" >> $pwd0/inputs.txt
+        echo "-map $ninputs" >> $pwd0/mappings.txt
+        echo "-metadata:s:a:$nainputs language=jpn -metadata:s:a:$nainputs title=Japanese-Broadcast-Audio" >> $pwd0/outputs.txt
         ninputs=$(expr $ninputs + 1)
+        nainputs=$(expr $nainputs + 1)
     fi
 done
+
+# Search Full-Subs for subtitle files matching the episode
+nsubs=0
+nfonts=0
+cd $pwd0/Subs/Full-Subs/
+for lang in *; do
+    echo "Looking for $lang subtitle files." 
+    cd $pwd0/Subs/Full-Subs/$lang
+    for sub in *.ass; do
+        subepnum=$(echo $sub | grep -E -o [0-9]{2})
+        if [[ "$epnum" == "$subepnum" ]]; then # valid episode
+            sub_text=$(get_language $lang)
+            if [[ "$lang" == "eng" ]] && [[ "$sub" != *"itles"* ]]; then
+                idefault=$nsubs # pick this subs track as default in ffmpeg
+            elif [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
+                sub_text="$sub_text-Titles+Signs"
+            elif [[ "$lang" == "jpn" ]] && [[ "$sub" == *"roadcast"* ]]; then
+                sub_text="$sub_text-Original_Broadcast"
+            fi
+            echo "Found $sub_text subtitles"
+            echo "-metadata:s:s:$nsubs language=$lang -metadata:s:s:$nsubs title=$sub_text" >> $pwd0/outputs.txt
+            echo "-i $pwd0/Subs/Full-Subs/$lang/$sub" >> $pwd0/inputs.txt
+            echo "-map $ninputs" >> $pwd0/mappings.txt
+            nsubs=$(expr $nsubs + 1) # iterate after since titles and signs will be added
+            ninputs=$(expr $ninputs + 1)
+        fi
+    done
+    # Within this directory look for ttf, TTF and otf files
+    for font in *.TTF; do
+        if [ "${#font}" -gt 5 ]; then
+            echo
+            echo "-attach $pwd0/Subs/Full-Subs/$lang/$font -metadata:s:t:$nfonts filename=$font -metadata:s:t:$nfonts mimetype=application/x-truetype-font" >> $pwd0/attach-fonts.txt
+            nfonts=$(expr $nfonts + 1)
+        fi
+    done
+    for font in *.ttf; do
+        if [ "${#font}" -gt 5 ]; then
+            echo
+            echo "-attach $pwd0/Subs/Full-Subs/$lang/$font -metadata:s:t:$nfonts filename=$font -metadata:s:t:$nfonts mimetype=application/x-truetype-font" >> $pwd0/attach-fonts.txt
+            nfonts=$(expr $nfonts + 1)
+        fi
+    done
+    for font in *.OTF; do
+        if [ "${#font}" -gt 5 ]; then
+            echo "-attach $pwd0/Subs/Full-Subs/$lang/$font -metadata:s:t:$nfonts filename=$font -metadata:s:t:$nfonts mimetype=application/vnd.ms-opentype" >> $pwd0/attach-fonts.txt
+            nfonts=$(expr $nfonts + 1)
+        fi
+    done
+    for font in *.otf; do
+        if [ "${#font}" -gt 5 ]; then
+            echo "-attach $pwd0/Subs/Full-Subs/$lang/$font -metadata:s:t:$nfonts filename=$font -metadata:s:t:$nfonts mimetype=application/vnd.ms-opentype" >> $pwd0/attach-fonts.txt
+            nfonts=$(expr $nfonts + 1)
+        fi
+    done
+done
+cd $pwd0
 echo "Adding $nsubs subtitle files"
 
-# We'll map the french subs directly from the french source file, but we need to know the index to map the metadata
-nsubs=$(expr $nsubs + 1)
-echo "map-metadata:s:s:$nsubs 2:s:s:1" >> outputs.txt
-
-#Now run actual ffmpeg command
-if [[ "$epnum" == "15" ]]; then # extra audio file
-    echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 0:a:0 -map 0:a:1 -map 1:a:1 -map 0:s:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus -c:s copy -map_metadata -1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) $outmkv"
-    # ffmpeg params
-    ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
-    -i "$Origmkv" -i "$SAVmkv" -i "$FREmkv" $(cat inputs.txt | xargs echo) \
-    -map 0:v:0 -map 1:a:0 -map 0:a:1 -map 1:a:1 -map 2:a:1 $(cat mappings.txt | xargs echo) -map 2:s -map 0:t -map 2:t \
-    -c:v av1_qsv -preset 1 -extbrc 0 -look_ahead_depth 36 -c:a libopus -c:s copy -c:t copy \
-    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 0:s:a:1 -map_metadata:s:a:2 1:s:a:1 -map_metadata:s:a:3 2:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
-    -disposition:s:s:"$idefault" forced "$outmkv"
-else
-    echo "ffmpeg -y -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv -i $SAVmkv $(cat inputs.txt | xargs echo) -map 0:v -map 1:a:0 -map 1:a:1 $(cat map-fonts.txt | xargs echo) -c:v av1_qsv -c:a libopus  -c:t copy -map_metadata 0 -map_metadata:s:v 0:s:v -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo)  $outmkv"
-    # ffmpeg params
-    ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw \
-    -i "$Origmkv" -i "$SAVmkv" -i "$FREmkv" $(cat inputs.txt | xargs echo) \
-    -map 0:v:0 -map 1:a:0 -map 1:a:1 -map 0:t $(cat mappings.txt | xargs echo) -map 2:s -map 0:t -map 2:t  \
-    -c:v av1_qsv -preset 1 -extbrc 0 -look_ahead_depth 36 -c:a libopus -c:s copy -c:t copy \
-    -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:a:0 1:s:a:0 -map_metadata:s:a:1 1:s:a:1 -map_metadata:s:a:2 2:s:a:1 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
-    -disposition:s:s:"$idefault" forced "$outmkv"
-fi
-
-
+# Now run actual ffmpeg command
+echo "ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv -i $FREmkv $(cat inputs.txt | xargs echo) \
+-map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 1:s -map 0:t -map 1:t  \
+-c:v hevc_qsv -preset veryslow -global_quality:v 21 -look_ahead 1 -scenario:v archive -pix_fmt p010le  -c:s copy -c:t copy \
+-map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) -disposition:s:s:$idefault forced $outmkv"
+# ffmpeg params
+ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i "$Origmkv" -i "$FREmkv" $(cat inputs.txt | xargs echo) \
+-map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 1:s -map 0:t -map 1:t  \
+-c:v hevc_qsv -preset veryslow -global_quality:v 21 -look_ahead 1 -scenario:v archive -pix_fmt p010le  -c:s copy -c:t copy \
+-map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) -disposition:s:s:"$idefault" forced "$outmkv"
 
 
 # guide for having a bunch of inputs into ffmpeg https://superuser.com/questions/242584/how-to-provide-multiple-input-to-ffmpeg
 # guide to add fonts https://superuser.com/questions/1586716/how-to-add-fonts-to-mkv-container-with-ffmpeg
-# good guide for librav1e https://askubuntu.com/questions/1189174/how-do-i-use-ffmpeg-and-rav1e-to-create-high-quality-av1-files
 

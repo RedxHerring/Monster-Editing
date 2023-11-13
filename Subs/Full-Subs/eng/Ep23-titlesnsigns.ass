@@ -26,3 +26,5 @@ Style: Names,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:30.08,0:02:33.88,Title,,0,0,0,,{\fad(250,250)\pos(360,340)}Eva's Confession
+Dialogue: 0,0:13:04.38,0:13:07.84,Names,,0,0,0,,{\fad(1000,0)\an8}Düsseldorf
+Dialogue: 0,0:23:49.11,0:23:53.57,Title,,0,0,0,,{\fad(1000,0)\pos(360,340)}Of Men and Dining

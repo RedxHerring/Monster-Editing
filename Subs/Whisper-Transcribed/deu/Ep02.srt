@@ -1,1296 +1,1000 @@
 1
-00:00:00,000 --> 00:00:18,480
-Blutdruck 120 zu 80, Puls 92, das ist gut.
+00:00:00,000 --> 00:00:18,200
+Blutdruck 120 zu 80. Puls 92. Das ist gut.
 
 2
-00:00:18,480 --> 00:00:19,960
+00:00:18,600 --> 00:00:19,980
 Ich entferne jetzt die Kugel.
 
 3
-00:00:19,960 --> 00:00:35,640
-die kugel ist draußen
+00:00:30,900 --> 00:00:32,600
+Die Kugel ist draußen.
 
 4
-00:00:35,640 --> 00:00:37,640
-die kugel wurde erfolgreich entfernt
+00:00:34,980 --> 00:00:37,660
+Die Kugel wurde erfolgreich entfernt.
 
 5
-00:00:37,640 --> 00:00:44,160
-zum aufatmen ist es noch zu früh jetzt müssen wir uns um die beschädigten gefäßwände
+00:00:37,960 --> 00:00:41,060
+Ja. Zum Aufatmen ist es noch zu früh.
 
 6
-00:00:44,160 --> 00:00:45,160
-kümmern
+00:00:41,820 --> 00:00:44,580
+Jetzt müssen wir uns um die beschädigten Gefäßwände kümmern.
 
 7
-00:00:45,160 --> 00:00:46,160
+00:00:44,580 --> 00:00:45,940
 Äh, natürlich.
 
 8
-00:00:47,160 --> 00:00:48,160
-Prolenefaden.
+00:00:47,020 --> 00:00:47,920
+Prolene, faden!
 
 9
-00:00:48,160 --> 00:00:49,160
-Sofort.
+00:00:48,120 --> 00:00:48,560
+Sofort!
 
 10
-00:01:15,160 --> 00:01:18,160
-Untertitel der Amara.org-Community
+00:01:00,000 --> 00:01:29,980
+Untertitelung des ZDF, 2020
 
 11
-00:01:45,160 --> 00:01:48,160
-Untertitel der Amara.org-Community
+00:01:30,000 --> 00:01:59,980
+Untertitelung des ZDF, 2020
 
 12
-00:02:15,160 --> 00:02:34,160
-Der Blutdruck ist bei 128 zu 72, Puls 88.
+00:02:00,000 --> 00:02:29,980
+Untertitelung des ZDF, 2020
 
 13
-00:02:34,160 --> 00:02:36,920
-Die Narkose wirkt offenbar deutlich länger als erwartet.
+00:02:30,000 --> 00:02:36,900
+ist bei 128 zu 72. Puls 88. Die Narkose wirkt offenbar deutlich länger als erwartet.
 
 14
-00:02:36,920 --> 00:02:51,920
+00:02:46,360 --> 00:02:50,300
 Halte durch, Junge. Du musst durchhalten und kämpfen.
 
 15
-00:02:51,920 --> 00:02:59,920
-Dr. Boyer, Dr. Eisen! Ihre Operation ist offensichtlich geglückt.
+00:02:54,080 --> 00:02:59,980
+Dr. Boyer, Dr. Eisen. Ihre Operation ist offensichtlich geglückt.
 
 16
-00:02:59,920 --> 00:03:02,920
+00:03:00,640 --> 00:03:02,120
 Ja, das ist sie. Und bei Ihnen?
 
 17
-00:03:02,920 --> 00:03:05,920
+00:03:02,700 --> 00:03:04,560
 Sagen Sie, der Bürgermeister ist tot.
 
 18
-00:03:05,920 --> 00:03:12,420
-Er ist wirklich… Das tut mir… Das tut mir sehr leid.
+00:03:08,120 --> 00:03:12,280
+Er ist wirklich... Das tut mir sehr leid.
 
 19
-00:03:12,420 --> 00:03:16,420
+00:03:12,780 --> 00:03:16,340
 Tja, Sie trauen sich was, reden so, als würde Sie das nichts angehen.
 
 20
-00:03:16,420 --> 00:03:21,920
-Haben Sie etwa schon vergessen, dass Sie das Team kurz vor der OP einfach im Stich gelassen haben?
+00:03:16,980 --> 00:03:22,000
+Haben Sie etwa schon vergessen, dass Sie das Team kurz vor der OP einfach in Stich gelassen haben?
 
 21
-00:03:21,920 --> 00:03:24,920
+00:03:22,000 --> 00:03:25,000
 Aber der Junge ist doch vor dem Bürgermeister eingeliefert worden.
 
 22
-00:03:24,920 --> 00:03:27,420
+00:03:25,020 --> 00:03:27,380
 Es ist doch völlig egal, wer zuerst hier war.
 
 23
-00:03:27,420 --> 00:03:30,920
-Das Problem ist vielmehr, dass Sie eine Personallücke hinterlassen haben,
+00:03:27,380 --> 00:03:33,980
+Das Problem ist vielmehr, dass Sie eine Personallücke hinterlassen haben, als Sie einfach im Alleingang entschieden haben, das Team zu verlassen.
 
 24
-00:03:30,920 --> 00:03:33,920
-als Sie einfach im Alleingang entschieden haben, das Team zu verlassen.
+00:03:34,320 --> 00:03:36,680
+Aber Sie sehen das völlig falsch. Hören Sie, ich...
 
 25
-00:03:33,920 --> 00:03:36,520
-Aber Sie sehen das völlig falsch. Hören Sie ich...
-
-26
-00:03:36,520 --> 00:03:38,520
+00:03:36,680 --> 00:03:38,440
 Nein, das haben Sie zu verantworten.
 
+26
+00:03:39,120 --> 00:03:45,200
+Ich habe Sie ausdrücklich auf Befehl des Klinikdirektors angewiesen, die Operation an dem Bürgermeister vorzunehmen.
+
 27
-00:03:38,520 --> 00:03:42,520
-Ich habe Sie ausdrücklich auf Befehl des Klinikdirektors angewiesen,
-
-28
-00:03:42,520 --> 00:03:45,520
-die Operation an dem Bürgermeister vorzunehmen.
-
-29
-00:03:45,520 --> 00:03:49,020
+00:03:46,000 --> 00:03:48,380
 Aber Sie haben das schlichtweg ignoriert.
 
+28
+00:03:49,380 --> 00:03:51,280
+Sie müssen das verstehen, zu der Zeit war...
+
+29
+00:03:51,280 --> 00:03:56,300
+Verlässlichkeit und Zusammenhalt ist das Fundament für gute Teamarbeit bei einer chirurgischen Operation.
+
 30
-00:03:49,020 --> 00:03:51,020
-Sie müssen das verstehen. Zu der Zeit war...
+00:03:56,300 --> 00:04:01,940
+Aber Sie haben hier Ihre eigene Show abgezogen. Ich habe den Klinikdirektor bereits informiert.
 
 31
-00:03:51,020 --> 00:03:53,520
-Verlässlichkeit und Zusammenhalt ist das Fundament
-
-32
-00:03:53,520 --> 00:03:56,520
-für gute Teamarbeit bei einer chirurgischen Operation.
-
-33
-00:03:56,520 --> 00:03:59,520
-Aber Sie haben hier Ihre eigene Show abgezogen.
-
-34
-00:03:59,520 --> 00:04:02,020
-Ich habe den Klinikdirektor bereits informiert.
-
-35
-00:04:02,020 --> 00:04:08,020
+00:04:02,300 --> 00:04:08,000
 Er befürchtet sehr, dass dieser Vorfall dem Ansehen unserer Klinik immens schaden wird.
 
-36
-00:04:09,020 --> 00:04:11,020
-Machen Sie sich auf was gefasst!
+32
+00:04:09,480 --> 00:04:11,040
+Machen Sie sich auf was gefasst.
 
-37
-00:04:16,020 --> 00:04:17,020
-Aber ich habe doch...
+33
+00:04:15,620 --> 00:04:17,760
+Aber ich habe doch... Warten Sie!
 
-38
-00:04:17,020 --> 00:04:18,020
-Warten Sie!
-
-39
-00:04:22,020 --> 00:04:29,020
+34
+00:04:17,760 --> 00:04:29,020
 Dr. Tenma, der Blutdruck des Jungen liegt jetzt bei 114 zu 82 und sein Puls ist bei 84.
 
-40
-00:04:29,020 --> 00:04:33,020
+35
+00:04:29,320 --> 00:04:32,720
 Die Vitalwerte sind stabil. Er scheint tatsächlich Glück gehabt zu haben.
 
-41
-00:04:33,020 --> 00:04:36,020
+36
+00:04:33,320 --> 00:04:35,940
 Ach wirklich? Das freut mich zu hören.
 
-42
-00:04:36,020 --> 00:04:40,020
+37
+00:04:36,580 --> 00:04:40,160
 Dr. Tenma, Sie haben bei dem Jungen wirklich hervorragende Arbeit geleistet.
 
-43
-00:04:48,020 --> 00:04:54,020
-Bürgermeister Rodecker, der während eines Kurzurlaubs einen Zusammenbruch erlitt, ist in der Klinik verstaubt.
+38
+00:04:48,760 --> 00:04:54,200
+Bürgermeister Rodecker, der während eines Kurzurlaubs einen Zusammenbruch erlitt, ist in der Klinik verstorben.
 
-44
-00:04:54,020 --> 00:04:58,020
-Zahlreiche Bürger eilten nach der plötzlichen Nachricht seines Todes zum Rathaus,
+39
+00:04:55,060 --> 00:05:02,520
+Zahlreiche Bürger eilten nach der plötzlichen Nachricht seines Todes zum Rathaus, um Kränze niederzulegen und dem Bürgermeister und seinem Wirken zu gedenken.
 
-45
-00:04:58,020 --> 00:05:03,180
-zum Rathaus, um Kränze niederzulegen und dem Bürgermeister und seinem Wirken zu gedenken.
+40
+00:05:02,520 --> 00:05:08,780
+In der Eisler Gedenkklinik, in der die Operation durchgeführt wurde, fand eine Pressekonferenz statt.
 
-46
-00:05:03,180 --> 00:05:08,380
-In der Eisler Gedenkklinik, in der die Operation durchgeführt wurde, fand eine Pressekonferenz
+41
+00:05:09,420 --> 00:05:15,860
+Der Bürgermeister verstarb an einem akuten Hirninfarkt, verursacht durch den Verschluss der inneren Kopfarterie.
 
-47
-00:05:08,380 --> 00:05:09,380
-statt.
-
-48
-00:05:09,380 --> 00:05:14,140
-Der Bürgermeister verstarb an einem akuten Hirninfarkt, verursacht durch den Verschluss
-
-49
-00:05:14,140 --> 00:05:16,340
-der inneren Kopfarterie.
-
-50
-00:05:16,340 --> 00:05:21,020
+42
+00:05:15,860 --> 00:05:20,980
 Wir haben alles, was in unserer Macht stand, getan, doch es kam zu einer starken Hirnschwellung,
 
-51
-00:05:21,020 --> 00:05:24,100
+43
+00:05:21,040 --> 00:05:24,120
 welche bedauerlicherweise zum Tod des Bürgermeisters führte.
 
-52
-00:05:24,100 --> 00:05:31,100
+44
+00:05:24,880 --> 00:05:31,040
 Die Stadtverwaltung erklärte heute, dass die Frage der Nachfolge so schnell wie möglich geklärt werden soll.
 
-53
-00:05:31,100 --> 00:05:32,100
+45
+00:05:31,060 --> 00:05:31,960
 Ich brauche Schlaf.
 
-54
-00:05:32,100 --> 00:05:38,100
-Der Mord an dem Ehepaar Liebert in einem Vorort Düsseldorfs vergangene Nacht sorgt für Aufsehen.
+46
+00:05:32,640 --> 00:05:37,800
+Der Mord an dem Ehepaar Liebert in einem Vorort Düsseldorf vergangene Nacht sorgt für Aufsehen.
 
-55
-00:05:38,100 --> 00:05:42,100
+47
+00:05:38,580 --> 00:05:41,980
 Es gibt Anzeichen dafür, dass das Haus durchsucht worden ist.
 
-56
-00:05:42,100 --> 00:05:47,100
+48
+00:05:41,980 --> 00:05:46,780
 Es ist noch nicht klar, ob es sich um ein politisch motiviertes Verbrechen handelt.
 
-57
-00:05:47,100 --> 00:05:49,100
+49
+00:05:47,200 --> 00:05:49,000
 Die Ermittlungen dauern noch an.
 
-58
-00:05:50,100 --> 00:05:53,100
+50
+00:05:50,860 --> 00:05:53,220
 Die Zwillinge der Lieberts haben überlebt.
 
-59
-00:05:53,100 --> 00:05:58,100
+51
+00:05:53,500 --> 00:05:57,680
 Der Junge erlitt einen Kopfschuss, konnte aber bereits erfolgreich operiert werden.
 
-60
-00:05:58,100 --> 00:06:00,100
+52
+00:05:58,220 --> 00:06:00,200
 Allerdings ist er noch nicht bei Bewusstsein.
 
-61
-00:06:00,100 --> 00:06:03,100
+53
+00:06:00,540 --> 00:06:01,980
 Sein Zustand ist weiterhin kritisch.
 
-62
-00:06:03,100 --> 00:06:05,100
+54
+00:06:03,080 --> 00:06:04,440
 Und nun zur Wettervorhersage.
 
-63
-00:06:05,100 --> 00:06:07,100
+55
+00:06:04,700 --> 00:06:06,400
 Deutschlandweit soll es heiter bis Wolken bleiben.
 
-64
-00:06:07,100 --> 00:06:10,100
+56
+00:06:06,400 --> 00:06:09,140
 Ich frage mich, was jetzt aus dem Jungen werden soll.
 
-65
-00:06:10,100 --> 00:06:14,100
-Da habe ich wohl etwas mit ihm gemeint.
+57
+00:06:09,140 --> 00:06:12,820
+Da habe ich wohl etwas mit ihm gemeinsam.
 
-66
-00:06:16,100 --> 00:06:20,100
+58
+00:06:15,540 --> 00:06:19,300
 Frau Reinhardt auf der Intensivstation beklagt, dass sie einfach nicht schlafen kann.
 
-67
-00:06:20,100 --> 00:06:23,100
+59
+00:06:20,520 --> 00:06:23,220
 Ich würde vorschlagen, ihr heute Abend ein Schlafmittel zu geben.
 
-68
-00:06:27,100 --> 00:06:29,100
+60
+00:06:27,460 --> 00:06:29,380
 Dr. Tenma, haben Sie mich gehört?
 
-69
-00:06:29,100 --> 00:06:32,100
+61
+00:06:29,820 --> 00:06:32,880
 Was? Ja, natürlich, Schwester Reinhardt.
 
+62
+00:06:33,340 --> 00:06:36,940
+Geben Sie ihr bitte vor dem Schlafengehen Halzion. Eine Tablette sollte reichen.
+
+63
+00:06:39,140 --> 00:06:49,640
+was ist nur los mit ihm er ist heute überhaupt nicht bei der sache hallo dr becker sie haben
+
+64
+00:06:49,640 --> 00:06:54,260
+mir für ziemlichen wirbel gesorgt wissen sie schon mit welchen konsequenzen sie zu rechnen
+
+65
+00:06:54,260 --> 00:07:02,480
+haben ich habe ihn ja immer gesagt in einer klinik geht es auch und vor allem um politik
+
+66
+00:07:02,480 --> 00:07:07,640
+wenn sie nur ein wenig geschickter vorgegangen wären hätten sie es sicherlich sehr weit bringen
+
+67
+00:07:07,640 --> 00:07:13,840
+können, Dr. Tenma. Tja, so wie es aussieht, sitzen wir beide im selben Boot, verehrter
+
+68
+00:07:13,840 --> 00:07:22,200
+Kollege. Kommen Sie, lassen Sie nicht so den Kopf hängen. Sie kriegen schon noch eine
+
+69
+00:07:22,200 --> 00:07:26,920
+Chance, Ihre Ehre wiederherzustellen. Gehen wir was trinken und lassen das richtig krachen,
+
 70
-00:06:33,100 --> 00:06:37,100
-Geben Sie ihr bitte vor dem Schlafengehen Halcion. Eine Tablette sollte reichen.
-
-71
-00:06:41,100 --> 00:06:44,100
-Was ist nur los mit ihm? Er ist heute überhaupt nicht bei der Sache.
-
-72
-00:06:46,100 --> 00:06:47,100
-Hallo.
-
-73
-00:06:48,100 --> 00:06:49,100
-Dr. Becker.
-
-74
-00:06:49,100 --> 00:06:51,660
-Sie haben mir ja für ziemlichen Wirbel gesorgt.
-
-75
-00:06:51,740 --> 00:06:54,700
-Wissen Sie schon, mit welchen Konsequenzen Sie zu rechnen haben?
-
-76
-00:06:55,660 --> 00:06:56,660
-Hm?
-
-77
-00:06:57,860 --> 00:06:59,700
-Ich habe Ihnen ja immer gesagt,
-
-78
-00:06:59,780 --> 00:07:02,580
-in einer Klinik geht es auch und vor allem um Politik.
-
-79
-00:07:02,660 --> 00:07:05,500
-Wenn Sie nur ein wenig geschickter vorgegangen wären,
-
-80
-00:07:05,580 --> 00:07:09,060
-hätten Sie es sicherlich sehr weit bringen können, Dr. Tenma.
-
-81
-00:07:10,020 --> 00:07:14,580
-Tja, so wie es aussieht, sitzen wir beide im selben Boot, verehrter Kollege.
-
-82
-00:07:14,580 --> 00:07:22,740
-Kommen Sie, lassen Sie nicht so den Kopf hängen, Sie kriegen schon noch eine Chance,
-
-83
-00:07:22,740 --> 00:07:24,340
-Ihre Ehre wieder herzustellen.
-
-84
-00:07:24,340 --> 00:07:33,380
-Gehen wir was trinken und lassen das richtig krachen, ne?
-
-85
-00:07:33,380 --> 00:07:34,380
+00:07:26,920 --> 00:07:34,100
 Entschuldigen Sie.
 
-86
-00:07:34,380 --> 00:07:35,380
+71
+00:07:34,280 --> 00:07:34,460
 Ja?
 
-87
-00:07:35,380 --> 00:07:38,980
+72
+00:07:34,840 --> 00:07:38,820
 Ich bin wegen der Lieberzwillinge hier und werde das Mädchen vernehmen müssen.
 
-88
-00:07:38,980 --> 00:07:41,820
+73
+00:07:39,200 --> 00:07:41,600
 Das ist jetzt nicht der richtige Zeitpunkt, Kommissar.
 
-89
-00:07:41,820 --> 00:07:42,820
+74
+00:07:41,640 --> 00:07:42,060
 Wie bitte?
 
-90
-00:07:42,820 --> 00:07:43,820
-Wir finden das Mädchen nicht.
+75
+00:07:42,220 --> 00:07:44,660
+Wir finden das Mädchen nicht. Sie ist verschwunden.
 
-91
-00:07:43,820 --> 00:07:44,820
-Sie ist verschwunden.
-
-92
-00:07:44,820 --> 00:07:45,820
+76
+00:07:45,040 --> 00:07:45,520
 Verschwunden?
 
-93
-00:07:47,820 --> 00:07:51,820
+77
+00:07:47,520 --> 00:07:51,680
 Sie hat ihr Zimmer verlassen und irrt jetzt hier irgendwo durch die Gänge der Klinik.
 
-94
-00:08:02,820 --> 00:08:03,820
+78
+00:07:56,920 --> 00:08:03,800
 Tötet.
 
-95
-00:08:07,820 --> 00:08:08,820
+79
+00:08:05,480 --> 00:08:08,520
 Tötet.
 
-96
-00:08:13,820 --> 00:08:15,820
+80
+00:08:12,440 --> 00:08:15,920
 Tötet.
 
-97
-00:08:18,820 --> 00:08:22,820
-Mit anderen Worten, die Eisler Gedenkklinik hat sich ihren Platz
+81
+00:08:15,920 --> 00:08:17,920
+Tötet.
 
-98
-00:08:22,820 --> 00:08:26,820
-als führende medizinische Institution in unserem Land gesichert.
+82
+00:08:26,920 --> 00:08:35,020
+Und dazu haben Sie, geschätzte Kollegen, mit Ihrem hervorragenden Können beigetragen, wofür ich Ihnen sehr herzlich danken will.
 
-99
-00:08:26,820 --> 00:08:31,820
-Und dazu haben Sie, geschätzte Kollegen, mit Ihrem hervorragenden Können beigetragen,
-
-100
-00:08:31,820 --> 00:08:34,820
-wofür ich Ihnen sehr herzlich danken will.
-
-101
-00:08:37,820 --> 00:08:42,820
+83
+00:08:39,220 --> 00:08:43,140
 Bedauerlicherweise ist gestern der Bürgermeister in unserer Klinik verstorben.
 
-102
-00:08:42,820 --> 00:08:46,820
+84
+00:08:43,380 --> 00:08:46,760
 Aber wir haben wie immer alles getan, was in unserer Macht stand.
 
-103
-00:08:46,820 --> 00:08:51,820
+85
+00:08:47,100 --> 00:08:51,620
 Dieser Vorfall wird das Ansehen unserer Klinik in der Öffentlichkeit nicht beschädigen.
 
-104
-00:08:51,820 --> 00:08:54,820
-Und nun bitte ich um Applaus für Dr. Beuer und Dr. Eisen,
+86
+00:08:51,620 --> 00:08:59,000
+Und nun bitte ich um Applaus für Dr. Boyer und Dr. Eisen, die bis zuletzt alles getan haben, um das Leben des Bürgermeisters zu retten.
 
-105
-00:08:54,820 --> 00:08:58,820
-die bis zuletzt alles getan haben, um das Leben des Bürgermeisters zu retten.
+87
+00:09:15,280 --> 00:09:18,500
+Ich habe Ihren Artikel gelesen. Sehr gelungen, wirklich.
 
-106
-00:09:12,820 --> 00:09:20,420
-Ich habe Ihren Artikel gelesen. Sehr gelungen, wirklich. Machen Sie bitte mit Ihrer Forschung
+88
+00:09:18,500 --> 00:09:21,320
+Machen Sie bitte mit Ihrer Forschung weiter, mein Junge.
 
-107
-00:09:20,420 --> 00:09:24,500
-weiter, mein Junge. Ja?
+89
+00:09:21,620 --> 00:09:21,920
+Ja.
 
-108
-00:09:24,500 --> 00:09:35,740
-Herr Direktor, ich, also es tut mir, es tut mir sehr leid wegen gestern, Herr Direktor
+90
+00:09:28,760 --> 00:09:29,760
+Herr Direktor.
 
-109
-00:09:35,740 --> 00:09:36,740
-Heinemann.
+91
+00:09:31,360 --> 00:09:32,860
+Ich, äh...
 
-110
-00:09:36,740 --> 00:09:41,620
-Ach was, was geschehen ist, ist geschehen.
+92
+00:09:32,860 --> 00:09:36,200
+Also, es tut mir sehr leid wegen gestern, Herr Direktor Heinemann.
 
-111
-00:09:41,620 --> 00:09:42,620
+93
+00:09:38,220 --> 00:09:41,240
+Ach was. Was geschehen ist, ist geschehen.
+
+94
+00:09:41,560 --> 00:09:42,260
 Herr Direktor?
 
-112
-00:09:42,620 --> 00:09:46,740
-Du hast getan, was du für richtig gehalten hast, und ich respektiere das.
+95
+00:09:42,680 --> 00:09:47,560
+Du hast getan, was du für richtig gehalten hast, und ich respektiere das. Das ist doch gut.
 
-113
-00:09:46,740 --> 00:09:47,740
-Das ist doch gut.
-
-114
-00:09:47,740 --> 00:09:49,740
+96
+00:09:48,640 --> 00:09:50,340
 Herr Direktor, ich...
 
-115
-00:09:49,740 --> 00:09:56,740
+97
+00:09:50,340 --> 00:09:55,400
 Und nun, sehr geehrte Damen und Herren, ein paar Worte des leitenden Oberarztes der Neurochirurgie.
 
-116
-00:09:56,740 --> 00:09:59,740
-Entschuldigen Sie mich kurz, ich muss jetzt eine Rede halten.
+98
+00:09:56,620 --> 00:09:59,620
+Entschuldigen Sie mich kurz. Ich muss jetzt eine Rede halten.
 
-117
-00:09:59,740 --> 00:10:02,740
+99
+00:10:00,520 --> 00:10:01,680
 Nein, du doch nicht.
 
-118
-00:10:02,740 --> 00:10:06,740
-Begrüßen Sie den neuen leitenden Oberarzt, Dr.
+100
+00:10:03,360 --> 00:10:07,140
+Begrüßen Sie den neuen leitenden Oberarzt, Dr. Beuer.
 
-119
-00:10:06,740 --> 00:10:07,740
-Beuer!
+101
+00:10:07,820 --> 00:10:10,420
+Applaus bitte. Darf ich Sie als Niveau bitten?
 
-120
-00:10:07,740 --> 00:10:08,740
-Applaus bitte!
+102
+00:10:12,360 --> 00:10:14,280
+Herr Direktor, was hat das zu bedeuten?
 
-121
-00:10:08,740 --> 00:10:10,740
-Darf ich Sie als Liefer bitten?
+103
+00:10:14,280 --> 00:10:17,040
+Wenn du unbedingt in der Klinik bleiben willst, dann bleib.
 
-122
-00:10:10,740 --> 00:10:13,740
-Ach, Herr Direktor, was hat das zu bedeuten?
+104
+00:10:17,160 --> 00:10:20,160
+Aber auf eine große Karriere solltest du besser nicht mehr hoffen.
 
-123
-00:10:13,740 --> 00:10:16,740
-Wenn du unbedingt in der Klinik bleiben willst, dann bleib,
-
-124
-00:10:16,740 --> 00:10:19,740
-aber auf eine große Karriere solltest du besser nicht mehr hoffen.
-
-125
-00:10:19,740 --> 00:10:23,740
+105
+00:10:20,340 --> 00:10:24,380
 Für einen so problematischen Charakter wie du einer bist, ist das nämlich nichts.
 
-126
-00:10:24,740 --> 00:10:27,740
+106
+00:10:25,420 --> 00:10:28,340
 Deine Fähigkeiten schätze ich wirklich sehr, mehr aber auch nicht.
 
-127
-00:10:27,740 --> 00:10:31,740
+107
+00:10:28,900 --> 00:10:32,200
 Vorträge auf Kongressen solltest du dir ebenfalls aus dem Kopf schlagen.
 
-128
-00:10:34,740 --> 00:10:36,740
-Aber Herr Direktor, lassen Sie mich das erklären.
+108
+00:10:35,400 --> 00:10:37,560
+Aber Herr Direktor, lassen Sie mich das erklären?
 
-129
-00:10:36,740 --> 00:10:38,740
-Solltest du an eine andere Klinik wechseln wollen,
+109
+00:10:37,580 --> 00:10:41,740
+Solltest du an eine andere Klinik wechseln wollen, kannst du ein Empfehlungsschreiben von mir vergessen.
 
-130
-00:10:38,740 --> 00:10:41,900
-wechseln wollen, kannst du ein Empfehlungsschreiben von mir vergessen.
+110
+00:10:42,420 --> 00:10:49,260
+In diesem Fall nützt dir auch dein Ehrgeiz nicht mehr, denn den Weg, den du dir ausgemalt hast, deine Karriere, hast du dir selbst verbaut.
 
-131
-00:10:41,900 --> 00:10:46,060
-In diesem Fall nützt dir auch dein Ehrgeiz nicht mehr, denn den Weg, den du
+111
+00:10:50,340 --> 00:11:04,120
+Eine Operation ist keine Einzelleistung, sondern Teamwork.
 
-132
-00:10:46,060 --> 00:10:51,220
-dir ausgemalt hast, deine Karriere, hast du dir selbst verbaut.
+112
+00:11:04,280 --> 00:11:07,820
+Nur mit vereinten Kräften sind wir in der Lage, das Leben von Menschen zu retten.
 
-133
-00:11:00,820 --> 00:11:05,100
-Eine Operation ist keine Einzelleistung, sondern Teamwork. Nur mit vereinten
+113
+00:11:20,340 --> 00:11:20,820
+Eva.
 
-134
-00:11:05,100 --> 00:11:08,100
-Mit diesen Kräften sind wir in der Lage, das Leben von Menschen zu retten.
-
-135
-00:11:20,100 --> 00:11:21,100
-Äh, Eva?
-
-136
-00:11:25,100 --> 00:11:28,100
+114
+00:11:25,220 --> 00:11:28,120
 Eva, bitte erklär deinem Vater, dass ich nichts Falsches getan habe.
 
-137
-00:11:28,100 --> 00:11:30,100
+115
+00:11:28,240 --> 00:11:30,680
 Ich habe doch nur den Patienten operiert, der auch an der Reihe war,
 
-138
-00:11:30,100 --> 00:11:33,100
+116
+00:11:30,780 --> 00:11:33,400
 so wie es jeder andere auch getan hätte, nach bestem Gewissen.
 
-139
-00:11:33,100 --> 00:11:34,100
+117
+00:11:33,500 --> 00:11:34,080
 Eva, bitte!
 
-140
-00:11:35,100 --> 00:11:50,100
-Aber das ist doch ein Verlobungsring, oder nicht?
+118
+00:11:46,260 --> 00:11:49,460
+Aber das ist doch dein Verlobungsring, oder nicht?
 
-141
-00:11:50,100 --> 00:11:52,300
+119
+00:11:50,060 --> 00:11:52,300
 Vater hat recht, du bist ein Idiot.
 
-142
-00:11:52,300 --> 00:11:53,300
+120
+00:12:00,460 --> 00:12:00,980
 Eva!
 
-143
-00:11:53,300 --> 00:11:54,300
-Guten Abend, Dr.
+121
+00:12:01,800 --> 00:12:04,720
+Guten Abend, Dr. Norden. Was für ein schicker Anzug.
 
-144
-00:11:54,300 --> 00:11:55,300
-Norton.
-
-145
-00:11:55,300 --> 00:11:56,300
-Was für ein schicker Anzug.
-
-146
-00:11:56,300 --> 00:11:57,300
-Absolut.
-
-147
-00:11:57,300 --> 00:11:58,300
-Eva!
-
-148
-00:11:58,300 --> 00:11:59,300
-Guten Abend, Dr.
-
-149
-00:11:59,300 --> 00:12:00,300
-Norton.
-
-150
-00:12:00,300 --> 00:12:01,300
-Was für ein schicker Anzug.
-
-151
-00:12:01,300 --> 00:12:08,300
+122
+00:12:04,720 --> 00:12:08,500
 Absolut nichts gegen Ihre strahlende Schönheit, Fräulein Eva.
 
-152
-00:12:27,300 --> 00:12:48,000
-Ich bin zufällig auf Direktor Heinemanns Artikel gestoßen und daraufhin nach Deutschland
+123
+00:12:19,460 --> 00:12:46,860
+Ich bin zufällig auf Direktor Heinemanns Artikel gestoßen
 
-153
-00:12:48,000 --> 00:12:50,420
-gekommen, um mich von dem Direktor ausbilden zu lassen.
+124
+00:12:46,860 --> 00:12:48,400
+und daraufhin nach Deutschland gekommen,
 
-154
-00:12:50,420 --> 00:12:55,440
-Wenn ich jetzt darüber nachdenke, hat diesen beeindruckenden Artikel womöglich jemand
+125
+00:12:48,400 --> 00:12:50,400
+um mich von dem Direktor ausbilden zu lassen.
 
-155
-00:12:55,440 --> 00:13:00,760
-anders für ihn geschrieben, so wie ich es später oft für ihn getan habe. Aber woher sollte ich das damals wissen?
+126
+00:12:51,500 --> 00:12:54,740
+Wenn ich jetzt darüber nachdenke, hat diesen beeindruckenden Artikel
 
-156
-00:13:03,240 --> 00:13:05,240
+127
+00:12:54,740 --> 00:12:56,480
+womöglich jemand anders für ihn geschrieben,
+
+128
+00:12:56,700 --> 00:12:58,720
+so wie ich es später oft für ihn getan habe.
+
+129
+00:12:58,860 --> 00:13:00,740
+Aber woher sollte ich das damals wissen?
+
+130
+00:13:03,220 --> 00:13:05,420
 Natürlich war mir klar, dass er mich benutzt.
 
-157
-00:13:05,640 --> 00:13:12,200
-Ich dachte mir, wenn ich auf die Art eines Tages eine höhere Position inne habe, könnte ich die Forschungen betreiben, die ich machen will.
+131
+00:13:06,040 --> 00:13:09,400
+Ich dachte mir, wenn ich auf die Art eines Tages eine höhere Position innehabe,
 
-158
-00:13:13,640 --> 00:13:18,440
-Natürlich retten wir Menschenleben, aber in erster Linie sind wir doch Wissenschaftler.
+132
+00:13:10,060 --> 00:13:12,300
+könnte ich die Forschungen betreiben, die ich machen will.
 
-159
-00:13:18,760 --> 00:13:23,000
-Nein, das stimmt nicht. Leben zu retten ist die oberste Pflicht eines Arztes.
+133
+00:13:13,640 --> 00:13:15,480
+Natürlich retten wir Menschenleben,
 
-160
-00:13:23,000 --> 00:13:26,460
+134
+00:13:15,480 --> 00:13:18,560
+Aber in erster Linie sind wir doch Wissenschaftler.
+
+135
+00:13:18,980 --> 00:13:20,300
+Nein, das stimmt nicht.
+
+136
+00:13:20,440 --> 00:13:23,120
+Leben zu retten ist die oberste Pflicht eines Arztes.
+
+137
+00:13:23,860 --> 00:13:26,340
 Einige Leben sind nun mal wertvoller als andere.
 
-161
-00:13:26,540 --> 00:13:29,540
+138
+00:13:26,920 --> 00:13:29,480
 Vollkommener Quatsch. Jedes Leben ist gleich viel wert.
 
-162
-00:13:29,620 --> 00:13:31,580
+139
+00:13:29,780 --> 00:13:31,400
 Ich habe nichts Falsches getan.
 
-163
-00:13:31,660 --> 00:13:34,040
+140
+00:13:31,760 --> 00:13:34,020
 Und ich soll ein problematischer Charakter sein?
 
-164
-00:13:34,120 --> 00:13:35,080
-Was sind Sie dann?
+141
+00:13:34,200 --> 00:13:38,180
+Was sind Sie dann? Doch kein Arzt, sondern ein geldbesessener Teufel direkt aus der Hölle.
 
-165
-00:13:35,160 --> 00:13:38,120
-Doch kein Arzt, sondern ein geldbesessener Teufel direkt aus der Hölle.
-
-166
-00:13:38,200 --> 00:13:42,620
+142
+00:13:38,380 --> 00:13:42,620
 Solche Leute, solche Leute haben den Tod verdient.
 
-167
-00:13:42,620 --> 00:13:47,620
-Das verdanke ich nur dir, du hast mir die Augen geöffnet und mich auf den richtigen Weg geführt.
+143
+00:13:45,480 --> 00:13:54,080
+Das verdanke ich nur dir.
 
-168
-00:13:47,620 --> 00:13:50,620
-Sei stark und kämpfe um dein Leben, werde wieder gesund.
+144
+00:13:54,320 --> 00:13:57,820
+Du hast mir die Augen geöffnet und mich auf den richtigen Weg geführt.
 
-169
-00:13:50,620 --> 00:13:53,620
+145
+00:13:58,460 --> 00:14:00,260
+Sei stark und kämpfe um dein Leben.
+
+146
+00:14:00,400 --> 00:14:01,200
+Werde wieder gesund.
+
+147
+00:14:01,400 --> 00:14:03,840
 Ich habe alles aufgegeben, um dich zu operieren.
 
-170
-00:13:55,620 --> 00:13:59,620
+148
+00:14:05,600 --> 00:14:09,420
 Ich habe alles aufs Spiel gesetzt, um dich ins Leben zurückzuholen.
 
-171
-00:14:03,620 --> 00:14:06,620
-Ich habe alles aufs Spiel gesetzt, um dich ins Leben zurückzuholen.
-
-172
-00:14:06,620 --> 00:14:09,620
-Ich habe alles aufs Spiel gesetzt, um dich ins Leben zurückzuholen.
-
-173
-00:14:12,620 --> 00:14:39,220
+149
+00:14:15,480 --> 00:14:38,700
 Aber wie du heißt, weißt du schon, oder?
 
-174
-00:14:39,220 --> 00:14:42,020
-Dein Name ist Anna Liebert, erinnerst du dich?
+150
+00:14:38,700 --> 00:14:42,080
+Dein Name ist Anna Liebert. Erinnerst du dich?
 
-175
-00:14:42,020 --> 00:14:52,620
+151
+00:14:45,480 --> 00:14:52,540
 Wie ich Ihnen bereits gesagt habe, Herr Kommissar, es ist noch zu früh.
 
-176
-00:14:52,620 --> 00:14:55,300
+152
+00:14:52,740 --> 00:14:55,240
 Kann man da nicht irgendetwas machen, Herr Doktor?
 
-177
-00:14:55,300 --> 00:14:56,300
-Ich fürchte nein.
+153
+00:14:55,240 --> 00:14:59,500
+Ich fürchte, nein. Sie musste mit ansehen, wie ihre Eltern ermordet wurden.
 
-178
-00:14:56,300 --> 00:15:00,060
-Sie musste mit ansehen, wie ihre Eltern ermordet wurden.
+154
+00:15:00,120 --> 00:15:05,340
+Äußerlich hat sie zwar keine Verletzungen, aber dieses schreckliche Erlebnis hat bei ihr offenbar eine Amnesie hervorgerufen.
 
-179
-00:15:00,060 --> 00:15:03,500
-Äußerlich hat sie zwar keine Verletzungen, aber dieses schreckliche Erlebnis hat bei
-
-180
-00:15:03,500 --> 00:15:05,740
-ihr offenbar eine Amnesie hervorgerufen.
-
-181
-00:15:05,740 --> 00:15:09,740
+155
+00:15:05,820 --> 00:15:09,780
 Wäre es unter diesen Umständen nicht möglich, von einer Vernehmung vorerst Abstand zu nehmen?
 
-182
-00:15:09,740 --> 00:15:12,500
+156
+00:15:10,120 --> 00:15:12,500
 Nein, leider nicht. Das ist ein hochkomplizierter Fall.
 
-183
-00:15:12,580 --> 00:15:15,500
-Liebert das Opferwallen der DDR ein hohes Tier.
+157
+00:15:12,780 --> 00:15:15,460
+Liebert, das Opfer war in der DDR ein hohes Tier.
 
-184
-00:15:15,580 --> 00:15:17,700
-Wenn wir also nicht schnell Ergebnisse liefern,
+158
+00:15:15,800 --> 00:15:20,240
+Wenn wir also nicht schnell Ergebnisse liefern, dann übernehmen die Typen vom BKA den Fall.
 
-185
-00:15:17,780 --> 00:15:20,340
-dann übernehmen die Typen vom BKA den Fall.
+159
+00:15:20,620 --> 00:15:25,260
+Früher oder später kommen sie dazu, stehen der Landespolizei die Show, aber lassen uns die Arbeit machen.
 
-186
-00:15:20,420 --> 00:15:23,580
-Früher oder später kommen sie dazu, stehen der Landespolizei die Show,
-
-187
-00:15:23,660 --> 00:15:25,380
-aber lassen uns die Arbeit machen.
-
-188
-00:15:25,460 --> 00:15:27,260
+160
+00:15:25,740 --> 00:15:27,280
 Wir haben also keine Zeit zu verlieren.
 
-189
-00:15:27,340 --> 00:15:29,380
-Na, ich hab eine Idee.
+161
+00:15:27,560 --> 00:15:29,300
+Ja, ich habe eine Idee.
 
-190
-00:15:29,460 --> 00:15:31,620
-Wie wär's, wenn wir das Mädchen zu ihrem Bruder bringen?
+162
+00:15:29,660 --> 00:15:31,760
+Wie wäre es, wenn wir das Mädchen zu ihrem Bruder bringen?
 
-191
-00:15:31,700 --> 00:15:35,020
+163
+00:15:31,760 --> 00:15:35,060
 Dann kehrt vielleicht ihre Erinnerung zurück. Wer weiß das schon so genau?
 
-192
-00:15:35,100 --> 00:15:36,700
-Schon aus medizinischen Gründen
+164
+00:15:35,260 --> 00:15:39,440
+Schon aus medizinischen Gründen muss ich einen derart dilettantischen Vorschlag ablehnen.
 
-193
-00:15:36,780 --> 00:15:39,460
-muss ich einen derart dilettantischen Vorschlag ablehnen.
-
-194
-00:15:39,460 --> 00:15:42,460
+165
+00:15:39,720 --> 00:15:42,620
 Außerdem wird Dr. Tenma das sicherlich noch nicht erlauben.
 
-195
-00:15:42,460 --> 00:15:43,460
+166
+00:15:42,920 --> 00:15:43,440
 Tenma?
 
-196
-00:15:43,460 --> 00:15:45,460
-Der Arzt, der ihren Bruder Johann behandelt.
+167
+00:15:43,680 --> 00:15:45,740
+Der Arzt, der Ihren Bruder Johann behandelt.
 
-197
-00:15:48,460 --> 00:15:50,460
+168
+00:15:48,140 --> 00:15:50,100
 Und was soll ich jetzt bitte schön machen?
 
-198
-00:15:55,460 --> 00:15:56,460
-Hallo, Dr. Tenma.
+169
+00:15:55,860 --> 00:15:57,160
+Hallo, Dr. Tenma!
 
-199
-00:15:56,460 --> 00:15:59,460
+170
+00:15:57,360 --> 00:15:59,560
 Was starren Sie denn solche Löcher in die Luft?
 
-200
-00:15:59,460 --> 00:16:01,460
+171
+00:15:59,780 --> 00:16:01,720
 Sie wirken sehr erschöpft, muss ich sagen.
 
-201
-00:16:01,460 --> 00:16:04,460
+172
+00:16:02,280 --> 00:16:05,040
 Ich habe in der letzten Zeit eine Not-OP nach der anderen.
 
-202
-00:16:04,460 --> 00:16:07,460
+173
+00:16:05,040 --> 00:16:08,100
 Seit diesem Vorfall werden Sie wohl ganz schön rumgescheucht, was?
 
-203
-00:16:07,460 --> 00:16:09,460
-Und Sie haben Ihren Chefposten verloren.
+174
+00:16:08,100 --> 00:16:09,980
+und Sie haben Ihren Chefposten verloren.
 
-204
-00:16:09,460 --> 00:16:13,460
+175
+00:16:10,280 --> 00:16:14,000
 Ach, das ist halb so wild. Dafür fühle ich mich gleich viel freier.
 
-205
-00:16:13,460 --> 00:16:16,460
+176
+00:16:14,540 --> 00:16:16,540
 Geht es Ihnen wirklich gut, mein Lieber?
 
-206
-00:16:18,460 --> 00:16:21,460
+177
+00:16:19,360 --> 00:16:22,200
 Entschuldigen Sie, die Arbeit ruft, aber das kennen Sie ja.
 
-207
-00:16:22,460 --> 00:16:25,460
+178
+00:16:23,680 --> 00:16:26,380
 Sind Sie sicher, dass Sie so erschöpft operieren wollen?
 
-208
-00:16:25,460 --> 00:16:28,460
+179
+00:16:26,700 --> 00:16:29,280
 Ich würde sagen, so viel Einsatz können Sie sich sparen.
 
-209
-00:16:30,460 --> 00:16:32,460
+180
+00:16:31,320 --> 00:16:33,020
 Sehen Sie sich das an, Herr Direktor.
 
-210
-00:16:32,460 --> 00:16:35,460
+181
+00:16:33,580 --> 00:16:36,400
 Diese vielen Geschenke, Päckchen und Briefe.
 
-211
-00:16:35,460 --> 00:16:36,460
-und Briefe.
-
-212
-00:16:36,540 --> 00:16:39,540
+182
+00:16:36,400 --> 00:16:39,280
 Im Zimmer seiner Schwester sieht es genauso aus.
 
-213
-00:16:39,620 --> 00:16:41,500
-Die Presse schreibt über Zwillinge,
+183
+00:16:40,260 --> 00:16:45,060
+Die Presse schreibt über Zwillinge, die beide Eltern verloren haben und nun ganz auf sich gestellt sind.
 
-214
-00:16:41,580 --> 00:16:44,920
-die beide Eltern verloren haben und nun ganz auf sich gestellt sind.
-
-215
-00:16:45,000 --> 00:16:47,920
+184
+00:16:45,200 --> 00:16:47,720
 Das rührt die Menschen ganz offensichtlich zu Tränen.
 
-216
-00:16:48,000 --> 00:16:51,380
-Solange niemand für die immensen Behandlungskosten aufkommt,
+185
+00:16:48,220 --> 00:16:54,240
+Solange niemand für die immensen Behandlungskosten aufkommt, sind sie für die Klinik nichts weiter als lästige Patienten.
 
-217
-00:16:51,460 --> 00:16:54,080
-sind sie für die Klinik nichts weiter als lästige Patienten.
+186
+00:16:54,360 --> 00:16:57,920
+Aber meine Herren, diese Art von Presse ist genau das, was wir brauchen.
 
-218
-00:16:54,160 --> 00:16:57,620
-Aber, meine Herren, diese Art von Presse ist genau das, was wir brauchen.
-
-219
-00:16:57,700 --> 00:16:58,700
-Hä?
-
-220
-00:16:58,780 --> 00:17:01,660
+187
+00:16:58,980 --> 00:17:01,700
 Das ist eine Gratis-Werbekampagne für unsere Klinik.
 
-221
-00:17:01,740 --> 00:17:05,420
+188
+00:17:02,000 --> 00:17:05,520
 Allein deswegen sind die Kinder von beträchtlichem Wert für uns.
 
-222
-00:17:05,460 --> 00:17:07,460
+189
+00:17:05,780 --> 00:17:07,220
 Oder sehen Sie das etwa anders?
 
-223
-00:17:07,460 --> 00:17:09,460
+190
+00:17:07,800 --> 00:17:08,980
 Ja, nein, natürlich.
 
-224
-00:17:09,460 --> 00:17:11,460
+191
+00:17:09,300 --> 00:17:11,400
 Wir müssen das für unsere Zwecke nutzen.
 
-225
-00:17:11,460 --> 00:17:14,460
-Geben Sie ein gemeinsames Foto von den Zwillingen
+192
+00:17:11,940 --> 00:17:16,480
+Geben Sie ein gemeinsames Foto von den Zwillingen zur Veröffentlichung an die Presse frei.
 
-226
-00:17:14,460 --> 00:17:16,460
-zur Veröffentlichung an die Presse frei.
+193
+00:17:17,220 --> 00:17:21,740
+Natürlich. Anfragen dieser Art kamen auch schon mehrmals von der Presse selbst.
 
-227
-00:17:16,460 --> 00:17:19,460
-Natürlich. Anfragen dieser Art
+194
+00:17:21,740 --> 00:17:27,460
+Worauf warten Sie? Ein Foto, das die beiden zusammen in der liebevollen Obhut unserer Klinik zeigt,
 
-228
-00:17:19,460 --> 00:17:21,460
-kamen auch schon mehrmals von der Presse selbst.
-
-229
-00:17:21,460 --> 00:17:22,460
-Worauf warten Sie?
-
-230
-00:17:22,460 --> 00:17:24,460
-Ein Foto, das die beiden zusammen
-
-231
-00:17:24,460 --> 00:17:27,460
-in der liebevollen Obhut unserer Klinik zeigt,
-
-232
-00:17:27,460 --> 00:17:29,460
+195
+00:17:27,560 --> 00:17:29,740
 wie sie sich tapfer in ihr Leben zurückkämpfen.
 
-233
-00:17:29,460 --> 00:17:31,460
-Aber der behandelnde Arzt meint,
+196
+00:17:30,220 --> 00:17:35,280
+Aber der behandelnde Arzt meint, für eine Begegnung der beiden Geschwister sei es noch viel zu früh.
 
-234
-00:17:31,460 --> 00:17:33,460
-für eine Begegnung der beiden Geschwister
-
-235
-00:17:33,460 --> 00:17:35,460
-Bei den Geschwistern sei es noch viel zu früh.
-
-236
-00:17:35,460 --> 00:17:37,460
+197
+00:17:35,520 --> 00:17:36,960
 Wer ist dieser Arzt?
 
-237
-00:17:37,460 --> 00:17:39,460
+198
+00:17:37,640 --> 00:17:38,940
 Das ist Dr. Tenma.
 
-238
-00:17:39,460 --> 00:17:41,460
+199
+00:17:39,540 --> 00:17:40,700
 Ziehen Sie ihn ab.
 
-239
-00:17:41,460 --> 00:17:43,460
-Äh, was?
+200
+00:17:41,360 --> 00:17:42,040
+Was?
 
-240
-00:17:43,460 --> 00:17:45,460
-Dieser Mann sollte keine Position innehaben,
+201
+00:17:43,160 --> 00:17:47,800
+Dieser Mann sollte keine Position innehaben, mit der er im Rampenlicht steht.
 
-241
-00:17:45,460 --> 00:17:47,460
-mit der er im Rampenlicht steht.
-
-242
-00:17:47,460 --> 00:17:50,460
+202
+00:17:48,200 --> 00:17:50,480
 Dr. Tenma wird seiner Aufgabe enthoben.
 
-243
-00:17:50,460 --> 00:17:52,460
+203
+00:17:51,160 --> 00:17:51,700
 Jawohl.
 
-244
-00:17:55,460 --> 00:17:57,460
-Ein herzerwärmendes Geschenk der Bürger.
+204
+00:17:54,800 --> 00:17:59,260
+Ein herzerwärmendes Geschenk der Bürger. Möchten Sie vielleicht auch?
 
-245
-00:17:57,460 --> 00:17:59,460
-Möchten Sie vielleicht auch?
-
-246
-00:17:59,460 --> 00:18:01,460
+205
+00:17:59,260 --> 00:18:00,620
 Ja, vielen Dank.
 
-247
-00:18:03,460 --> 00:18:11,940
+206
+00:18:05,520 --> 00:18:11,820
 Wie geht es Ihnen denn heute, Frau Hankel?
 
-248
-00:18:11,940 --> 00:18:13,940
-Mir geht es sehr gut, Dr.
+207
+00:18:11,820 --> 00:18:16,880
+Mir geht es sehr gut, Dr. Tenma. Ich weiß gar nicht, wie ich Ihnen danken soll.
 
-249
-00:18:13,940 --> 00:18:14,940
-Tenma.
+208
+00:18:16,980 --> 00:18:20,520
+Ich denke, wir können bald die Fäden ziehen. Dann dürfen Sie endlich wieder nach Hause.
 
-250
-00:18:14,940 --> 00:18:17,020
-Ich weiß gar nicht, wie ich Ihnen danken soll.
-
-251
-00:18:17,020 --> 00:18:20,820
-Ich denke, wir können bald die Fäden ziehen, dann dürfen Sie endlich wieder nach Hause.
-
-252
-00:18:20,820 --> 00:18:23,020
+209
+00:18:20,960 --> 00:18:23,000
 Darf ich wirklich wieder nach Hause?
 
-253
-00:18:23,020 --> 00:18:27,940
-Ja, aber Sie müssen sich, wie ich es Ihnen erklärt habe, unbedingt schon.
+210
+00:18:23,380 --> 00:18:27,600
+Ja, aber Sie müssen sich, wie ich es Ihnen erklärt habe, unbedingt schon...
 
-254
-00:18:27,940 --> 00:18:30,660
+211
+00:18:27,600 --> 00:18:29,720
 Natürlich, das werde ich machen.
 
-255
-00:18:30,660 --> 00:18:34,580
-Verschreiben Sie, Frau Hankel, ein Antiepileptikum und ein blutdrucksenkendes Mittel.
+212
+00:18:30,560 --> 00:18:34,380
+Verschreiben Sie Frau Hankel ein Antiepileptikum und ein blutdrucksenkendes Mittel.
 
-256
-00:18:34,580 --> 00:18:35,580
+213
+00:18:35,520 --> 00:18:41,180
 Bitte haltet durch!
 
-257
-00:18:35,580 --> 00:18:36,580
+214
+00:18:43,800 --> 00:18:44,940
 Was ist passiert?
 
-258
-00:18:36,580 --> 00:18:37,580
-Dr.
+215
+00:18:45,360 --> 00:18:48,800
+Dr. Tenma! Wir haben sie zu ihrem Bruder ins Zimmer gebracht.
 
-259
-00:18:37,580 --> 00:18:38,580
-Tenma!
+216
+00:18:49,060 --> 00:18:51,840
+Daraufhin hat sie schrecklich angefangen zu schreien und ist dann...
 
-260
-00:18:38,580 --> 00:18:50,700
-Wir haben sie zu ihrem Bruder ins Zimmer gebracht, daraufhin hat sie schrecklich angefangen
-
-261
-00:18:50,700 --> 00:18:51,700
-zu schreien und ist dann...
-
-262
-00:18:51,700 --> 00:18:52,700
+217
+00:18:51,840 --> 00:18:53,040
 Zu ihrem Bruder gebracht?
 
-263
-00:18:52,700 --> 00:18:53,700
+218
+00:19:03,260 --> 00:19:04,260
 Dr. Tenma!
 
-264
-00:18:53,700 --> 00:18:54,700
-Bringen Sie Anna in ihr Zimmer.
+219
+00:19:04,560 --> 00:19:05,800
+Bringen Sie Anna in Ihr Zimmer.
 
-265
-00:18:54,700 --> 00:18:55,700
-Ja, jawohl!
+220
+00:19:05,920 --> 00:19:06,620
+Ja, jawohl.
 
-266
-00:18:55,700 --> 00:18:56,700
-Dr.
+221
+00:19:07,320 --> 00:19:10,600
+Dr. Boyer, was hat dieser Zirkus zu bedeuten? Was soll die Kamera?
 
-267
-00:18:56,700 --> 00:18:57,700
-Boyer, was hat dieser Zirkus zu bedeuten?
+222
+00:19:11,040 --> 00:19:17,240
+Nun ja, wir wollten das bewegende Wiedersehen der Zwillinge fotografisch für die Presse festhalten.
 
-268
-00:18:57,700 --> 00:18:58,700
-Was soll die Kamera?
-
-269
-00:18:58,700 --> 00:18:59,700
-Nun ja, wir wollten das bewegende Wiedersehen der Zwillinge fotografisch für die Presse
-
-270
-00:18:59,700 --> 00:19:00,700
-festhalten.
-
-271
-00:19:00,700 --> 00:19:01,700
+223
+00:19:17,440 --> 00:19:19,480
 Mit wessen Erlaubnis haben Sie das getan?
 
-272
-00:19:01,700 --> 00:19:02,700
-Der behandelnde Arzt, das bin ich, das wissen Sie!
+224
+00:19:19,640 --> 00:19:21,840
+Der behandelnde Arzt, das bin ich, das wissen Sie.
 
-273
-00:19:02,700 --> 00:19:03,700
-Das war ich!
-
-274
-00:19:03,700 --> 00:19:04,700
-Das war ich!
-
-275
-00:19:04,700 --> 00:19:05,700
-Das war ich!
-
-276
-00:19:05,700 --> 00:19:06,700
-Das war ich!
-
-277
-00:19:06,700 --> 00:19:07,700
-Das war ich!
-
-278
-00:19:07,700 --> 00:19:08,700
-Das war ich!
-
-279
-00:19:08,700 --> 00:19:09,700
-Das war ich!
-
-280
-00:19:09,700 --> 00:19:10,700
-Das war ich!
-
-281
-00:19:10,700 --> 00:19:11,700
-Das war ich!
-
-282
-00:19:11,700 --> 00:19:12,700
-Das war ich!
-
-283
-00:19:12,700 --> 00:19:13,700
-Das war ich!
-
-284
-00:19:13,700 --> 00:19:14,700
-Das war ich!
-
-285
-00:19:14,700 --> 00:19:15,700
-Das war ich!
-
-286
-00:19:15,700 --> 00:19:16,700
-Das war ich!
-
-287
-00:19:16,700 --> 00:19:17,700
-Das war ich!
-
-288
-00:19:17,700 --> 00:19:18,700
-Das war ich!
-
-289
-00:19:18,700 --> 00:19:19,700
-Das war ich!
-
-290
-00:19:19,700 --> 00:19:20,700
-Das war ich!
-
-291
-00:19:20,700 --> 00:19:22,200
-Das bin ich, das wissen Sie.
-
-292
-00:19:22,280 --> 00:19:25,200
+225
+00:19:22,100 --> 00:19:25,040
 Das war einmal. Sie wurden von dem Fall abgezogen.
 
-293
-00:19:26,200 --> 00:19:29,200
-Ich werde das für Sie übernehmen und meiner Meinung nach
+226
+00:19:26,140 --> 00:19:32,040
+Ich werde das für Sie übernehmen und meiner Meinung nach ist es völlig unbedenklich, die beiden zusammenzubringen.
 
-294
-00:19:29,280 --> 00:19:32,200
-ist es völlig unbedenklich, die beiden zusammenzubringen.
-
-295
-00:19:35,700 --> 00:19:37,200
+227
+00:19:34,260 --> 00:19:37,060
 Wie können Sie nur...
 
-296
-00:19:37,280 --> 00:19:39,200
+228
+00:19:37,060 --> 00:19:39,480
 Wie können Sie die Kinder so zur Schau stellen?
 
-297
-00:19:39,280 --> 00:19:41,200
-Eine Anweisung des Klinikdirektors
+229
+00:19:39,560 --> 00:19:44,200
+Eine Anweisung des Klinikdirektors und ich rate Ihnen, nicht noch einmal den gleichen Fehler zu begehen.
 
-298
-00:19:41,280 --> 00:19:44,200
-und ich rate Ihnen nicht, noch einmal den gleichen Fehler zu begehen.
+230
+00:19:44,240 --> 00:19:48,680
+Ich war es, der den Jungen gerettet hat und ich habe die Pflicht, ihn zu schützen, bis er wieder gesund ist.
 
-299
-00:19:44,280 --> 00:19:46,200
-Ich war es, der den Jungen gerettet hat
+231
+00:19:48,680 --> 00:19:50,900
+Wie interessant. Sehen Sie sich den Jungen an.
 
-300
-00:19:46,280 --> 00:19:49,200
-und ich habe die Pflicht, ihn zu schützen, bis er wieder gesund ist.
-
-301
-00:19:49,200 --> 00:19:51,200
-Interessant. Sehen Sie sich den Jungen an.
-
-302
-00:19:58,200 --> 00:20:03,200
+232
+00:19:58,600 --> 00:20:02,960
 Kaum hatte er seine Schwester gesehen, schon streckte er seine Hand aus und begann zu weinen.
 
-303
-00:20:03,200 --> 00:20:07,200
+233
+00:20:02,960 --> 00:20:07,340
 Er hat das Bewusstsein wieder erlangt und zeigt eine ganz normale Reaktion.
 
-304
-00:20:08,200 --> 00:20:10,200
+234
+00:20:08,140 --> 00:20:09,920
 Die Operation war also ein voller Erfolg.
 
-305
-00:20:11,200 --> 00:20:14,200
+235
+00:20:11,340 --> 00:20:13,840
 Sie haben gute Arbeit geleistet, aber das war's.
 
-306
-00:20:14,200 --> 00:20:18,200
+236
+00:20:14,480 --> 00:20:17,440
 Und jetzt sehen Sie zu, dass Sie von hier wegkommen, Dr. Tenma.
 
-307
-00:20:19,200 --> 00:20:33,000
-Verdammte Scheiße, soll das ein Witz sein?
+237
+00:20:29,120 --> 00:20:32,300
+Verdammte Scheiße! Soll das ein Witz sein?
 
-308
-00:20:33,000 --> 00:20:36,520
-Ich glaube, ihr wollt mich verarschen, oder?
+238
+00:20:32,960 --> 00:20:39,180
+Ich glaube, ihr wollt mich verarschen, oder? Anweisung vom Direktor, dass ich nicht lache.
 
-309
-00:20:36,520 --> 00:20:39,280
-Anweisung vom Direktor, dass ich nicht lache.
+239
+00:20:40,280 --> 00:20:44,940
+Diese Geier denken doch alle nur an Geld und Karriere. Geld und Karriere.
 
-310
-00:20:39,280 --> 00:20:45,800
-Diese Geier denken doch alle nur an Geld und Karriere, Geld und Karriere.
-
-311
-00:20:45,800 --> 00:20:46,800
+240
+00:20:45,920 --> 00:20:47,340
 Verdammte Scheiße!
 
-312
-00:20:46,800 --> 00:20:47,800
-Scheiße!
+241
+00:20:55,340 --> 00:20:59,640
+Ich, ich habe, ich, ich habe nichts falsch gemacht.
 
-313
-00:20:55,800 --> 00:20:56,800
-Ich... Ich habe...
+242
+00:21:02,960 --> 00:21:15,780
+Hallo, ich bin wieder da, Papa.
 
-314
-00:20:56,800 --> 00:20:59,800
-Ich... Ich habe nichts falsch gemacht.
-
-315
-00:21:13,800 --> 00:21:15,800
-Hallo! Ich bin wieder da, Papa!
-
-316
-00:21:17,800 --> 00:21:20,800
+243
+00:21:15,780 --> 00:21:20,540
 Wo bist du, Papa? Bist du in deinem Zimmer?
 
-317
-00:21:31,800 --> 00:21:35,800
+244
+00:21:20,540 --> 00:21:35,380
 Entschuldigen Sie, Stationschef, haben Sie so spät noch ein Meeting?
 
-318
-00:21:46,800 --> 00:21:54,400
-Hörst du mich Papa?
+245
+00:21:50,540 --> 00:21:56,020
+Hörst du mich, Papa? Schläfst du etwa um diese Zeit schon?
 
-319
-00:21:54,400 --> 00:21:56,000
-Schläfst du etwa um diese Zeit schon?
-
-320
-00:21:56,000 --> 00:22:00,120
+246
+00:21:58,560 --> 00:22:00,100
 Ich komme jetzt rein.
 
-321
-00:22:00,120 --> 00:22:25,880
+247
+00:22:20,540 --> 00:22:25,820
 Solche Leute haben den Tod verdient.
 
-322
-00:22:30,120 --> 00:23:00,120
-Ehepaar, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh, äh
+248
+00:22:50,540 --> 00:23:20,520
+Untertitelung des ZDF, 2020
 
-323
-00:23:00,120 --> 00:23:03,120
-Untertitel der Amara.org-Community
+249
+00:23:20,540 --> 00:23:50,520
+Untertitelung des ZDF, 2020
 
-324
-00:23:30,120 --> 00:23:33,120
-Untertitel der Amara.org-Community
+250
+00:23:50,540 --> 00:23:54,300
+Untertitelung des ZDF für funk, 2017
 

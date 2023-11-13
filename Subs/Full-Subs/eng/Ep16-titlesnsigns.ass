@@ -28,5 +28,5 @@ Style: Episode,Arial,32,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:00.26,0:02:04.31,Title,,0,0,0,,{\fad(1000,750)\pos(360,340)}Wolf's Confession
-Dialogue: 0,0:23:49.11,0:23:53.52,Title,,0,0,0,,{\fad(1000,0)\pos(360,340)}Reunion
+Dialogue: 0,0:02:00.26,0:02:04.31,Episode,,0,0,0,,{\fad(1000,750)\pos(360,340)}Wolf's Confession
+Dialogue: 0,0:23:49.11,0:23:53.52,Episode,,0,0,0,,{\fad(1000,0)\pos(360,340)}Reunion

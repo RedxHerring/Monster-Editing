@@ -1,1252 +1,1032 @@
 1
-00:00:00,000 --> 00:00:07,000
+00:00:00,000 --> 00:00:06,880
 Eine ausgezeichnete Wahl. Sie haben sich da ein wirklich schönes Objekt ausgesucht.
 
 2
-00:00:07,000 --> 00:00:11,000
+00:00:07,460 --> 00:00:10,980
 Mit dem Auto sind es nur 20 Minuten bis ins Zentrum von Berlin.
 
 3
-00:00:11,000 --> 00:00:15,000
+00:00:11,380 --> 00:00:14,520
 Die Anbindung ist ausgezeichnet und es ist idyllisch gelegen.
 
 4
-00:00:15,000 --> 00:00:21,000
+00:00:15,800 --> 00:00:20,500
 Hier im ehemaligen Ostdeutschland ist das ein seltenes Fundstück. Sie haben wirklich Glück.
 
 5
-00:00:21,000 --> 00:00:25,000
+00:00:21,140 --> 00:00:25,540
 Sagen Sie, hat hier früher nicht auch Herr Liebert mit seiner Familie gewohnt?
 
 6
-00:00:25,000 --> 00:00:28,000
+00:00:25,800 --> 00:00:27,780
 Der Handelsbeauftragte der ehemaligen DDR?
 
 7
-00:00:28,000 --> 00:00:29,000
-Hä?
+00:00:28,580 --> 00:00:35,520
+Was? Sie sind nur wegen der Familie Liebert hier? Dann haben Sie ja gar kein Interesse.
 
 8
-00:00:31,000 --> 00:00:34,000
-Was? Sie sind nur wegen der Familie Liebert hier?
+00:00:38,160 --> 00:00:40,700
+Verzeihen Sie, ich bin auf der Suche nach Informationen.
 
 9
-00:00:34,000 --> 00:00:36,000
-Dann haben Sie ja gar kein Interesse.
-
-10
-00:00:38,000 --> 00:00:41,000
-Verzeihen Sie. Ich bin auf der Suche nach Informationen.
-
-11
-00:00:42,000 --> 00:00:46,000
+00:00:42,220 --> 00:00:46,080
 Ich weiß nichts von einem Beamten, der vor zehn Jahren geflohen sein soll.
 
-12
-00:00:46,000 --> 00:00:51,000
+10
+00:00:46,080 --> 00:00:51,360
 Ich habe erfahren, dass die Lieberts ein Zwillingspaar bei sich aufnahmen, als sie früher hier gewohnt haben.
 
-13
-00:00:51,000 --> 00:00:53,000
+11
+00:00:51,440 --> 00:00:53,020
 Darüber ist mir nichts bekannt.
 
-14
-00:00:54,000 --> 00:00:57,000
+12
+00:00:53,960 --> 00:00:56,540
 Und der Hauseigentümer? Kann ich ihn kontaktieren?
 
-15
-00:00:57,000 --> 00:00:59,000
+13
+00:00:57,460 --> 00:00:58,800
 Ganz so einfach ist das nicht.
 
+14
+00:00:58,960 --> 00:01:04,020
+Die meisten Grundstücke und Häuser in der DDR waren früher im Besitz von Juden, die vor den Nazis geflohen sind.
+
+15
+00:01:04,660 --> 00:01:10,040
+Die sozialistische Regierung pachtete sie von ihren Eigentümern, die im Ausland oder in Westdeutschland lebten.
+
 16
-00:00:59,000 --> 00:01:01,000
-Die meisten Grundstücke und Häuser in der DDR
+00:01:10,540 --> 00:01:13,460
+Der Eigentümer dieses Hauses lebt auch im Ausland. Tut mir leid.
 
 17
-00:01:01,000 --> 00:01:03,000
-waren früher im Besitz von Juden,
+00:01:14,280 --> 00:01:18,100
+Unsere Immobilienfirma ist aus dem Westen und erst seit dem Mauerfall hier vertreten.
 
 18
-00:01:03,000 --> 00:01:05,000
-die vor den Nazis geflohen sind.
+00:01:18,760 --> 00:01:20,840
+Was sich davor hier zutrug, wissen wir nicht.
 
 19
-00:01:05,000 --> 00:01:07,000
-Die sozialistische Regierung
+00:01:21,580 --> 00:01:23,600
+So, darf ich bitten? Ich möchte absperren.
 
 20
-00:01:07,000 --> 00:01:09,000
-pachtete sie von ihren Eigentümern,
+00:01:24,740 --> 00:01:26,460
+Aber gibt es denn wirklich niemanden?
 
 21
-00:01:09,000 --> 00:01:11,000
-die im Ausland oder in Westdeutschland lebten.
+00:01:26,540 --> 00:01:29,140
+Der sich vielleicht noch an die Lieberts erinnern könnte?
 
 22
-00:01:11,000 --> 00:01:13,000
-Der Eigentümer dieses Hauses lebt auch im Ausland.
-
-23
-00:01:13,000 --> 00:01:15,000
-Tut mir leid.
-
-24
-00:01:15,000 --> 00:01:17,000
-Unsere Immobilienfirma ist aus dem Westen
-
-25
-00:01:17,000 --> 00:01:19,000
-und erst seit dem Mauerfall hier vertreten.
-
-26
-00:01:19,000 --> 00:01:21,000
-Was ich davor hier zutrug, wissen wir nicht.
-
-27
-00:01:21,000 --> 00:01:23,000
-So, darf ich bitten?
-
-28
-00:01:23,000 --> 00:01:25,000
-Ich möchte absperren.
-
-29
-00:01:25,000 --> 00:01:29,240
-Gibt es denn wirklich niemanden, der sich vielleicht noch an die Lieberts erinnern könnte?
-
-30
-00:01:29,240 --> 00:01:33,840
+00:01:29,780 --> 00:01:33,860
 Nun ja, hier haben zwar früher viele Beamte der damaligen Regierung gewohnt,
 
-31
-00:01:33,840 --> 00:01:36,720
+23
+00:01:34,240 --> 00:01:36,560
 nach dem Fall der Mauer sind aber die meisten weggezogen.
 
-32
-00:01:36,720 --> 00:01:40,840
+24
+00:01:37,720 --> 00:01:40,880
 Die aus dem Innenministerium hatten jede Menge Ärger am Hals.
 
+25
+00:01:43,060 --> 00:01:44,280
+Oh, da fällt mir ein.
+
+26
+00:01:45,420 --> 00:01:49,780
+Etwa zehn Häuser weiter wohnt noch ein ehemaliger Mitarbeiter des DDR-Handelsministeriums.
+
+27
+00:01:49,780 --> 00:01:58,460
+Ach, der Liebert, ja. Er hätte die Flucht in den Westen nicht riskieren sollen, wenn er doch nur abgewartet hätte.
+
+28
+00:01:58,700 --> 00:02:00,660
+Die DDR ging bald darauf zugrunde.
+
+29
+00:02:01,860 --> 00:02:07,640
+Es geht mir bis heute nicht in den Kopf, dass er in die Freiheit geflüchtet ist und dann dort ermordet wurde.
+
+30
+00:02:07,920 --> 00:02:11,000
+Sagen Sie, lebte bei den Lieberts damals ein Zwillingspaar?
+
+31
+00:02:11,660 --> 00:02:13,000
+Ein Zwillingspaar?
+
+32
+00:02:13,000 --> 00:02:21,280
+Ja, jetzt wo Sie sagen, die Zwillinge, die die Lieberts aus dem Kinderheim geholt haben.
+
 33
-00:01:40,840 --> 00:01:49,800
-Da fällt mir ein, etwa zehn Häuser weiter wohnt noch ein ehemaliger Mitarbeiter des DDR-Handelsministeriums.
-
-34
-00:01:49,800 --> 00:01:56,640
-Ach, der Liebert, ja. Er hätte die Flucht in den Westen nicht riskieren sollen,
-
-35
-00:01:56,640 --> 00:02:00,600
-wenn er doch nur abgewartet hätte. Die DDR ging bald darauf zugrunde.
-
-36
-00:02:00,600 --> 00:02:05,600
-Es geht mir bis heute nicht in den Kopf, dass er in die Freiheit geflüchtet ist
-
-37
-00:02:05,600 --> 00:02:09,840
-und dann dort ermordet wurde. Sagen Sie, lebte bei den Lieberts
-
-38
-00:02:09,840 --> 00:02:12,720
-damals ein Zwillingspaar? Ein Zwillingspaar?
-
-39
-00:02:12,720 --> 00:02:21,480
-Ja, jetzt wo sie sagen, die Zwillinge, die die Lieberts aus dem Kinderheim geholt haben.
-
-40
-00:02:21,480 --> 00:02:22,480
+00:02:21,540 --> 00:02:22,340
 Einem Kinderheim?
 
+34
+00:02:22,340 --> 00:02:28,500
+Die beiden Kinder waren wirklich entzückend. Die Lieberts wollten immer Kinder, doch es war ihnen nicht vergönnt.
+
+35
+00:02:28,720 --> 00:02:30,480
+Wie hieß dieses Kinderheim?
+
+36
+00:02:30,660 --> 00:02:40,600
+Eine gute Frage. War es 511? Ja, ich glaube, das war es. Die Einrichtung hieß Kinderheim 511.
+
+37
+00:02:40,600 --> 00:02:44,200
+Kinderheim 511?
+
+38
+00:03:10,600 --> 00:03:40,580
+Untertitelung des ZDF, 2020
+
+39
+00:03:40,600 --> 00:04:10,580
+Untertitelung des ZDF, 2020
+
+40
+00:04:10,600 --> 00:04:40,580
+Untertitelung des ZDF, 2020
+
 41
-00:02:22,480 --> 00:02:25,400
-Die beiden Kinder waren wirklich entzückend.
+00:04:40,600 --> 00:05:10,580
+Untertitelung des ZDF, 2020
 
 42
-00:02:25,400 --> 00:02:28,720
-Die Lieberts wollten immer Kinder, doch es war ihnen nicht vergönnt.
-
-43
-00:02:28,720 --> 00:02:30,600
-Wie, wie hieß dieses Kinderheim?
-
-44
-00:02:30,600 --> 00:02:32,320
-Eine gute Frage.
-
-45
-00:02:32,320 --> 00:02:35,440
-War es 511?
-
-46
-00:02:35,440 --> 00:02:38,080
-Ja, ich glaub das war es.
-
-47
-00:02:38,080 --> 00:02:41,160
-Die Einrichtung hieß Kinderheim 511.
-
-48
-00:02:41,160 --> 00:02:42,160
-Kinderheim.
-
-49
-00:02:42,160 --> 00:02:44,160
-Fünfhundertelf?
-
-50
-00:03:12,160 --> 00:03:15,160
-Untertitel der Amara.org-Community
-
-51
-00:04:12,160 --> 00:04:13,160
-Das war's für heute.
-
-52
-00:04:13,160 --> 00:04:14,160
-Wir sehen uns beim nächsten Mal.
-
-53
-00:04:14,160 --> 00:04:14,180
-Tschüss.
-
-54
-00:04:42,160 --> 00:04:45,160
-Untertitel der Amara.org-Community
-
-55
-00:05:12,160 --> 00:05:29,160
+00:05:10,600 --> 00:05:29,080
 Das alte Kinderheim soll abgerissen und stattdessen ein Supermarkt hingebaut werden.
 
+43
+00:05:29,080 --> 00:05:34,960
+Höchste Zeit, dass dieses abscheuliche Gebäude wegkommt. Da bin ich erleichtert.
+
+44
+00:05:34,960 --> 00:05:41,460
+Oh, warten Sie bitte. Wohnen hier vielleicht irgendwo noch ehemalige Angestellte?
+
+45
+00:05:42,920 --> 00:05:52,520
+Hier? Die sind doch alle schon längst von hier weggezogen. Und ich will auch nicht darüber reden. Ach, das ist alles so beklemmend.
+
+46
+00:05:52,940 --> 00:05:53,880
+Warten Sie doch.
+
+47
+00:05:53,920 --> 00:06:01,660
+Wenn Sie das so brennend interessiert, dann gehen Sie doch zu Haus Nummer 47. Dort wohnt Herr Hartmann vom ehemaligen Sozialministerium.
+
+48
+00:06:04,960 --> 00:06:22,440
+Hey, Junge.
+
+49
+00:06:23,020 --> 00:06:25,000
+Kennst du einen Herrn Hartmann, der hier wohnen soll?
+
+50
+00:06:29,160 --> 00:06:30,320
+Was hast du denn?
+
+51
+00:06:30,680 --> 00:06:31,560
+Bist du verletzt?
+
+52
+00:06:32,320 --> 00:06:33,200
+Lass mich mal sehen.
+
+53
+00:06:33,200 --> 00:06:36,880
+Du brauchst keine Angst haben. Ich will dir nur helfen.
+
+54
+00:06:39,760 --> 00:06:42,740
+Die Wunde war fast verheilt. Jetzt ist sie wieder aufgerissen.
+
+55
+00:06:43,460 --> 00:06:44,000
+Sie eitert.
+
 56
-00:05:29,160 --> 00:05:35,000
-Höchste Zeit, dass dieses abscheuliche Gebäude wegkommt, da bin ich erleichtert.
+00:06:45,220 --> 00:06:48,020
+Ja, das brennt ein bisschen. Aber gleich wird es besser.
 
 57
-00:05:35,000 --> 00:05:41,440
-Warten Sie bitte, wohnen hier vielleicht irgendwo noch ehemalige Angestellte?
+00:06:52,540 --> 00:06:54,000
+So, das hätten wir.
 
 58
-00:05:41,440 --> 00:05:42,440
-Hier?
+00:07:01,360 --> 00:07:02,360
+Fall nicht hin!
 
 59
-00:05:42,440 --> 00:05:43,440
-Hier?
+00:07:03,200 --> 00:07:05,360
+Sonst verletzt du dich wieder.
 
 60
-00:05:43,440 --> 00:05:49,400
-Die sind doch alle schon längst von hier weggezogen und ich will auch nicht darüber
+00:07:10,820 --> 00:07:11,820
+Hartmann.
 
 61
-00:05:49,400 --> 00:05:50,400
-reden.
+00:07:11,820 --> 00:07:36,780
+Diese Kinder habe ich damals nach der Wende alle vorübergehend bei mir zu Hause aufgenommen.
 
 62
-00:05:50,400 --> 00:05:52,720
-Ach, das ist alles so beklemmend.
+00:07:38,060 --> 00:07:38,620
+Vorübergehend?
 
 63
-00:05:52,720 --> 00:05:53,840
-Warten Sie doch!
+00:07:38,620 --> 00:07:44,780
+Ich habe mich so lange um sie gekümmert, bis das Sozialamt entschieden hat, zu welchen Adoptivfamilien sie kommen.
 
 64
-00:05:53,840 --> 00:05:58,720
-Wenn Sie das so brennend interessiert, dann gehen Sie doch zu Haus Nummer 47, dort wohnt
+00:07:45,500 --> 00:07:49,820
+Der Junge in der Mitte wurde vom Chef einer großen Textilfabrik aufgenommen.
 
 65
-00:05:58,720 --> 00:06:01,640
-der Hartmann vom ehemaligen Sozialministerium.
+00:07:50,320 --> 00:07:53,200
+Der Junge links daneben ist inzwischen bei der Bundeswehr.
 
 66
-00:06:01,640 --> 00:06:24,960
-Hey Junge, kennst du einen Herrn Hartmann, der hier wohnen soll?
+00:07:54,560 --> 00:07:56,880
+Nur der kleine Dieter lebt heute noch bei mir.
 
 67
-00:06:24,960 --> 00:06:36,080
-was hast du denn? Bist du verletzt? Lass mich mal sehen. Du brauchst keine Angst haben,
+00:07:57,060 --> 00:07:58,640
+Die Arbeit ist bestimmt nicht leicht.
 
 68
-00:06:36,080 --> 00:06:43,440
-ich will dir nur helfen. Die Wunde war fast verheilt, jetzt ist sie wieder aufgerissen,
+00:07:58,880 --> 00:08:01,180
+Ich würde es nicht direkt als Arbeit bezeichnen.
 
 69
-00:06:43,440 --> 00:06:53,880
-sie eitert. Ja, das brennt ein bisschen, aber gleich wird es besser. So, das hätten wir.
+00:08:02,440 --> 00:08:08,260
+Ich habe im Sozialministerium als Bezirksbeamter viele Jahre mit Waisenkindern gearbeitet.
 
 70
-00:06:53,880 --> 00:07:05,400
-Fall nicht hin, sonst verletzt du dich wieder.
+00:08:08,620 --> 00:08:11,280
+So wurde ich auch zum Gegner der Methoden des Regimes.
 
 71
-00:07:05,400 --> 00:07:35,360
-Diese Kinder hab ich damals nach der Wende alle vorübergehend
+00:08:14,520 --> 00:08:19,500
+Nach dem Niedergang des Sozialismus wollte ich die Kinder so erziehen, wie ich es für richtig hielt.
 
 72
-00:07:35,360 --> 00:07:41,000
-bei mir zu Hause aufgenommen. Vorübergehend? Ich habe mich so lange um sie gekümmert bis
+00:08:20,840 --> 00:08:23,700
+Da ich nicht reich bin, waren meine Möglichkeiten begrenzt.
 
 73
-00:07:41,000 --> 00:07:46,320
-das Sozialamt entschieden hat, zu welchen Adoptivfamilien sie kommen. Der Junge in der
+00:08:24,480 --> 00:08:28,640
+Doch im Vergleich zu den Zuständen in den Heimen hatten sie es allemal besser.
 
 74
-00:07:46,320 --> 00:07:52,240
-Mitte wurde vom Chef einer großen Textilfabrik aufgenommen. Der Junge links daneben ist inzwischen
+00:08:29,640 --> 00:08:36,700
+Das Kinderheim 511 war ein Spezialheim und unterstand sowohl dem Sozial- als auch dem Innenministerium.
 
 75
-00:07:52,240 --> 00:07:58,120
-bei der Bundeswehr. Nur der kleine Dieter lebt heute noch bei mir. Die Arbeit ist bestimmt
-
-76
-00:07:58,120 --> 00:08:05,120
-nicht leicht. Ich würde es nicht direkt als Arbeit bezeichnen. Ich habe im Sozialministerium
-
-77
-00:08:05,120 --> 00:08:10,040
-als Bezirksbeamter viele Jahre mit Waisenkindern gearbeitet, so wurde ich auch zum Gegner der
-
-78
-00:08:10,040 --> 00:08:18,280
-Methoden des Regimes. Nach dem Niedergang des Sozialismus wollte ich die Kinder so erziehen,
-
-79
-00:08:18,280 --> 00:08:24,640
-wie ich es für richtig hielt. Da ich nicht reich bin, waren meine Möglichkeiten begrenzt. Doch
-
-80
-00:08:24,640 --> 00:08:31,760
-im Vergleich zu den Zuständen in den Heimen hatten sie es allemal besser. Das Kinderheim 511
-
-81
-00:08:31,760 --> 00:08:36,760
-war ein Spezialheim und unterstand sowohl dem Sozial- als auch dem Innenministerium.
-
-82
-00:08:36,760 --> 00:08:43,760
+00:08:37,700 --> 00:08:43,260
 Speziell waren die Heime damals zwar alle, doch die Sorte von Heim war besonders schlimm.
 
-83
-00:08:43,760 --> 00:08:47,760
+76
+00:08:44,440 --> 00:08:47,200
 Es war keine gewöhnliche Einrichtung für Waisenkinder.
 
-84
-00:08:47,760 --> 00:08:54,760
+77
+00:08:48,400 --> 00:08:54,480
 Das Kinderheim 511 war für Kinder vorgesehen, deren Eltern Gesetzesbrecher und Regimegegner waren
 
+78
+00:08:54,480 --> 00:09:00,860
+und wegen Spionage, Volksverhetzung oder besuchter Republikflucht im Gefängnis saßen.
+
+79
+00:09:00,860 --> 00:09:07,280
+Diskriminierung, Rohheit und Gewalt waren da leider an der Tagesordnung
+
+80
+00:09:07,280 --> 00:09:11,680
+Die Kinder konnten noch so brav sein, sie hatten einfach keine Chance
+
+81
+00:09:11,680 --> 00:09:17,960
+Was sich dort abspielte, war brutaler Totalitarismus
+
+82
+00:09:17,960 --> 00:09:24,480
+Offiziell behauptete der Staat, die Heimkinder zu vorbildlichen Sozialisten erziehen zu wollen
+
+83
+00:09:24,480 --> 00:09:27,400
+In Wirklichkeit behandelte er sie aber wie Verbrecher
+
+84
+00:09:27,400 --> 00:09:30,840
+Der Heimleiter und die Lehrer waren wirklich abscheulich
+
 85
-00:08:54,760 --> 00:09:00,760
-und wegen Spionage, Volksverhetzung oder versuchter Republikflucht im Gefängnis saßen.
+00:09:30,840 --> 00:09:36,840
+Manche haben Päckchen unterschlagen, die für die Kinder bestimmt waren und den Inhalt dann verkauft.
 
 86
-00:09:00,760 --> 00:09:06,760
-Diskriminierung, Rohheit und Gewalt waren da leider an der Tagesordnung.
+00:09:37,760 --> 00:09:40,200
+Da fragt man sich, wer die wahren Verbrecher sind.
 
 87
-00:09:06,760 --> 00:09:11,760
-Die Kinder konnten noch so brav sein, sie hatten einfach keine Chance.
+00:09:40,860 --> 00:09:44,840
+In diesem Spezialheim herrschten nur Angst und Schrecken. Es ist wirklich unvorstellbar.
 
 88
-00:09:12,760 --> 00:09:17,760
-Was sich dort abspielte, war brutaler Totalitarismus.
+00:09:45,960 --> 00:09:48,680
+Zu anständigen Menschen wurden die Kinder da bestimmt nicht erzogen.
 
 89
-00:09:17,760 --> 00:09:23,760
-Offiziell behauptete der Staat, die Heimkinder zu vorbildlichen Sozialisten erziehen zu wollen,
+00:09:50,820 --> 00:09:52,840
+Tja, und dann kam es zu einem Zwischenfall.
 
 90
-00:09:23,760 --> 00:09:26,760
-in Wirklichkeit behandelte er sie aber wie Verbrecher.
-
-91
-00:09:26,760 --> 00:09:29,760
-Der Heimleiter und die Lehrer waren wirklich abscheulich.
-
-92
-00:09:29,760 --> 00:09:34,760
-abscheulich. Manche haben Päckchen unterschlagen, die für die Kinder
-
-93
-00:09:34,760 --> 00:09:38,840
-bestimmt waren und den Inhalt dann verkauft. Da fragt man sich, wer die
-
-94
-00:09:38,840 --> 00:09:43,360
-wahren Verbrecher sind. In diesem Spezialheim herrschten nur Angst und
-
-95
-00:09:43,360 --> 00:09:47,280
-Schrecken. Es ist wirklich unvorstellbar. Zu anständigen Menschen wurden die
-
-96
-00:09:47,280 --> 00:09:53,600
-Kinder da bestimmt nicht erzogen. Tja und dann kam es zu einem Zwischenfall.
-
-97
-00:09:53,600 --> 00:09:56,680
+00:09:54,340 --> 00:09:56,700
 Zwischenfall? Was für ein Zwischenfall war das?
 
-98
-00:09:56,680 --> 00:10:01,680
+91
+00:09:57,320 --> 00:10:01,720
 Sie hatten mich doch vorhin gefragt, ob ich Ihnen etwas zu dem Zwillingspaar sagen kann.
 
-99
-00:10:01,680 --> 00:10:04,680
+92
+00:10:02,140 --> 00:10:04,640
 Anna und Johann, was wissen Sie über die beiden?
 
-100
-00:10:04,680 --> 00:10:09,680
+93
+00:10:05,100 --> 00:10:09,860
 Das Mädchen kam damals in einem Heim in einem anderen Bezirk unter, mehr weiß ich nicht.
 
-101
-00:10:09,680 --> 00:10:13,680
+94
+00:10:10,240 --> 00:10:13,980
 Aber an Johann, den Jungen, erinnere ich mich noch gut.
 
-102
-00:10:13,680 --> 00:10:14,680
+95
+00:10:14,400 --> 00:10:14,840
 Johann?
 
-103
-00:10:14,680 --> 00:10:17,680
+96
+00:10:15,120 --> 00:10:17,480
 Bitte erzählen Sie mir alles, was Sie über ihn wissen.
 
-104
-00:10:17,680 --> 00:10:27,680
-Die Sache unterlag strengster Geheimhaltung.
+97
+00:10:17,480 --> 00:10:27,720
+Die Sache unterlag strengster Geheimhaltung
 
-105
-00:10:27,680 --> 00:10:31,560
-Die Regierung hatte uns verboten, darüber zu sprechen.
+98
+00:10:27,720 --> 00:10:31,540
+Die Regierung hatte uns verboten, darüber zu sprechen
 
-106
-00:10:31,560 --> 00:10:36,680
+99
+00:10:31,540 --> 00:10:36,640
 Aber jetzt, nachdem so viele Jahre vergangen sind
 
-107
-00:10:36,680 --> 00:10:40,680
-und das Regime keine Bedrohung mehr darstellt, sollte es in Ordnung sein.
+100
+00:10:36,640 --> 00:10:40,400
+und das Regime keine Bedrohung mehr darstellt, sollte es in Ordnung sein
 
-108
-00:10:40,680 --> 00:10:42,680
-Erzählen Sie mir von dem Zwischenfall.
+101
+00:10:40,400 --> 00:10:42,220
+Erzählen Sie mir von dem Zwischenfall
 
-109
-00:10:42,680 --> 00:10:45,680
+102
+00:10:42,220 --> 00:10:45,960
 Johann, was hat der Junge damals getan?
 
+103
+00:10:47,480 --> 00:10:51,880
+Es gab eine Revolte.
+
+104
+00:10:57,360 --> 00:10:58,620
+Ich bin wieder da.
+
+105
+00:10:59,280 --> 00:11:01,480
+Dieter, sieh mal, wir haben einen Gast.
+
+106
+00:11:01,720 --> 00:11:02,860
+Sag schön guten Tag.
+
+107
+00:11:04,240 --> 00:11:06,820
+Dieter, was sind das für Manieren?
+
+108
+00:11:07,280 --> 00:11:09,140
+Willst du ihm nicht guten Tag sagen?
+
+109
+00:11:09,140 --> 00:11:12,960
+Wir sind, wir beide sind uns vorhin schon vor dem Haus begegnet.
+
 110
-00:10:45,680 --> 00:10:51,880
-getan. Es gab eine Revolte.
+00:11:13,600 --> 00:11:14,000
+Nicht wahr?
 
 111
-00:10:51,880 --> 00:11:01,880
-Ich bin wieder da. Dieter, sieh mal, wir haben einen Gast, sag
+00:11:15,480 --> 00:11:16,540
+Aber erzählen Sie weiter.
 
 112
-00:11:01,880 --> 00:11:07,600
-schön guten Tag. Dieter, was sind das für Manieren? Willst
+00:11:17,480 --> 00:11:18,580
+Wo waren wir stehen geblieben?
 
 113
-00:11:07,600 --> 00:11:11,800
-du ihm nicht guten Tag sagen? Wir sind, wir beide sind uns vorhin schon
-
-114
-00:11:11,800 --> 00:11:18,560
-vor dem Haus begegnet. Nicht wahr? Aber erzählen Sie weiter. Wo waren wir stehen geblieben?
-
-115
-00:11:18,560 --> 00:11:22,480
+00:11:19,540 --> 00:11:22,520
 Vor dem Jungen halte ich das für keine gute Idee.
 
+114
+00:11:23,520 --> 00:11:24,820
+Da haben Sie recht.
+
+115
+00:11:25,600 --> 00:11:26,920
+Es ist doch schon spät geworden.
+
 116
-00:11:22,480 --> 00:11:28,200
-Da haben Sie recht. Es ist doch schon spät geworden. Dann besser ein andermal.
+00:11:27,100 --> 00:11:28,360
+Dann besser ein andermal.
 
 117
-00:11:28,200 --> 00:11:37,360
-Dieter! Haben Sie Lust, heute mit uns zu Abend zu essen?
+00:11:31,020 --> 00:11:31,660
+Dieter!
 
 118
-00:11:37,360 --> 00:11:39,360
-Ja, sehr gern.
+00:11:34,660 --> 00:11:37,340
+Haben Sie Lust, heute mit uns zu Abend zu essen?
 
 119
-00:11:46,360 --> 00:11:50,360
-Sie sagten, dass Sie als freier Journalist tätig sind.
+00:11:37,860 --> 00:11:39,120
+Ja, sehr gern.
 
 120
-00:11:50,360 --> 00:11:53,360
-Haben Sie vor, einen Artikel über das Kinderheim zu schreiben?
+00:11:39,120 --> 00:11:50,240
+Sie sagten, dass Sie als freier Journalist tätig sind
 
 121
-00:11:54,360 --> 00:11:56,360
-Ich denke schon.
+00:11:50,240 --> 00:11:53,040
+Haben Sie vor, einen Artikel über das Kinderheim zu schreiben?
 
 122
-00:11:56,360 --> 00:12:00,360
-Dann sollten Sie darin unbedingt eine wichtige Thematik aufgreifen.
+00:11:54,840 --> 00:11:56,140
+Ich denke schon
 
 123
-00:12:00,360 --> 00:12:05,360
-Die Entwicklung eines Kindes hängt ganz von den Erwachsenen ab, die es erziehen.
+00:11:56,140 --> 00:12:00,160
+Dann sollten Sie darin unbedingt eine wichtige Thematik aufgreifen
 
 124
-00:12:05,360 --> 00:12:09,360
-Es ist unsere Pflicht, Kindern zu helfen, den richtigen Weg einzuschlagen.
+00:12:00,160 --> 00:12:04,920
+Die Entwicklung eines Kindes hängt ganz von den Erwachsenen ab, die es erziehen
 
 125
-00:12:11,360 --> 00:12:15,360
-Nur so können sie lernen zu träumen und ihre Träume zu verwirklichen.
+00:12:05,880 --> 00:12:09,780
+Es ist unsere Pflicht, Kindern zu helfen, den richtigen Weg einzuschlagen.
 
 126
-00:12:16,360 --> 00:12:20,360
-Ihre Träume? Und wovon träumst du, Dieter?
+00:12:11,840 --> 00:12:15,780
+Nur so können sie lernen zu träumen und ihre Träume zu verwirklichen.
 
 127
-00:12:23,360 --> 00:12:24,360
-Von Fußball.
+00:12:16,600 --> 00:12:17,280
+Ihre Träume?
 
 128
-00:12:24,360 --> 00:12:25,360
-Wie?
+00:12:18,760 --> 00:12:20,360
+Und wovon träumst du, Dieter?
 
 129
-00:12:26,360 --> 00:12:27,360
-Ich wünsche mir einen Fußball.
+00:12:23,160 --> 00:12:24,320
+Von Fußball.
 
 130
-00:12:28,360 --> 00:12:29,360
-Verstehe.
+00:12:24,880 --> 00:12:25,160
+Wie?
 
 131
-00:12:29,360 --> 00:12:30,360
-Ich verstehe.
+00:12:26,100 --> 00:12:27,800
+Ich wünsche mir einen Fußball.
 
 132
-00:12:32,360 --> 00:12:33,360
-Danke für das Essen.
+00:12:29,140 --> 00:12:29,780
+Verstehe.
 
 133
-00:12:33,360 --> 00:12:36,360
-Ich hoffe, Sie erzählen mir bald Johans ganze Geschichte.
+00:12:31,880 --> 00:12:33,160
+Danke für das Essen.
 
 134
-00:12:36,360 --> 00:12:40,360
-Ja, tut mir leid, dass wir unser Gespräch nicht zu Ende führen konnten.
+00:12:33,720 --> 00:12:35,900
+Ich hoffe, Sie erzählen mir bald Johans ganze Geschichte.
 
 135
-00:12:42,360 --> 00:12:43,360
-Das holen wir nach.
+00:12:36,580 --> 00:12:40,260
+Ja, tut mir leid, dass wir unser Gespräch nicht zu Ende führen konnten.
 
 136
-00:12:43,360 --> 00:12:45,360
-Ich melde mich wieder bei Ihnen.
+00:12:41,940 --> 00:12:44,880
+Das holen wir nach. Ich melde mich wieder bei Ihnen.
 
 137
-00:12:56,360 --> 00:12:57,360
+00:12:56,740 --> 00:12:57,340
 Dieter.
 
 138
-00:12:59,360 --> 00:13:00,360
-Was ist das denn?
+00:13:03,160 --> 00:13:31,380
+Hallo, Entschuldigung.
 
 139
-00:13:00,360 --> 00:13:01,360
-Was ist das denn?
+00:13:31,380 --> 00:13:34,520
+Kann ich noch ganz kurz reinkommen?
 
 140
-00:13:01,360 --> 00:13:02,360
-Was ist das denn?
+00:13:43,440 --> 00:13:47,440
+Herr Hartmann? Ich bin's, Tenma. Herr Hartmann!
 
 141
-00:13:02,360 --> 00:13:03,360
-Was ist das denn?
+00:13:50,920 --> 00:13:54,740
+Herr Hartmann! Herr Hartmann! Ist alles in Ordnung? Herr Hartmann!
 
 142
-00:13:03,360 --> 00:13:04,360
-Was ist das denn?
+00:13:56,560 --> 00:13:57,740
+Herr Hartmann!
 
 143
-00:13:04,360 --> 00:13:05,360
-Was ist das denn?
-
-144
-00:13:05,360 --> 00:13:06,360
-Was ist das denn?
-
-145
-00:13:06,360 --> 00:13:07,360
-Was ist das denn?
-
-146
-00:13:07,360 --> 00:13:08,360
-Was ist das denn?
-
-147
-00:13:08,360 --> 00:13:09,360
-Was ist das denn?
-
-148
-00:13:09,360 --> 00:13:10,360
-Was ist das denn?
-
-149
-00:13:10,360 --> 00:13:11,360
-Was ist das denn?
-
-150
-00:13:11,360 --> 00:13:12,360
-Was ist das denn?
-
-151
-00:13:12,360 --> 00:13:13,360
-Was ist das denn?
-
-152
-00:13:13,360 --> 00:13:14,360
-Was ist das denn?
-
-153
-00:13:14,360 --> 00:13:15,360
-Was ist das denn?
-
-154
-00:13:15,360 --> 00:13:16,360
-Was ist das denn?
-
-155
-00:13:16,360 --> 00:13:17,360
-Was ist das denn?
-
-156
-00:13:17,360 --> 00:13:18,360
-Was ist das denn?
-
-157
-00:13:18,360 --> 00:13:19,360
-Was ist das denn?
-
-158
-00:13:19,360 --> 00:13:20,360
-Was ist das denn?
-
-159
-00:13:20,360 --> 00:13:21,360
-Was ist das denn?
-
-160
-00:13:21,360 --> 00:13:22,360
-Was ist das denn?
-
-161
-00:13:22,360 --> 00:13:23,360
-Was ist das denn?
-
-162
-00:13:23,360 --> 00:13:24,360
-Was ist das denn?
-
-163
-00:13:24,360 --> 00:13:25,360
-Was ist das denn?
-
-164
-00:13:25,360 --> 00:13:26,360
-Was ist das denn?
-
-165
-00:13:26,360 --> 00:13:27,360
-Was ist das denn?
-
-166
-00:13:27,360 --> 00:13:28,360
-Was ist das denn?
-
-167
-00:13:28,360 --> 00:13:44,040
-Hallo, Entschuldigung, kann ich noch ganz kurz reinkommen?
-
-168
-00:13:44,040 --> 00:13:45,040
-Herr Hartmann?
-
-169
-00:13:45,040 --> 00:13:51,560
-Ich bin's, Tenma, Herr Hartmann!
-
-170
-00:13:51,560 --> 00:13:54,080
-Herr Hartmann, Herr Hartmann, ist alles in Ordnung?
-
-171
-00:13:54,080 --> 00:13:57,200
-Herr Hartmann!
-
-172
-00:13:57,200 --> 00:13:58,200
-Herr Hartmann!
-
-173
-00:13:58,200 --> 00:13:59,200
+00:13:57,740 --> 00:14:00,660
 Herr Tenma!
 
-174
-00:13:59,200 --> 00:14:00,200
+144
+00:14:02,780 --> 00:14:03,380
 Dieter!
 
-175
-00:14:00,200 --> 00:14:01,200
+145
+00:14:04,380 --> 00:14:05,900
 Aber was ist denn passiert?
 
-176
-00:14:01,200 --> 00:14:02,200
-Er ist gestürzt.
+146
+00:14:06,140 --> 00:14:09,140
+Er ist gestürzt. Er ist auf den Stuhl geklettert.
 
-177
-00:14:02,200 --> 00:14:03,200
-Er ist auf den Stuhl geklettert.
-
-178
-00:14:03,200 --> 00:14:04,200
+147
+00:14:09,800 --> 00:14:11,260
 Was machst du nur für Sachen?
 
-179
-00:14:04,200 --> 00:14:05,200
-Aua!
+148
+00:14:11,880 --> 00:14:14,520
+Aua! Es tut ganz doll weh!
 
-180
-00:14:05,200 --> 00:14:06,200
-Es tut ganz doll weh!
-
-181
-00:14:06,200 --> 00:14:07,200
+149
+00:14:15,100 --> 00:14:16,520
 Zeig mir, wo es weh tut.
 
-182
-00:14:07,200 --> 00:14:08,200
+150
+00:14:16,560 --> 00:14:18,220
 Es tut ganz doll weh!
 
-183
-00:14:08,200 --> 00:14:09,200
+151
+00:14:18,460 --> 00:14:20,460
 Schnell, Sie müssen einen Krankenwagen rufen.
 
-184
-00:14:09,200 --> 00:14:10,200
+152
+00:14:20,980 --> 00:14:21,240
 Ja.
 
-185
-00:14:10,200 --> 00:14:11,200
+153
+00:14:22,700 --> 00:14:24,300
 Ich seh mal nach, ja?
 
-186
-00:14:11,200 --> 00:14:12,200
-Oh.
+154
+00:14:28,320 --> 00:14:32,060
+Du meine Güte. Wo kommen all die Verletzungen her?
 
-187
-00:14:12,200 --> 00:14:13,200
-Oh.
-
-188
-00:14:13,200 --> 00:14:14,200
-Oh.
-
-189
-00:14:14,200 --> 00:14:15,200
-Oh.
-
-190
-00:14:15,200 --> 00:14:16,200
-Oh.
-
-191
-00:14:16,200 --> 00:14:17,200
-Oh.
-
-192
-00:14:17,200 --> 00:14:18,200
-Oh.
-
-193
-00:14:18,200 --> 00:14:19,200
-Oh.
-
-194
-00:14:19,200 --> 00:14:20,200
-Oh.
-
-195
-00:14:20,200 --> 00:14:21,200
-Oh.
-
-196
-00:14:21,200 --> 00:14:22,200
-Oh.
-
-197
-00:14:22,200 --> 00:14:23,200
-Oh.
-
-198
-00:14:23,200 --> 00:14:24,200
-Oh.
-
-199
-00:14:24,200 --> 00:14:25,200
-Oh.
-
-200
-00:14:25,200 --> 00:14:26,200
-Oh.
-
-201
-00:14:26,200 --> 00:14:32,200
-Du meine Güte, wo kommen all die Verletzungen her?
-
-202
-00:14:32,200 --> 00:14:35,200
+155
+00:14:32,820 --> 00:14:35,200
 Wenn ich hier drücke, tut es dann weh?
 
-203
-00:14:35,200 --> 00:14:38,200
+156
+00:14:35,980 --> 00:14:38,120
 Er hat zwei gebrochene Rippen.
 
-204
-00:14:38,200 --> 00:14:41,200
+157
+00:14:38,420 --> 00:14:41,660
 Außerdem ist die linke Schulter ausgerenkt.
 
-205
-00:14:41,200 --> 00:14:44,200
+158
+00:14:42,280 --> 00:14:44,600
 Wie soll er sich bei einem Sturz so verletzt haben?
 
-206
-00:14:44,200 --> 00:14:47,200
-Der Krankenwagen ist unterwegs.
+159
+00:14:45,540 --> 00:14:49,900
+Der Krankenwagen ist unterwegs. Es besteht kein Grund zur Sorge.
 
-207
-00:14:47,200 --> 00:14:50,200
-Es besteht kein Grund zur Sorge.
-
-208
-00:14:50,200 --> 00:14:53,200
+160
+00:14:51,260 --> 00:14:53,200
 Woher kommen all diese Verletzungen?
 
-209
-00:14:53,200 --> 00:14:55,200
-Es ist alles in Ordnung.
-
-210
-00:14:55,200 --> 00:15:03,480
-Sie werden hier nicht mehr benötigt, aber ihre Abtastechnik wirkt auf mich sehr professionell. Es ist fast so als wären sie Arzt
-
-211
-00:15:04,540 --> 00:15:05,820
-Nein
-
-212
-00:15:05,820 --> 00:15:12,020
-Tenma, ich wusste doch, dass ich den Namen schon mal gehört habe. Ich würde sagen, sie sind Arzt
-
-213
-00:15:12,660 --> 00:15:15,180
-Und zwar der, der wegen Mordes gesucht wird
-
-214
-00:15:17,100 --> 00:15:18,900
-Die Verletzungen
-
-215
-00:15:18,900 --> 00:15:24,360
-Woher kommen all diese Verletzungen an seinem Körper? Sie sollten schleunigst von hier verschwinden
-
-216
-00:15:24,360 --> 00:15:27,160
-Ich habe nicht nur den Krankenwagen gerufen,
-
-217
-00:15:27,240 --> 00:15:30,440
-ich habe gleichzeitig auch die Polizei verständigt.
-
-218
-00:15:30,520 --> 00:15:33,040
-Herr Hartmann, sagen Sie mir jetzt sofort,
-
-219
-00:15:33,120 --> 00:15:35,320
-wo der Junge diese Verletzung her hat.
-
-220
-00:15:35,400 --> 00:15:37,200
-Das geht Sie gar nichts an.
-
-221
-00:15:37,280 --> 00:15:41,040
-Und von einem gesuchten Mörder lasse ich mir ganz bestimmt nichts sagen.
-
-222
-00:15:43,960 --> 00:15:48,080
-Das typische Verhaltensmuster eines blindwütigen Verbrechers.
-
-223
-00:15:48,160 --> 00:15:50,160
-Das haben Sie ihm angetan.
-
-224
-00:15:50,240 --> 00:15:52,640
-Ich weiß nicht, wovon Sie reden.
-
-225
-00:15:52,640 --> 00:15:55,940
-Tun Sie doch nicht so! Sie haben den wehrlosen Jungen misshandelt!
-
-226
-00:15:55,940 --> 00:16:00,340
-Misshandelt? Jetzt hören Sie aber auf. Das sind üble Unterstellungen.
-
-227
-00:16:00,340 --> 00:16:01,940
-Nicht wahr, Dieter?
-
-228
-00:16:05,940 --> 00:16:07,940
-Was haben Sie jetzt vor?
-
-229
-00:16:07,940 --> 00:16:10,340
-Ich bringe den Jungen in ein Krankenhaus.
-
-230
-00:16:10,340 --> 00:16:13,340
-Erst Mord und dann auch noch Kindesentführung?
-
-231
-00:16:14,140 --> 00:16:15,340
-Keine Bewegung!
-
-232
-00:16:15,340 --> 00:16:17,940
-Sie laufen der Polizei direkt in die Arme.
-
-233
-00:16:22,640 --> 00:16:27,640
-Es wird alles wieder gut. Ich bring dich ins Krankenhaus.
-
-234
-00:16:27,640 --> 00:16:30,640
-Ich will da nicht hin. Ich hab Angst.
-
-235
-00:16:30,640 --> 00:16:34,640
-Du musst keine Angst haben. Die Ärzte bringen dich wieder in Ordnung.
-
-236
-00:16:34,640 --> 00:16:39,640
-Es tut so weh. Früher hat Herr Hartmann mich immer gesund gemacht.
-
-237
-00:16:43,640 --> 00:16:49,640
-Was sagst du? Du hast am ganzen Körper Verletzungen und warst noch nie in einem Krankenhaus?
-
-238
-00:16:49,640 --> 00:16:55,640
-Ich hab Angst. Die Welt, in der wir leben, ist böse und voller Unheil.
-
-239
-00:16:55,640 --> 00:17:01,640
-Und darum muss ich unbedingt groß und stark werden. Ganz stark.
-
-240
-00:17:01,640 --> 00:17:03,640
-Hat Herr Hartmann dir das gesagt?
-
-241
-00:17:03,640 --> 00:17:07,640
-Diese Welt ist schwarz. Und die Zukunft auch.
-
-242
-00:17:12,640 --> 00:17:17,640
-Das stimmt nicht. Die Welt ist nicht schwarz. Das ist eine Lüge.
-
-243
-00:17:18,640 --> 00:17:19,640
-Wirklich?
-
-244
-00:17:19,640 --> 00:17:20,640
-Ganz bestimmt.
-
-245
-00:17:21,640 --> 00:17:22,640
-Oh, dein Fußball.
-
-246
-00:17:23,640 --> 00:17:25,640
-Den hätte ich fast vergessen.
-
-247
-00:17:25,640 --> 00:17:26,640
-Hä?
-
-248
-00:17:28,640 --> 00:17:30,640
-Morgen sieht die Berg schon wieder besser aus.
-
-249
-00:17:37,640 --> 00:17:39,640
-Bitte verzeihen Sie die späte Störung.
-
-250
-00:17:39,640 --> 00:17:43,640
-Das macht nichts, aber es könnte eine Weile dauern, bis er behandelt wird.
-
-251
-00:17:43,640 --> 00:17:45,640
-Die Notaufnahme ist heute brechend voll.
-
-252
-00:17:45,640 --> 00:17:47,640
-Aber könnten Sie ihn nicht vorziehen?
-
-253
-00:17:47,640 --> 00:17:50,640
-Tut mir leid, es gab einen schweren Unfall.
-
-254
-00:17:50,640 --> 00:17:53,640
-Wir müssen den LKW-Fahrer noch befragen.
-
-255
-00:17:54,640 --> 00:17:56,640
-Mit gebrochenem Bein kann er doch sprechen.
-
-256
-00:17:56,640 --> 00:17:59,640
-Er muss zuerst behandelt werden.
-
-257
-00:17:59,640 --> 00:18:01,640
-Danach können Sie ihn von mir aus vernehmen.
-
-258
-00:18:01,640 --> 00:18:04,640
-Tja, dann werden wir uns wohl noch gedulden müssen.
-
-259
-00:18:04,640 --> 00:18:07,640
-Ich muss, ich muss noch etwas erledigen.
-
-260
-00:18:08,640 --> 00:18:11,640
-Bitte, Sie müssen sich gut um den Jungen kümmern.
-
-261
-00:18:11,640 --> 00:18:18,160
-Schwester, Sie dürfen ihn unter keinen Umständen jemandem anvertrauen, egal wer kommt, um ihn
-
-262
-00:18:18,160 --> 00:18:19,160
-zu holen.
-
-263
-00:18:19,160 --> 00:18:20,160
-Ich danke Ihnen.
-
-264
-00:18:20,160 --> 00:18:21,160
-Aber...
-
-265
-00:18:21,160 --> 00:18:24,360
-Ist die Unfallstelle geräumt?
-
-266
-00:18:24,360 --> 00:18:26,480
-Nein, die Straßen sind noch dicht.
-
-267
-00:18:26,480 --> 00:18:34,720
-Herrje, was soll ich jetzt tun, was soll ich mit Dieter machen?
-
-268
-00:18:34,720 --> 00:18:39,040
-Er müsste eigentlich zur Polizei, aber da kann ich mich nicht blicken lassen.
-
-269
-00:18:39,040 --> 00:18:46,040
-Das Mädchen kam damals in einem Heim in einem anderen Bezirk unter, mehr weiß ich nicht.
-
-270
-00:18:47,040 --> 00:18:51,040
-Ein anderes Heim? Das ist es!
-
-271
-00:19:00,040 --> 00:19:02,040
-Sie wollen ein Kind in unsere Obhut geben?
-
-272
-00:19:03,040 --> 00:19:07,040
-Wissen Sie eigentlich wie spät es ist, einfach so hier aufzutauchen?
-
-273
-00:19:07,040 --> 00:19:13,920
-zu tauchen ich weiß es ist viel verlangt aber der junge er dass der junge misshandelt
-
-274
-00:19:13,920 --> 00:19:21,280
-wird ist mir bewusst aber ich weiß nicht einmal wer sie sind ich bin ich und wir können
-
-275
-00:19:21,280 --> 00:19:28,200
-nicht einfach das kind eines wildfremden mannes hier bei uns aufnehmen warten sie können
-
-276
-00:19:28,200 --> 00:19:35,280
-sie mir sagen ob hier eine gewisse anna liebert gewohnt hat anna liebert sagen sie sie sind
-
-277
-00:19:35,280 --> 00:19:40,280
-mit Anna Liebert befreundet? Dann war Anna tatsächlich hier?
-
-278
-00:19:40,280 --> 00:19:46,040
-Ach, unsere Anna. Wann haben Sie Anna das letzte Mal gesehen und geht es ihr gut?
-
-279
-00:19:46,040 --> 00:19:53,360
-Ja, sie studiert in Heidelberg an der Universität. Wer hätte das gedacht. Dann ist sie sicherlich
-
-280
-00:19:53,360 --> 00:19:58,520
-glücklich. Sie war so ein Goldschatz. Ich weiß noch, dass der Handelsbeauftragte Herr
-
-281
-00:19:58,520 --> 00:20:04,680
-Liebert sie adoptiert hat. Zusammen mit ihrem Zwillingsbruder. Ja, wie hieß er noch gleich?
-
-282
-00:20:04,680 --> 00:20:05,680
-Johan.
-
-283
-00:20:05,760 --> 00:20:07,880
-Ah, stimmt, er hieß Johan.
-
-284
-00:20:07,960 --> 00:20:10,340
-Die beiden waren ein Herz und eine Seele.
-
-285
-00:20:10,420 --> 00:20:14,260
-Wirklich schlimm, dass sie am Anfang in getrennten Heimen untergebracht waren.
-
-286
-00:20:15,100 --> 00:20:17,300
-Bevor die beiden Zwillinge zu uns kamen,
-
-287
-00:20:17,380 --> 00:20:20,720
-hatten sie nur einander und waren ganz auf sich allein gestellt.
-
-288
-00:20:21,420 --> 00:20:24,640
-Man hatte sie nahe der tschechoslowakischen Grenze gefunden.
-
-289
-00:20:25,600 --> 00:20:29,920
-Sie hielten sich bei den Händen und zitterten vor Kälte.
-
-290
-00:20:29,920 --> 00:20:36,080
-Herr Liebert wollte zuerst nur Johann bei sich zu Hause aufnehmen, aber der Junge wollte
-
-291
-00:20:36,080 --> 00:20:40,280
-seine Schwester um nichts in der Welt alleine lassen, also nahm er schließlich beide auf.
-
-292
-00:20:40,280 --> 00:20:43,760
-Und so hat Anna letztendlich zu einem erfüllten Leben gefunden.
-
-293
-00:20:43,760 --> 00:20:49,000
-In den Kinderheimen der DDR sollen schreckliche Zustände geherrscht haben.
-
-294
-00:20:49,000 --> 00:20:51,400
-Vergleichen Sie uns nicht mit Kinderheim 511.
-
-295
-00:20:51,400 --> 00:21:09,400
-Inge, da geht es nicht zur Toilette. Na komm, meine Kleine.
-
-296
-00:21:09,400 --> 00:21:10,400
-Mama!
-
-297
-00:21:10,400 --> 00:21:20,320
-Nicht weinen, ist doch alles gut. Du brauchst keine Angst zu haben. Na komm, das schaffst
-
-298
-00:21:20,320 --> 00:21:33,680
-schon allein oder diese kinder haben keine elterliche liebe erfahren für die
-
-299
-00:21:33,680 --> 00:21:38,440
-entwicklung eines kindes sind liebe und zuneigung essentiell in vielen heimen
-
-300
-00:21:38,440 --> 00:21:42,360
-der ddr ging es über jahre hinweg schlimm zu jedes heim hatte eine nummer
-
-301
-00:21:42,360 --> 00:21:47,240
-hier in der 47 gaben wir uns jede erdenkliche mühe es anders zu machen
-
-302
-00:21:47,240 --> 00:21:51,240
-den Kindern nach besten Kräften ein würdiges Zuhause zu geben,
-
-303
-00:21:51,240 --> 00:21:54,240
-entgegen dem, was der Staat von uns verlangte,
-
-304
-00:21:54,240 --> 00:21:58,240
-um nie so zu werden wie Kinderheim 511.
-
-305
-00:21:59,240 --> 00:22:04,240
-Offiziell unterstand das Spezialheim sowohl dem Sozial- als auch dem Innenministerium.
-
-306
-00:22:04,240 --> 00:22:06,240
-Wissen Sie, worauf ich hinaus will?
-
-307
-00:22:06,240 --> 00:22:07,240
+161
+00:14:53,200 --> 00:14:57,320
+Es ist alles in Ordnung. Sie werden hier nicht mehr benötigt.
+
+162
+00:14:57,320 --> 00:15:01,520
+Aber Ihre Abtasttechnik wirkt auf mich sehr professionell.
+
+163
+00:15:01,880 --> 00:15:03,560
+Es ist fast so, als wären Sie Arzt.
+
+164
+00:15:04,580 --> 00:15:05,140
 Nein.
 
-308
-00:22:08,240 --> 00:22:12,240
+165
+00:15:05,860 --> 00:15:09,500
+Tenma. Ich wusste doch, dass ich den Namen schon mal gehört habe.
+
+166
+00:15:10,200 --> 00:15:12,140
+Ich würde sagen, Sie sind Arzt.
+
+167
+00:15:12,980 --> 00:15:15,220
+Und zwar der, der wegen Mordes gesucht wird.
+
+168
+00:15:17,160 --> 00:15:21,700
+Die Verletzungen. Woher kommen all diese Verletzungen an seinem Körper?
+
+169
+00:15:22,100 --> 00:15:24,300
+Sie sollten schleunigst von hier verschwinden.
+
+170
+00:15:24,920 --> 00:15:29,940
+Ich habe nicht nur den Krankenwagen gerufen, ich habe gleichzeitig auch die Polizei verständigt.
+
+171
+00:15:30,720 --> 00:15:35,060
+Herr Hartmann, sagen Sie mir jetzt sofort, wo der Junge diese Verletzung her hat.
+
+172
+00:15:35,580 --> 00:15:40,960
+Das geht Sie gar nichts an. Und von einem gesuchten Mörder lasse ich mir ganz bestimmt nichts sagen.
+
+173
+00:15:43,760 --> 00:15:48,020
+Das typische Verhaltensmuster eines blindwütigen Verbrechers.
+
+174
+00:15:48,360 --> 00:15:50,060
+Das haben Sie ihm angetan.
+
+175
+00:15:50,460 --> 00:15:52,640
+Ich weiß nicht, wovon Sie reden.
+
+176
+00:15:52,640 --> 00:15:55,860
+Tun Sie doch nicht so. Sie haben den wehrlosen Jungen misshandelt.
+
+177
+00:15:56,420 --> 00:15:56,940
+Misshandelt?
+
+178
+00:15:57,040 --> 00:16:00,100
+Jetzt hören Sie aber auf. Das sind üble Unterstellungen.
+
+179
+00:16:00,580 --> 00:16:01,700
+Nicht wahr, Dieter?
+
+180
+00:16:05,840 --> 00:16:07,580
+Was haben Sie jetzt vor?
+
+181
+00:16:08,040 --> 00:16:10,120
+Ich bringe den Jungen in ein Krankenhaus.
+
+182
+00:16:10,560 --> 00:16:13,140
+Erst Mord und dann auch noch Kindesentführung?
+
+183
+00:16:14,240 --> 00:16:15,380
+Keine Bewegung.
+
+184
+00:16:15,520 --> 00:16:17,820
+Sie laufen der Polizei direkt in die Arme.
+
+185
+00:16:22,640 --> 00:16:27,520
+Es wird alles wieder gut. Ich bring dich ins Krankenhaus.
+
+186
+00:16:28,960 --> 00:16:30,920
+Ich will da nicht hin. Ich hab Angst.
+
+187
+00:16:31,180 --> 00:16:34,640
+Du musst keine Angst haben. Die Ärzte bringen dich wieder in Ordnung.
+
+188
+00:16:35,020 --> 00:16:39,740
+Es tut so weh. Früher hat Herr Hartmann mich immer gesund gemacht.
+
+189
+00:16:44,460 --> 00:16:49,880
+Was sagst du? Du hast am ganzen Körper Verletzungen und warst noch nie in einem Krankenhaus?
+
+190
+00:16:49,880 --> 00:17:01,600
+Ich habe Angst. Die Welt, in der wir leben, ist böse und voller Unheil. Und darum muss ich unbedingt groß und stark werden. Ganz stark.
+
+191
+00:17:02,080 --> 00:17:03,960
+Hat Herr Hartmann dir das gesagt?
+
+192
+00:17:04,200 --> 00:17:07,840
+Diese Welt ist schwarz. Und die Zukunft auch.
+
+193
+00:17:12,600 --> 00:17:17,460
+Das stimmt nicht. Die Welt ist nicht schwarz. Das ist eine Lüge.
+
+194
+00:17:18,540 --> 00:17:19,100
+Wirklich?
+
+195
+00:17:19,880 --> 00:17:25,140
+Ganz bestimmt. Oh, dein Fußball. Den hätte ich fast vergessen.
+
+196
+00:17:28,260 --> 00:17:30,520
+Morgen sieht die Welt schon wieder besser aus.
+
+197
+00:17:37,420 --> 00:17:39,400
+Bitte verzeihen Sie die späte Störung.
+
+198
+00:17:39,820 --> 00:17:45,320
+Das macht nichts, aber es könnte eine Weile dauern, bis er behandelt wird. Die Notaufnahme ist heute brechend voll.
+
+199
+00:17:45,320 --> 00:17:47,120
+Aber könnten Sie ihn nicht vorziehen?
+
+200
+00:17:47,880 --> 00:17:49,880
+Tut mir leid, es gab einen schweren Unfall.
+
+201
+00:17:51,140 --> 00:17:53,020
+Wir müssen den LKW-Fahrer noch befragen.
+
+202
+00:17:54,420 --> 00:17:56,220
+Mit gebrochenem Bein kann er doch sprechen.
+
+203
+00:17:57,300 --> 00:17:59,120
+Er muss zuerst behandelt werden.
+
+204
+00:17:59,640 --> 00:18:01,560
+Danach können Sie ihn von mir aus vernehmen.
+
+205
+00:18:01,840 --> 00:18:04,180
+Tja, dann werden wir uns wohl noch gedulden müssen.
+
+206
+00:18:04,740 --> 00:18:07,460
+Ich muss, ich muss noch etwas erledigen.
+
+207
+00:18:08,440 --> 00:18:11,120
+Bitte, Sie müssen sich gut um den Jungen kümmern.
+
+208
+00:18:13,260 --> 00:18:16,820
+Schwester, Sie dürfen ihn unter keinen Umständen jemandem anvertrauen.
+
+209
+00:18:16,820 --> 00:18:25,700
+egal wer kommt um ihn zu holen ich danke aber ist die unfallstelle geräumt nein die straßen
+
+210
+00:18:25,700 --> 00:18:35,640
+sind noch dicht was soll ich jetzt tun was soll ich mit dieter machen er müsste eigentlich zur
+
+211
+00:18:35,640 --> 00:18:43,980
+polizei aber da kann ich mich nicht blicken lassen das mädchen kam damals in einem heim
+
+212
+00:18:43,980 --> 00:18:51,700
+in einem anderen bezirk unter mehr weiß ich nicht ein anderes heim das ist es
+
+213
+00:19:00,800 --> 00:19:06,800
+sie wollen ein kind in unsere abhut geben wissen sie eigentlich wie spät es ist einfach so hier
+
+214
+00:19:06,800 --> 00:19:13,900
+aufzutauchen ich weiß es ist viel verlangt aber der junge er dass der junge misshandelt
+
+215
+00:19:13,900 --> 00:19:18,140
+wird ist mir bewusst aber ich weiß nicht einmal wer sie sind
+
+216
+00:19:18,140 --> 00:19:23,320
+ich bin ich und wir können nicht einfach das kind eines wildfremden mannes hier
+
+217
+00:19:23,320 --> 00:19:25,840
+bei uns aufnehmen
+
+218
+00:19:26,360 --> 00:19:31,740
+warten sie können sie mir sagen ob hier eine gewisse anna lieber gewohnt hat
+
+219
+00:19:31,740 --> 00:19:39,280
+anna lieber sagen sie sie sind mit anna lieber befreundet dann war dann war anna
+
+220
+00:19:39,280 --> 00:19:46,060
+tatsächlich hier? Ach, unsere Anna. Wann haben Sie Anna das letzte Mal gesehen und geht es ihr gut?
+
+221
+00:19:46,520 --> 00:19:53,400
+Ja, sie studiert in Heidelberg an der Universität. Wer hätte das gedacht? Dann ist sie sicherlich
+
+222
+00:19:53,400 --> 00:19:58,820
+glücklich. Sie war so ein Goldschatz. Ich weiß noch, dass der Handelsbeauftragte Herr Liebert
+
+223
+00:19:58,820 --> 00:20:05,500
+sie adoptiert hat. Zusammen mit ihrem Zwillingsbruder. Ja, wie hieß er noch gleich? Johann.
+
+224
+00:20:06,060 --> 00:20:07,760
+Ah, stimmt, er hieß Johann.
+
+225
+00:20:08,260 --> 00:20:10,220
+Die beiden waren ein Herz und eine Seele.
+
+226
+00:20:10,600 --> 00:20:14,060
+Wirklich schlimm, dass sie am Anfang in getrennten Heimen untergebracht waren.
+
+227
+00:20:15,320 --> 00:20:17,460
+Bevor die beiden Zwillinge zu uns kamen,
+
+228
+00:20:17,500 --> 00:20:20,480
+hatten sie nur einander und waren ganz auf sich allein gestellt.
+
+229
+00:20:21,300 --> 00:20:24,340
+Man hatte sie nahe der tschechoslowakischen Grenze gefunden.
+
+230
+00:20:25,820 --> 00:20:29,840
+Sie hielten sich bei den Händen und zitterten vor Kälte.
+
+231
+00:20:31,920 --> 00:20:35,060
+Herr Liebert wollte zuerst nur Johann bei sich zu Hause aufnehmen,
+
+232
+00:20:35,060 --> 00:20:38,320
+aber der Junge wollte seine Schwester um nichts in der Welt alleine lassen,
+
+233
+00:20:38,660 --> 00:20:40,120
+also nahm er schließlich beide auf.
+
+234
+00:20:40,320 --> 00:20:43,660
+Und so hat Anna letztendlich zu einem erfüllten Leben gefunden.
+
+235
+00:20:44,720 --> 00:20:48,880
+In den Kinderheimen der DDR sollen schreckliche Zustände geherrscht haben.
+
+236
+00:20:49,000 --> 00:20:51,360
+Vergleichen Sie uns nicht mit Kinderheim 511.
+
+237
+00:21:05,060 --> 00:21:07,720
+Inge, da geht es nicht zur Toilette.
+
+238
+00:21:08,340 --> 00:21:09,740
+Na komm, meine Kleine.
+
+239
+00:21:12,640 --> 00:21:13,240
+Mama!
+
+240
+00:21:14,340 --> 00:21:16,500
+Nicht weinen, ist doch alles gut.
+
+241
+00:21:16,780 --> 00:21:18,300
+Du brauchst keine Angst zu haben.
+
+242
+00:21:18,740 --> 00:21:21,240
+Na komm, das schaffst du schon allein, oder?
+
+243
+00:21:29,160 --> 00:21:33,060
+Diese Kinder haben keine elterliche Liebe erfahren.
+
+244
+00:21:33,060 --> 00:21:37,100
+Für die Entwicklung eines Kindes sind Liebe und Zuneigung essentiell.
+
+245
+00:21:37,520 --> 00:21:40,920
+In vielen Heimen der DDR ging es über Jahre hinweg schlimm zu.
+
+246
+00:21:41,080 --> 00:21:42,340
+Jedes Heim hatte eine Nummer.
+
+247
+00:21:42,840 --> 00:21:47,220
+Hier in der 47 gaben wir uns jede erdenkliche Mühe, es anders zu machen.
+
+248
+00:21:48,040 --> 00:21:51,480
+Den Kindern nach besten Kräften ein würdiges Zuhause zu geben.
+
+249
+00:21:51,900 --> 00:21:54,540
+Entgegen dem, was der Staat von uns verlangte.
+
+250
+00:21:55,140 --> 00:21:57,940
+Um nie so zu werden wie Kinderheim 511.
+
+251
+00:21:57,940 --> 00:22:04,780
+Offiziell unterstand das Spezialheim sowohl dem Sozial- als auch dem Innenministerium.
+
+252
+00:22:05,460 --> 00:22:06,780
+Wissen Sie, worauf ich hinaus will?
+
+253
+00:22:07,340 --> 00:22:07,720
+Nein.
+
+254
+00:22:08,660 --> 00:22:12,480
 Eigentlich hielt das Innenministerium die Fäden in der Hand.
 
-309
-00:22:12,240 --> 00:22:15,240
-Dort betrieb damals das Regime der DDR
+255
+00:22:13,420 --> 00:22:17,420
+Dort betrieb damals das Regime der DDR ein Versuchslabor.
 
-310
-00:22:15,240 --> 00:22:17,240
-Der DDR. Ein Versuchslabor.
+256
+00:22:27,940 --> 00:22:31,940
+UNTERTITELUNG
 
-311
-00:22:45,240 --> 00:22:48,240
-Untertitel der Amara.org-Community
+257
+00:22:57,940 --> 00:23:27,920
+Untertitelung des ZDF, 2020
 
-312
-00:23:15,240 --> 00:23:18,240
-Untertitel der Amara.org-Community
-
-313
-00:23:45,240 --> 00:23:48,240
-Untertitel der Amara.org-Community
+258
+00:23:27,940 --> 00:23:54,280
+Untertitelung des ZDF, 2020
 

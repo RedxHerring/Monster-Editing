@@ -23,4 +23,6 @@ Style: Names,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:04.64,0:02:09.60,Title,,0,0,0,,{\pos(362,350)\fad(1021,918)}Left Behind
+Dialogue: 0,0:02:04.64,0:02:09.60,Title,,0,0,0,,{\fad(750,750)\pos(360,340)}Left Behind
+Dialogue: 0,0:03:35.59,0:03:38.18,Names,,0,0,20,,{\fad(500,0)\fs24}German Federal Criminal Police Office [BKA]
+Dialogue: 0,0:23:48.99,0:23:53.45,Title,,0,0,0,,{\fad(750,0)\pos(360,340)}Be My Baby

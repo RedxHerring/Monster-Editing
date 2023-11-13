@@ -26,3 +26,5 @@ Style: Names,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:34.92,0:04:39.13,Title,,0,0,0,,{\fad(750,750)\pos(360,340)}Journey to Freiham
+Dialogue: 0,0:05:18.83,0:05:21.16,Names,,0,0,0,,{\fad(500,0)}Bayern State\N(Germany)
+Dialogue: 0,0:23:49.11,0:23:53.58,Title,,0,0,0,,{\fad(1000,0)\pos(360,340)}Happy Holidays

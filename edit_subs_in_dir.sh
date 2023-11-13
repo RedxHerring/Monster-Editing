@@ -24,7 +24,7 @@ for sub in $(find . -type f -name '*.ass'); do
     python ../../find_replace_lines.py "$sub" "Audio File:" ""
     python ../../find_replace_lines.py "$sub" "Video File:" ""
     python ../../find_replace_lines.py "$sub" "PlayResX:" "PlayResX: 720" # using reduced size for compatibility
-    python ../../find_replace_lines.py "$sub" "PlayResY:" "PlayResY: 480" # keep in mind this dramatically changes font scalin since it thinks there is a smaller cnavas than there actually is
+    python ../../find_replace_lines.py "$sub" "PlayResY:" "PlayResY: 480" # keep in mind this dramatically changes font scaling since it thinks there is a smaller cnavas than there actually is
    
     # First reset/remove style lines
     python ../../find_replace_lines.py "$sub" "Style: Title," ""

@@ -1,972 +1,980 @@
 1
-00:00:00,000 --> 00:00:10,000
+00:00:00,000 --> 00:00:09,060
 1986 in Düsseldorf. Hier beginnt der Fall.
 
 2
-00:00:10,000 --> 00:00:16,000
-Wie ist sein Zustand? Blutdruck 72 zu 50, Puls 137.
+00:00:10,240 --> 00:00:11,660
+Wie ist sein Zustand?
 
 3
-00:00:16,000 --> 00:00:19,000
-Die Kugel ist durch die Stirn eingedrungen. Machen Sie eine Röntgenaufnahme.
+00:00:12,160 --> 00:00:15,840
+Blutdruck 72 zu 50, Puls 137.
 
 4
-00:00:19,000 --> 00:00:20,000
-Jawohl.
+00:00:16,180 --> 00:00:19,000
+Die Kugel ist durch die Stirn eingedrungen. Machen Sie eine Röntgenaufnahme.
 
 5
-00:00:20,000 --> 00:00:22,000
-Doktor Tenma!
+00:00:19,700 --> 00:00:20,060
+Jawohl.
 
 6
-00:00:22,000 --> 00:00:23,000
-Wer ist sie?
-
-7
-00:00:23,000 --> 00:00:27,000
-Sie ist die Zwillingsschwester des verletzten Jungen.
-
-8
-00:00:27,000 --> 00:00:29,000
-Was ist mit dir?
-
-9
-00:00:29,000 --> 00:00:31,000
-Tötet ihn.
-
-10
-00:00:44,000 --> 00:00:46,000
+00:00:20,360 --> 00:00:21,160
 Dr. Tenma!
 
+7
+00:00:22,460 --> 00:00:23,240
+Wer ist sie?
+
+8
+00:00:23,720 --> 00:00:26,220
+Sie ist die Zwillingsschwester des verletzten Jungen.
+
+9
+00:00:27,860 --> 00:00:28,960
+Was ist mit ihr?
+
+10
+00:00:29,960 --> 00:00:31,000
+Tötet ihn.
+
 11
-00:00:46,000 --> 00:00:47,000
-Ja?
+00:00:44,680 --> 00:00:45,960
+Dr. Tenma!
 
 12
-00:00:47,000 --> 00:00:49,000
-Sie werden woanders gebraucht.
+00:00:46,360 --> 00:00:46,600
+Ja?
 
 13
-00:00:49,000 --> 00:00:53,000
-Bürgermeister Rodecker hat eine Hirnthrombose erlitten und ist zusammengebrochen.
+00:00:47,300 --> 00:00:48,900
+Sie werden woanders gebraucht.
 
 14
-00:00:53,000 --> 00:00:57,000
-Aber das geht nicht. Ich bereite gerade alles vor, um mit der Operation des Jungen zu beginnen.
+00:00:49,280 --> 00:00:53,100
+Bürgermeister Rodecker hat eine Hirnthrombose erlitten und ist zusammengebrochen.
 
 15
-00:00:57,000 --> 00:01:00,000
-Eine Anweisung des Klinikdirektors.
+00:00:53,180 --> 00:00:57,040
+Aber das geht nicht. Ich bereite gerade alles vor, um mit der Operation des Jungen zu beginnen.
 
 16
-00:01:00,000 --> 00:01:03,000
-Sein Tod käme da äußerst ungelegen.
+00:00:57,880 --> 00:01:00,040
+Eine Anweisung des Klinikdirektors.
 
 17
-00:01:03,000 --> 00:01:05,000
-Das verstehst du doch, mein Junge.
+00:01:00,720 --> 00:01:02,880
+Sein Tod käme da äußerst ungelegen.
 
 18
-00:01:05,000 --> 00:01:08,000
-Ich kann mich auf dich verlassen, oder?
+00:01:03,460 --> 00:01:05,400
+Das verstehst du doch, mein Junge.
 
 19
-00:01:16,000 --> 00:01:19,000
-Also dann, bereiten Sie sich vor, Dr. Tenma.
+00:01:05,680 --> 00:01:07,600
+Ich kann mich auf dich verlassen, oder?
 
 20
-00:01:19,000 --> 00:01:21,000
-Wir verlassen uns alle auf Ihr Genie.
+00:01:16,080 --> 00:01:18,880
+Also dann, bereiten Sie sich vor, Dr. Tenma.
 
 21
-00:01:21,000 --> 00:01:27,280
-Diese Spinner glauben wohl, wir Ärzte würden aus reiner Nächstenliebe arbeiten.
+00:01:19,320 --> 00:01:21,020
+Wir verlassen uns alle auf Ihr Genie.
 
 22
-00:01:27,280 --> 00:01:32,120
-Natürlich retten wir Menschenleben, aber in erster Linie sind wir doch Wissenschaftler.
+00:01:21,020 --> 00:01:27,160
+Diese Spinner glauben wohl, wir Ärzte würden aus reiner Nächstenliebe arbeiten.
 
 23
-00:01:32,120 --> 00:01:34,000
-Oder etwa nicht?
+00:01:28,080 --> 00:01:32,200
+Natürlich retten wir Menschenleben, aber in erster Linie sind wir doch Wissenschaftler.
 
 24
-00:01:34,000 --> 00:01:39,640
-Ich habe auf Anweisung des Klinikdirektors gehandelt und den Opernsänger operiert.
+00:01:32,840 --> 00:01:33,980
+Oder etwa nicht?
 
 25
-00:01:39,640 --> 00:01:40,920
-Es lag nicht in meiner Hand.
+00:01:35,280 --> 00:01:39,620
+Ich habe auf Anweisung des Klinikdirektors gehandelt und den Opernsänger operiert.
 
 26
-00:01:40,920 --> 00:01:43,520
-Selbstverständlich.
+00:01:39,820 --> 00:01:40,920
+Es lag nicht in meiner Hand.
 
 27
-00:01:43,520 --> 00:01:46,720
-Einige Leben sind nun mal wertvoller als andere.
+00:01:43,000 --> 00:01:46,740
+Selbstverständlich. Einige Leben sind nun mal wertvoller als andere.
 
 28
-00:01:46,720 --> 00:01:49,160
+00:01:47,540 --> 00:01:49,140
 Geben Sie mir meinen Mann zurück.
 
 29
-00:01:49,160 --> 00:01:52,960
+00:01:49,620 --> 00:01:53,120
 Wenn Sie ihn operiert hätten, wäre er jetzt noch am Leben.
 
 30
-00:01:53,040 --> 00:01:56,240
-Geben Sie ihn mir zurück! Ich will ihn zurückhaben!
+00:01:53,420 --> 00:01:56,480
+Geben Sie ihn mir zurück. Ich will ihn zurückhaben.
 
 31
-00:02:02,040 --> 00:02:04,040
+00:02:02,140 --> 00:02:03,980
 Was ist mit Ihnen, Dr. Tenma?
 
 32
-00:02:08,240 --> 00:02:09,240
+00:02:08,400 --> 00:02:09,520
 Auf mich wartet.
 
 33
-00:02:10,240 --> 00:02:12,240
+00:02:10,520 --> 00:02:12,600
 Auf mich wartet eine andere Operation.
 
 34
-00:02:16,040 --> 00:02:18,040
-W-w-warten Sie, Dr. Tenma!
+00:02:12,600 --> 00:02:17,920
+Warten Sie, Dr. Tenma!
 
 35
-00:02:18,040 --> 00:02:20,240
+00:02:18,120 --> 00:02:20,220
 Das ist eine Anweisung des Direktors.
 
 36
-00:02:20,240 --> 00:02:22,240
+00:02:20,460 --> 00:02:21,740
 Warten Sie, Dr. Tenma!
 
 37
-00:02:22,240 --> 00:02:24,240
+00:02:22,240 --> 00:02:23,280
 Dr. Tenma!
 
 38
-00:02:28,240 --> 00:02:31,240
+00:02:28,300 --> 00:02:30,640
 Alles wird gut. Haltet euch.
 
 39
-00:02:32,240 --> 00:02:34,240
+00:02:32,220 --> 00:02:33,260
 Ich werde dich retten.
 
 40
-00:03:18,040 --> 00:03:21,040
-Untertitel der Amara.org-Community
+00:02:42,600 --> 00:03:12,580
+Untertitelung des ZDF, 2020
 
 41
-00:03:48,040 --> 00:04:15,040
-Die Narkose wirkt offenbar deutlich länger als erwartet.
+00:03:12,600 --> 00:03:42,580
+Untertitelung des ZDF, 2020
 
 42
-00:04:15,040 --> 00:04:21,040
-Ihre Operation ist offensichtlich geglückt. Der Bürgermeister ist tot.
+00:03:42,600 --> 00:04:11,600
+Blutdruck 120 zu 80, Puls 92, das ist gut.
 
 43
-00:04:22,040 --> 00:04:26,040
-Dr. Tenma widersetzt sich den Anweisungen des Klinikdirektors,
+00:04:12,340 --> 00:04:14,980
+Die Narkose wirkt offenbar deutlich länger als erwartet.
 
 44
-00:04:26,040 --> 00:04:31,040
-wird seines Postens enthoben und seine Verlobung mit Eva wird aufgelöst.
+00:04:16,260 --> 00:04:18,820
+Ihre Operation ist offensichtlich geglückt.
 
 45
-00:04:31,040 --> 00:04:36,040
-Für einen so problematischen Charakter wie du einer bist, ist das nämlich nichts.
+00:04:19,420 --> 00:04:20,880
+Der Bürgermeister ist tot.
 
 46
-00:04:36,040 --> 00:04:41,040
-Den Weg, den du dir ausgemalt hast, deine Karriere, hast du dir selbst verbaut.
+00:04:22,640 --> 00:04:26,320
+Dr. Tenma widersetzt sich den Anweisungen des Klinikdirektors,
 
 47
-00:04:41,040 --> 00:04:48,040
-Vater hat recht. Du bist ein Idiot.
+00:04:26,700 --> 00:04:30,840
+wird seines Postens enthoben und seine Verlobung mit Eva wird aufgelöst.
 
 48
-00:04:48,040 --> 00:04:50,040
-Eva!
+00:04:31,880 --> 00:04:35,720
+Für einen so problematischen Charakter wie du einer bist, ist das nämlich nichts.
 
 49
-00:05:11,040 --> 00:05:13,040
-Verdammte Scheiße!
+00:04:35,720 --> 00:04:40,740
+Den Weg, den du dir ausgemalt hast, deine Karriere, hast du dir selbst verbaut.
 
 50
-00:05:13,040 --> 00:05:15,040
-Soll das ein Witz sein?
+00:04:41,600 --> 00:04:46,700
+Vater hat recht, du bist ein Idiot.
 
 51
-00:05:16,040 --> 00:05:18,040
-Ich glaube, ihr wollt mich verarschen, oder?
+00:04:52,940 --> 00:04:53,540
+Eva!
 
 52
-00:05:18,040 --> 00:05:21,040
-Anweisung vom Direktor, dass ich nicht lache!
+00:05:11,600 --> 00:05:15,200
+Verdammte Scheiße. Soll das ein Witz sein?
 
 53
-00:05:22,040 --> 00:05:25,040
-Diese Geier denken doch alle nur an Geld und Karriere.
+00:05:16,200 --> 00:05:21,760
+Ich glaube, ihr wollt mich verarschen, oder? Anweisung vom Direktor, dass ich nicht lache.
 
 54
-00:05:25,040 --> 00:05:27,040
-Geld und Karriere...
+00:05:22,860 --> 00:05:27,180
+Diese Geier denken doch alle nur an Geld und Karriere. Geld und Karriere.
 
 55
-00:05:27,040 --> 00:05:29,040
-Verdammte Scheiße!
+00:05:28,180 --> 00:05:29,640
+Verdammte Scheiße.
 
 56
-00:05:33,040 --> 00:05:35,040
-Ich... Ich habe...
+00:05:33,640 --> 00:05:38,060
+Ich, ich habe, ich, ich habe nichts falsch gemacht.
 
 57
-00:05:35,040 --> 00:05:38,040
-Ich... Ich habe nichts falsch gemacht.
+00:05:41,600 --> 00:05:49,200
+Ja, bitte?
 
 58
-00:05:41,040 --> 00:05:49,960
-Ja bitte?
-
-59
-00:05:49,960 --> 00:05:52,400
+00:05:49,880 --> 00:05:52,160
 Bitte entschuldigen Sie die Störung so früh am Morgen.
 
+59
+00:05:52,300 --> 00:05:53,440
+Sind Sie Herr Dr. Tenner?
+
 60
-00:05:52,400 --> 00:05:53,400
-Sind Sie Herr Dr.
-
-61
-00:05:53,400 --> 00:05:54,400
-Tenma?
-
-62
-00:05:54,400 --> 00:05:55,400
+00:05:53,700 --> 00:05:54,640
 Wie kann ich helfen?
 
-63
-00:05:55,400 --> 00:05:57,280
+61
+00:05:54,800 --> 00:05:57,180
 Es geht um drei Mitarbeiter der Eisler Gedenkklinik.
 
-64
-00:05:57,280 --> 00:06:01,720
-Direktor Heinemann, Chefarzt Oppenheim und den Leiter der Neurochirurgie, Dr.
+62
+00:05:57,300 --> 00:06:01,700
+Direktor Heinemann, Chefarzt Oppenheim und den Leiter der Neurochirurgie, Dr. Boyer.
 
-65
-00:06:01,720 --> 00:06:02,720
-Beuer.
-
-66
-00:06:02,720 --> 00:06:03,720
+63
+00:06:02,120 --> 00:06:03,640
 Sie wurden tot aufgefunden.
 
+64
+00:06:09,120 --> 00:06:10,880
+Arbeiten Sie nicht mehr etwas über den Fall.
+
+65
+00:06:11,860 --> 00:06:13,700
+Die Zwillinge! Die beiden Kinder!
+
+66
+00:06:14,240 --> 00:06:16,120
+Die Zwillinge! Sie sind verschwunden!
+
 67
-00:06:03,720 --> 00:06:16,720
-Die Zwillinge! Die beiden Kinder! Die Zwillinge! Sie sind verschwunden!
+00:06:24,520 --> 00:06:25,640
+Was geht hier vor?
 
 68
-00:06:24,720 --> 00:06:29,720
-Was geht hier vor? Was soll das alles bedeuten?
+00:06:26,580 --> 00:06:28,900
+Was soll das alles bedeuten?
 
 69
-00:06:33,720 --> 00:06:36,720
-Ich ernenne Sie zum Chef der Chirurgie.
+00:06:34,540 --> 00:06:37,640
+Ich sage es noch einmal, Herr Dr. Tenma.
 
 70
-00:06:41,720 --> 00:06:43,720
-Das Leben ist schon verrückt.
+00:06:38,380 --> 00:06:40,660
+Ich ernenne Sie zum Chef der Chirurgie.
 
 71
-00:06:48,720 --> 00:06:49,720
-Das Leben...
-
-72
-00:06:50,720 --> 00:06:52,720
+00:06:40,880 --> 00:06:47,120
 Das Leben ist schon verrückt.
 
+72
+00:06:47,120 --> 00:06:56,120
+Das Leben, das Leben ist schon verrückt.
+
 73
-00:07:03,720 --> 00:07:26,220
-Nach den Todesfällen von Direktor Heinemann, den anderen beiden Ärzten an der Eisler Gedenkklinik
+00:06:56,120 --> 00:07:09,640
+Kenzo! Bitte warte! Ja, ich habe einen Fehler gemacht!
 
 74
-00:07:26,220 --> 00:07:30,880
-und dem Verschwinden der Zwillinge, kommt es neun Jahre später zu einem weiteren Vorfall.
+00:07:09,640 --> 00:07:14,640
+Wacht! Genso! Genso!
 
 75
-00:07:30,880 --> 00:07:35,880
-Das Monster kommt.
+00:07:19,340 --> 00:07:25,880
+Nach den Todesfällen von Direktor Heinemann, den anderen beiden Ärzten an der Eisler Gedenkklinik
 
 76
-00:07:44,880 --> 00:07:46,880
-Warten Sie, Herr Junkers!
+00:07:25,880 --> 00:07:30,960
+und dem Verschwinden der Zwillinge, kommt es neun Jahre später zu einem weiteren Vorfall.
 
 77
-00:07:48,880 --> 00:07:53,880
-Es ist genau wie damals. Vergiftete Bonbons und ein verschwundener Patient.
+00:07:33,520 --> 00:07:36,380
+Das Monster kommt.
 
 78
-00:07:54,880 --> 00:07:56,880
-Genau wie vor neun Jahren.
+00:07:39,640 --> 00:07:46,680
+Warten Sie, Herr Junkers!
 
 79
-00:07:57,880 --> 00:07:59,880
-Herr Junkers!
+00:07:48,680 --> 00:07:53,900
+Es ist genau wie damals. Vergiftete Bonbons und ein verschwundener Patient.
 
 80
-00:08:00,880 --> 00:08:02,880
-Ich bin's! Doktor Tenma!
+00:07:55,480 --> 00:07:57,380
+Genau wie vor neun Jahren.
 
 81
-00:08:03,880 --> 00:08:06,880
-Herr Doktor! Kommen Sie nicht näher! Herr Doktor!
+00:07:58,900 --> 00:07:59,600
+Herr Junkers!
 
 82
-00:08:12,880 --> 00:08:15,880
-Es ist lange her, Doktor. Ich bin es.
+00:08:01,300 --> 00:08:03,480
+Ich bin's, Dr. Tenma!
 
 83
-00:08:18,880 --> 00:08:22,880
-Vor genau neun Jahren haben Sie mir das Leben gerettet.
+00:08:04,180 --> 00:08:07,080
+Herr Doktor! Kommen Sie nicht näher! Herr Doktor!
 
 84
-00:08:24,880 --> 00:08:28,880
-Sie werden das doch nicht vergessen haben. Die Zwillinge damals.
+00:08:09,640 --> 00:08:16,460
+Es ist lange her, Doktor. Ich bin es.
 
 85
-00:08:30,880 --> 00:08:31,880
-Johann!
+00:08:19,220 --> 00:08:23,360
+Vor genau neun Jahren haben sie mir das Leben gerettet.
 
 86
-00:08:33,880 --> 00:08:38,880
-Der Direktor, der Chef der Chirurgie und der Stationschef starben damals.
+00:08:24,700 --> 00:08:28,920
+Sie werden das doch nicht vergessen haben. Die Zwillinge damals.
 
 87
-00:08:38,880 --> 00:08:40,880
-Gut für Sie, oder nicht?
+00:08:31,180 --> 00:08:31,860
+Johann!
 
 88
-00:08:40,880 --> 00:08:42,880
-Ich finde es wunderbar.
+00:08:33,900 --> 00:08:39,080
+Der Direktor, der Chef der Chirurgie und der Stationschef starben damals.
 
 89
-00:08:43,880 --> 00:08:45,880
-Aber genau das waren Ihre Worte.
+00:08:39,640 --> 00:08:42,540
+Gut für Sie, oder nicht? Ich finde es wunderbar.
 
 90
-00:08:46,880 --> 00:08:48,880
-Das haben Sie sich doch gewünscht.
+00:08:43,760 --> 00:08:48,240
+Aber genau das waren Ihre Worte. Das haben Sie sich doch gewünscht.
 
 91
-00:08:48,880 --> 00:08:52,880
+00:08:48,860 --> 00:08:52,520
 Ich konnte Sie klar und deutlich hören, als ich wieder zu Bewusstsein kam.
 
 92
-00:09:00,880 --> 00:09:04,380
+00:09:00,860 --> 00:09:04,200
 Sie haben sich den Tod dieser drei Männer gewünscht.
 
 93
-00:09:18,380 --> 00:09:21,380
+00:09:09,640 --> 00:09:21,500
 Wissen Sie, ich hätte damals sterben sollen.
 
 94
-00:09:22,380 --> 00:09:25,380
+00:09:22,620 --> 00:09:25,240
 Doch Sie haben mich wieder ins Leben zurückgeholt.
 
 95
-00:09:30,880 --> 00:09:52,880
-Wir versuchen, Ihre Aussage zusammenzufassen.
+00:09:39,640 --> 00:09:52,380
+Versuchen wir, ihre Aussage zusammenzufassen.
 
 96
-00:09:52,880 --> 00:09:55,880
+00:09:53,280 --> 00:09:55,760
 Sein Name ist Johann Liebert.
 
 97
-00:10:01,880 --> 00:10:02,880
+00:10:02,240 --> 00:10:02,840
 Hey.
 
 98
-00:10:02,880 --> 00:10:03,880
+00:10:03,640 --> 00:10:04,240
 Ja?
 
 99
-00:10:03,880 --> 00:10:06,880
+00:10:04,500 --> 00:10:06,780
 Ich denke, wir machen für heute besser Schluss.
 
 100
-00:10:09,880 --> 00:10:16,880
-Der Einzige, der bis heute eine ganze Reihe Vorteil aus den Morden an der Eisler Gedenkklinik ziehen konnte,
+00:10:10,040 --> 00:10:17,060
+Der Einzige, der bis heute eine ganze Reihe Vorteile aus den Morden an der Eisler Gedenkklinik ziehen konnte,
 
 101
-00:10:16,880 --> 00:10:22,880
-... sind Sie, Dr. Tenma.
+00:10:20,380 --> 00:10:23,000
+sind Sie, Dr. Tenma.
 
 102
-00:10:31,880 --> 00:10:33,880
+00:10:31,620 --> 00:10:34,120
 Ich habe ihn ins Leben zurückgeholt.
 
 103
-00:10:34,880 --> 00:10:35,880
-Ich habe...
+00:10:34,120 --> 00:10:38,120
+Ich habe dieses Monster...
 
 104
-00:10:36,880 --> 00:10:37,880
-... dieses Monster...
+00:10:39,640 --> 00:10:43,540
+...ins Leben zurückgeholt.
 
 105
-00:10:41,880 --> 00:10:43,880
-... ins Leben zurückgeholt.
-
-106
-00:10:46,880 --> 00:10:57,560
+00:10:52,520 --> 00:10:57,540
 Morgen an deinem Geburtstag werde ich dich um 19 Uhr auf dem Heidelberger Schloss treffen.
 
-107
-00:10:57,560 --> 00:11:01,760
+106
+00:10:58,780 --> 00:11:01,860
 Morgen auf dem Heidelberger Schloss.
 
+107
+00:11:01,860 --> 00:11:14,780
+Hallo Papa, ich bin's. Ich habe jetzt Feierabend, früher als erwartet und ich würde mich noch kurz...
+
 108
-00:11:01,760 --> 00:11:14,640
-Hallo Papa, ich bin's, ich hab jetzt Feierabend, früher als erwartet und ich würde mich noch
+00:11:14,780 --> 00:11:24,080
+Johans Zwillingsschwester Anna hat nach dem Vorfall vor neun Jahren ihre Erinnerung verloren und lebt in Heidelberg bei Adoptiveltern.
 
 109
-00:11:14,640 --> 00:11:23,640
-Johanns Zwillingsschwester Anna hat nach dem Vorfall vor neun Jahren ihre Erinnerung verloren und lebt in Heidelberg bei Adoptiveltern.
+00:11:24,080 --> 00:11:34,060
+Sie trägt nun den Namen Nina Fortner. An ihrem 20. Geburtstag erhält sie eine anonyme Mail und begibt sich daraufhin zum Heidelberger Schloss.
 
 110
-00:11:24,640 --> 00:11:26,640
-Sie trägt nun den Namen Nina Fortner.
+00:11:45,200 --> 00:11:52,460
+Er hätte längst hier sein müssen. Es ist schon sieben Uhr. Das Ganze war also nur ein Scherz und ich bin drauf reingefallen.
 
 111
-00:11:27,640 --> 00:11:33,640
-An ihrem 20. Geburtstag erhält sie eine anonyme Mail und begibt sich daraufhin zum Heidelberger Schloss.
-
-112
-00:11:44,640 --> 00:11:48,640
-Er hätte längst hier sein müssen. Es ist schon sieben Uhr.
-
-113
-00:11:48,640 --> 00:11:52,640
-Das Ganze war also nur ein Scherz und ich bin drauf reingefallen.
-
-114
-00:11:52,640 --> 00:11:54,640
+00:11:52,460 --> 00:11:54,820
 Nein, das wirst du nicht.
 
-115
-00:11:56,640 --> 00:11:58,640
+112
+00:11:56,360 --> 00:11:58,000
 Du wirst hier warten.
 
-116
-00:11:58,640 --> 00:12:00,640
+113
+00:11:59,100 --> 00:12:00,220
 Du darfst nicht gehen.
 
-117
-00:12:06,640 --> 00:12:08,640
+114
+00:12:06,100 --> 00:12:08,840
 Du sollst hier warten, habe ich gesagt.
 
-118
-00:12:08,640 --> 00:12:10,640
+115
+00:12:09,080 --> 00:12:10,560
 Was verstehst du daran nicht?
 
-119
-00:12:10,640 --> 00:12:15,640
+116
+00:12:12,360 --> 00:12:15,460
 Du sollst hier warten, hast du mich nicht gehört?
 
-120
-00:12:15,640 --> 00:12:20,640
-Exakt so wurde es mir befolgt!
+117
+00:12:17,880 --> 00:12:20,280
+Exakt so wurde es mir befohlen!
 
-121
-00:12:20,640 --> 00:12:28,640
+118
+00:12:22,460 --> 00:12:27,180
 Anna, ich meine, du bist Nina Fortner, hab ich recht?
 
-122
-00:12:28,640 --> 00:12:29,640
-Erinnerst du dich?
+119
+00:12:28,260 --> 00:12:31,280
+Erinnerst du dich? Ich bin Dr. Tenma, der Arzt.
 
-123
-00:12:29,640 --> 00:12:30,640
-Ich bin Dr.
-
-124
-00:12:30,640 --> 00:12:31,640
-Tenma, der Arzt.
-
-125
-00:12:31,640 --> 00:12:34,640
+120
+00:12:31,860 --> 00:12:32,860
 Zum Glück geht es dir gut.
 
-126
-00:12:34,640 --> 00:12:35,640
-Anna, Dr.
+121
+00:12:33,360 --> 00:12:35,860
+Anna, Dr. Tenma.
 
-127
-00:12:35,640 --> 00:12:36,640
-Tenma.
+122
+00:12:36,500 --> 00:12:39,940
+Du stößt mich. Du solltest nicht hier sein.
 
-128
-00:12:36,640 --> 00:12:37,640
-Du störst mich.
+123
+00:12:40,480 --> 00:12:43,100
+Nur sie soll hier warten. Das hat er gesagt.
 
-129
-00:12:37,640 --> 00:12:39,640
-Du solltest nicht hier sein.
+124
+00:12:44,480 --> 00:12:49,100
+Sonst bekomme ich kein Geld!
 
-130
-00:12:39,640 --> 00:12:41,640
-Nur sie soll hier warten.
-
-131
-00:12:41,640 --> 00:12:43,640
-Das hat er gesagt.
-
-132
-00:12:43,640 --> 00:12:45,640
-Sonst...
-
-133
-00:12:45,640 --> 00:12:48,640
-...bekomme ich kein Geld!
-
-134
-00:12:49,640 --> 00:12:52,640
+125
+00:12:49,960 --> 00:12:52,460
 Er hat gesagt, dass niemand kommen wird.
 
-135
-00:12:52,640 --> 00:12:54,640
+126
+00:12:54,780 --> 00:12:55,380
 Verdammt!
 
-136
-00:12:54,640 --> 00:12:55,640
-Halt die Hand!
-
-137
-00:13:05,640 --> 00:13:07,640
+127
+00:13:02,000 --> 00:13:07,620
 Wer hat sie damit beauftragt?
 
-138
-00:13:07,640 --> 00:13:09,640
+128
+00:13:07,920 --> 00:13:09,360
 Das weiß ich nicht.
 
-139
-00:13:09,640 --> 00:13:11,640
+129
+00:13:09,620 --> 00:13:11,680
 Und wann wollte dieser Kerl hier sein?
 
-140
-00:13:11,640 --> 00:13:13,640
+130
+00:13:12,080 --> 00:13:13,900
 Keine Ahnung, das hat er nicht gesagt.
 
-141
-00:13:13,640 --> 00:13:17,640
+131
+00:13:13,900 --> 00:13:17,660
 Er meinte nur, er müsste vorhin noch etwas ausgesprochen Wichtiges erledigen.
 
-142
-00:13:19,640 --> 00:13:21,640
-Oh mein Gott, bei euch zu Hause.
+132
+00:13:19,100 --> 00:13:21,620
+Oh mein Gott. Bei euch zu Hause.
 
-143
-00:13:24,640 --> 00:13:26,640
+133
+00:13:24,620 --> 00:13:26,940
 Wir müssen so schnell es geht zu dir nach Hause.
 
-144
-00:13:26,640 --> 00:13:27,640
+134
+00:13:27,180 --> 00:13:28,220
 Aber wieso denn?
 
-145
-00:13:27,640 --> 00:13:30,640
-Das erkläre ich dir später. Jetzt müssen wir los. Schnell, Anna!
+135
+00:13:28,220 --> 00:13:30,980
+Das erkläre ich dir später. Jetzt müssen wir los. Schnell, Anna.
 
-146
-00:13:31,640 --> 00:13:32,640
+136
+00:13:31,660 --> 00:13:32,140
 Anna?
 
-147
-00:13:32,640 --> 00:13:33,640
-Beeil dich!
+137
+00:13:32,820 --> 00:13:33,220
+Heile!
 
-148
-00:13:54,640 --> 00:14:22,840
-Kommen Sie! Na los! Atmen Sie! Sie sollen atmen!
+138
+00:13:49,100 --> 00:14:18,600
+Komm, sieh. Na los, atmen sie.
 
-149
-00:14:22,840 --> 00:14:24,840
-Komm zurück!
+139
+00:14:19,100 --> 00:14:22,840
+Sie sollen atmen.
 
-150
-00:14:24,840 --> 00:14:26,840
-Bitte komm zurück!
+140
+00:14:24,620 --> 00:14:25,480
+Komm zurück.
 
-151
-00:14:28,840 --> 00:14:30,840
-Komm zurück!
+141
+00:14:26,620 --> 00:14:28,120
+Bitte komm zurück.
 
-152
-00:14:32,840 --> 00:14:34,840
-Damals...
+142
+00:14:30,400 --> 00:14:32,440
+Komm zurück.
 
-153
-00:14:34,840 --> 00:14:36,840
+143
+00:14:34,520 --> 00:14:35,840
+Damals.
+
+144
+00:14:36,940 --> 00:14:40,400
 Ich habe ihn doch...
 
-154
-00:14:36,840 --> 00:14:38,840
+145
+00:14:40,400 --> 00:14:41,320
 ihn getötet.
 
+146
+00:14:46,900 --> 00:14:48,700
+Ich habe meinen Bruder doch damals getötet.
+
+147
+00:14:49,100 --> 00:14:49,260
+Haltet!
+
+148
+00:14:54,720 --> 00:15:01,640
+All diese Menschen, die gut zu uns waren, sie alle, mussten sterben.
+
+149
+00:15:02,280 --> 00:15:06,360
+Aber an jenem Tag verstand ich endlich, warum sie sterben mussten.
+
+150
+00:15:06,940 --> 00:15:08,300
+Da verstand ich endlich.
+
+151
+00:15:09,140 --> 00:15:10,820
+Mein Bruder hat sie erschossen.
+
+152
+00:15:11,900 --> 00:15:14,680
+Er hat sie beide und alle anderen auch.
+
+153
+00:15:14,680 --> 00:15:22,900
+Ich wusste nicht weiter und nahm die Pistole. Und dann zielte ich auf meinen eigenen Bruder.
+
+154
+00:15:24,140 --> 00:15:28,820
+Er lachte nur und sagte, sagte mir ganz ruhig,
+
 155
-00:14:44,840 --> 00:14:46,840
-Ich hab meinen Bruder doch damals getötet!
+00:15:29,600 --> 00:15:33,260
+Vergiss nicht, die Pistole aus dem Fenster zu werfen, wenn du abgedrückt hast.
 
 156
-00:14:52,840 --> 00:15:03,480
-all diese menschen die gut zu uns waren sie alle mussten sterben aber an jenem
+00:15:33,620 --> 00:15:35,800
+Du musst mir genau in den Kopf schießen.
 
 157
-00:15:03,480 --> 00:15:08,320
-tag verstand ich endlich warum sie sterben mussten da verstand ich endlich
+00:15:36,300 --> 00:15:40,040
+Ich habe gezielt und dennoch haben sie, haben sie ihn gerettet.
 
 158
-00:15:08,320 --> 00:15:17,200
-mein bruder hat sie erschossen er hat sie beide und alle anderen auch ich
+00:15:40,040 --> 00:15:49,580
+Hätten sie ihn damals nicht gerettet, dann würden jetzt, dann würden Papa und Mama jetzt noch leben
 
 159
-00:15:17,200 --> 00:15:22,360
-wusste nicht weiter und nahm die pistole und dann zielte ich auf meinen eigenen
+00:15:49,580 --> 00:15:59,660
+Es tut mir leid, ich muss jetzt gehen
 
 160
-00:15:22,360 --> 00:15:31,040
-Bruder. Er lachte nur und sagte, sagte mir ganz ruhig, vergiss nicht die Pistole aus
+00:15:59,660 --> 00:16:01,260
+Ich habe noch einiges zu erledigen
 
 161
-00:15:31,040 --> 00:15:35,960
-dem Fenster zu werfen, wenn du abgedrückt hast. Du musst mir genau in den Kopf schießen.
+00:16:01,260 --> 00:16:04,980
+Na schön, ganz wie du willst
 
 162
-00:15:35,960 --> 00:15:45,440
-Ich habe gezielt und dennoch haben sie, haben sie ihn gerettet. Hätten sie ihn damals nicht
+00:16:04,980 --> 00:16:08,260
+Ich werde der Polizei sagen, dass es deine Krawatte ist
 
 163
-00:15:45,440 --> 00:15:51,240
-gerettet, dann würden jetzt, dann würden Papa und Mama jetzt noch leben!
+00:16:08,260 --> 00:16:09,640
+Alles werde ich sagen
 
 164
-00:15:57,240 --> 00:16:02,560
-Es tut mir leid, ich muss jetzt gehen. Ich habe noch einiges zu erledigen.
+00:16:09,640 --> 00:16:13,360
+Auch dass du vor neun Jahren meinen Vater und die anderen ermordet hast.
 
 165
-00:16:02,560 --> 00:16:08,160
-Na schön, ganz wie du willst! Ich werde der Polizei sagen, dass es deine Krawatte ist!
+00:16:13,660 --> 00:16:15,040
+Das war alles dein Werk.
 
 166
-00:16:08,160 --> 00:16:12,600
-Alles werde ich sagen! Auch, dass du vor neun Jahren meinen Vater und die anderen
-
-167
-00:16:12,600 --> 00:16:14,600
-ermordet hast. Das war alles dein Werk!
-
-168
-00:16:38,600 --> 00:16:40,600
+00:16:15,040 --> 00:16:40,880
 Die Zugänge in jedem Trakt schließen.
 
-169
-00:16:40,600 --> 00:16:42,600
-Die Hintereingänge nicht vergessen!
+167
+00:16:40,880 --> 00:16:42,600
+Die Hintereingänge nicht vergessen.
 
-170
-00:16:42,600 --> 00:16:43,600
+168
+00:16:42,800 --> 00:16:43,460
 Jawohl!
 
-171
-00:16:44,600 --> 00:16:46,600
+169
+00:16:45,040 --> 00:16:47,080
 Wo finde ich Dr. Tenma?
 
-172
-00:16:46,600 --> 00:16:48,600
-Äh, ich weiß es nicht.
+170
+00:16:47,300 --> 00:16:48,620
+Ich weiß es nicht.
 
-173
-00:16:55,600 --> 00:16:57,600
+171
+00:16:56,040 --> 00:16:58,320
 Da scheint ja ganz schön was los zu sein.
 
-174
-00:16:57,600 --> 00:17:01,600
+172
+00:16:58,740 --> 00:17:01,860
 Vor der Klinik stehen eine Menge Polizeiwagen, Herr Dr. Tenma.
 
-175
-00:17:01,600 --> 00:17:04,600
-Ach, ach ja? Erstaunlich, was da wohl los ist.
+173
+00:17:02,400 --> 00:17:05,020
+Ach ja, erstaunlich, was da wohl los ist.
 
-176
-00:17:04,600 --> 00:17:07,600
+174
+00:17:05,560 --> 00:17:07,500
 Sie können mich dann gleich am Bahnhof rauslassen.
 
-177
-00:17:07,600 --> 00:17:11,600
+175
+00:17:08,640 --> 00:17:11,440
 Natürlich. Sie haben wie immer viel zu tun, oder?
 
-178
-00:17:19,600 --> 00:17:22,600
+176
+00:17:15,040 --> 00:17:23,180
 Dr. Tenma, Sie trifft keine Schuld.
 
-179
-00:17:23,600 --> 00:17:26,600
+177
+00:17:23,860 --> 00:17:27,300
 Sie haben getan, wozu Sie sich als Arzt verpflichtet haben.
 
-180
-00:17:27,600 --> 00:17:29,600
+178
+00:17:28,300 --> 00:17:29,560
 Sie trifft keine Schuld.
 
-181
-00:17:31,600 --> 00:17:33,600
+179
+00:17:32,240 --> 00:17:33,640
 Bitte essen Sie die Brötchen.
 
-182
-00:17:33,600 --> 00:17:36,600
+180
+00:17:34,540 --> 00:17:37,320
 Und wenn Sie können, schlafen Sie ein wenig.
 
+181
+00:17:39,220 --> 00:17:40,560
+Das Leben geht weiter.
+
+182
+00:17:41,440 --> 00:17:44,320
+Und Sie werden weiterhin vielen Menschen das Leben retten.
+
 183
-00:17:37,600 --> 00:17:46,600
-Das Leben geht weiter, und sie werden weiterhin vielen Menschen das Leben halten, Nina Fortner.
+00:17:45,640 --> 00:17:46,920
+Nina Fortner.
 
 184
-00:17:47,600 --> 00:17:54,600
-Nina, ich frage mich, was du jetzt vorhast. Willst du ihn ein zweites Mal töten?
+00:17:47,900 --> 00:17:50,800
+Nina, ich frage mich, was du jetzt vorhast.
 
 185
-00:18:07,600 --> 00:18:11,600
-Tenma gilt als Hauptverdächtiger in den Mordfällen.
+00:17:52,080 --> 00:17:54,740
+Willst du ihn ein zweites Mal töten?
 
 186
-00:18:12,600 --> 00:18:16,600
-Dies ist der Anfang einer langen Suche nach Johann.
+00:18:10,380 --> 00:18:13,520
+Tenma gilt als Hauptverdächtiger in den Mordfällen.
 
 187
-00:18:17,600 --> 00:18:21,600
-Wenn ich mich nicht irre, geht's da um den Mord an dem Ehepaar in Verden.
+00:18:15,040 --> 00:18:18,560
+Dies ist der Anfang einer langen Suche nach Johann.
 
 188
-00:18:21,600 --> 00:18:24,600
-Der Täter soll ein Arzt sein, heißt es.
+00:18:20,400 --> 00:18:23,960
+Wenn ich mich nicht irre, geht's da um den Mord an dem Ehepaar in Verden.
 
 189
-00:18:24,600 --> 00:18:27,600
-Was für Zufall, Sie wollen doch auch nach Verden.
+00:18:24,380 --> 00:18:26,680
+Der Täter soll ein Arzt sein, heißt es.
 
 190
-00:18:27,600 --> 00:18:30,600
-Kennen Sie da irgendwen? Haben Sie da Bekannte oder so?
+00:18:27,160 --> 00:18:29,500
+Was für ein Zufall, Sie wollen doch auch nach Verden.
 
 191
-00:18:30,600 --> 00:18:34,600
-So ähnlich, aber ob ich ihn antreffe, weiß ich noch nicht.
+00:18:29,600 --> 00:18:32,180
+Kennen Sie da irgendwen? Haben Sie da Bekannte oder so?
 
 192
-00:18:34,600 --> 00:18:38,600
-Aber ob ich ihn antreffe, weiß ich noch nicht, aber ich fahre erst mal hin.
+00:18:33,040 --> 00:18:36,720
+So ähnlich. Aber ob ich ihn antreffe, weiß ich noch nicht.
 
 193
-00:18:44,600 --> 00:18:48,600
-Sie hatten mich doch vorhin gefragt, ob ich Ihnen etwas zu dem Zwillingspaar sagen kann.
+00:18:37,480 --> 00:18:38,560
+Aber ich fahr erst mal hin.
 
 194
-00:18:49,600 --> 00:18:51,600
-An Johann, den Jungen, erinnere ich mich noch gut.
+00:18:38,560 --> 00:18:49,260
+Sie hatten mich doch vorhin gefragt, ob ich Ihnen etwas zu dem Zwillingspaar sagen kann.
 
 195
-00:18:52,600 --> 00:18:54,600
-Anna und Johann, was wissen Sie über die beiden?
+00:18:49,500 --> 00:18:51,880
+An Johann, den Jungen, erinnere ich mich noch gut.
 
 196
-00:18:56,600 --> 00:18:59,600
-Die Sache unterlag strengster Geheimhaltung.
+00:18:52,420 --> 00:18:55,160
+Anna und Johann, was wissen Sie über die beiden?
 
 197
-00:19:01,600 --> 00:19:03,600
-Johann, was hat der Junge damals getan?
+00:18:56,820 --> 00:19:00,520
+Die Sache unterlag strengster Geheimhaltung.
 
 198
-00:19:04,600 --> 00:19:08,600
-Es gab eine Revolte.
+00:19:01,580 --> 00:19:04,180
+Johann, was hat der Junge damals getan?
 
 199
-00:19:08,600 --> 00:19:11,600
-Sie sind alle umgekommen.
+00:19:04,180 --> 00:19:08,680
+Es gab eine Revolte
 
 200
-00:19:11,600 --> 00:19:15,600
-Alle Personen, die sich zu der Zeit in dem Kinderheim aufhielten, sind umgekommen.
+00:19:08,680 --> 00:19:11,380
+Sie sind alle umgekommen
 
 201
-00:19:15,600 --> 00:19:19,600
-Lehrkräfte und Waisen massakrierten sie.
+00:19:11,380 --> 00:19:15,740
+Alle Personen, die sich zu der Zeit in dem Kinderheim aufhielten, sind umgekommen
 
 202
-00:19:19,600 --> 00:19:22,600
-Das war vor zehn Jahren.
+00:19:15,740 --> 00:19:19,160
+Lehrkräfte und Waisen massakrierten sich
 
 203
-00:19:22,600 --> 00:19:25,600
-Sowohl Lehrkräfte als auch Waisen.
+00:19:19,160 --> 00:19:23,000
+Das war vor zehn Jahren
 
 204
-00:19:25,600 --> 00:19:29,600
-50 Menschen fanden hier ihren Tod.
+00:19:23,000 --> 00:19:25,620
+Sowohl Lehrkräfte als auch Waisen
 
 205
-00:19:29,600 --> 00:19:33,600
-Und Johann hat einfach nur zugesehen.
+00:19:25,620 --> 00:19:29,460
+50 Menschen fanden hier ihren Tod
 
 206
-00:19:33,600 --> 00:19:38,600
-Johann hat einfach nur zugesehen.
+00:19:29,460 --> 00:19:34,280
+Und Johann hat einfach nur zugesehen.
 
 207
-00:19:44,600 --> 00:19:46,600
-Ich habe Johann gefragt,
+00:19:35,660 --> 00:19:39,580
+Johann hat einfach nur zugesehen.
 
 208
-00:19:46,600 --> 00:19:50,600
-Sag mir, was in aller Welt hast du getan?
+00:19:45,180 --> 00:19:51,880
+Ich hab Johann gefragt, sag mir, was in aller Welt hast du getan?
 
 209
-00:19:51,600 --> 00:19:54,600
+00:19:53,060 --> 00:19:55,020
 Und dann hob er seine Hand.
 
 210
-00:19:58,600 --> 00:20:00,600
-Wenn viele Menschen aufeinandertreffen,
+00:20:00,060 --> 00:20:03,280
+Wenn viele Menschen aufeinandertreffen, entsteht Hass.
 
 211
-00:20:00,600 --> 00:20:02,600
-entsteht Hass.
-
-212
-00:20:02,600 --> 00:20:06,600
+00:20:03,860 --> 00:20:07,300
 Ich habe einfach nur ein klein wenig Öl ins Feuer gegossen.
 
+212
+00:20:08,120 --> 00:20:12,200
+Genau so sagt er es. Ein Junge von gerade einmal zehn Jahren.
+
 213
-00:20:06,600 --> 00:20:08,600
-Genau so sagt er es.
-
-214
-00:20:08,600 --> 00:20:11,600
-Ein Junge von gerade einmal zehn Jahren.
-
-215
-00:20:12,600 --> 00:20:15,600
+00:20:13,620 --> 00:20:15,980
 Er allein hat das alles in Gang gesetzt.
 
-216
-00:20:15,600 --> 00:20:17,600
-Nicht einen Finger hat er dafür rühren müssen
+214
+00:20:16,380 --> 00:20:21,440
+Nicht einen Finger hat er dafür rühren müssen und 50 Menschen metzelten einander nieder.
 
-217
-00:20:17,600 --> 00:20:20,600
-und 50 Menschen metzelten einander nieder.
-
-218
-00:20:25,600 --> 00:20:28,600
+215
+00:20:26,700 --> 00:20:29,380
 Johann hat sich das aber überhaupt nicht so gewünscht.
 
+216
+00:20:29,460 --> 00:20:32,700
+Ach nein? Und verrätst du mir auch, was dich da so sicher macht?
+
+217
+00:20:33,100 --> 00:20:34,500
+Ich habe es selbst gesehen.
+
+218
+00:20:34,920 --> 00:20:37,340
+Ich war an dem Ort, den er in einer Botschaft genannt hat.
+
 219
-00:20:28,600 --> 00:20:29,600
-Ach nein?
+00:20:38,740 --> 00:20:40,620
+Johann wollte das alles überhaupt nicht.
 
 220
-00:20:29,600 --> 00:20:31,600
-Und verrätst du mir auch, was dich da so sicher macht?
+00:20:41,640 --> 00:20:44,280
+Und was meinst du dort gesehen zu haben?
 
 221
-00:20:31,600 --> 00:20:36,200
-dich da so sicher macht? Ich habe es selbst gesehen. Ich war an dem Ort, den er in einer
+00:20:46,140 --> 00:20:46,580
+Johann?
 
 222
-00:20:36,200 --> 00:20:43,720
-Botschaft genannt hat. Johann wollte das alles überhaupt nicht. Und? Was meinst du dort gesehen
+00:20:48,040 --> 00:20:50,600
+Ich habe ihnen doch erklärt, dass er das alles nicht wollte.
 
 223
-00:20:43,720 --> 00:20:52,760
-zu haben? Johann. Ich habe ihnen doch erklärt, dass er das alles nicht wollte. Glaub mir, Johann
+00:20:51,560 --> 00:20:54,800
+Glaub mir, Johann ist nicht der Mann, für den ihr ihn alle haltet.
 
 224
-00:20:52,760 --> 00:20:59,000
-ist nicht der Mann, für den ihr ihn alle haltet. Er ist in einer komplizierten Welt gefangen. Diese
+00:20:54,800 --> 00:20:58,080
+Er ist in einer komplizierten Welt gefangen.
 
 225
-00:20:59,000 --> 00:21:04,840
-Welt. Sie ist grausam und schwer zu verstehen. Johan, er ringt ständig mit sich selbst und
+00:20:58,800 --> 00:21:01,540
+Diese Welt, sie ist grausam und schwer zu verstehen.
 
 226
-00:21:04,840 --> 00:21:06,360
-leidet furchtbare Qualen.
+00:21:02,600 --> 00:21:06,280
+Johann, er ringt ständig mit sich selbst und leidet furchtbare Qualen.
 
 227
-00:21:11,040 --> 00:21:12,040
-Denma!
+00:21:10,880 --> 00:21:11,600
+Denmar!
 
 228
-00:21:12,040 --> 00:21:17,960
-Nina! Erschieß ihn nicht, bitte! Das musst du mir ganz fest versprechen!
+00:21:12,320 --> 00:21:15,120
+Nina! Erschieß ihn nicht, bitte!
 
 229
-00:21:17,960 --> 00:21:23,400
-Ich habe von Johan eine Botschaft gelesen. Damals vor zehn Jahren, als ich mit der Waffe
+00:21:15,940 --> 00:21:17,820
+Das musst du mir ganz fest versprechen.
 
 230
-00:21:23,400 --> 00:21:27,960
-auf Johan geschossen habe. Ich weiß jetzt, wieso er damals unbedingt von mir wollte,
+00:21:18,280 --> 00:21:20,240
+Ich habe von Johann eine Botschaft gelesen.
 
 231
-00:21:27,960 --> 00:21:30,460
-dass ich ihm eine Kugel in den Kopf schieße und ihn töte!
+00:21:20,960 --> 00:21:24,580
+Damals vor zehn Jahren, als ich mit der Waffe auf Johann geschossen habe.
 
 232
-00:21:32,660 --> 00:21:34,660
-Es gibt nicht den einen, sondern zwei von ihm!
+00:21:25,060 --> 00:21:27,800
+Ich weiß jetzt, wieso er damals unbedingt von mir wollte,
 
 233
-00:21:41,460 --> 00:21:45,460
-Und deswegen, Dr. Tenma, ja deswegen,
+00:21:27,800 --> 00:21:30,300
+dass ich ihm eine Kugel in den Kopf schieße und ihn töte!
 
 234
-00:21:46,460 --> 00:21:48,460
-ist es nicht Ihre Schuld.
+00:21:32,300 --> 00:21:34,620
+Es gibt nicht den einen, sondern zwei von ihm!
 
 235
-00:21:52,460 --> 00:21:55,460
-Ich muss, ich muss es noch einmal tun.
+00:21:41,100 --> 00:21:43,840
+Und deswegen, Dr. Tenma,
 
 236
-00:21:55,460 --> 00:21:59,460
-Ich muss Johan in den Kopf schießen.
+00:21:44,340 --> 00:21:47,920
+ja, deswegen ist es nicht Ihre Schuld.
 
 237
-00:21:59,460 --> 00:22:05,460
-Zahlreiche Geheimnisse hinterlassend, ist Johan verschwunden.
+00:21:51,960 --> 00:21:55,520
+Ich muss, ich muss es noch einmal tun.
 
 238
-00:22:05,460 --> 00:22:09,460
-Wer ist Johan? Wohin ist er gegangen?
+00:21:55,520 --> 00:21:59,760
+Ich muss Johann in den Kopf schießen.
 
 239
-00:22:09,460 --> 00:22:14,460
-Was ist sein Ziel? Wird Tenma ihn finden?
+00:22:00,420 --> 00:22:05,220
+Zahlreiche Geheimnisse hinterlassend, ist Johann verschwunden.
 
 240
-00:22:14,460 --> 00:22:19,460
-Hilfe! Das Monstrum in mir wird explodieren.
+00:22:06,360 --> 00:22:09,320
+Wer ist Johann? Wohin ist er gegangen?
 
 241
-00:22:19,460 --> 00:22:26,460
-Dann hat Johann also mehrere Persönlichkeiten?
+00:22:10,360 --> 00:22:13,960
+Was ist sein Ziel? Wird Tenma ihn finden?
 
 242
-00:22:49,460 --> 00:22:52,460
-Untertitel der Amara.org-Community
+00:22:15,340 --> 00:22:19,300
+Hilfe! Das Monstrum in mir wird explodieren.
 
 243
-00:23:19,460 --> 00:23:22,460
-Untertitel der Amara.org-Community
+00:22:19,300 --> 00:22:26,240
+Dann hat Johann also mehrere Persönlichkeiten?
+
+244
+00:22:49,300 --> 00:23:19,280
+Untertitelung des ZDF, 2020
+
+245
+00:23:19,300 --> 00:23:37,280
+Untertitelung des ZDF, 2020
 

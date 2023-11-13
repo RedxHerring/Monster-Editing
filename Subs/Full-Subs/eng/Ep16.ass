@@ -24,6 +24,8 @@ Style: Title,Arial,40,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,1
 Style: Titles1,Times New Roman,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,1,2,10,10,40,1
 Style: Names,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,20,1
 
+Style: Episode,Arial,32,&H00FFFFFF,&H000000FF,&H00101010,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,1,2,10,10,40,1
+
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.87,0:00:02.75,Default,,0,0,0,,Help me!
@@ -33,7 +35,7 @@ Dialogue: 0,0:00:13.09,0:00:16.47,Default,,0,0,0,,Tomorrow, they'll start a fire
 Dialogue: 0,0:00:17.05,0:00:21.39,Default,,0,0,0,,They'll burn down the Turkish quarter.
 Dialogue: 0,0:00:22.68,0:00:23.66,Default,,0,0,0,,Help me!
 Dialogue: 0,0:00:24.14,0:00:30.80,Default,,0,0,0,,If you don't hurry, my town... my\Nboy... they'll all be burned!
-Dialogue: 0,0:02:00.26,0:02:04.31,Title,,0,0,0,,{\fad(1000,750)\pos(360,340)}Wolf's Confession
+Dialogue: 0,0:02:00.26,0:02:04.31,Episode,,0,0,0,,{\fad(1000,750)\pos(360,340)}Wolf's Confession
 Dialogue: 0,0:02:01.74,0:02:04.08,Default,,0,0,0,,Hey, where are you going, brat?
 Dialogue: 0,0:02:04.70,0:02:10.55,Default,,0,0,0,,There's no point in having an antique rug\Nlike that unless you know its value.
 Dialogue: 0,0:02:12.88,0:02:15.72,Default,,0,0,0,,Don't glare at me like that. I'm an adult.
@@ -271,4 +273,4 @@ Dialogue: 0,0:21:47.27,0:21:50.29,Default,,0,0,0,,Do you think he'll be able to 
 Dialogue: 0,0:21:50.69,0:21:51.63,Default,,0,0,0,,I don't know,
 Dialogue: 0,0:21:52.31,0:21:56.51,Default,,0,0,0,,but it might not be too late for him.
 Dialogue: 0,0:22:21.47,0:22:23.20,Default,,0,0,0,,What... is this?
-Dialogue: 0,0:23:49.11,0:23:53.52,Title,,0,0,0,,{\fad(1000,0)\pos(360,340)}Reunion
+Dialogue: 0,0:23:49.11,0:23:53.52,Episode,,0,0,0,,{\fad(1000,0)\pos(360,340)}Reunion
