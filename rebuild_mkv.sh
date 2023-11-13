@@ -6,7 +6,7 @@ function get_language() { # input shorthand $lang and get full language name
     elif [[ $1 == "bra" ]]; then
         echo "Brazilian-Portuguese"
     elif [[ $1 == "deu" ]]; then
-        echo "Dutch"
+        echo "German"
     elif [[ $1 == "eng" ]]; then
         echo "English"
     elif [[ $1 == "fre" ]]; then
@@ -46,13 +46,9 @@ echo "Found $Origmkv, will use for high-res video source"
 Origmkv="Orig/$Origmkv"
 vid_name=${Origmkv:5}
 echo "Preparing $vid_name..."
-FREdir='[Community] Monster [MULTI DVDRIP 540p x265 AC3]'
-FREmkv="$FREdir/$(ls "$FREdir" | grep "Monster $epnum")"
-echo "Found $FREmkv, will use for french subtitles"
 
 outmkv="Output/$vid_name"
-ninputs=2 # assume 2 video inputs: 1080p upscaled and french source
-
+ninputs=1 # assume 1 video input: 1080p upscaled
 # Set up inputs.txt, which will contain video and subtitle inputs
 rm -f inputs.txt
 # Set up mappings.txt, which will contain subtitle mappings
@@ -72,6 +68,10 @@ for lang in *; do
         echo "-c:a:$nainputs libvorbis -q:a:0 7" >> $pwd0/mappings.txt
     else
         echo "-c:a:$nainputs libopus -b:a:1 108000" >> $pwd0/mappings.txt
+    fi
+    if [[ "$lang" == "eng" ]]; then
+        iadefault=$nainputs
+        echo "Found default audio track number $iadefault in Audio/$lang/Ep$epnum.flac"
     fi
     echo "-metadata:s:a:$nainputs language=$lang -metadata:s:a:$nainputs title=$(get_language $lang)-Audio" >> $pwd0/outputs.txt
     ninputs=$(expr $ninputs + 1)
@@ -97,7 +97,8 @@ for lang in *; do
         if [[ "$epnum" == "$subepnum" ]]; then # valid episode
             sub_text=$(get_language $lang)
             if [[ "$lang" == "eng" ]] && [[ "$sub" != *"itles"* ]]; then
-                idefault=$nsubs # pick this subs track as default in ffmpeg
+                isdefault=$nsubs # pick this subs track as default in ffmpeg
+                echo "Found default subtitle track number $isdefault in Subs/Full-Subs/$lang/Ep$epnum.flac"
             elif [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
                 sub_text="$sub_text-Titles+Signs"
             elif [[ "$lang" == "jpn" ]] && [[ "$sub" == *"roadcast"* ]]; then
@@ -143,15 +144,17 @@ cd $pwd0
 echo "Adding $nsubs subtitle files"
 
 # Now run actual ffmpeg command
-echo "ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv -i $FREmkv $(cat inputs.txt | xargs echo) \
--map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 1:s -map 0:t -map 1:t  \
+echo "ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv $(cat inputs.txt | xargs echo) \
+-map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 0:t \
 -c:v hevc_qsv -preset veryslow -global_quality:v 21 -look_ahead 1 -scenario:v archive -pix_fmt p010le  -c:s copy -c:t copy \
--map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) -disposition:s:s:$idefault forced $outmkv"
+-map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+-disposition:a:$iadefault forced -disposition:s:$isdefault forced $outmkv"
 # ffmpeg params
-ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i "$Origmkv" -i "$FREmkv" $(cat inputs.txt | xargs echo) \
--map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 1:s -map 0:t -map 1:t  \
+ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i "$Origmkv" $(cat inputs.txt | xargs echo) \
+-map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 0:t \
 -c:v hevc_qsv -preset veryslow -global_quality:v 21 -look_ahead 1 -scenario:v archive -pix_fmt p010le  -c:s copy -c:t copy \
--map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) -disposition:s:s:"$idefault" forced "$outmkv"
+-map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
+-disposition:a:"$iadefault" forced -disposition:s:"$isdefault" forced "$outmkv"
 
 
 # guide for having a bunch of inputs into ffmpeg https://superuser.com/questions/242584/how-to-provide-multiple-input-to-ffmpeg

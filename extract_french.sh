@@ -25,3 +25,5 @@ for vid in "$Fr_dir"/*.mkv; do
     # Now extract new fonts
     ffmpeg -n -loglevel warning -dump_attachment:t "" -i "$vid" -n 
 done
+
+
