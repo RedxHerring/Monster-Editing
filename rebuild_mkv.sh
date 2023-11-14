@@ -96,10 +96,11 @@ for lang in *; do
         subepnum=$(echo $sub | grep -E -o [0-9]{2})
         if [[ "$epnum" == "$subepnum" ]]; then # valid episode
             sub_text=$(get_language $lang)
-            if [[ "$lang" == "eng" ]] && [[ "$sub" != *"itles"* ]]; then
+            if [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
                 isdefault=$nsubs # pick this subs track as default in ffmpeg
-                echo "Found default subtitle track number $isdefault in Subs/Full-Subs/$lang/Ep$epnum.flac"
-            elif [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
+                echo "Found default subtitle track number $isdefault in Subs/Full-Subs/$lang/Ep$epnum.ass"
+            fi
+            if [[ "$lang" == "eng" ]] && [[ "$sub" == *"itles"* ]]; then
                 sub_text="$sub_text-Titles+Signs"
             elif [[ "$lang" == "jpn" ]] && [[ "$sub" == *"roadcast"* ]]; then
                 sub_text="$sub_text-Original_Broadcast"
