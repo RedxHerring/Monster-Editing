@@ -12,6 +12,7 @@ rm -rf gdrive-subs
 
 # Copy the NFLX-Subs as the baseline for the final product
 cp -R NFLX-Subs Full-Subs
+cp -R French-Subs-unedited Full-Subs
 
 # Now loop through Subs-Orig and get the Subs from there. We assume this is from extract_orig_subs.sh, and therefore has predictable filename formatting
 cd Orig-Subs
@@ -22,7 +23,7 @@ for lang in *; do # loop through directories
             echo "Only $nlines lines in $sub, presumed empty, skipping" 
         else
             echo "Moving $sub to Full-Subs/$sub..."
-            cp -f "$sub" "../Full-Subs/$sub"
+            cp -n "$sub" "../Full-Subs/$sub"  # -n since we actually trust NFLX subs more, when they are available
         fi
     done
     # Now move all remaining files along with it, as they might be important font files
