@@ -14,3 +14,4 @@ Blu-Ray/*
 *.log
 Monster-Upscale-Model/*
 *.zip
+!Subs/Full-Subs.zip

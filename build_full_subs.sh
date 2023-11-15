@@ -4,6 +4,7 @@
 # We also assume that we have the netflix subs from the NFLX rip in
 # Subs/NFLX-Subs, per extract_nflx_subs.sh
 
+pwd0=$(pwd)
 cd Subs
 # cleanup, if necessary
 rm -rf Full-Subs
@@ -12,7 +13,7 @@ rm -rf gdrive-subs
 
 # Copy the NFLX-Subs as the baseline for the final product
 cp -R NFLX-Subs Full-Subs
-cp -R French-Subs-unedited Full-Subs
+cp -R French-Subs-unedited/fre Full-Subs/
 
 # Now loop through Subs-Orig and get the Subs from there. We assume this is from extract_orig_subs.sh, and therefore has predictable filename formatting
 cd Orig-Subs
@@ -29,14 +30,13 @@ for lang in *; do # loop through directories
     # Now move all remaining files along with it, as they might be important font files
     cp -n $lang/* ../Full-Subs/$lang/
 done
-cd ../
+cd $pwd0/Subs
 
 # get new custom subs
 mkdir -p gdrive-subs
-# Only one of the following should work, and bash scripts don't end on errors
+# Only one or two of the following should work, and bash scripts don't end on errors
 unzip -q -d gdrive-subs drive-download*.zip
 unzip -q -d gdrive-subs Finalized*.zip
-unzip -q -d gdrive-subs spa-*.zip
 
 # Now loop through the custom subs and replace the nflx subs with them
 cd gdrive-subs
@@ -58,14 +58,17 @@ for lang in *; do # loop through directories
     cp -n $lang/* ../Full-Subs/$lang/
 done
 
-cd ../Full-Subs 
-
-# All subtitles need to be formatted correctly for 1080psh ../../edit_subs_in_dir.sh .
-sh ../../edit_subs_in_dir.sh . 1 # don't edit spanish subs
+cd $pwd0/Subs/Full-Subs 
 
 # Rename any fontfiles with whitespace
-for lang in *; do
+for lang in */; do
+    echo "cd-ing to $lang" 
     cd "$lang"
+    if [[ $lang != "fre/" ]] && [[ $lang != "spa/" ]]; then
+        sh $pwd0/edit_subs_in_dir.sh -d $pwd0/Subs/Full-Subs/$lang -b $pwd0 # All subtitles need to be formatted correctly for 1080p sh edit_subs_in_dir.sh .
+    else
+        echo "Skipping editing for $lang"
+    fi
     for font in *.ttf *.otf; do
         echo "Checking $font" 
         font_nws=${font// /_} # no white space
@@ -88,7 +91,6 @@ rm -r zho
 rm -r jpn
 
 cd ../ # back to Subs/
-rm -r gdrive-subs
 
 zip -r Full-Subs.zip Full-Subs > nul
 rm nul

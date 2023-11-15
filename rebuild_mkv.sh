@@ -65,9 +65,9 @@ for lang in *; do
     echo "-i Audio/$lang/Ep$epnum.flac" >> $pwd0/inputs.txt
     echo "-map $ninputs" >> $pwd0/mappings.txt
     if [[ $lang == "deu" ]]; then # need to use different codec for 5.1
-        echo "-c:a:$nainputs libvorbis -q:a:0 7" >> $pwd0/mappings.txt
+        echo "-c:a:$nainputs libvorbis -q:a:$nainputs 7" >> $pwd0/mappings.txt
     else
-        echo "-c:a:$nainputs libopus -b:a:1 108000" >> $pwd0/mappings.txt
+        echo "-c:a:$nainputs libopus -b:a:$nainputs 108000" >> $pwd0/mappings.txt
     fi
     if [[ "$lang" == "eng" ]]; then
         iadefault=$nainputs
