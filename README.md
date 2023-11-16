@@ -9,10 +9,18 @@ https://downloads.khinsider.com/game-soundtracks/album/monster-original-soundtra
 https://downloads.khinsider.com/game-soundtracks/album/monster-original-soundtrack-2
 
 
-In working with this repository, it is necessary to use ssh authenbtication, which often resets itself in some computers.
-Once you have the key generated and setup, if any issues arise, you need only use this link: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-or simply use these commands
+Once you have the key generated and setup, use the following commands to activate your ssh key in that shell environmnet.
+```bash
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
+```
 
-Use ffmpeg-full-git to use intel arc for gpu-based av1 encoding
+To save the conda environment used for ML transcription and translation, use
+```bash
+conda env export > environment.yml
+```
+
+To reinstall the environment use 
+```bash
+conda install -f environment.yml
+```

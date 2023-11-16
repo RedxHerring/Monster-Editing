@@ -1,10 +1,21 @@
-# Import the required libraries
-import sys
-import fairseq2
-import requests
 
+''' Remember:
+conda activate ipex
+source /opt/intel/oneapi/setvars.sh
+export LD_PRELOAD=/usr/lib/libstdc++.so.6.0.32
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.conda/envs/ipex/lib/python3.11/site-packages/nvidia/cuda_runtime/lib/
+source /etc/profile
+
+https://huggingface.co/facebook/hf-seamless-m4t-large might not be built for cuda only, so there may be hope
+
+'''
+
+# Import the required libraries
+import torch
+from transformers import AutoProcessor, SeamlessM4TModel
+model = SeamlessM4TModel.from_pretrained("facebook/hf-seamless-m4t-large")
 # Define the language codes and the corresponding models
-lang_codes = {"de": "German", "fr": "French", "ja": "Japanese", "en": "English"}
+lang_codes = {"de": "German", "fr": "French", "ja": "Japanese", "en": "English", "s": "Spanish"}
 models = {"de": "meta/seamlessm4t-de-en", 
           "fr": "meta/seamlessm4t-fr-en",
           "ja": "meta/seamlessm4t-ja-en",
@@ -19,20 +30,10 @@ if lang_code not in lang_codes:
     print("Invalid language code. Please use one of these: de, fr, ja, en")
     sys.exit()
 
-# Load the fairseq2 module
-fairseq2 = fairseq2.Fairseq2()
 
-# Load the appropriate model to transcribe or translate the audio file
-model = models[lang_code]
-base_url = "https://api-inference.huggingface.co/models/"
-headers = {"Authorization": f"Bearer {API_TOKEN}"}
-payload = open(audio_file, "rb").read()
-response = requests.post(base_url + model, headers=headers, data=payload)
-response.raise_for_status()
-result = response.json()
-
-# Extract the text from the result
-text = result["text"]
+output_tokens = model.generate(**audio_inputs, tgt_lang="fra", generate_speech=False)
+# S2TT
+translated_text_from_audio = processor.decode(output_tokens[0].tolist(), skip_special_tokens=True)
 
 # Format the text as a subtitle file
 subtitles = ""
