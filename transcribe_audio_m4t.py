@@ -11,15 +11,23 @@ https://huggingface.co/facebook/hf-seamless-m4t-large might not be built for cud
 '''
 
 # Import the required libraries
+import intel_extension_for_pytorch as ipex
+import numpy as np
+import librosa
+import sys
 import torch
 from transformers import AutoProcessor, SeamlessM4TModel
+processor = AutoProcessor.from_pretrained("facebook/hf-seamless-m4t-large")
 model = SeamlessM4TModel.from_pretrained("facebook/hf-seamless-m4t-large")
+
+model = model.to('xpu')
+
 # Define the language codes and the corresponding models
-lang_codes = {"de": "German", "fr": "French", "ja": "Japanese", "en": "English", "s": "Spanish"}
-models = {"de": "meta/seamlessm4t-de-en", 
-          "fr": "meta/seamlessm4t-fr-en",
-          "ja": "meta/seamlessm4t-ja-en",
-          "en": "meta/seamlessm4t-en"}
+lang_codes = {"deu": "German", "fre": "French", "jpn": "Japanese", "eng": "English", "spa": "Spanish"}
+models = {"deu": "meta/seamlessm4t-de-en", 
+          "fre": "meta/seamlessm4t-fr-en",
+          "jpn": "meta/seamlessm4t-ja-en",
+          "eng": "meta/seamlessm4t-en"}
 
 # Get the audio file and the language code as arguments
 audio_file = sys.argv[1]
@@ -30,11 +38,17 @@ if lang_code not in lang_codes:
     print("Invalid language code. Please use one of these: de, fr, ja, en")
     sys.exit()
 
+# from audio
+audio, fs = librosa.load(audio_file, sr=16000)
 
-output_tokens = model.generate(**audio_inputs, tgt_lang="fra", generate_speech=False)
+audio_inputs = processor(audios=audio[0:fs*30], return_tensors="pt") # process 10 seconds
+audio_inputs.to('xpu')
+model = ipex.optimize(model)
+
+output_tokens = model.generate(**audio_inputs, tgt_lang="deu", generate_speech=False)
 # S2TT
-translated_text_from_audio = processor.decode(output_tokens[0].tolist(), skip_special_tokens=True)
-
+translated_text_from_audio = processor.decode(output_tokens[0], skip_special_tokens=True)
+processor.decode()
 # Format the text as a subtitle file
 subtitles = ""
 counter = 1
