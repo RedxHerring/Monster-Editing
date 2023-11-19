@@ -21,7 +21,7 @@ with open(file_name,'r') as file:
     # them in a new variable
     lines = file.readlines()
     lines_out = lines
-    # Loop through lines looking for lines contianing text
+    # Loop through lines looking for lines containing text
     for k,line in enumerate(lines) :
         if line.find("Dialogue:") != -1 :
             line_list = line.split(',')
