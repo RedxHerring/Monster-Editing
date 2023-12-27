@@ -11,11 +11,11 @@ https://huggingface.co/facebook/hf-seamless-m4t-large might not be built for cud
 '''
 
 # Import the required libraries
+import torch
 import intel_extension_for_pytorch as ipex
 import numpy as np
 import librosa
 import sys
-import torch
 from transformers import AutoProcessor, SeamlessM4TForSpeechToText
 
 def transcribe_audio(audio_file,lang_code):

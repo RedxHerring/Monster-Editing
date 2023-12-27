@@ -62,6 +62,9 @@ rm -f outputs.txt
 nainputs=0
 cd Audio
 for lang in *; do
+    if [ ! -f "Audio/$lang/Ep$epnum.flac" ]; then # dub flac not available, might not be a lnaguage dir, ie music instead, etc.
+        continue
+    fi
     echo "-i Audio/$lang/Ep$epnum.flac" >> $pwd0/inputs.txt
     echo "-map $ninputs" >> $pwd0/mappings.txt
     if [[ $lang == "deu" ]]; then # need to use different codec for 5.1
