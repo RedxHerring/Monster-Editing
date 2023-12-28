@@ -51,7 +51,7 @@ Wednesday
 ‎
 
 5
-00:20:54,878 --> 00:20:57,381
+00:20:47,913 --> 00:20:50,415
 <font size="28"> 
 Friday 
 </font> 
@@ -62,7 +62,7 @@ Friday
 ‎
 
 6
-00:22:08,243 --> 00:22:13,248
+00:22:01,278 --> 00:22:06,283
 <font size="20"> 
 Reichwein Psychotherapy Center 
 (Munich) 
@@ -82,7 +82,7 @@ Reichwein Psychotherapy Center
 ‎‎
 
 7
-00:24:41,813 --> 00:24:45,609
+00:24:34,848 --> 00:24:38,643
 <font size="36"><b> 
 The Secret Woods 
 </b></font> 
@@ -91,7 +91,7 @@ The Secret Woods
 ‎‎‎
 
 8
-00:45:08,414 --> 00:45:11,250
+00:44:55,609 --> 00:44:58,445
 <font size="36"><b> 
 Proof 
 </b></font> 
@@ -100,7 +100,7 @@ Proof
 ‎‎‎
 
 9
-01:05:51,864 --> 01:05:55,326
+01:04:57,768 --> 01:05:01,230
 <font size="36"><b> 
 Just One Case 
 </b></font> 
@@ -109,7 +109,7 @@ Just One Case
 ‎‎‎
 
 10
-01:26:33,563 --> 01:26:36,441
+01:25:39,467 --> 01:25:42,345
 <font size="36"><b> 
 Execution 
 </b></font> 

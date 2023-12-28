@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.22.0" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.20.0" root="/mnt/data0/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
  <chain id="producer0" out="00:23:55.264">
   <property name="length">34412</property>
@@ -23,10 +23,10 @@
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">235783631</property>
-  <property name="kdenlive:audio_max0">165</property>
+  <property name="kdenlive:file_size">275574926</property>
+  <property name="kdenlive:file_hash">0f2414ad4846c8f540c72d39f08640dd</property>
+  <property name="kdenlive:audio_max0">197</property>
   <property name="astream">0</property>
-  <property name="kdenlive:file_hash">8d7c3c9dbd67561a92a987172dd56165</property>
  </chain>
  <chain id="producer1" out="00:23:55.430">
   <property name="length">34416</property>
@@ -50,10 +50,10 @@
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">227787318</property>
-  <property name="kdenlive:audio_max0">168</property>
+  <property name="kdenlive:file_size">275599484</property>
+  <property name="kdenlive:file_hash">3c0b87bf73579de075b43663958c9199</property>
+  <property name="kdenlive:audio_max0">211</property>
   <property name="astream">0</property>
-  <property name="kdenlive:file_hash">90448d610fcceacbb9c6a528c90a09bc</property>
  </chain>
  <chain id="producer2" out="00:23:55.555">
   <property name="length">34419</property>
@@ -1347,13 +1347,13 @@
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
   <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
-  <property name="kdenlive:sequenceproperties.position">62725</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">3886553</property>
+  <property name="kdenlive:sequenceproperties.position">32677</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">17979</property>
   <property name="kdenlive:sequenceproperties.tracksCount">5</property>
   <property name="kdenlive:sequenceproperties.videoTarget">-1</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
-  <property name="kdenlive:sequenceproperties.zoneout">62726</property>
-  <property name="kdenlive:sequenceproperties.zoom">0</property>
+  <property name="kdenlive:sequenceproperties.zoneout">75</property>
+  <property name="kdenlive:sequenceproperties.zoom">8</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
@@ -1682,7 +1682,7 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">23.08.4</property>
+  <property name="kdenlive:docproperties.kdenliveversion">23.08.1</property>
   <property name="kdenlive:docproperties.opensequences">{477dff03-a9fa-4d13-b3c4-f015ba3708e6}</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -1710,7 +1710,7 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_9-10_A_Past_Erased_1080p_24fps.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxarch/Videos/Monster/Monster-Editing/Output/Monster_9-10_A_Past_Erased_1080p_24fps.mp4</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.uuid">{477dff03-a9fa-4d13-b3c4-f015ba3708e6}</property>
   <property name="kdenlive:docproperties.version">1.1</property>
@@ -1727,7 +1727,6 @@ p, li { white-space: pre-wrap; }
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">list of dub voice actors: https://www.behindthevoiceactors.com/tv-shows/Monster/&lt;/p>
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></property>
-  <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:23:55.264"/>
   <entry producer="producer1" in="00:00:00.000" out="00:23:55.430"/>
