@@ -48,6 +48,7 @@ mkdir -p Subs/Whisper-Transcribed/$lang
 language=$(get_language $lang)
 for afile in "$1"*.flac; do
     echo "Transcribing $afile into  Subs/Whisper-Transcribed/$lang/"
-    whisper "$afile" --model large-v3 --task transcribe --language $language --beam_size 10 --patience 2   --suppress_tokens "" --condition_on_previous_text False --output_format srt --output_dir Subs/Whisper-Transcribed/$lang/
+    whisper "$afile" --model large-v2 --task transcribe --language $language --beam_size 10 --patience 2   --suppress_tokens "" --condition_on_previous_text False \
+        --word_timestamps True  --hallucination_silence_threshold 2 --output_format srt --output_dir Subs/Whisper-Transcribed/$lang/
 done
 # sudo intel_gpu_top
