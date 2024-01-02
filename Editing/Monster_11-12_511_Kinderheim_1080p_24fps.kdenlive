@@ -250,18 +250,18 @@
  <chain id="producer2" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep11.flac</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep11.wav</property>
   <property name="mlt_service">avformat</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s32</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">48000</property>
   <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 11 : Kinderheim 511</property>
-  <property name="meta.attr.encoder.markup">Lavf60.3.100</property>
+  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
   <property name="seekable">1</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
@@ -277,18 +277,18 @@
  <chain id="producer3" out="00:23:54.805">
   <property name="length">34401</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep12.flac</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep12.wav</property>
   <property name="mlt_service">avformat</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s32</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">48000</property>
   <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
-  <property name="meta.attr.encoder.markup">Lavf60.3.100</property>
+  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
   <property name="seekable">1</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
@@ -534,7 +534,7 @@
     <property name="kdenlive_id">rbpitch</property>
     <property name="pitchscale">0.1</property>
     <property name="stretch">0</property>
-    <property name="latency">95</property>
+    <property name="latency">95.0833</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
    <filter id="filter2" in="00:01:38.080" out="00:01:53.637">
@@ -593,20 +593,20 @@
  <chain id="chain0" out="00:23:54.805">
   <property name="length">34401</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep12.flac</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep12.wav</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s32</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">48000</property>
   <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
-  <property name="meta.attr.encoder.markup">Lavf60.3.100</property>
+  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
@@ -800,6 +800,7 @@
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:30.822"/>
@@ -880,20 +881,20 @@
  <chain id="chain2" out="00:23:55.264">
   <property name="length">34412</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep11.flac</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep11.wav</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s32</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">48000</property>
   <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 11 : Kinderheim 511</property>
-  <property name="meta.attr.encoder.markup">Lavf60.3.100</property>
+  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
@@ -910,20 +911,20 @@
  <chain id="chain3" out="00:23:54.805">
   <property name="length">34401</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep12.flac</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep12.wav</property>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s32</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">48000</property>
   <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 12 : Modest Experiment</property>
-  <property name="meta.attr.encoder.markup">Lavf60.3.100</property>
+  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
@@ -1561,7 +1562,7 @@
   <track hide="audio" producer="playlist8"/>
   <track hide="audio" producer="playlist9"/>
  </tractor>
- <tractor id="tractor5" in="00:00:00.000" out="00:42:07.716">
+ <tractor id="tractor5" in="00:00:00.000" out="01:02:59.017">
   <property name="kdenlive:duration">00:42:07:18</property>
   <property name="kdenlive:maxduration">60605</property>
   <property name="kdenlive:clipname">Sequence 1</property>
@@ -1572,20 +1573,20 @@
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">d836e7a4448d34c67ef9c8eccc9ac35c</property>
   <property name="kdenlive:folderid">6</property>
-  <property name="kdenlive:sequenceproperties.activeTrack">2</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">3</property>
   <property name="kdenlive:sequenceproperties.audioTarget">-1</property>
   <property name="kdenlive:sequenceproperties.disablepreview">0</property>
   <property name="kdenlive:sequenceproperties.documentuuid">{21619e1d-2d2a-4ede-b784-b360cb57d3b4}</property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
   <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
-  <property name="kdenlive:sequenceproperties.position">42004</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">10273</property>
+  <property name="kdenlive:sequenceproperties.position">43235</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">16311</property>
   <property name="kdenlive:sequenceproperties.tracksCount">5</property>
   <property name="kdenlive:sequenceproperties.videoTarget">-1</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
   <property name="kdenlive:sequenceproperties.zoneout">75</property>
-  <property name="kdenlive:sequenceproperties.zoom">10</property>
+  <property name="kdenlive:sequenceproperties.zoom">9</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
@@ -1630,12 +1631,17 @@
     {
         "children": [
             {
-                "data": "3:32519",
+                "data": "3:42530",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:32491",
+                "data": "2:42532",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:42523",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1700,12 +1706,22 @@
     {
         "children": [
             {
-                "data": "1:42523",
+                "data": "3:32519",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:42530",
+                "data": "2:32491",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:39059",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:40044",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1924,8 +1940,8 @@ p, li { white-space: pre-wrap; }
   <entry producer="chain6" in="00:00:00.000" out="00:01:39.998"/>
   <entry producer="tractor5" in="00:00:00.000" out="00:42:07.716"/>
  </playlist>
- <tractor id="tractor6" in="00:00:00.000" out="00:42:07.716">
+ <tractor id="tractor6" in="00:00:00.000" out="00:42:07.758">
   <property name="kdenlive:projectTractor">1</property>
-  <track producer="tractor5" in="00:00:00.000" out="00:42:07.716"/>
+  <track producer="tractor5" in="00:00:00.000" out="00:42:07.758"/>
  </tractor>
 </mlt>

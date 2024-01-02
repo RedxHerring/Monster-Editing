@@ -1,4 +1,4 @@
-name: intel310
+name: monster_intel310
 channels:
   - intel
   - defaults

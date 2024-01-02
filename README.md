@@ -22,5 +22,5 @@ conda env export > environment.yml
 
 To reinstall the environment use 
 ```bash
-conda install -f environment.yml
+conda env create -f environment.yml
 ```

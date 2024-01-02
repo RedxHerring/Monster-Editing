@@ -14,5 +14,10 @@ for vid in "$SEV_dir"/*.mkv; do
     out_name="Ep$epnum"
     echo "Processing video $vid, as $out_name"
     # Japanese first, English second
-    ffmpeg -n -loglevel warning -i "$vid" -map a:0 -c:a flac "$pwd0/Audio/jpn/$out_name.flac" -map a:1 -c:a flac "$pwd0/Audio/eng/$out_name.flac"
+    if [[ "$epnum" == "04" ]]; then # english track is bugged
+        ffmpeg -n -loglevel warning -i "$vid" -map a:0 "$pwd0/Audio/jpn/$out_name.wav"
+        ffmpeg -n -loglevel warning -i "$pwd0/Orig/Monster - Chapter 04 - The Night Of Execution.mkv" -map a:1 "$pwd0/Audio/eng/$out_name.wav"
+    else
+        ffmpeg -n -loglevel warning -i "$vid" -map a:0 "$pwd0/Audio/jpn/$out_name.wav" -map a:1 "$pwd0/Audio/eng/$out_name.wav"
+    fi
 done

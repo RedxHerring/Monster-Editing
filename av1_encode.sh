@@ -8,4 +8,5 @@ for vid in *.mp4; do
 done
 # ffmpeg -init_hw_device qsv=hw -filter_hw_device hw -f rawvideo -pix_fmt yuv420p -s:v 1920x1080 -i Monster_1-4_Murder_and_Execution_1080p_24fps.mp4 -vf hwupload=extra_hw_frames=64,format=qsv -c:v av1_qsv -b:v 5M Monster_1-4_Murder_and_Execution_1080p_24fps_GPU.mkv
 # burn subs using https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo
+# -vf subtitles=../../Subs/Definitive-Subs/Ep01-04.ass
 # https://trac.ffmpeg.org/wiki/Hardware/QuickSync

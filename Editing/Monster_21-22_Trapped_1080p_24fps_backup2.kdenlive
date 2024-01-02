@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.22.0" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.12.0" root="/home/redxarch/Videos/Monster/Monster-Editing/Editing">
  <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
- <chain id="chain4" out="00:23:54.012">
-  <property name="length">34382</property>
+ <producer id="producer3" in="00:00:00.000" out="00:23:55.639">
+  <property name="length">34421</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep21.wav</property>
-  <property name="mlt_service">avformat</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 21 - A Wonderful HolidayLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -15,25 +14,26 @@
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 21 : A Wonderful Holiday</property>
-  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
-  <property name="astream">0</property>
-  <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:originalurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep21.wav</property>
-  <property name="kdenlive:id">2</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_size">275331202</property>
-  <property name="kdenlive:file_hash">14ac92a7b32e48520e8a0be085ed4e14</property>
+  <property name="kdenlive:proxy">-</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 21 - A Wonderful HolidayLR.wav</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">275643606</property>
+  <property name="kdenlive:file_hash">3b9f0176d8ee9e12f3ed8e5c4275bb24</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:audio_max0">168</property>
- </chain>
- <chain id="producer2" out="00:23:55.555">
+  <property name="kdenlive:audio_max0">199</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
-  <property name="mlt_service">avformat</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -43,28 +43,30 @@
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
   <property name="meta.attr.title.markup">Monster : Chapter 22 : Lunge's Trap</property>
-  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:originalurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">275331194</property>
+  <property name="kdenlive:file_size">275623542</property>
+  <property name="kdenlive:file_hash">fc2e921e99e41a758835950708c50578</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:audio_max0">181</property>
-  <property name="astream">0</property>
-  <property name="kdenlive:file_hash">3274ab29ccea1a248ba1d5193c85d5d6</property>
- </chain>
- <chain id="producer0" out="00:23:55.597">
+  <property name="kdenlive:audio_max0">206</property>
+ </producer>
+ <producer id="producer0" in="00:00:00.000" out="00:23:55.597">
   <property name="length">34420</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
-  <property name="mlt_service">avformat-novalidate</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -272,14 +274,15 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:audio_max8">1</property>
- </chain>
- <chain id="producer1" out="00:23:55.555">
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
-  <property name="mlt_service">avformat-novalidate</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -487,177 +490,322 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:audio_max7">1</property>
   <property name="kdenlive:audio_max8">1</property>
- </chain>
- <chain id="chain3" out="00:02:26.777">
-  <property name="length">3520</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack II [2004]/02 - What do I see.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1685</property>
-  <property name="meta.media.1.codec.height">1475</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">What do I see</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack II</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">02/21</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack II</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1685</property>
-  <property name="meta.media.height">1475</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">8</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">16251127</property>
-  <property name="kdenlive:file_hash">19e5f0c28b9766b0f55286b231697a8d</property>
-  <property name="kdenlive:audio_max0">239</property>
- </chain>
- <producer id="producer3" in="00:00:00.000" out="01:05:34.117">
+ </producer>
+ <playlist id="main_bin">
+  <property name="kdenlive:docproperties.activeTrack">2</property>
+  <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.compositing">1</property>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1668365411280</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.externalproxyparams"/>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.groups">[
+    {
+        "children": [
+            {
+                "data": "4:30934",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:30918",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:32104",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:32106",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:30785",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30883",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30908",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:30868",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30927",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30921",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30827",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30915",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30902",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:30890",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:34965",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "5:34933",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:34933",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:52925",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:52943",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:52921",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:52924",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:52958",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:52959",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:45976",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:45976",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:5163",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "3:0",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "4:0",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.guidesCategories">[
+    {
+        "color": "#9b59b6",
+        "comment": "Category 1",
+        "index": 0
+    },
+    {
+        "color": "#3daee9",
+        "comment": "Category 2",
+        "index": 1
+    },
+    {
+        "color": "#1abc9c",
+        "comment": "Category 3",
+        "index": 2
+    },
+    {
+        "color": "#1cdc9a",
+        "comment": "Category 4",
+        "index": 3
+    },
+    {
+        "color": "#c9ce3b",
+        "comment": "Category 5",
+        "index": 4
+    },
+    {
+        "color": "#fdbc4b",
+        "comment": "Category 6",
+        "index": 5
+    },
+    {
+        "color": "#f39c1f",
+        "comment": "Category 7",
+        "index": 6
+    },
+    {
+        "color": "#f47750",
+        "comment": "Category 8",
+        "index": 7
+    },
+    {
+        "color": "#da4453",
+        "comment": "Category 9",
+        "index": 8
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.12.0</property>
+  <property name="kdenlive:docproperties.position">44829</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">/home/redxarch/.local/share/kdenlive/profiles/customprofile0</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
+  <property name="kdenlive:docproperties.rendercustomquality">100</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.rendermode">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderpreview">0</property>
+  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
+  <property name="kdenlive:docproperties.renderratio">0</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">1</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">1</property>
+  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">-1</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxarch/Videos/Monster/Monster-Editing/Output/Monster_21-22_Trapped_1080p_24fps.mp4</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1.04</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">17</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:documentnotes"/>
+  <property name="xml_retain">1</property>
+  <entry producer="producer3" in="00:00:00.000" out="00:23:55.639"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:23:55.555"/>
+  <entry producer="producer0" in="00:00:00.000" out="00:23:55.597"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:23:55.555"/>
+ </playlist>
+ <producer id="black_track" in="00:00:00.000" out="01:05:35.911">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
   <property name="aspect_ratio">1</property>
   <property name="mlt_service">color</property>
-  <property name="kdenlive:playlistid">black_track</property>
   <property name="mlt_image_format">rgba</property>
   <property name="set.test_audio">0</property>
  </producer>
- <chain id="chain0" out="00:02:26.777">
-  <property name="length">3520</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack II [2004]/02 - What do I see.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">8</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">16251127</property>
-  <property name="kdenlive:file_hash">19e5f0c28b9766b0f55286b231697a8d</property>
-  <property name="kdenlive:audio_max0">239</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1685</property>
-  <property name="meta.media.1.codec.height">1475</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">What do I see</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack II</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">02/21</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack II</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1685</property>
-  <property name="meta.media.height">1475</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="set.test_audio">0</property>
-  <property name="set.test_image">1</property>
- </chain>
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:35:52.010"/>
-  <entry producer="chain0" in="00:00:00.000" out="00:02:26.777">
-   <property name="kdenlive:id">8</property>
-   <filter id="filter0">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="level">00:00:00.000=-24;00:00:53.220~=-20.5939;00:00:53.512~=-15.3346;00:00:54.930~=-12;00:00:55.931~=-24.4367</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">volume</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor0" in="00:00:00.000" out="00:38:18.769">
+ <tractor id="tractor0" in="00:00:00.000">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -666,34 +814,35 @@
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist0"/>
   <track hide="video" producer="playlist1"/>
-  <filter id="filter1">
+  <filter id="filter0">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter2">
+  <filter id="filter1">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter3">
+  <filter id="filter2">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <chain id="producer4" out="00:23:55.555">
+ <producer id="producer4" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
-  <property name="mlt_service">avformat-novalidate</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -702,12 +851,12 @@
   <property name="meta.media.0.codec.name">pcm_s16le</property>
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:originalurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
   <property name="kdenlive:id">3</property>
   <property name="kdenlive:file_size">275623542</property>
   <property name="kdenlive:file_hash">fc2e921e99e41a758835950708c50578</property>
@@ -715,15 +864,13 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 22 : Lunge's Trap</property>
-  <property name="astream">0</property>
- </chain>
+ </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:36:45.462"/>
-  <entry producer="producer4" in="00:15:57.391" out="00:15:58.809">
+  <blank length="00:36:47.256"/>
+  <entry producer="producer4" in="00:15:57.391" out="00:15:59.059">
    <property name="kdenlive:id">3</property>
-   <filter id="filter4" in="00:15:57.391" out="00:15:58.308">
+   <filter id="filter3" in="00:15:57.391" out="00:15:58.308">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -732,21 +879,20 @@
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter5" in="00:15:58.684" out="00:15:58.809">
+   <filter id="filter4" in="00:15:58.934" out="00:15:59.059">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
-    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
  <playlist id="playlist3">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor1" in="00:00:00.000" out="00:36:46.880">
+ <tractor id="tractor1" in="00:00:00.000" out="00:36:48.924">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -755,65 +901,35 @@
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist2"/>
   <track hide="video" producer="playlist3"/>
-  <filter id="filter6">
+  <filter id="filter5">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter7">
+  <filter id="filter6">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter8">
+  <filter id="filter7">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <chain id="chain1" out="00:23:54.012">
-  <property name="length">34382</property>
+ <producer id="producer5" in="00:00:00.000" out="00:23:55.639">
+  <property name="length">34421</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep21.wav</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 21 - A Wonderful HolidayLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
-  <property name="astream">0</property>
-  <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:originalurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep21.wav</property>
-  <property name="kdenlive:id">2</property>
-  <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_size">275331202</property>
-  <property name="kdenlive:file_hash">14ac92a7b32e48520e8a0be085ed4e14</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s16le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 21 : A Wonderful Holiday</property>
-  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
-  <property name="xml">was here</property>
   <property name="mute_on_pause">0</property>
-  <property name="set.test_audio">0</property>
-  <property name="set.test_image">1</property>
- </chain>
- <chain id="producer6" out="00:23:55.555">
-  <property name="length">34419</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
   <property name="mlt_service">avformat-novalidate</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -822,12 +938,42 @@
   <property name="meta.media.0.codec.name">pcm_s16le</property>
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:originalurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 21 - A Wonderful HolidayLR.wav</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">275643606</property>
+  <property name="kdenlive:file_hash">3b9f0176d8ee9e12f3ed8e5c4275bb24</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:23:55.555">
+  <property name="length">34419</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1411200</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">1</property>
+  <property name="kdenlive:proxy">-</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
   <property name="kdenlive:id">3</property>
   <property name="kdenlive:file_size">275623542</property>
   <property name="kdenlive:file_hash">fc2e921e99e41a758835950708c50578</property>
@@ -836,14 +982,13 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="meta.attr.title.markup">Monster : Chapter 22 : Lunge's Trap</property>
-  <property name="astream">0</property>
- </chain>
+ </producer>
  <playlist id="playlist4">
   <property name="kdenlive:audio_track">1</property>
   <blank length="00:21:24.024"/>
-  <entry producer="chain1" in="00:21:27.527" out="00:21:32.074">
+  <entry producer="producer5" in="00:21:27.527" out="00:21:32.074">
    <property name="kdenlive:id">2</property>
-   <filter id="filter9" in="00:21:27.527" out="00:21:29.488">
+   <filter id="filter8" in="00:21:27.527" out="00:21:29.488">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -852,7 +997,7 @@
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter10" in="00:21:30.948" out="00:21:32.074">
+   <filter id="filter9" in="00:21:30.948" out="00:21:32.074">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -863,22 +1008,21 @@
    </filter>
   </entry>
   <blank length="00:00:00.959"/>
-  <entry producer="chain1" in="00:21:37.746" out="00:22:27.236">
+  <entry producer="producer5" in="00:21:37.746" out="00:22:27.236">
    <property name="kdenlive:id">2</property>
-   <filter id="filter11" in="00:21:37.746" out="00:21:38.121">
+   <filter id="filter10" in="00:21:37.746" out="00:21:38.121">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadein</property>
     <property name="gain">0</property>
     <property name="end">1</property>
-    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:01:56.139"/>
+  <blank length="00:01:57.933"/>
   <entry producer="producer6" in="00:03:23.982" out="00:11:06.048">
    <property name="kdenlive:id">3</property>
-   <filter id="filter12" in="00:03:23.982" out="00:03:24.441">
+   <filter id="filter11" in="00:03:23.982" out="00:03:24.441">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -891,7 +1035,7 @@
   <blank length="00:04:48.257"/>
   <entry producer="producer6" in="00:15:59.101" out="00:16:00.083">
    <property name="kdenlive:id">3</property>
-   <filter id="filter13" in="00:15:59.101" out="00:15:59.142">
+   <filter id="filter12" in="00:15:59.101" out="00:15:59.142">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -900,7 +1044,7 @@
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter14" in="00:15:59.768" out="00:16:00.083">
+   <filter id="filter13" in="00:15:59.768" out="00:16:00.083">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -909,11 +1053,23 @@
     <property name="end">0</property>
    </filter>
   </entry>
+  <blank length="00:00:00.417"/>
+  <entry producer="producer6" in="00:15:59.851" out="00:23:55.305">
+   <property name="kdenlive:id">3</property>
+   <filter id="filter14" in="00:15:59.851" out="00:16:00.250">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
  </playlist>
  <playlist id="playlist5">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor2" in="00:00:00.000" out="00:36:46.546">
+ <tractor id="tractor2" in="00:00:00.000" out="00:44:44.253">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -943,58 +1099,59 @@
    <property name="disable">1</property>
   </filter>
  </tractor>
- <chain id="chain2" out="00:23:54.012">
-  <property name="length">34382</property>
+ <producer id="producer7" in="00:00:00.000" out="00:23:55.639">
+  <property name="length">34421</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep21.wav</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 21 - A Wonderful HolidayLR.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
-  <property name="astream">0</property>
-  <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:originalurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep21.wav</property>
-  <property name="kdenlive:id">2</property>
-  <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_size">275331202</property>
-  <property name="kdenlive:file_hash">14ac92a7b32e48520e8a0be085ed4e14</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s16le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 21 : A Wonderful Holiday</property>
-  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
-  <property name="xml">was here</property>
   <property name="mute_on_pause">0</property>
-  <property name="set.test_audio">0</property>
-  <property name="set.test_image">1</property>
- </chain>
- <chain id="producer8" out="00:23:55.555">
-  <property name="length">34419</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
   <property name="mlt_service">avformat-novalidate</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
   <property name="meta.media.0.codec.channels">2</property>
   <property name="meta.media.0.codec.name">pcm_s16le</property>
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
+  <property name="meta.media.0.codec.bit_rate">1411200</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:proxy">-</property>
-  <property name="kdenlive:originalurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/eng/Ep22.wav</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 21 - A Wonderful HolidayLR.wav</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">275643606</property>
+  <property name="kdenlive:file_hash">3b9f0176d8ee9e12f3ed8e5c4275bb24</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+  <property name="meta.attr.title.markup">Monster : Chapter 21 : A Wonderful Holiday</property>
+ </producer>
+ <producer id="producer8" in="00:00:00.000" out="00:23:55.555">
+  <property name="length">34419</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">1536000</property>
+  <property name="meta.attr.encoder.markup">Lavf59.27.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">1</property>
+  <property name="kdenlive:proxy">-</property>
+  <property name="kdenlive:originalurl">/home/redxarch/Videos/Monster/Monster-Editing/WAV/Monster - Chapter 22 - Lunge's TrapLR.wav</property>
   <property name="kdenlive:id">3</property>
   <property name="kdenlive:file_size">275623542</property>
   <property name="kdenlive:file_hash">fc2e921e99e41a758835950708c50578</property>
@@ -1002,12 +1159,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.attr.title.markup">Monster : Chapter 22 : Lunge's Trap</property>
-  <property name="astream">0</property>
- </chain>
+ </producer>
  <playlist id="playlist6">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="chain2" in="00:00:00.083" out="00:21:26.735">
+  <entry producer="producer7" in="00:00:00.083" out="00:21:26.735">
    <property name="kdenlive:id">2</property>
    <filter id="filter18" in="00:21:25.108" out="00:21:26.735">
     <property name="window">75</property>
@@ -1020,7 +1175,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.792"/>
-  <entry producer="chain2" in="00:21:31.448" out="00:21:38.080">
+  <entry producer="producer7" in="00:21:31.448" out="00:21:38.080">
    <property name="kdenlive:id">2</property>
    <filter id="filter19" in="00:21:31.448" out="00:21:32.157">
     <property name="window">75</property>
@@ -1033,22 +1188,13 @@
    </filter>
   </entry>
   <blank length="00:00:44.878"/>
-  <entry producer="producer8" in="00:00:00.000" out="00:01:57.516">
+  <entry producer="producer8" in="00:00:00.000" out="00:01:58.267">
    <property name="kdenlive:id">3</property>
-   <filter id="filter20" in="00:01:56.473" out="00:01:57.516">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadeout</property>
-    <property name="gain">1</property>
-    <property name="end">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
-  <blank length="00:07:39.289"/>
+  <blank length="00:07:40.332"/>
   <entry producer="producer8" in="00:11:07.216" out="00:15:57.557">
    <property name="kdenlive:id">3</property>
-   <filter id="filter21" in="00:11:07.216" out="00:11:07.591">
+   <filter id="filter20" in="00:11:07.216" out="00:11:07.591">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1057,34 +1203,20 @@
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter22" in="00:15:56.974" out="00:15:57.557">
+   <filter id="filter21" in="00:15:56.974" out="00:15:57.557">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:00.500"/>
-  <entry producer="producer8" in="00:15:59.518" out="00:23:55.305">
-   <property name="kdenlive:id">3</property>
-   <filter id="filter23" in="00:15:59.518" out="00:15:59.685">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadein</property>
-    <property name="gain">0</property>
-    <property name="end">1</property>
-    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
  <playlist id="playlist7">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor3" in="00:00:00.000" out="00:44:42.459">
+ <tractor id="tractor3" in="00:00:00.000" out="00:36:47.923">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -1093,34 +1225,35 @@
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist6"/>
   <track hide="video" producer="playlist7"/>
-  <filter id="filter24">
+  <filter id="filter22">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter25">
+  <filter id="filter23">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter26">
+  <filter id="filter24">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="dbpeak">1</property>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <chain id="producer9" out="00:23:55.597">
+ <producer id="producer9" in="00:00:00.000" out="00:23:55.597">
   <property name="length">34420</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
-  <property name="mlt_service">avformat-novalidate</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -1331,13 +1464,11 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
- </chain>
+ </producer>
  <producer id="producer10" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -1525,8 +1656,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -1543,13 +1675,11 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
  <producer id="producer11" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -1737,8 +1867,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -1755,13 +1886,11 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
  <producer id="producer12" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -1949,8 +2078,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -1967,13 +2097,11 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
  <producer id="producer13" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -2161,8 +2289,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -2179,13 +2308,11 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
  <producer id="producer14" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -2373,8 +2500,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -2391,13 +2519,11 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
  <producer id="producer15" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -2585,8 +2711,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -2603,13 +2730,11 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
  <producer id="producer16" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="resource">3:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -2797,8 +2922,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 21 - A Wonderful Holiday.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -2815,16 +2941,15 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
- <chain id="producer17" out="00:23:55.555">
+ <producer id="producer17" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
-  <property name="mlt_service">avformat-novalidate</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -3035,13 +3160,11 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
- </chain>
+ </producer>
  <producer id="producer18" in="00:00:00.000" out="00:19:08.425">
   <property name="length">27535</property>
   <property name="eof">pause</property>
-  <property name="resource">1.25:/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
+  <property name="resource">1.25:/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -3229,8 +3352,9 @@
   <property name="format">3</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
   <property name="warp_speed">1.25</property>
-  <property name="warp_resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
+  <property name="warp_resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:multistreams">1</property>
   <property name="set.test_audio">1</property>
@@ -3247,8 +3371,6 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
  </producer>
  <playlist id="playlist8">
   <entry producer="producer9" in="00:00:00.000" out="00:21:25.734">
@@ -3281,21 +3403,20 @@
   <entry producer="producer9" in="00:21:38.330" out="00:22:27.152">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer17" in="00:00:00.000" out="00:01:57.432">
+  <entry producer="producer17" in="00:00:00.000" out="00:01:57.891">
    <property name="kdenlive:id">5</property>
-   <filter id="filter27" in="00:01:56.139" out="00:01:57.432">
+   <filter id="filter25" in="00:01:56.598" out="00:01:57.891">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:01.293=0</property>
-    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:07:39.289"/>
+  <blank length="00:07:40.624"/>
   <entry producer="producer17" in="00:11:07.132" out="00:15:56.932">
    <property name="kdenlive:id">5</property>
-   <filter id="filter28" in="00:11:07.132" out="00:11:08.675">
+   <filter id="filter26" in="00:11:07.132" out="00:11:08.675">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -3315,7 +3436,7 @@
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:44:42.793">
+ <tractor id="tractor4" in="00:00:00.000" out="00:44:44.586">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3324,13 +3445,14 @@
   <track hide="audio" producer="playlist8"/>
   <track hide="audio" producer="playlist9"/>
  </tractor>
- <chain id="producer19" out="00:23:55.555">
+ <producer id="producer19" in="00:00:00.000" out="00:23:55.555">
   <property name="length">34419</property>
   <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
-  <property name="mlt_service">avformat-novalidate</property>
+  <property name="resource">/home/redxarch/Videos/Monster/Monster-Editing/Orig/Monster - Chapter 22 - Lunge's Trap.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">44</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23.976</property>
@@ -3541,14 +3663,12 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
-  <property name="vstream">0</property>
-  <property name="astream">0</property>
- </chain>
+ </producer>
  <playlist id="playlist10">
-  <blank length="00:24:15.224"/>
+  <blank length="00:24:17.017"/>
   <entry producer="producer19" in="00:03:23.899" out="00:11:05.964">
    <property name="kdenlive:id">5</property>
-   <filter id="filter29" in="00:11:04.421" out="00:11:05.964">
+   <filter id="filter27" in="00:11:04.421" out="00:11:05.964">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -3556,18 +3676,10 @@
     <property name="alpha">00:00:00.000=1;00:00:01.543=0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter30" in="00:03:23.899" out="00:03:25.192">
-    <property name="start">1</property>
-    <property name="level">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_from_black</property>
-    <property name="alpha">00:00:00.000=0;00:00:01.293=1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="00:31:57.307">
+ <tractor id="tractor5" in="00:00:00.000" out="00:31:59.101">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3576,233 +3688,8 @@
   <track hide="audio" producer="playlist10"/>
   <track hide="audio" producer="playlist11"/>
  </tractor>
- <tractor id="tractor6" in="00:00:00.000" out="00:44:42.793">
-  <property name="kdenlive:duration">00:44:42:20</property>
-  <property name="kdenlive:maxduration">64323</property>
-  <property name="kdenlive:clipname">Sequence 1</property>
-  <property name="kdenlive:description"/>
-  <property name="kdenlive:uuid">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
-  <property name="kdenlive:producer_type">17</property>
-  <property name="kdenlive:id">7</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_hash">0b1b6fabfed9eccddf8818bc357a4ffc</property>
-  <property name="kdenlive:folderid">6</property>
-  <property name="kdenlive:sequenceproperties.activeTrack">4</property>
-  <property name="kdenlive:sequenceproperties.audioTarget">-1</property>
-  <property name="kdenlive:sequenceproperties.disablepreview">0</property>
-  <property name="kdenlive:sequenceproperties.documentuuid">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
-  <property name="kdenlive:sequenceproperties.hasAudio">1</property>
-  <property name="kdenlive:sequenceproperties.hasVideo">1</property>
-  <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
-  <property name="kdenlive:sequenceproperties.position">52867</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">41809</property>
-  <property name="kdenlive:sequenceproperties.tracksCount">6</property>
-  <property name="kdenlive:sequenceproperties.videoTarget">-1</property>
-  <property name="kdenlive:sequenceproperties.zonein">0</property>
-  <property name="kdenlive:sequenceproperties.zoneout">75</property>
-  <property name="kdenlive:sequenceproperties.zoom">7</property>
-  <property name="kdenlive:sequenceproperties.groups">[
-    {
-        "children": [
-            {
-                "data": "4:30934",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:30918",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:32104",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:32106",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:30785",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30883",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30908",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:30868",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30927",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30921",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30827",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30915",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30902",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:30890",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:45933",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "0:51596",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:45933",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:34922",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "5:34890",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:34890",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:5163",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "3:0",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "4:0",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:52882",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:52900",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:52878",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:52881",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:52916",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:52907",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    }
-]
-</property>
-  <property name="kdenlive:sequenceproperties.guides">[
-]
-</property>
-  <track producer="producer3"/>
+ <tractor id="tractor6" in="00:00:00.000" out="01:05:35.911">
+  <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
   <track producer="tractor2"/>
@@ -3869,150 +3756,25 @@
    <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
-  <filter id="filter31">
+  <filter id="filter28">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter32">
+  <filter id="filter29">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter33">
-   <property name="window">75</property>
-   <property name="max_gain">20dB</property>
-   <property name="mlt_service">volume</property>
-   <property name="internal_added">237</property>
-   <property name="disable">1</property>
-  </filter>
-  <filter id="filter34">
-   <property name="channel">-1</property>
-   <property name="mlt_service">panner</property>
-   <property name="internal_added">237</property>
-   <property name="start">0.5</property>
-   <property name="disable">1</property>
-  </filter>
-  <filter id="filter35">
+  <filter id="filter30">
    <property name="mlt_service">avfilter.subtitles</property>
    <property name="internal_added">237</property>
-   <property name="av.filename">Monster_21-22_Trapped_1080p_24fps.kdenlive.srt</property>
+   <property name="av.filename">/tmp/1668365411280.srt</property>
    <property name="av.force_style">Outline=0,Shadow=1,</property>
   </filter>
- </tractor>
- <playlist id="main_bin">
-  <property name="kdenlive:folder.-1.6">Sequences</property>
-  <property name="kdenlive:docproperties.activetimeline">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
-  <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.browserurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack II [2004]/</property>
-  <property name="kdenlive:docproperties.compositing">1</property>
-  <property name="kdenlive:docproperties.documentid">1668365411280</property>
-  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
-  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
-  <property name="kdenlive:docproperties.enableproxy">0</property>
-  <property name="kdenlive:docproperties.externalproxyparams"/>
-  <property name="kdenlive:docproperties.generateimageproxy">0</property>
-  <property name="kdenlive:docproperties.generateproxy">0</property>
-  <property name="kdenlive:docproperties.guidesCategories">[
-    {
-        "color": "#9b59b6",
-        "comment": "Category 1",
-        "index": 0
-    },
-    {
-        "color": "#3daee9",
-        "comment": "Category 2",
-        "index": 1
-    },
-    {
-        "color": "#1abc9c",
-        "comment": "Category 3",
-        "index": 2
-    },
-    {
-        "color": "#1cdc9a",
-        "comment": "Category 4",
-        "index": 3
-    },
-    {
-        "color": "#c9ce3b",
-        "comment": "Category 5",
-        "index": 4
-    },
-    {
-        "color": "#fdbc4b",
-        "comment": "Category 6",
-        "index": 5
-    },
-    {
-        "color": "#f39c1f",
-        "comment": "Category 7",
-        "index": 6
-    },
-    {
-        "color": "#f47750",
-        "comment": "Category 8",
-        "index": 7
-    },
-    {
-        "color": "#da4453",
-        "comment": "Category 9",
-        "index": 8
-    }
-]
-</property>
-  <property name="kdenlive:docproperties.kdenliveversion">23.08.4</property>
-  <property name="kdenlive:docproperties.opensequences">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
-  <property name="kdenlive:docproperties.previewextension"/>
-  <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">/home/redxarch/.local/share/kdenlive/profiles/customprofile0</property>
-  <property name="kdenlive:docproperties.proxyextension"/>
-  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
-  <property name="kdenlive:docproperties.proxyimagesize">800</property>
-  <property name="kdenlive:docproperties.proxyminsize">1000</property>
-  <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
-  <property name="kdenlive:docproperties.rendercustomquality">100</property>
-  <property name="kdenlive:docproperties.renderendguide">-1</property>
-  <property name="kdenlive:docproperties.renderexportaudio">0</property>
-  <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
-  <property name="kdenlive:docproperties.rendermode">0</property>
-  <property name="kdenlive:docproperties.renderplay">0</property>
-  <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
-  <property name="kdenlive:docproperties.renderratio">0</property>
-  <property name="kdenlive:docproperties.renderrescale">0</property>
-  <property name="kdenlive:docproperties.renderrescaleheight">1</property>
-  <property name="kdenlive:docproperties.renderrescalewidth">1</property>
-  <property name="kdenlive:docproperties.renderspeed">1</property>
-  <property name="kdenlive:docproperties.renderstartguide">-1</property>
-  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
-  <property name="kdenlive:docproperties.rendertctype">-1</property>
-  <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_21-22_Trapped_1080p_24fps.mp4</property>
-  <property name="kdenlive:docproperties.seekOffset">30000</property>
-  <property name="kdenlive:docproperties.uuid">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
-  <property name="kdenlive:docproperties.version">1.1</property>
-  <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.zoom">17</property>
-  <property name="kdenlive:expandedFolders"/>
-  <property name="kdenlive:binZoom">4</property>
-  <property name="kdenlive:documentnotes"/>
-  <property name="xml_retain">1</property>
-  <entry producer="chain4" in="00:00:00.000" out="00:23:54.012"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:23:55.555"/>
-  <entry producer="producer0" in="00:00:00.000" out="00:23:55.597"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:23:55.555"/>
-  <entry producer="chain3" in="00:00:00.000" out="00:02:26.777"/>
-  <entry producer="tractor6" in="00:00:00.000" out="00:44:42.793"/>
- </playlist>
- <tractor id="tractor7" in="00:00:00.000" out="00:44:42.793">
-  <property name="kdenlive:projectTractor">1</property>
-  <track producer="tractor6" in="00:00:00.000" out="00:44:42.793"/>
  </tractor>
 </mlt>

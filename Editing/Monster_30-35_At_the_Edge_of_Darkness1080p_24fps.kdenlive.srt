@@ -8,7 +8,7 @@ Decision
 ‎
 
 2
-00:26:09,067 --> 00:26:13,113
+00:26:04,854 --> 00:26:08,900
 <font size="28"><b> 
 In Broad Daylight 
 </b></font> 
@@ -17,7 +17,7 @@ In Broad Daylight
 ‎
 
 3
-00:44:08,354 --> 00:44:12,066
+00:44:04,141 --> 00:44:07,853
 <font size="28"><b> 
 Sanctuary 
 </b></font> 
@@ -26,7 +26,7 @@ Sanctuary
 ‎
 
 4
-01:03:46,113 --> 01:03:49,492
+01:03:26,886 --> 01:03:30,264
 <font size="28"><b> 
 A Child's View 
 </b></font> 
@@ -35,7 +35,18 @@ A Child's View
 ‎
 
 5
-01:24:46,623 --> 01:24:50,126
+01:04:09,387 --> 01:04:13,057
+<font face="Times New Roman" size="28"> 
+Ralph Ludwich Memorial Hospital 
+</font>
+
+6
+01:18:03,553 --> 01:18:08,517
+<font face="Times New Roman" size="28"> 
+Munich University Library</font>
+
+7
+01:24:27,395 --> 01:24:30,899
 <font size="28"><b> 
 At the Edge of Darkness 
 </b></font> 
@@ -43,14 +54,29 @@ At the Edge of Darkness
 ‎ 
 ‎
 
-6
-01:44:53,495 --> 01:44:57,499
+8
+01:33:05,454 --> 01:33:08,249
+<font face="Times New Roman" size="28"> 
+Carstensen St.
+(Munich)
+‎
+‎
+‎
+‎
+‎
+‎
+‎
+‎
+</font>
+
+9
+01:44:27,010 --> 01:44:31,014
 <font size="18"><b> 
 Munich 
 </b></font>
 
-7
-01:47:47,586 --> 01:47:50,672
+10
+01:47:21,101 --> 01:47:24,187
 <font size="28"><b> 
 A Nameless Hero 
 </b></font> 
