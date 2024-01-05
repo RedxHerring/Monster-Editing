@@ -8,7 +8,7 @@ Decision
 ‎
 
 2
-00:26:04,854 --> 00:26:08,900
+00:25:59,891 --> 00:26:03,937
 <font size="28"><b> 
 In Broad Daylight 
 </b></font> 
@@ -17,7 +17,7 @@ In Broad Daylight
 ‎
 
 3
-00:44:04,141 --> 00:44:07,853
+00:43:54,381 --> 00:43:58,093
 <font size="28"><b> 
 Sanctuary 
 </b></font> 
@@ -26,7 +26,7 @@ Sanctuary
 ‎
 
 4
-01:03:26,886 --> 01:03:30,264
+01:03:15,875 --> 01:03:19,253
 <font size="28"><b> 
 A Child's View 
 </b></font> 
@@ -35,18 +35,91 @@ A Child's View
 ‎
 
 5
-01:04:09,387 --> 01:04:13,057
+01:03:38,606 --> 01:03:42,860
+<font face="Times New Roman" size="28"> 
+"The falling deaths of children...\NIs it suicide or murder?!"
+</font>
+‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎
+
+6
+01:03:44,153 --> 01:03:48,449
+<font face="Times New Roman" size="28"> 
+"The falling deaths of children...\NIs it suicide or murder?!"
+</font>
+‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎
+
+7
+01:03:50,409 --> 01:03:54,997
+<font face="Times New Roman" size="28"> 
+"A fifth victim... Entry Restrictions to\NBuilding Rooftops to be Reinforced!!"
+</font>
+‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎‎ 
+‎ 
+‎
+
+8
+01:03:58,376 --> 01:04:02,046
 <font face="Times New Roman" size="28"> 
 Ralph Ludwich Memorial Hospital 
 </font>
 
-6
-01:18:03,553 --> 01:18:08,517
+9
+01:17:52,542 --> 01:17:57,506
 <font face="Times New Roman" size="28"> 
 Munich University Library</font>
 
-7
-01:24:27,395 --> 01:24:30,899
+10
+01:22:31,446 --> 01:22:37,327
+<font face="Times New Roman" size="28"> 
+"Announcing Mr. Hans Georg Schuwald's Book\NCollection Donation Ceremony and Speech."
+</font>
+‎ 
+‎ 
+‎
+‎ 
+‎ 
+‎
+‎ 
+‎ 
+‎
+‎
+
+11
+01:24:16,384 --> 01:24:19,888
 <font size="28"><b> 
 At the Edge of Darkness 
 </b></font> 
@@ -54,29 +127,29 @@ At the Edge of Darkness
 ‎ 
 ‎
 
-8
-01:33:05,454 --> 01:33:08,249
+12
+01:32:54,443 --> 01:32:57,238
 <font face="Times New Roman" size="28"> 
-Carstensen St.
-(Munich)
-‎
-‎
-‎
-‎
-‎
-‎
-‎
-‎
+Carstensen St. 
+(Munich) 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 </font>
 
-9
-01:44:27,010 --> 01:44:31,014
+13
+01:44:15,999 --> 01:44:20,003
 <font size="18"><b> 
 Munich 
 </b></font>
 
-10
-01:47:21,101 --> 01:47:24,187
+14
+01:47:10,090 --> 01:47:13,176
 <font size="28"><b> 
 A Nameless Hero 
 </b></font> 

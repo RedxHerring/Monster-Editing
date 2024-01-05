@@ -17,6 +17,6 @@ for vid in "$Ger_dir"/*.mpg; do
     out_name="Ep$epnum"
     echo "Processing video $vid, $out_name"
     # German first, Japanese second
-    ffmpeg -n -loglevel warning -i "$vid" -map a:0 -c:a flac "$pwd0/Audio/deu/$out_name.flac"
+    ffmpeg -n -loglevel warning -i "$vid" -map a:0 "$pwd0/Audio/deu/$out_name.wav"
     # Subs are a weird format, so we'll just map them directly whenever we need them
 done
