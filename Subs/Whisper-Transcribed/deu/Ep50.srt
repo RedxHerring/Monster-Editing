@@ -1,13 +1,13 @@
 1
-00:00:00,000 --> 00:00:06,740
+00:00:04,600 --> 00:00:06,740
 Jetzt weiß ich, welches Haus Sie meinen.
 
 2
-00:00:07,180 --> 00:00:09,320
+00:00:07,200 --> 00:00:09,320
 Da müssen Sie immer weiter die Straße hoch.
 
 3
-00:00:10,700 --> 00:00:12,620
+00:00:10,760 --> 00:00:12,600
 Vielen Dank. Auf Wiedersehen.
 
 4
@@ -15,91 +15,91 @@ Vielen Dank. Auf Wiedersehen.
 Gern geschehen.
 
 5
-00:00:30,000 --> 00:00:41,600
+00:00:36,960 --> 00:00:41,580
 Rosen, das erinnert mich an Dornröschen.
 
 6
-00:01:00,000 --> 00:01:29,980
-Untertitelung des ZDF, 2020
+00:01:26,920 --> 00:01:27,320
+* Musik *
 
 7
-00:01:30,000 --> 00:01:59,980
-Untertitelung des ZDF, 2020
+00:02:34,600 --> 00:02:35,160
+"Anna."
 
 8
-00:02:00,000 --> 00:02:29,980
-Untertitelung des ZDF, 2020
+00:02:35,160 --> 00:02:38,560
+"Haben Sie etwas geträumt, Kommissar Sook?"
 
 9
-00:02:30,000 --> 00:02:33,640
-Anna.
+00:02:39,740 --> 00:02:41,520
+"Wer sind Sie?"
 
 10
-00:02:35,320 --> 00:02:38,540
-Haben Sie etwas geträumt? Kommissar Suk?
+00:02:41,520 --> 00:02:42,580
+"Mein Name ist Runge.
 
 11
-00:02:39,660 --> 00:02:41,120
-Wer sind Sie?
+00:02:43,020 --> 00:02:45,400
+Ich bin Kommissar beim Deutschen Bundeskriminalamt."
 
 12
-00:02:41,620 --> 00:02:45,640
-Mein Name ist Runge. Ich bin Kommissar beim Deutschen Bundeskriminalamt.
+00:02:46,000 --> 00:02:47,780
+"Sie sind vom BKA?"
 
 13
-00:02:46,340 --> 00:02:47,320
-Sie sind vom BKA?
+00:02:47,780 --> 00:02:50,300
+"Na, ich bitte Sie, bleiben Sie liegen.
 
 14
-00:02:48,440 --> 00:02:54,720
-Ich bitte Sie, bleiben Sie liegen. Sie brauchen sich keine Sorgen zu machen. Ich bin nicht gekommen, um Sie zu verhaften.
+00:02:50,740 --> 00:02:52,540
+Sie brauchen sich keine Sorgen zu machen.
 
 15
-00:02:54,720 --> 00:03:00,880
-Sie haben ein schönes Zimmer bekommen
+00:02:52,720 --> 00:02:54,440
+Ich bin nicht gekommen, um Sie zu verhaften."
 
 16
-00:03:00,880 --> 00:03:07,280
-Ich habe nach Kliniken gesucht, die der ehemaligen tschechoslowakischen Staatssicherheit nahestanden
+00:02:58,400 --> 00:03:00,840
+Sie haben ein schönes Zimmer bekommen.
 
 17
-00:03:07,280 --> 00:03:09,240
-Und bin schließlich auf diese gestoßen
+00:03:02,120 --> 00:03:09,220
+Ich habe nach Kliniken gesucht, die der ehemaligen tschechoslowakischen Staatssicherheit nahestanden und bin schließlich auf diese gestoßen.
 
 18
-00:03:09,240 --> 00:03:16,280
-So wie Sie hier untergebracht werden, scheinen Sie für gewisse Leute eine Person von enormer Wichtigkeit zu sein
+00:03:09,820 --> 00:03:16,280
+So wie Sie hier untergebracht werden, scheinen Sie für gewisse Leute eine Person von enormer Wichtigkeit zu sein.
 
 19
-00:03:16,280 --> 00:03:18,480
-Nein, ich, ich bin doch bloß...
+00:03:16,560 --> 00:03:18,480
+Nein, ich... ich bin doch bloß...
 
 20
-00:03:18,480 --> 00:03:21,520
-Geben Sie sich bitte keine Mühe, ich kenne Ihre Geschichte
+00:03:18,480 --> 00:03:21,480
+Geben Sie sich bitte keine Mühe. Ich kenne Ihre Geschichte.
 
 21
-00:03:21,520 --> 00:03:26,180
-Ihr Vorgesetzter Seemann, der mit der Stasi unter einer Decke steckte, wurde erschlagen.
+00:03:21,480 --> 00:03:26,160
+Ihr vorgesetzter Seemann, der mit der Stasi unter einer Decke steckte, wurde erschlagen.
 
 22
-00:03:26,460 --> 00:03:30,640
+00:03:26,480 --> 00:03:30,640
 Der Prager Polizeidirektor und zwei Kommissare wurden vergiftet.
 
 23
-00:03:31,660 --> 00:03:35,360
-Und zwei Ermittler, die sie observieren sollten, wurden erschossen aufgefunden.
+00:03:31,700 --> 00:03:35,320
+Und zwei Ermittler, die sie observieren sollten, wurden erschossen und aufgefunden.
 
 24
-00:03:36,500 --> 00:03:40,640
+00:03:36,480 --> 00:03:40,640
 Und in allen Fällen gibt es einen Hauptzeugen, der gesucht wird.
 
 25
 00:03:40,720 --> 00:03:43,100
-Und diese Hauptzeuge sind Sie.
+Und dieser Hauptzeuge sind Sie.
 
 26
-00:03:43,960 --> 00:03:48,180
+00:03:44,000 --> 00:03:48,180
 Hinzu kommt, dass die Indizien eindeutig auf Sie als Täter hinweisen.
 
 27
@@ -107,858 +107,950 @@ Hinzu kommt, dass die Indizien eindeutig auf Sie als Täter hinweisen.
 Nein, ich war es nicht. Ich habe damit nichts zu tun.
 
 28
-00:03:51,520 --> 00:03:56,800
-Dann muss es also dieser große Mann gewesen sein, den Seemann am Tag vor seiner Ermordung verhört hat.
+00:03:51,540 --> 00:03:54,160
+Dann muss es also dieser große Mann gewesen sein,
 
 29
-00:03:56,940 --> 00:03:57,900
-Grimma heißt er.
+00:03:54,240 --> 00:03:56,800
+den Seemann am Tag vor seiner Ermordung verhört hat.
 
 30
-00:03:58,080 --> 00:04:01,960
-Nein, er war es auch nicht. So etwas würde er nie tun, da bin ich mir sicher.
+00:03:56,940 --> 00:03:57,880
+Grimmer heißt er.
 
 31
-00:04:02,060 --> 00:04:03,500
-Wer ist dann der Täter?
+00:03:58,080 --> 00:04:01,000
+Nein, er war es auch nicht. So etwas würde er nie tun.
 
 32
-00:04:05,800 --> 00:04:07,360
-Sie wissen, wer es war.
+00:04:01,100 --> 00:04:03,460
+-Da bin ich mir sicher. -Wer ist dann der Täter?
 
 33
-00:04:08,400 --> 00:04:10,700
-Sie wissen, wer der Täter ist, habe ich recht?
+00:04:05,800 --> 00:04:07,340
+Sie wissen, wer es war.
 
 34
-00:04:13,420 --> 00:04:16,060
-Ich, ähm, wie kommen Sie denn darauf?
+00:04:08,400 --> 00:04:10,700
+Sie wissen, wer der Täter ist. Habe ich recht?
 
 35
-00:04:16,620 --> 00:04:18,720
-Wenn ich es wüsste, wäre mir das alles nicht passiert.
+00:04:13,880 --> 00:04:16,060
+Ich, ähm... Wie kommen Sie denn darauf?
 
 36
-00:04:19,700 --> 00:04:21,980
-Ich wurde von vielen Menschen hintergangen.
+00:04:16,060 --> 00:04:18,720
+Wenn ich es wüsste, wäre mir das alles nicht passiert.
 
 37
-00:04:22,720 --> 00:04:26,920
-Die haben es geschafft, mich als Täter hinzustellen und nun werde ich von der Polizei gesucht.
+00:04:19,740 --> 00:04:21,960
+Ich wurde von vielen Menschen hintergangen.
 
 38
-00:04:27,660 --> 00:04:31,480
-Ich habe es sowas von satt. Ich will nie wieder von jemandem hintergangen werden.
+00:04:22,700 --> 00:04:24,980
+Die haben es geschafft, mich als Täter hinzustellen,
 
 39
-00:04:33,080 --> 00:04:35,060
-Sie sind doch ein Kommissar.
+00:04:25,100 --> 00:04:26,920
+und nun werde ich von der Polizei gesucht.
 
 40
-00:04:37,200 --> 00:04:41,720
-Als Kommissar müssen Sie in der Lage sein, alles kühl und besonnen anzugehen.
+00:04:27,440 --> 00:04:29,020
+Ich habe es sowas von satt.
 
 41
-00:04:42,980 --> 00:04:45,560
-Sie müssen die Wahrheit kühl und nüchtern ans Licht bringen.
+00:04:29,260 --> 00:04:31,480
+Ich will nie wieder von jemandem hintergangen werden.
 
 42
-00:04:46,020 --> 00:04:49,040
-Auch wenn es vielleicht nicht immer erfreulich ist, aber das gehört dazu.
+00:04:33,360 --> 00:04:35,060
+Sie sind doch ein Kommissar.
 
 43
-00:04:52,880 --> 00:04:56,780
-Sie sagten gerade, Sie wollen nie wieder von jemandem hintergangen werden.
+00:04:37,580 --> 00:04:40,180
+Als Kommissar müssen Sie in der Lage sein,
 
 44
-00:04:57,960 --> 00:05:01,300
-Sie müssen jeden verdächtigen, auch wenn er noch so unverdächtig erscheint.
+00:04:40,340 --> 00:04:42,280
+alles kühl und besonnen anzugehen.
 
 45
-00:05:11,300 --> 00:05:13,800
-Wer hat Ihnen erlaubt, da reinzugehen?
+00:04:42,960 --> 00:04:45,560
+Sie müssen die Wahrheit kühl und nüchtern ans Licht bringen.
 
 46
-00:05:15,560 --> 00:05:23,500
-Bringen Sie mich zu Ihrem Boss.
+00:04:46,060 --> 00:04:47,920
+auch wenn es vielleicht nicht immer erfreulich ist,
 
 47
-00:05:25,300 --> 00:05:28,520
-Es geht um das Haus der Roten Rosen, sagen Sie ihm das.
+00:04:48,020 --> 00:04:49,080
+aber das gehört dazu.
 
 48
-00:05:29,300 --> 00:05:31,420
-Wenn er das hört, wird er mich treffen wollen.
+00:04:52,860 --> 00:04:54,140
+Sie sagten gerade,
 
 49
-00:05:36,620 --> 00:05:39,280
-Kommissar Runge vom Deutschen Bundeskriminalamt.
+00:04:54,240 --> 00:04:56,800
+Sie wollen nie wieder von jemandem hintergangen werden.
 
 50
-00:05:39,540 --> 00:05:42,340
-Ich habe mich erkundigt über Sie und Ihre Vergangenheit.
+00:04:57,980 --> 00:04:59,380
+Sie müssen jeden verdächtigen,
 
 51
-00:05:43,160 --> 00:05:47,700
-Auch ich habe mich informiert über Ihre Tätigkeiten im alten System, Oberst Ranke.
+00:04:59,460 --> 00:05:01,320
+auch wenn er noch so unverdächtig erscheint.
 
 52
-00:05:48,200 --> 00:05:53,060
-Kein Geringerer als Sie hatte die Befehlsgewalt in der tschechoslowakischen Staatssicherheit.
+00:05:11,500 --> 00:05:13,800
+Wer hat Ihnen erlaubt, da reinzugehen?
 
 53
-00:05:53,580 --> 00:05:57,520
-Ich kann mir vorstellen, dass das eine anstrengende und herausfordernde Position ist.
+00:05:21,980 --> 00:05:23,520
+Bringen Sie mich zu Ihrem Boss.
 
 54
-00:05:57,760 --> 00:05:59,440
-Danke, machen Sie sich keine Sorgen.
+00:05:25,320 --> 00:05:28,520
+Es geht um das Haus der Roten Rosen, sagen Sie ihm das.
 
 55
-00:06:00,020 --> 00:06:03,960
-Ich gebe zu, es macht mich ein bisschen neidisch, dass Sie so lange Urlaub nehmen können.
+00:05:29,320 --> 00:05:31,440
+Wenn er das hört, wird er mich treffen wollen.
 
 56
-00:06:05,420 --> 00:06:11,180
-Vor etwa zwei Jahren sollen Sie angeblich den Sekretär des Abgeordneten Boltzmann
+00:05:36,740 --> 00:05:39,260
+Kommissar Runge vom Deutschen Bundeskriminalamt.
 
 57
-00:06:11,180 --> 00:06:15,220
-mit ihren aggressiven Ermittlungsmethoden in den Selbstmord getrieben haben.
+00:05:39,540 --> 00:05:42,320
+Ich habe mich erkundigt über Sie und Ihre Vergangenheit.
 
 58
-00:06:15,820 --> 00:06:18,920
-Man muss sich eben zu helfen wissen und geschickt agieren können.
+00:05:42,920 --> 00:05:47,700
+Auch ich habe mich informiert über Ihre Tätigkeiten im alten System, Oberst Ranke.
 
 59
-00:06:19,680 --> 00:06:22,020
-Ehrlich gesagt, hätte ich Ihnen mehr zugetraut.
+00:05:48,240 --> 00:05:53,060
+Kein Geringerer als Sie hatte die Befehlsgewalt in der tschechoslowakischen Staatssicherheit.
 
 60
-00:06:24,140 --> 00:06:26,900
-Sie haben taktisch nicht besonders klug gehandelt.
+00:05:53,620 --> 00:05:57,540
+Ich kann mir vorstellen, dass das eine anstrengende und herausfordernde Position ist.
 
 61
-00:06:27,080 --> 00:06:31,120
-Denn hätten Sie im Zuge der Demokratisierung weniger hart durchgegriffen,
+00:05:57,760 --> 00:06:02,160
+Danke, machen Sie sich keine Sorgen. Ich gebe zu, es macht mich ein bisschen neidisch,
 
 62
-00:06:31,300 --> 00:06:34,100
-wären Sie jetzt wahrscheinlich der heimliche Präsident des Landes.
+00:06:02,280 --> 00:06:08,920
+dass Sie so lange Urlaub nehmen können. Vor etwa zwei Jahren sollen Sie angeblich
 
 63
-00:06:34,100 --> 00:06:38,660
-Aber die Zeiten, in denen das Volk Angst vor Ihnen hatte, sind längst vorbei.
+00:06:08,920 --> 00:06:13,540
+den Sekretär des Abgeordneten Boltzmann mit ihren aggressiven Ermittlungsmethoden in
 
 64
-00:06:41,180 --> 00:06:45,640
-Ohne Zweifel. Ein scharfer Verstand.
+00:06:13,540 --> 00:06:18,520
+den Selbstmord getrieben haben. Man muss sich eben zu helfen wissen und geschickt agieren
 
 65
-00:06:46,180 --> 00:06:49,440
-Und gerade deswegen frage ich mich, was Sie von mir wollen.
+00:06:18,520 --> 00:06:22,020
+können. Ehrlich gesagt, hätte ich ihn mehr zugetraut.
 
 66
-00:06:49,900 --> 00:06:55,160
-Na ja, wie Sie bereits wissen, besteht mein ausgedehnter Urlaub nicht nur aus Freizeit und Vergnügen.
+00:06:23,800 --> 00:06:29,340
+Sie haben taktisch nicht besonders klug gehandelt, denn hätten Sie im Zuge der Demokratisierung
 
 67
-00:06:56,600 --> 00:06:58,300
-Ich bin auf der Suche nach etwas.
+00:06:29,340 --> 00:06:33,760
+weniger hart durchgegriffen, wären Sie jetzt wahrscheinlich der heimliche Präsident des
 
 68
-00:06:59,960 --> 00:07:02,640
-Ich bin auf der Suche nach dem Ursprung des Bösen.
+00:06:33,760 --> 00:06:38,680
+Aber die Zeiten, in denen das Volk Angst vor ihnen hatte, sind längst vorbei.
 
 69
-00:07:05,000 --> 00:07:10,460
-Ich versuche herauszufinden, ob aus dem Trugbild, das Sie und Ihre Leute erschaffen haben,
+00:06:43,080 --> 00:06:45,620
+Ohne Zweifel, mein scharfer Verstand.
 
 70
-00:07:10,460 --> 00:07:17,220
-ein dämon entstanden sein könnte so und das bringt sie zu dem haus der roten rosen
+00:06:46,160 --> 00:06:49,440
+Und gerade deswegen frage ich mich, was Sie von mir wollen.
 
 71
-00:07:17,220 --> 00:07:28,220
-es hat mich einiges an zeit und mühe gekostet dieses haus zu finden unter anderem weil der
+00:06:49,920 --> 00:06:55,160
+Naja, wie Sie bereits wissen, besteht mein ausgedehnter Urlaub nicht nur aus Freizeit und Vergnügen.
 
 72
-00:07:28,220 --> 00:07:35,180
-autor dieses buches jede menge pseudonyme benutzt das monster ohne namen geschrieben von emil
+00:06:56,640 --> 00:06:58,280
+Ich bin auf der Suche nach etwas.
 
 73
-00:07:35,180 --> 00:07:41,680
-scherbe unter seiner anschrift in der prager innenstadt findet man eine firma
+00:06:59,940 --> 00:07:02,640
+Ich bin auf der Suche nach dem Ursprung des Bösen.
 
 74
-00:07:41,680 --> 00:07:46,340
-als klaus poppe war er in einem bauernhaus außerhalb von prag gemeldet
+00:07:05,000 --> 00:07:07,970
+Ich versuche herauszufinden, ob aus dem Trugbild,
 
 75
-00:07:46,340 --> 00:07:50,140
-mittlerweile ist das haus längst abgerissen und auch mit dem namen
+00:07:08,740 --> 00:07:10,460
+das Sie und Ihre Leute erschaffen haben,
 
 76
-00:07:50,140 --> 00:07:55,180
-jakob faro beck hatte ich nicht viel glück und dann sind sie auf ihn
+00:07:10,500 --> 00:07:12,260
+ein Dämon entstanden sein könnte.
 
 77
-00:07:55,180 --> 00:08:01,400
-gestoßen auf franz bonaparte was hat es mit
+00:07:13,480 --> 00:07:17,080
+So, und das bringt Sie zu dem Haus der Roten Rosen.
 
 78
-00:08:01,400 --> 00:08:12,200
-diesem haus auf sich wer oder was ist dieser mensch franz bonaparte jede
+00:07:22,100 --> 00:07:24,760
+Es hat mich einiges an Zeit und Mühe gekostet,
 
 79
-00:08:12,200 --> 00:08:16,580
-recherche über diesen mann hat ins nichts geführt was nur bedeuten kann
+00:07:24,860 --> 00:07:25,880
+dieses Haus zu finden.
 
 80
-00:08:16,580 --> 00:08:21,240
-dass es jemand aus ihrem kreis sein muss jemand der für oder zumindest mit der
+00:07:27,160 --> 00:07:29,400
+Unter anderem, weil der Autor dieses Buches
 
 81
-00:08:21,240 --> 00:08:28,620
-stasi gearbeitet hat was wollen sie von mir wissen alles ich will wissen was sie
+00:07:29,400 --> 00:07:30,950
+jede Menge Pseudonyme benutzt.
 
 82
-00:08:28,620 --> 00:08:38,820
-wissen? Nun, ich weiß gar nichts. Bis auf eins. Und das wäre? Ich habe bewusst versucht, es zu
+00:07:30,950 --> 00:07:35,870
+Das Monster ohne Namen, geschrieben von Emil Scherbe.
 
 83
-00:08:38,820 --> 00:08:46,460
-vergessen und zu verdrängen. Ich wollte dieses Haus vergessen und alles, was damit zusammenhängt.
+00:07:37,030 --> 00:07:41,290
+Unter seiner Anschrift in der Prager Innenstadt findet man eine Firma.
 
 84
-00:08:46,940 --> 00:08:53,780
-Deshalb steht es noch immer unangetastet da. Nichts wurde dort verändert. All die Regierungsgegner,
+00:07:42,550 --> 00:07:46,310
+Als Klaus Poppe war er in einem Bauernhaus außerhalb von Prag gemeldet.
 
 85
-00:08:53,780 --> 00:08:59,200
-die dorthin gebracht wurden. Die Forscher aus dem Labor, sie alle verschwanden eines Tages.
+00:07:46,810 --> 00:07:48,690
+Mittlerweile ist das Haus längst abgerissen.
 
 86
-00:09:02,020 --> 00:09:04,780
-Das ist alles sehr...
+00:07:49,170 --> 00:07:52,430
+Und auch mit dem Namen Jakob Farobek hatte ich nicht viel Glück.
 
 87
-00:09:09,300 --> 00:09:12,520
-Was hat es mit der Wand auf sich?
+00:07:53,310 --> 00:07:56,070
+Und dann sind Sie auf ihn gestoßen.
 
 88
-00:09:12,880 --> 00:09:13,540
-Eine Wand?
+00:07:57,610 --> 00:07:59,470
+Auf Franz Bonaparta.
 
 89
-00:09:14,360 --> 00:09:18,580
-Ich habe mir erlaubt, im Zuge meiner Ermittlungen das Haus zu betreten.
+00:08:02,130 --> 00:08:03,490
+Haus auf sich.
 
 90
-00:09:18,580 --> 00:09:23,300
-Ein verlassenes Haus, in dem schon seit Ewigkeiten kein Mensch mehr gewesen zu sein scheint.
+00:08:06,510 --> 00:08:09,490
+Wer oder was ist dieser Mensch, Franz Bonaparte?
 
 91
-00:09:23,780 --> 00:09:28,840
-Aber die Wand im Obergeschoss an der Nordseite, sie ist überstrichen worden.
+00:08:11,650 --> 00:08:15,050
+Jede Recherche über diesen Mann hat ins Nichts geführt.
 
 92
-00:09:29,040 --> 00:09:31,820
-So als hätte dort jemand hastig etwas verstecken wollen.
+00:08:15,350 --> 00:08:18,850
+Was nur bedeuten kann, dass es jemand aus Ihrem Kreis sein muss.
 
 93
-00:09:36,320 --> 00:09:39,780
-Was wäre, wenn ich diese Wand einreiße?
+00:08:19,330 --> 00:08:22,590
+Jemand, der für oder zumindest mit der Stasi gearbeitet hat.
 
 94
-00:09:45,300 --> 00:09:48,080
-Wovor haben Sie Angst, Oberst Ranke?
+00:08:23,450 --> 00:08:24,990
+Was wollen Sie von mir wissen?
 
 95
-00:09:49,320 --> 00:09:51,220
-Hinter der Wand lauert der Tod.
+00:08:26,070 --> 00:08:26,510
+Alles.
 
 96
-00:09:52,220 --> 00:09:57,080
-Sie sollten sich fernhalten, sonst werden wir alle sterben.
+00:08:27,510 --> 00:08:29,110
+Ich will wissen, was Sie wissen.
 
 97
-00:09:58,960 --> 00:10:02,640
-Am Ende finden sie vielleicht noch den Ursprung des Bösen.
+00:08:29,870 --> 00:08:31,310
+Nun, ich weiß gar nichts.
 
 98
-00:10:21,220 --> 00:10:23,220
-* Spannungsvolle Musik *
+00:08:41,950 --> 00:08:46,450
+Ich wollte dieses Haus vergessen und alles, was damit zusammenhängt.
 
 99
-00:10:51,220 --> 00:11:21,200
-Untertitelung des ZDF, 2020
+00:08:46,950 --> 00:08:49,810
+Deshalb steht es noch immer unangetastet da.
 
 100
-00:11:21,220 --> 00:11:49,900
-Franz Bonaparte
+00:08:50,110 --> 00:08:51,670
+Nichts wurde dort verändert.
 
 101
-00:11:49,900 --> 00:11:53,560
-sagen sie den namen habe ich lange nicht mehr gehört
+00:08:52,410 --> 00:08:55,110
+All die Regierungsgegner, die dorthin gebracht wurden,
 
 102
-00:11:53,560 --> 00:12:01,120
-möchten sie vielleicht etwas milch oder zucker nein danke einfach schwarz was
+00:08:55,430 --> 00:08:59,190
+die Forscher aus dem Labor, sie alle verschwanden eines Tages.
 
 103
-00:12:01,120 --> 00:12:07,480
-ist ich wundere mich nur dass nach so langer zeit ein fan von franz bonaparte
+00:09:02,050 --> 00:09:04,290
+Das ist alles sehr...
 
 104
-00:12:07,480 --> 00:12:13,420
-auftaucht ich habe den moravia verlag kontaktiert und dort wurde mir gesagt
+00:09:10,070 --> 00:09:12,550
+Was hat es mit der Wand auf sich?
 
 105
-00:12:13,420 --> 00:12:16,980
-dass sie immer wieder für den autor bonaparte gearbeitet haben stimmt das
+00:09:12,890 --> 00:09:13,530
+Eine Wand?
 
 106
-00:12:17,720 --> 00:12:22,160
-Das stimmt. Ich habe viele Jahre mit Bonaparta zusammengearbeitet.
+00:09:14,310 --> 00:09:18,590
+Ich habe mir erlaubt, im Zuge meiner Ermittlungen das Haus zu betreten.
 
 107
-00:12:22,420 --> 00:12:25,400
-Allerdings nannte er sich zu der Zeit anders, Klaus Poppe.
+00:09:18,930 --> 00:09:23,290
+Ein verlassenes Haus, in dem schon seit Ewigkeiten kein Mensch mehr gewesen zu sein scheint.
 
 108
-00:12:25,660 --> 00:12:29,500
-Ich würde gerne erfahren, was für ein Mensch er war. Erzählen Sie mir bitte von ihm.
+00:09:23,730 --> 00:09:27,290
+Aber die Wand im Obergeschoss an der Nordseite...
 
 109
-00:12:30,800 --> 00:12:36,200
-Franz Bonaparta. Er hat mich hier oft besucht, um mit mir über seine Arbeit zu sprechen.
+00:09:27,290 --> 00:09:31,870
+Sie ist überstrichen worden, so als hätte dort jemand hastig etwas verstecken wollen.
 
 110
-00:12:37,680 --> 00:12:41,540
-Ja, ja. Meist hat er in dem Sessel gesessen, in dem Sie auch gerade sitzen.
+00:09:36,210 --> 00:09:39,790
+Was wäre, wenn ich diese Wand einreiße?
 
 111
-00:12:41,540 --> 00:12:49,760
-Oft hat er sogar im Garten mit meiner Tochter gespielt
+00:09:45,150 --> 00:09:48,070
+Wovor haben Sie Angst, Oberst Ranke?
 
 112
-00:12:49,760 --> 00:12:53,980
-Aber eines Tages sagte meine Tochter etwas Merkwürdiges
+00:09:49,350 --> 00:09:51,230
+Hinter der Wand lauert der Tod.
 
 113
-00:12:53,980 --> 00:12:57,500
-Sie sagte, ich habe Angst vor dem Mann
+00:09:52,230 --> 00:09:53,970
+Sie sollten sich fernhalten.
 
 114
-00:12:57,500 --> 00:13:01,740
-Sie war noch sehr klein
+00:09:54,850 --> 00:09:57,110
+Sonst werden wir alle sterben.
 
 115
-00:13:01,740 --> 00:13:03,820
-Sie wird sich nicht mehr daran erinnern können
+00:09:58,970 --> 00:10:02,650
+Am Ende finden Sie vielleicht noch den Ursprung des Bösen.
 
 116
-00:13:03,820 --> 00:13:06,080
-Aber ich habe gespürt, dass sie es ernst meint
+00:10:33,810 --> 00:10:35,210
+[Schüsse]
 
 117
-00:13:06,080 --> 00:13:07,200
-Merkwürdig
+00:10:38,650 --> 00:10:40,050
+[Schüsse]
 
 118
-00:13:07,200 --> 00:13:10,640
-Könnte es sein, dass er damals für die Regierung gearbeitet hat?
+00:10:41,310 --> 00:10:42,170
+[Schüsse]
 
 119
-00:13:10,640 --> 00:13:15,380
-Nun, ja, wahrscheinlich. Ich hatte so ein Gefühl, aber ich wusste es nicht.
+00:10:42,170 --> 00:10:42,730
+[Schüsse]
 
 120
-00:13:16,540 --> 00:13:20,260
-Aber sein Auftreten und die Kleidung, die er trug, deuteten nicht darauf hin.
+00:10:42,730 --> 00:10:43,050
+[Schüsse]
 
 121
-00:13:20,580 --> 00:13:24,340
-Und mit seiner Sanftheit wirkte er nicht wie ein Vertreter dieses Systems.
+00:10:55,570 --> 00:10:57,790
+(Dramatische Musik)
 
 122
-00:13:24,820 --> 00:13:26,260
-Und dazu war er so elegant.
+00:11:10,190 --> 00:11:12,330
+(Spannungsvolle Musik)
 
 123
-00:13:27,260 --> 00:13:30,120
-Bonaparte war ein Psychiater mit einem Doktortitel.
+00:11:48,870 --> 00:11:53,330
+Franz Bonaparta sagen sie, den Namen habe ich lange nicht mehr gehört.
 
 124
-00:13:30,620 --> 00:13:34,860
-Er war Doktor der Psychologie. Sein Spezialgebiet war Hirnchirurgie.
+00:11:53,970 --> 00:11:56,430
+Möchten Sie vielleicht etwas Milch oder Zucker?
 
 125
-00:13:35,860 --> 00:13:36,700
-Ach ja?
+00:11:56,610 --> 00:11:58,530
+Ähm, nein danke, einfach schwarz.
 
 126
-00:13:36,700 --> 00:13:45,880
-Ja? Wann habe ich ihn denn zum letzten Mal gesehen? Das muss so im Sommer 81, 82 gewesen sein.
+00:12:00,510 --> 00:12:01,730
+Was ist denn?
 
 127
-00:13:46,380 --> 00:13:52,520
-Ja, genau. An jenem Tag kam er überraschend bei mir vorbei und hat mir eine neue Geschichte erzählt.
+00:12:02,530 --> 00:12:04,750
+Ach nichts, ich wundere mich nur,
 
 128
-00:13:52,660 --> 00:13:56,100
-Jetzt fällt es mir ein. Er war aufgeregt, sehr ungewöhnlich für ihn.
+00:12:04,870 --> 00:12:08,210
+dass nach so langer Zeit ein Fan von Franz Bonaparta auftaucht.
 
 129
-00:13:56,600 --> 00:13:59,000
-Was war das für eine Geschichte, von der er Ihnen erzählte?
+00:12:08,650 --> 00:12:10,830
+Ich habe den Moravia Verlag kontaktiert
 
 130
-00:14:02,340 --> 00:14:05,300
-Die Geschichte hieß Das verliebte Monster.
+00:12:11,470 --> 00:12:13,570
+und dort wurde mir gesagt,
 
 131
-00:14:07,380 --> 00:14:11,200
-Aber es war eine Mischung aus Die Schöne und Das Biest und Dornröschen.
+00:12:13,690 --> 00:12:16,390
+dass Sie immer wieder für den Autor Bonaparta gearbeitet haben.
 
 132
-00:14:11,300 --> 00:14:12,220
-Es gefiel mir nicht.
+00:12:16,550 --> 00:12:16,970
+Stimmt das?
 
 133
-00:14:12,800 --> 00:14:14,400
-Ich habe den Auftrag nicht angenommen.
+00:12:17,550 --> 00:12:18,270
+Das stimmt.
 
 134
-00:14:15,620 --> 00:14:18,540
-Als er ging, drehte er sich an der Tür um und sagte zu mir,
+00:12:18,870 --> 00:12:22,170
+Ich habe viele Jahre mit Bonaparta zusammengearbeitet.
 
 135
-00:14:20,400 --> 00:14:23,540
-Was halten Sie davon, wenn die Geschichte anders geht?
+00:12:23,990 --> 00:12:29,550
+anders, Klaus Poppe. Ich würde gerne erfahren, was für ein Mensch er war. Erzählen Sie mir bitte von ihm.
 
 136
-00:14:23,760 --> 00:14:25,680
-Ich erzähle Ihnen auch gerne, wie.
+00:12:31,170 --> 00:12:36,230
+Franz Bonaparta. Er hat mich hier oft besucht, um mit mir über seine Arbeit zu sprechen.
 
 137
-00:14:26,060 --> 00:14:30,280
-Das ist die Geschichte von einer Tür, die auf keinen Fall geöffnet werden darf.
+00:12:37,690 --> 00:12:41,570
+Ja, ja, meist hat er in dem Sessel gesessen, in dem sie auch gerade sitzen.
 
 138
-00:14:30,800 --> 00:14:33,180
-Ich fragte ihn, und was wartet dahinter?
+00:12:46,690 --> 00:12:53,950
+Oft hat er sogar im Garten mit meiner Tochter gespielt, aber eines Tages sagte meine Tochter etwas Merkwürdiges.
 
 139
-00:14:33,180 --> 00:14:35,140
-Das Paradies oder ein Monster?
+00:12:54,950 --> 00:12:57,470
+Sie sagte, ich habe Angst vor dem Mann.
 
 140
-00:14:35,580 --> 00:14:39,900
-Seine Antwort war, man darf diese Tür auf keinen Fall öffnen.
+00:13:00,130 --> 00:13:01,710
+Sie war noch sehr klein.
 
 141
-00:14:40,420 --> 00:14:42,080
-Deshalb wird das auch keine Geschichte.
+00:13:01,910 --> 00:13:03,810
+Sie wird sich nicht mehr daran erinnern können,
 
 142
-00:14:43,820 --> 00:14:46,300
-Dann fing er an zu lachen und ging.
+00:13:03,950 --> 00:13:06,050
+aber ich habe gespürt, dass sie es ernst meint.
 
 143
-00:14:47,020 --> 00:14:49,560
-Das war das letzte Mal, dass ich ihn gesehen habe.
+00:13:06,730 --> 00:13:07,170
+Merkwürdig.
 
 144
-00:14:56,840 --> 00:14:58,040
-Und, wie war es?
+00:13:07,590 --> 00:13:10,610
+Könnte es sein, dass er damals für die Regierung gearbeitet hat?
 
 145
-00:14:58,100 --> 00:15:01,340
-Haben Sie irgendetwas Interessantes über diesen Bonaparte erfahren?
+00:13:10,970 --> 00:13:12,350
+Nun, ja, wahrscheinlich.
 
 146
-00:15:01,880 --> 00:15:04,140
-Nicht wirklich. Nichts Besonderes, würde ich sagen.
+00:13:12,970 --> 00:13:15,350
+Ich hatte so ein Gefühl, aber ich wusste es nicht.
 
 147
-00:15:05,140 --> 00:15:07,940
-Und was haben Sie denn in der Zwischenzeit gemacht, Herr Grimma?
+00:13:16,370 --> 00:13:19,090
+Aber sein Auftreten und die Kleidung, die er trug,
 
 148
-00:15:11,120 --> 00:15:12,960
-Ich habe das schöne Wetter genossen.
+00:13:19,210 --> 00:13:20,250
+deuteten nicht darauf hin.
 
 149
-00:15:16,360 --> 00:15:17,520
-Ja, es ist schön.
+00:13:20,530 --> 00:13:22,590
+Und mit seiner Sanftheit wirkte er nicht
 
 150
-00:15:19,420 --> 00:15:20,640
-Das gibt's ja nicht.
+00:13:24,410 --> 00:13:26,410
+Und dazu war er so elegant.
 
 151
-00:15:22,700 --> 00:15:24,120
-Äh, hallo, ist da die Polizei?
+00:13:27,310 --> 00:13:30,150
+Bonaparta war ein Psychiater mit einem Doktortitel.
 
 152
-00:15:24,880 --> 00:15:28,040
-In Ordnung, mein Name ist Sobak. Ich wohne am Schwegplatz.
+00:13:30,610 --> 00:13:32,050
+Er war Doktor der Psychologie.
 
 153
-00:15:28,620 --> 00:15:30,600
-Gerade eben war ein Mann bei mir zu Besuch.
+00:13:32,830 --> 00:13:34,870
+Sein Spezialgebiet war Hirnchirurgie.
 
 154
-00:15:30,600 --> 00:15:36,260
-Also ich glaube, es ist der Mann, der als Verdächtiger in einer Mordserie gesucht wird.
+00:13:35,330 --> 00:13:35,970
+Ach ja?
 
 155
-00:15:36,980 --> 00:15:40,880
-Genau, ein Japaner. Es war der Hirnchirurg Dr. Tenma.
+00:13:40,030 --> 00:13:42,210
+Wann habe ich ihn denn zum letzten Mal gesehen?
 
 156
-00:15:54,640 --> 00:15:57,920
-Ethanol. Es riecht nach Desinfektionsmittel.
+00:13:42,590 --> 00:13:45,870
+Das muss so im Sommer '81, '82 gewesen sein.
 
 157
-00:16:00,600 --> 00:16:29,440
-Der Tod, wie viele, wie viele sind hier gestorben?
+00:13:46,390 --> 00:13:46,890
+Ja, genau.
 
 158
-00:16:30,600 --> 00:16:34,520
-Vielleicht zehn oder zwanzig.
+00:13:47,250 --> 00:13:49,550
+An jenem Tag kam er überraschend bei mir vorbei
 
 159
-00:16:35,620 --> 00:16:37,680
-Möglich. Oder auch mehr.
+00:13:49,550 --> 00:13:52,530
+und hat mir eine neue Geschichte erzählt.
 
 160
-00:16:57,680 --> 00:17:00,000
-Das ist diese Frau.
+00:13:52,630 --> 00:13:53,710
+Jetzt fällt es mir ein.
 
 161
-00:17:00,600 --> 00:17:02,760
-Die Frau aus dem Skizzenbuch.
+00:13:53,970 --> 00:13:56,110
+Er war aufgeregt, sehr ungewöhnlich für ihn.
 
 162
-00:17:05,080 --> 00:17:07,240
-Ist das die Mutter der Zwillinge?
+00:13:56,570 --> 00:13:59,010
+Was war das für eine Geschichte, von der er ihnen erzählte?
 
 163
-00:17:13,220 --> 00:17:16,540
-Los, wir müssen uns beeilen, sonst haben die Großen den Fußballplatz.
+00:14:02,590 --> 00:14:05,470
+Die Geschichte hieß "Das verliebte Monster".
 
 164
-00:17:17,200 --> 00:17:19,000
-Was ist denn, Milosch? Komm schon.
+00:14:07,450 --> 00:14:09,630
+Aber es war eine Mischung aus "Die Schöne"
 
 165
-00:17:19,460 --> 00:17:20,520
-Äh, ja.
+00:14:09,670 --> 00:14:12,210
+und "Das Biest und Dornröschen". Es gefiel mir nicht.
 
 166
-00:17:21,040 --> 00:17:24,020
-Na los, Gegnergriff! Jetzt schießt ihr ein Tor!
+00:14:12,810 --> 00:14:14,410
+Ich habe den Auftrag nicht angenommen.
 
 167
-00:17:26,020 --> 00:17:28,060
-Oh nein, jetzt trifft er!
+00:14:15,610 --> 00:14:18,510
+Als er ging, drehte er sich an der Tür um und sagte zu mir,
 
 168
-00:17:28,060 --> 00:17:28,800
-Oh nein, er fliegt!
+00:14:20,210 --> 00:14:23,710
+"Was halten Sie davon, wenn die Geschichte anders geht?"
 
 169
-00:17:30,420 --> 00:17:31,620
-Oh nein, Milos!
+00:14:25,270 --> 00:14:30,290
+Das ist die Geschichte von einer Tür, die auf keinen Fall geöffnet werden darf.
 
 170
-00:17:31,860 --> 00:17:33,400
-Alles okay? Was hast du?
+00:14:30,870 --> 00:14:35,130
+Ich fragte ihn, und was wartet dahinter? Das Paradies oder ein Monster?
 
 171
-00:17:33,640 --> 00:17:35,460
-Sag schon, geht es dir gut, Milos?
+00:14:35,570 --> 00:14:39,910
+Seine Antwort war, man darf diese Tür auf keinen Fall öffnen.
 
 172
-00:17:39,760 --> 00:17:41,920
-Das war eine super Defensive, Milos!
+00:14:40,430 --> 00:14:42,090
+Deshalb wird das auch keine Geschichte.
 
 173
-00:17:42,120 --> 00:17:44,560
-Super geklärt! Du hast das Tor verhindert!
+00:14:44,110 --> 00:14:46,290
+Dann fing er an zu lachen und ging.
 
 174
-00:17:51,080 --> 00:17:52,300
-Sehen Sie, wie er lacht?
+00:14:46,990 --> 00:14:49,570
+Das war das letzte Mal, dass ich ihn gesehen habe.
 
 175
-00:17:52,840 --> 00:17:54,160
-Er ist schon drüber hinweg, oder?
+00:14:56,810 --> 00:15:01,350
+Und, wie war's, haben Sie irgendetwas Interessantes über diesen Bonaparte erfahren?
 
 176
-00:17:55,460 --> 00:17:56,880
-Was meinen Sie, Dr. Tenma?
+00:15:01,890 --> 00:15:04,150
+Nicht wirklich, nichts Besonderes, würde ich sagen.
 
 177
-00:17:58,700 --> 00:17:59,180
-Ja.
+00:15:05,090 --> 00:15:07,930
+Und was haben Sie denn in der Zwischenzeit gemacht, Herr Grimma?
 
 178
-00:18:04,960 --> 00:18:09,460
-Warten Sie, Herr Grimmer. Wollen Sie Milos und die anderen Jungs nicht mal kurz begrüßen?
+00:15:11,010 --> 00:15:12,970
+Ich habe das schöne Wetter genossen.
 
 179
-00:18:12,500 --> 00:18:15,520
-Übrigens, ich weiß jetzt, warum ich nicht gut im Fußball bin.
+00:15:16,250 --> 00:15:17,530
+Ja, es ist schön.
 
 180
-00:18:16,580 --> 00:18:18,720
-Auch Fußball ist ein Mannschaftssport.
+00:15:19,290 --> 00:15:20,650
+Das gibt's ja nicht!
 
 181
-00:18:22,600 --> 00:18:24,900
-Ich frage mich, was aus Jan Zuck werden soll.
+00:15:22,750 --> 00:15:24,250
+Hallo, ist da die Polizei?
 
 182
-00:18:25,880 --> 00:18:28,860
-Wenn er weiterhin als Hauptverdächtiger in den Fällen gesucht wird,
+00:15:24,910 --> 00:15:28,050
+In Ordnung, mein Name ist Sobak, ich wohne am Schwegplatz.
 
 183
-00:18:28,960 --> 00:18:32,440
-ist das im Grunde gesellschaftlicher Mord und er wird nie wieder auf die Beine kommen.
+00:15:28,630 --> 00:15:30,590
+Gerade eben war ein Mann bei mir zu Besuch.
 
 184
-00:18:32,920 --> 00:18:36,000
-Selbst wenn er sich stellen würde, wie soll er seine Unschuld beweisen?
+00:15:30,890 --> 00:15:32,710
+Also ich glaube, es ist der Mann,
 
 185
-00:18:36,300 --> 00:18:37,300
-Er hat keine Chance.
+00:15:32,790 --> 00:15:36,250
+der als Verdächtiger in einer Mordserie gesucht wird.
 
 186
-00:18:38,120 --> 00:18:42,120
-Und wie soll ich beweisen, dass diese blonde Frau, die beim Tatort war, wirklich existiert?
+00:15:37,190 --> 00:15:38,370
+Genau, ein Japaner.
 
 187
-00:18:43,400 --> 00:18:46,300
-Mir scheint, Suk ist in der gleichen unangenehmen Lage wie Sie.
+00:15:38,810 --> 00:15:40,850
+Es war der Hirnchirurg Dr. Tenma.
 
 188
-00:18:47,300 --> 00:18:49,280
-In fast der gleichen. Es gibt einen Unterschied.
+00:15:53,950 --> 00:15:57,950
+Ethanol, es riecht nach Desinfektionsmittel.
 
 189
-00:18:49,840 --> 00:18:50,360
-Na?
+00:16:24,910 --> 00:16:29,450
+Wie viele sind hier gestorben?
 
 190
-00:18:50,360 --> 00:18:55,300
-Zeit, Abschied zu nehmen, Dr. Tenma.
+00:16:31,170 --> 00:16:32,270
+Vielleicht zehn?
 
 191
-00:18:56,740 --> 00:18:58,760
-Diese Mordserie ist kompliziert.
+00:16:33,150 --> 00:16:34,490
+Oder zwanzig?
 
 192
-00:18:59,320 --> 00:19:02,520
-Aber glücklicherweise gibt es eine Person, die alle Details kennt.
+00:16:35,570 --> 00:16:36,250
+Möglich.
 
 193
-00:19:03,800 --> 00:19:04,720
-Das wäre wohl ich.
+00:16:36,830 --> 00:16:37,690
+Oder auch mehr.
 
 194
-00:19:07,000 --> 00:19:08,080
-Na, was meinen Sie?
+00:16:58,290 --> 00:17:00,010
+Das ist diese Frau.
 
 195
-00:19:08,720 --> 00:19:10,940
-Soll ich so nett sein und das der Polizei schicken?
+00:17:00,650 --> 00:17:02,750
+Die Frau aus dem Skizzenbuch.
 
 196
-00:19:14,680 --> 00:19:15,660
-Was ist das?
+00:17:05,050 --> 00:17:06,790
+Ist das die Mutter der Zwillinge?
 
 197
-00:19:15,660 --> 00:19:19,020
-Das ist ein Brief des sogenannten Serienmörders.
+00:17:11,010 --> 00:17:12,030
+Ja komm!
 
 198
-00:19:20,600 --> 00:19:26,440
-Darin ist minutiös aufgeführt, was nur der Täter wissen kann und somit als Quelle eindeutig zuzuordnen.
+00:17:13,210 --> 00:17:16,550
+Los, wir müssen uns beeilen, sonst haben die Großen den Fußballplatz.
 
 199
-00:19:27,720 --> 00:19:31,020
-Aber wenn Sie das der Polizei schicken, dann werden Sie sie doch bestimmt.
+00:17:17,190 --> 00:17:18,290
+Was ist denn, Milos?
 
 200
-00:19:32,400 --> 00:19:35,680
-Nein, in der Zwischenzeit ist Grimma längst wieder zurück in Deutschland.
+00:17:18,430 --> 00:17:18,950
+Komm schon!
 
 201
-00:19:36,540 --> 00:19:41,540
-Ob die Polizei ihm auf den Fersen ist oder nicht, dieser Mann namens Grimma wird ihr entkommen.
+00:17:20,690 --> 00:17:22,490
+Na los, Gegenangriff!
 
 202
-00:19:43,340 --> 00:19:47,520
-Schließlich war er in seinem früheren Leben mal ein echter Top-Spion.
+00:17:22,690 --> 00:17:24,030
+Jetzt, schieß mir ein Tor!
 
 203
-00:19:48,160 --> 00:19:51,620
-Aber dann werden Sie zwangsläufig Ihr Leben lang auf der Flucht sein.
+00:17:25,990 --> 00:17:26,510
+Attacken!
 
 204
-00:19:51,860 --> 00:19:52,920
-Ach, das geht schon.
+00:17:26,770 --> 00:17:28,070
+Oh nein, jetzt trifft er!
 
 205
-00:19:54,320 --> 00:19:56,600
-Wissen Sie, diesen Grimma hat es nie gegeben.
+00:17:30,330 --> 00:17:31,590
+Oh nein, Milos!
 
 206
-00:19:56,780 --> 00:19:58,860
-Er hat nie existiert, wie ein Phantom.
+00:17:31,890 --> 00:17:33,430
+Alles okay? Was hast du?
 
 207
-00:19:59,680 --> 00:20:02,660
-Alles, worauf es ankommt, steht hier in diesem Brief.
+00:17:33,590 --> 00:17:35,510
+Sag schon, geht es dir gut, Milos?
 
 208
-00:20:03,220 --> 00:20:05,620
-Mag dieser Grimma sein, Leben lang auf der Flucht sein,
+00:17:39,710 --> 00:17:41,930
+Das war eine super Defensive, Milos!
 
 209
-00:20:05,760 --> 00:20:07,340
-mir macht das absolut nichts aus.
+00:17:42,130 --> 00:17:44,490
+Super geklärt, du hast das Tor verhindert!
 
 210
-00:20:09,680 --> 00:20:10,920
-Ein kleiner Spaß.
+00:17:44,910 --> 00:17:45,270
+Hä?
 
 211
-00:20:10,920 --> 00:20:13,720
-Dr. Tinmar, was halten Sie von meiner Entscheidung?
+00:17:46,830 --> 00:17:47,890
+Das ist langweilig.
 
 212
-00:20:14,220 --> 00:20:16,080
-Ach, lassen Sie nur. Schon gut.
+00:17:51,050 --> 00:17:54,150
+Sehen Sie, wie er lacht? Er ist schon drüber hinweg, oder?
 
 213
-00:20:17,520 --> 00:20:20,320
-Sie gehen jetzt sicher zu dem Haus der Roten Rosen, oder?
+00:17:55,370 --> 00:17:56,890
+Was meinen Sie, Dr. Tenma?
 
 214
-00:20:22,420 --> 00:20:22,900
+00:17:58,830 --> 00:17:59,250
 Ja.
 
 215
-00:20:23,820 --> 00:20:27,420
-Dann sind Sie Ihrem Ziel bestimmt ganz nah. Ich habe das im Gefühl.
+00:18:04,970 --> 00:18:09,450
+Warten Sie, Herr Grimmer. Wollen Sie Milos und die anderen Jungs nicht mal kurz begrüßen?
 
 216
-00:20:27,720 --> 00:20:29,580
-Vielleicht. Ich weiß es nicht.
+00:18:12,510 --> 00:18:15,530
+Übrigens, ich weiß jetzt, warum ich nicht gut im Fußball bin.
 
 217
-00:20:30,040 --> 00:20:33,260
-Ich könnte Ihnen jetzt sagen, seien Sie vorsichtig, aber Sie hören ja nicht.
+00:18:16,570 --> 00:18:18,730
+Auch Fußball ist ein Mannschaftssport.
 
 218
-00:20:33,820 --> 00:20:36,720
-Darum bleiben Sie am Leben.
+00:18:22,670 --> 00:18:24,890
+Ich frage mich, was aus Jan Zuck werden soll.
 
 219
-00:20:43,960 --> 00:20:44,800
-Herr Grimma!
+00:18:25,970 --> 00:18:29,670
+Wenn er weiterhin als Hauptverdächtiger in den Fällen gesucht wird, ist das im Grunde
 
 220
-00:20:44,800 --> 00:20:49,300
-Wir haben uns ein Versprechen an der tschechischen Grenze gegeben.
+00:18:29,670 --> 00:18:32,450
+gesellschaftlicher Mord und er wird nie wieder auf die Beine kommen.
 
 221
-00:20:50,620 --> 00:20:52,780
-Wenn wir uns wiedersehen, machen wir nochmal ein Picknick.
+00:18:32,950 --> 00:18:36,010
+Selbst wenn er sich stellen würde, wie soll er seine Unschuld beweisen?
 
 222
-00:20:53,720 --> 00:20:55,880
-An einem wunderschönen See angeln wir Forellen.
+00:18:36,290 --> 00:18:37,310
+Er hat keine Chance.
 
 223
-00:20:56,920 --> 00:20:58,840
-Mit gutem Wein und leckerem Käse.
+00:18:38,130 --> 00:18:42,130
+Und wie soll ich beweisen, dass diese blonde Frau, die beim Tatort war, wirklich existiert?
 
 224
-00:21:00,120 --> 00:21:00,840
-Bis irgendwann.
+00:18:43,450 --> 00:18:46,290
+Mir scheint, Zuck ist in der gleichen unangenehmen Lage wie sie.
 
 225
-00:21:14,800 --> 00:21:23,340
-Das ist der Preis, den ich zahle.
+00:18:47,090 --> 00:18:49,270
+In fast der gleichen. Es gibt einen Unterschied.
 
 226
-00:21:23,760 --> 00:21:25,840
-Dieses Geräusch wird mich nie mehr loslassen.
+00:18:53,030 --> 00:18:55,310
+Zeit, Abschied zu nehmen, Dr. Tenma.
 
 227
-00:21:27,420 --> 00:21:28,400
-Warte mal!
+00:18:56,790 --> 00:19:02,530
+Diese Mordserie ist kompliziert, aber glücklicherweise gibt es eine Person, die alle Details kennt.
 
 228
-00:21:33,480 --> 00:21:35,600
-Aua! Das tut weh!
+00:19:03,510 --> 00:19:04,730
+Das wäre wohl ich.
 
 229
-00:21:36,900 --> 00:21:39,240
-Aua! Das tut so weh!
+00:19:06,830 --> 00:19:10,970
+Na, was meinen Sie, soll ich so nett sein und das der Polizei schicken?
 
 230
-00:21:42,940 --> 00:21:44,660
-Geht's wieder? Was ist denn passiert?
+00:19:14,650 --> 00:19:15,670
+Was ist das?
 
 231
-00:21:44,800 --> 00:21:45,380
-Zeig mal her.
+00:19:16,370 --> 00:19:18,990
+Das ist ein Brief des sogenannten Serienmörders.
 
 232
-00:21:47,520 --> 00:21:49,540
-Keine Sorge, das ist nur eine Schramme.
+00:19:20,650 --> 00:19:26,450
+Darin ist minutiös aufgeführt, was nur der Täter wissen kann und somit als Quelle eindeutig zuzuordnen.
 
 233
-00:21:49,920 --> 00:21:51,820
-Wichtig ist ein bisschen Desinfektionsmittel.
+00:19:27,710 --> 00:19:31,030
+Aber wenn Sie das der Polizei schicken, dann werden Sie sie doch bestimmt.
 
 234
-00:21:57,600 --> 00:21:58,740
-Das brennt!
+00:19:32,370 --> 00:19:35,670
+Nein, in der Zwischenzeit ist Grimma längst wieder zurück in Deutschland.
 
 235
-00:21:59,240 --> 00:22:01,500
-Ach, komm schon. Du bist doch ein Junge.
+00:19:36,550 --> 00:19:41,550
+Ob die Polizei ihm auf den Fersen ist oder nicht, dieser Mann namens Grimma wird ihr entkommen.
 
 236
-00:22:03,860 --> 00:22:05,820
-Sehr gut. Du warst sehr tapfer.
+00:19:43,690 --> 00:19:47,510
+Schließlich war er in seinem früheren Leben mal ein echter Top-Spion.
 
 237
-00:22:05,820 --> 00:22:15,100
-Sind Sie Dr. Kenzo Tenma?
+00:19:47,510 --> 00:19:51,630
+Aber dann werden Sie zwangsläufig ihr Leben lang auf der Flucht sein.
 
 238
-00:22:17,100 --> 00:22:20,520
-Polizei Prag, bitte kommen Sie mit aufs Präsidium.
+00:19:51,870 --> 00:19:52,930
+Ach, das geht schon.
 
 239
-00:22:35,820 --> 00:23:05,800
-Untertitelung des ZDF, 2020
+00:19:54,310 --> 00:19:56,610
+Wissen Sie, diesen Grimmer hat es nie gegeben.
 
 240
-00:23:05,820 --> 00:23:35,800
-Untertitelung des ZDF, 2020
+00:19:56,790 --> 00:19:59,010
+Er hat nie existiert. Wie ein Phantom.
 
 241
-00:23:35,820 --> 00:23:54,300
-Untertitelung des ZDF, 2020
+00:19:59,690 --> 00:20:02,670
+Alles, worauf es ankommt, steht hier in diesem Brief.
+
+242
+00:20:03,210 --> 00:20:05,650
+Mag dieser Grimmer sein Leben lang auf der Flucht sein,
+
+243
+00:20:05,750 --> 00:20:07,350
+mir macht das absolut nichts aus.
+
+244
+00:20:09,690 --> 00:20:10,910
+Ein kleiner Spaß.
+
+245
+00:20:11,270 --> 00:20:13,710
+Dr. Tinmer, was halten Sie von meiner Entscheidung?
+
+246
+00:20:14,250 --> 00:20:16,070
+Ach, lassen Sie nur. Schon gut.
+
+247
+00:20:17,670 --> 00:20:20,310
+Sie gehen jetzt sicher zu dem Haus der Roten Rosen, oder?
+
+248
+00:20:21,970 --> 00:20:22,930
+Äh, ja.
+
+249
+00:20:23,710 --> 00:20:27,430
+Dann sind Sie Ihrem Ziel bestimmt ganz nah. Ich hab das im Gefühl.
+
+250
+00:20:27,710 --> 00:20:29,570
+Vielleicht. Ich weiß es nicht.
+
+251
+00:20:30,010 --> 00:20:33,250
+Ich könnte Ihnen jetzt sagen, seien Sie vorsichtig, aber Sie hören ja nicht.
+
+252
+00:20:33,810 --> 00:20:36,730
+Darum, bleiben Sie am Leben.
+
+253
+00:20:43,850 --> 00:20:49,290
+Herr Grimma, wir haben uns ein Versprechen an der tschechischen Grenze gegeben.
+
+254
+00:20:50,630 --> 00:20:52,770
+Wenn wir uns wiedersehen, machen wir noch mal ein Picknick.
+
+255
+00:20:53,710 --> 00:20:58,870
+An einem wunderschönen See angeln wir Forellen, mit gutem Wein und leckerem Käse.
+
+256
+00:21:00,130 --> 00:21:00,810
+Bis irgendwann.
+
+257
+00:21:21,550 --> 00:21:25,850
+Das ist der Preis, den ich zahle, dieses Geräusch wird mich nie mehr loslassen.
+
+258
+00:21:43,070 --> 00:21:49,530
+Geht's wieder? Was ist denn passiert? Zeig mal her. Keine Sorge, das ist nur eine Schramme.
+
+259
+00:21:49,970 --> 00:21:51,790
+Wichtig ist ein bisschen Desinfektionsmittel.
+
+260
+00:21:59,070 --> 00:22:05,870
+Komm schon, du bist doch ein Junge. Sehr gut, du warst sehr tapfer.
+
+261
+00:22:13,050 --> 00:22:20,530
+Sind Sie Dr. Kenzo Tenma? Polizei Frag, bitte kommen Sie mit aufs Präsidium.
+
+262
+00:23:13,630 --> 00:23:15,170
+* Musik *
+
+263
+00:23:30,390 --> 00:23:31,790
+[Musik]
+
+264
+00:23:39,490 --> 00:23:40,890
+[Musik]
 

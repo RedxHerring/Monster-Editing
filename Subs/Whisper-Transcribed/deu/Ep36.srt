@@ -1,956 +1,996 @@
 1
-00:00:00,000 --> 00:00:16,680
+00:00:14,420 --> 00:00:16,700
 Ist der Zustand des Patienten stabil?
 
 2
-00:00:19,540 --> 00:00:21,560
-Aber Sie sollten doch...
+00:00:19,440 --> 00:00:21,620
+Aber sie sollten doch...
 
 3
-00:00:21,560 --> 00:00:23,020
-Wie sind Blutdruck und Puls?
+00:00:21,620 --> 00:00:23,080
+Wie sind Blutdruck und Folz?
 
 4
-00:00:23,340 --> 00:00:26,820
-Aber Dr. Tenma, was ist denn mit dem Bürgermeister?
+00:00:23,340 --> 00:00:26,840
+Aber Doktor Tenma, was ist denn mit dem Bürgermeister?
 
 5
 00:00:27,320 --> 00:00:28,900
 Ich werde hier operieren.
 
 6
-00:00:30,000 --> 00:00:30,300
-Ja.
-
-7
-00:00:31,680 --> 00:00:33,980
+00:00:30,000 --> 00:00:34,020
 Ja, genau. Wie ist der Name des Patienten?
 
-8
-00:00:34,700 --> 00:00:34,880
-Hä?
-
-9
-00:00:35,660 --> 00:00:37,540
+7
+00:00:35,750 --> 00:00:37,540
 Wie heißt dieser kleine Junge?
 
-10
-00:00:38,380 --> 00:00:40,060
+8
+00:00:38,650 --> 00:00:40,060
 Da muss ich nachsehen.
 
-11
-00:00:40,920 --> 00:00:44,280
+9
+00:00:40,960 --> 00:00:44,280
 Sie wissen nicht einmal, wie er heißt.
 
-12
-00:00:47,540 --> 00:00:51,000
+10
+00:00:47,810 --> 00:00:51,040
 Halte durch. Ich werde dich retten.
 
+11
+00:00:54,620 --> 00:00:56,000
+Tötet ihn.
+
+12
+00:01:00,380 --> 00:01:01,400
+[Piepen]
+
 13
-00:00:54,780 --> 00:00:55,980
+00:01:07,900 --> 00:01:09,460
 Tötet ihn.
 
 14
-00:01:00,000 --> 00:01:09,420
+00:01:16,440 --> 00:01:17,940
 Tötet ihn.
 
 15
-00:01:16,860 --> 00:01:17,940
-Tötet ihn.
+00:01:19,000 --> 00:01:23,340
+Eine Katastrophe! Die beiden Kinder, die Zwillinge sind verschrotten.
 
 16
-00:01:19,200 --> 00:01:20,220
-Eine Katastrophe!
+00:01:26,810 --> 00:01:28,380
+Haben sie auch überall gesucht.
 
 17
-00:01:20,980 --> 00:01:23,300
-Die beiden Kinder, die Zwillinge sind verschwunden!
+00:01:30,000 --> 00:01:31,220
+Aber ich konnte sie nicht finden.
 
 18
-00:01:26,700 --> 00:01:28,360
-Haben sie auch überall gesucht?
+00:01:31,500 --> 00:01:33,160
+Vielleicht haben sie sich irgendwo versteckt.
 
 19
-00:01:28,860 --> 00:01:31,220
-Überall. Aber ich konnte sie nicht finden.
+00:01:33,240 --> 00:01:34,140
+Wir müssen sie suchen.
 
 20
-00:01:31,500 --> 00:01:34,120
-Vielleicht haben sie sich irgendwo versteckt. Wir müssen sie suchen.
-
-21
-00:01:44,740 --> 00:01:48,300
+00:01:44,640 --> 00:01:48,300
 Du musst dich hier irgendwo versteckt haben.
 
-22
-00:01:49,460 --> 00:01:50,060
+21
+00:01:49,360 --> 00:01:50,040
 Ja.
 
-23
-00:01:58,360 --> 00:02:00,360
-* Spannungsvolle Musik *
+22
+00:02:37,300 --> 00:02:42,920
+Kenzo, du Angsthase, komm endlich raus!
 
-24
-00:02:28,360 --> 00:02:46,660
+23
+00:02:44,200 --> 00:02:46,660
 Du kannst dich nicht ewig von mir verstecken.
 
-25
-00:02:47,220 --> 00:02:48,620
+24
+00:02:47,200 --> 00:02:48,620
 Irgendwann werde ich dich finden.
 
-26
-00:02:49,100 --> 00:02:52,120
+25
+00:02:49,120 --> 00:02:52,140
 Pass bloß auf, sonst machst du dir vor Angst gleich wieder in die Hose.
 
-27
-00:02:58,360 --> 00:03:01,980
+26
+00:03:00,460 --> 00:03:02,000
 Es ist schon spät, Kinder.
 
-28
-00:03:02,900 --> 00:03:05,040
+27
+00:03:02,920 --> 00:03:05,080
 Ihr solltet jetzt langsam nach Hause kommen.
 
-29
-00:03:05,500 --> 00:03:06,760
-Wir kommen. Bis morgen.
+28
+00:03:05,500 --> 00:03:06,740
+Wir kommen, bis morgen.
 
-30
-00:03:07,540 --> 00:03:09,280
+29
+00:03:08,160 --> 00:03:09,280
 Tschüss und bis morgen.
 
+30
+00:03:09,440 --> 00:03:10,260
+Kommt gut rein.
+
 31
-00:03:09,460 --> 00:03:10,280
-Kommt gut heim.
+00:03:10,260 --> 00:03:12,780
+Ja, jetzt aber schnell. Tschüss!
 
 32
-00:03:10,460 --> 00:03:12,780
-Jetzt aber schnell. Tschüss.
-
-33
-00:03:12,980 --> 00:03:13,300
+00:03:13,000 --> 00:03:13,340
 Hä?
 
-34
-00:03:16,300 --> 00:03:17,520
+33
+00:03:16,380 --> 00:03:17,520
 Was ist mit mir?
 
+34
+00:03:24,980 --> 00:03:28,120
+Wo seid ihr denn alle? Habt ihr mich vergessen?
+
 35
-00:03:24,920 --> 00:03:26,260
-Wo seid ihr denn alle?
+00:03:30,740 --> 00:03:33,140
+Ich bin doch noch hier, ihr müsst mich suchen.
 
 36
-00:03:27,000 --> 00:03:28,100
-Habt ihr mich vergessen?
-
-37
-00:03:28,360 --> 00:03:33,180
-Ich bin doch noch hier. Ihr müsst mich suchen.
-
-38
-00:03:36,100 --> 00:03:38,040
+00:03:36,160 --> 00:03:38,020
 Hallo, wo seid ihr denn hin?
 
-39
-00:03:40,300 --> 00:03:41,860
+37
+00:03:40,260 --> 00:03:42,040
 Lasst mich nicht allein!
 
-40
-00:03:47,860 --> 00:03:50,800
-Der kleine Angsthase Kenzo.
+38
+00:03:48,200 --> 00:03:50,900
+Der kleine Angsthase Kenzor.
 
-41
-00:03:58,360 --> 00:04:28,340
-Untertitelung des ZDF, 2020
-
-42
-00:04:28,360 --> 00:04:58,340
-Untertitelung des ZDF, 2020
-
-43
-00:04:58,360 --> 00:05:28,340
-Untertitelung des ZDF, 2020
-
-44
-00:05:28,360 --> 00:05:32,980
+39
+00:05:31,660 --> 00:05:33,000
 Was sollen wir jetzt tun?
 
-45
-00:05:33,640 --> 00:05:37,980
+40
+00:05:33,640 --> 00:05:38,000
 Dieser Kerl ist am frühen Abend hergekommen und steht immer noch vor der Einfahrt.
 
-46
+41
 00:05:38,880 --> 00:05:39,880
 Wer ist das?
 
-47
-00:05:40,840 --> 00:05:46,000
-Ich glaube, das ist der Psychiater von dem Privatdetektiv Richard Braun, den Sie vor einer Weile engagiert hatten.
+42
+00:05:40,700 --> 00:05:44,820
+Ich glaube, das ist der Psychiater von dem Privatdetektiv Richard Braun, den sie vor
 
-48
-00:05:48,320 --> 00:05:51,000
+43
+00:05:44,820 --> 00:05:46,000
+einer Weile engagiert hatten.
+
+44
+00:05:48,540 --> 00:05:51,000
 Ich werde mal ein Wörtchen mit ihm wechseln, Herr Schubert.
 
-49
-00:05:51,000 --> 00:05:56,360
-Warte. Ihr wisst, ich bin blind wie ein Maulwurf. Beschreib mir den Mann.
+45
+00:05:51,240 --> 00:05:51,540
+Warte.
 
-50
-00:05:56,840 --> 00:05:59,220
+46
+00:05:52,620 --> 00:05:54,720
+Ihr wisst, ich bin blind wie ein Maulwurf.
+
+47
+00:05:56,580 --> 00:05:59,220
 Natürlich. Es ist ein älterer Herr.
 
-51
-00:06:00,160 --> 00:06:02,760
+48
+00:06:00,160 --> 00:06:02,740
 Wie wirkt er auf dich? Was denkst du?
 
-52
-00:06:03,480 --> 00:06:06,460
+49
+00:06:03,420 --> 00:06:06,440
 Ich denke nicht, dass er ein Verbrecher ist.
 
-53
-00:06:08,800 --> 00:06:14,020
-Er wirkt erschöpft und verzweifelt. So als würde etwas schwer auf ihm lasten.
+50
+00:06:08,800 --> 00:06:14,060
+Er wirkt erschöpft und verzweifelt, so als würde etwas schwer auf ihm lasten.
 
-54
-00:06:15,920 --> 00:06:17,220
+51
+00:06:16,200 --> 00:06:17,180
 Gut, ich verstehe.
 
+52
+00:06:25,480 --> 00:06:29,380
+Danke, dass Sie sich die Zeit nehmen, mich anzuhören. Ich weiß es zu schätzen.
+
+53
+00:06:29,720 --> 00:06:35,120
+Ersparen wir uns die umständlichen Einleitungen. Meine Zeit ist begrenzt, also kommen Sie doch
+
+54
+00:06:35,120 --> 00:06:39,100
+bitte gleich zum Punkt. Tja, ich habe auch alle Hände voll zu tun.
+
 55
-00:06:17,220 --> 00:06:28,020
-Danke, dass Sie sich die Zeit nehmen, mich anzuhören
+00:06:39,500 --> 00:06:43,400
+Wie schnell wir hier fertig sind, hängt ganz davon ab, wie kooperativ Sie sich zeigen.
 
 56
-00:06:28,020 --> 00:06:29,380
-Ich weiß es zu schätzen
+00:06:43,400 --> 00:06:46,740
+Sie sind wegen meines jungen Sekretärs hier. Habe ich recht?
 
 57
-00:06:29,380 --> 00:06:32,200
-Ersparen wir uns die umständlichen Einleitungen
-
-58
-00:06:32,200 --> 00:06:36,360
-Meine Zeit ist begrenzt, also kommen Sie doch bitte gleich zum Punkt
-
-59
-00:06:36,360 --> 00:06:39,100
-Tja, ich habe auch alle Hände voll zu tun
-
-60
-00:06:39,100 --> 00:06:43,440
-Wie schnell wir hier fertig sind, hängt ganz davon ab, wie kooperativ Sie sich zeigen
-
-61
-00:06:43,440 --> 00:06:46,720
-Sie sind wegen meines jungen Sekretärs hier, habe ich recht?
-
-62
-00:06:47,220 --> 00:06:47,720
-Hm?
-
-63
-00:06:50,100 --> 00:06:51,300
+00:06:50,180 --> 00:06:51,300
 Johann Liebert.
 
-64
-00:06:54,260 --> 00:06:57,140
+58
+00:06:54,220 --> 00:06:57,140
 Er ist ein sonderbarer Mensch, nicht wahr?
 
-65
-00:06:57,980 --> 00:07:02,940
-Um ehrlich zu sein, hatte ich schon damit gerechnet, dass mich hier jemand eines Tages aufsuchen würde.
+59
+00:06:58,200 --> 00:07:04,480
+Um ehrlich zu sein, hatte ich schon damit gerechnet, dass mich hier jemand eines Tages aufsuchen würde. Es war nur eine Frage der Zeit.
 
-66
-00:07:03,040 --> 00:07:04,460
-Es war nur eine Frage der Zeit.
-
-67
-00:07:05,280 --> 00:07:08,160
+60
+00:07:05,300 --> 00:07:08,180
 Jemand, der versuchen würde, das Geheimnis zu lüften.
 
-68
-00:07:09,360 --> 00:07:09,900
+61
+00:07:09,340 --> 00:07:09,900
 Geheimnis?
 
-69
-00:07:10,740 --> 00:07:12,940
+62
+00:07:10,800 --> 00:07:12,900
 Nun, Johann ist einfach zu perfekt.
 
-70
-00:07:13,620 --> 00:07:14,120
+63
+00:07:13,400 --> 00:07:14,140
 Nicht wahr?
 
-71
-00:07:14,120 --> 00:07:20,400
+64
+00:07:16,760 --> 00:07:20,400
 Menschen mit gutem Augenlicht nehmen solche Feinheiten oft nicht wahr.
 
+65
+00:07:21,020 --> 00:07:22,540
+Aber ich spüre genau,
+
+66
+00:07:23,020 --> 00:07:26,420
+wenn sich jemand im ursprünglichen Zustand seines Geistes befindet.
+
+67
+00:07:26,880 --> 00:07:31,020
+Ein Zustand, den man nur erreichen kann, wenn man nicht von dieser Welt ist.
+
+68
+00:07:31,420 --> 00:07:31,960
+Nirvana.
+
+69
+00:07:32,500 --> 00:07:35,240
+Aber Johan treibt auf dieser Welt sein Unwesen und Weh.
+
+70
+00:07:35,620 --> 00:07:37,480
+Es gibt dutzende Aufzeichnungen dazu.
+
+71
+00:07:37,800 --> 00:07:39,240
+Lasten aus seiner Vergangenheit.
+
 72
-00:07:21,120 --> 00:07:26,400
-Aber ich spüre genau, wenn sich jemand im ursprünglichen Zustand seines Geistes befindet.
-
-73
-00:07:26,860 --> 00:07:31,980
-Ein Zustand, den man nur erreichen kann, wenn man nicht von dieser Welt ist. Nirvana.
-
-74
-00:07:32,500 --> 00:07:35,180
-Aber Johann treibt auf dieser Welt sein Unwesen und wie.
-
-75
-00:07:35,620 --> 00:07:39,240
-Es gibt Dutzende Aufzeichnungen dazu. Lasten aus seiner Vergangenheit.
-
-76
-00:07:39,820 --> 00:07:41,280
+00:07:39,800 --> 00:07:41,280
 Ich werde Ihnen alles vorlesen.
 
-77
+73
 00:07:41,280 --> 00:07:44,240
 Sie werden erkennen, dass die Gefahr durch ihn sehr real ist.
 
-78
-00:07:44,980 --> 00:07:51,140
-Alles begann im Jahr 1986, als ein Zwillingsjunge mit einer lebensgefährlichen Kopfverletzung
+74
+00:07:45,360 --> 00:07:48,510
+Alles begann im Jahr 1986, als ein Zwillingsjunge
 
-79
-00:07:51,140 --> 00:07:54,340
+75
+00:07:48,960 --> 00:07:51,140
+mit einer lebensgefährlichen Kopfverletzung
+
+76
+00:07:51,140 --> 00:07:54,360
 in ein Düsseldorfer Krankenhaus eingeliefert und operiert wurde.
 
-80
-00:08:03,280 --> 00:08:06,700
+77
+00:08:03,280 --> 00:08:06,720
 Tja, und eines Tages ist Johann dann in ihr Leben getreten.
 
-81
-00:08:06,700 --> 00:08:13,700
-Der verstorbene, nein, getötete Richard Braun war der festen Überzeugung,
+78
+00:08:08,380 --> 00:08:18,640
+Der verstorbene, nein, getötete Richard Brown war der festen Überzeugung, dass Johann den Studenten Edmund Wahlen dazu überredet hatte, sich als ihr Sohn auszugeben.
 
-82
-00:08:13,700 --> 00:08:18,620
-dass Johann den Studenten Edmund Walen dazu überredet hatte, sich als ihr Sohn auszugeben.
-
-83
-00:08:19,640 --> 00:08:23,700
+79
+00:08:19,380 --> 00:08:23,940
 Aber dann tauchte Karl auf, ihr echter Sohn, und Johann änderte seine Strategie.
 
-84
+80
 00:08:24,880 --> 00:08:28,560
 Er beschloss, sich an ihn ranzuhängen, um besser an sie ranzukommen.
 
-85
-00:08:29,320 --> 00:08:32,940
-Und schließlich brachte er Walen dazu, sich umzubringen.
+81
+00:08:29,280 --> 00:08:32,960
+Und schließlich brachte er Wahlen dazu, sich umzubringen.
 
-86
-00:08:33,900 --> 00:08:39,060
+82
+00:08:33,700 --> 00:08:39,060
 Fragen Sie sich gar nicht, wie Sie für Ihren neugewonnenen Sohn so schnell väterliche Gefühle entwickelt haben?
 
-87
-00:08:39,800 --> 00:08:45,080
+83
+00:08:39,820 --> 00:08:45,080
 Finden Sie es nicht merkwürdig, dass in Ihrem Umfeld so viele Menschen gestorben sind, denen Sie vertraut haben?
 
+84
+00:08:45,580 --> 00:08:54,040
+Ihr Chauffeur, der Ihnen viele Jahre lang diente, Ihre Haushälterin, die Ihnen vorlas, Ihr Buchhalter, mit dem Sie Vögel beobachteten.
+
+85
+00:08:54,680 --> 00:08:58,580
+Sie alle sind tot. Das alles war Johans akribisch geplantes Werk.
+
+86
+00:08:59,140 --> 00:09:02,080
+Er wollte Sie isolieren, um Sie leichter um seinen Finger zu wickeln.
+
+87
+00:09:03,020 --> 00:09:07,660
+Sie müssen mir helfen, wir müssen alles daran setzen, die Wahrheit ans Licht zu bringen.
+
 88
-00:08:45,580 --> 00:08:50,920
-Ihr Chauffeur, der Ihnen viele Jahre lang diente, Ihre Haushälterin, die Ihnen vorlas,
-
-89
-00:08:51,460 --> 00:08:55,580
-Ihr Buchhalter, mit dem Sie Vögel beobachteten. Sie alle sind tot.
-
-90
-00:08:56,200 --> 00:09:02,080
-Das alles war Johans akribisch geplantes Werk. Er wollte Sie isolieren, um Sie leichter um seinen Finger zu wickeln.
-
-91
-00:09:02,080 --> 00:09:07,660
-Ich flehe Sie an, Sie müssen mir helfen. Wir müssen alles daran setzen, die Wahrheit ans Licht zu bringen.
-
-92
-00:09:08,060 --> 00:09:12,080
+00:09:08,080 --> 00:09:16,120
 Wenn uns das nicht gelingt, dann wird dieser japanische Arzt, Dr. Tenma...
 
-93
-00:09:14,560 --> 00:09:25,740
-Sie meinten, dass Johann mit Menschen so verfährt, als wären sie Ameisen, kleine Schädlinge, die es zu eliminieren gilt?
+89
+00:09:18,940 --> 00:09:25,760
+Sie meinten, dass Johan mit Menschen so verfährt, als wären sie Ameisen, kleine Schädlinge, die es zu eliminieren gilt?
 
-94
-00:09:26,840 --> 00:09:27,200
-Mhm.
-
-95
-00:09:29,200 --> 00:09:31,580
+90
+00:09:29,220 --> 00:09:31,560
 Das berühmte Spiel mit der Ameisenkette.
 
-96
-00:09:33,060 --> 00:09:37,500
+91
+00:09:33,080 --> 00:09:37,500
 Ihnen ist ja mit Sicherheit bekannt, wie ich von der Öffentlichkeit genannt werde.
 
-97
-00:09:38,560 --> 00:09:42,220
-Ganz recht. Graf Hansula, der Blutsauger von Bayern.
+92
+00:09:38,580 --> 00:09:42,240
+Ganz recht, Graf Hansula, der Blutsauger von Bayern.
 
-98
-00:09:43,000 --> 00:09:46,380
-Verstehen Sie das nicht falsch? Mich stört der Name nicht im Geringsten.
+93
+00:09:43,020 --> 00:09:46,380
+Verstehen Sie das nicht falsch, mich stört der Name nicht im Geringsten.
 
-99
-00:09:46,840 --> 00:09:52,220
+94
+00:09:46,860 --> 00:09:52,220
 Denn nur wer in der Lage ist, über sich selbst hinauszuwachsen, ist auch imstande, es zu nähren.
 
-100
-00:09:53,600 --> 00:09:56,900
+95
+00:09:53,640 --> 00:09:56,900
 Das tief in uns allen verborgene Monster.
 
+96
+00:10:00,480 --> 00:10:04,000
+Doch bedauerlicherweise entspricht das gar nicht der Realität.
+
+97
+00:10:04,120 --> 00:10:08,620
+Der Name klingt zwar furchteinflößend, doch ich bin winzig.
+
+98
+00:10:09,360 --> 00:10:12,000
+Ich wollte auch immer mit Ameisen spielen.
+
+99
+00:10:12,840 --> 00:10:14,600
+Wir sind uns ähnlich.
+
+100
+00:10:16,020 --> 00:10:18,420
+Johann versucht nur zu der Person zu werden,
+
 101
-00:09:56,900 --> 00:10:04,020
-Doch bedauerlicherweise entspricht das gar nicht der Realität
+00:10:18,920 --> 00:10:21,060
+die ich selbst immer schon werden wollte.
 
 102
-00:10:04,020 --> 00:10:06,240
-Der Name klingt zwar furchteinflößend
+00:10:21,700 --> 00:10:25,640
+Und die Menschen beteten den Drachen an, der dem Tiere die Macht gab.
 
 103
-00:10:06,240 --> 00:10:08,660
-Doch ich bin winzig
+00:10:26,900 --> 00:10:31,220
+und sprachen, wer ist dem Tier gleich und wer kann mit ihm kriegen?
 
 104
-00:10:08,660 --> 00:10:12,040
-Ich wollte auch immer mit Ameisen spielen
+00:10:32,020 --> 00:10:35,280
+- Die Offenbarung des Johannes, richtig?
 
 105
-00:10:12,040 --> 00:10:14,640
-Wir sind uns ähnlich
+00:10:36,480 --> 00:10:39,080
+- Das Monster in Johann kann einzig und allein
 
 106
-00:10:14,640 --> 00:10:18,420
-Johann versucht nur zu der Person zu werden
+00:10:39,080 --> 00:10:43,020
+von einem noch zerstörerischen Monster bezwungen werden.
 
 107
-00:10:18,420 --> 00:10:21,080
-Die ich selbst immer schon werden wollte
+00:10:57,600 --> 00:10:58,200
+(Vogelzwitschern)
 
 108
-00:10:21,080 --> 00:10:25,640
-Und die Menschen beteten den Drachen an, der dem Tiere die Macht gab
+00:11:01,560 --> 00:11:03,300
+-Vater. -Hm?
 
 109
-00:10:25,640 --> 00:10:31,160
-Und sie beteten das Tier an und sprachen, wer ist dem Tier gleich und wer kann mit ihm kriegen?
+00:11:04,280 --> 00:11:07,260
+Worüber habt ihr gesprochen? Es ist schon morgen.
 
 110
-00:10:32,580 --> 00:10:35,260
-Die Offenbarung des Johannes, richtig?
+00:11:07,980 --> 00:11:11,920
+Carl? Weißt du vielleicht, wo Johann ist?
 
 111
-00:10:36,400 --> 00:10:43,020
-Das Monster in Johann kann einzig und allein von einem noch zerstörerischen Monster bezwungen werden.
+00:11:12,280 --> 00:11:15,160
+Ja, ich hab mit ihm geredet. Er ist noch im Büro.
 
 112
-00:10:55,640 --> 00:11:07,260
-Vater, worüber habt ihr gesprochen? Es ist schon morgen.
+00:11:15,320 --> 00:11:17,960
+Danach wollte er gleich zur Feier in die Bibliothek kommen.
 
 113
-00:11:08,100 --> 00:11:11,920
-Karl, weißt du vielleicht, wo Johann ist?
+00:11:18,680 --> 00:11:21,160
+Aber du scheinst sehr erschöpft zu sein.
 
 114
-00:11:12,400 --> 00:11:17,960
-Ja, ich habe mit ihm geredet. Er ist noch im Büro. Danach wollte er gleich zur Feier in die Bibliothek kommen.
+00:11:21,620 --> 00:11:24,080
+Vielleicht wäre es doch besser, abzusagen.
 
 115
-00:11:18,680 --> 00:11:24,080
-Aber du scheinst sehr erschöpft zu sein. Vielleicht wäre es doch besser, abzusagen.
-
-116
 00:11:25,000 --> 00:11:29,060
 Nein. Mach bitte alles für unsere Abfahrt bereit.
 
-117
-00:11:31,840 --> 00:11:37,400
+116
+00:11:31,860 --> 00:11:37,400
 Tötet ihn. Tötet ihn. Tötet ihn.
 
-118
-00:11:44,620 --> 00:11:51,360
+117
+00:11:44,660 --> 00:11:51,360
 Dr. Tenma, sie trifft keine Schuld. Sie haben getan, wozu sie sich als Arzt verpflichtet haben.
 
-119
-00:11:52,100 --> 00:11:53,980
+118
+00:11:51,360 --> 00:11:53,980
 Sie trifft keine Schuld.
 
-120
-00:11:55,680 --> 00:11:57,000
+119
+00:11:55,680 --> 00:11:57,020
 Das Leben geht weiter.
 
-121
-00:11:57,980 --> 00:12:00,760
+120
+00:11:57,920 --> 00:12:00,760
 Und sie werden weiterhin vielen Menschen das Leben retten.
 
-122
-00:12:03,940 --> 00:12:04,700
+121
+00:12:04,120 --> 00:12:04,700
 Nina.
 
-123
-00:12:21,360 --> 00:12:32,880
+122
+00:12:31,280 --> 00:12:32,880
 Das ist wirklich schade.
 
-124
+123
 00:12:33,360 --> 00:12:35,260
 Bist du dir sicher, dass du aufhören willst?
 
-125
-00:12:35,620 --> 00:12:38,340
+124
+00:12:35,600 --> 00:12:38,360
 Du hast dich doch gerade erst richtig eingearbeitet.
 
-126
-00:12:38,640 --> 00:12:40,480
+125
+00:12:38,660 --> 00:12:40,480
 Haben Sie vielen Dank für alles.
 
-127
-00:12:41,260 --> 00:12:43,860
+126
+00:12:41,220 --> 00:12:43,860
 Schau und melde dich, wenn du wieder in der Gegend bist, Nina.
 
+127
+00:12:44,500 --> 00:12:44,980
+Versprochen.
+
 128
-00:12:44,460 --> 00:12:46,200
-Versprochen. Auf Wiedersehen.
+00:12:45,480 --> 00:12:46,200
+Auf Wiedersehen.
 
 129
-00:12:46,200 --> 00:12:51,960
-Ein Jammer, sie wird mir fehlen
+00:12:49,240 --> 00:12:51,900
+Ein Jammer, sie wird mir fehlen.
 
 130
-00:12:51,960 --> 00:12:56,520
-Äh, hallo? Ich würde gern Lotte Frank sprechen
+00:12:52,980 --> 00:12:53,820
+Äh, hallo?
 
 131
-00:12:56,520 --> 00:12:59,200
-Lotte ist leider gerade außer Haus
+00:12:54,280 --> 00:12:56,460
+Ich würde gerne Lotte Frank sprechen.
 
 132
-00:12:59,200 --> 00:13:05,420
-Verstehe. Könnten Sie ihr bitte ausrichten, dass ich heute mit dem 15-Uhr-Zug von München abreise?
+00:12:56,980 --> 00:12:59,180
+Lotte ist leider gerade außer Haus.
 
 133
-00:13:05,600 --> 00:13:08,660
-Ich werde sie ja ausrichten. Wie war der Name nochmal?
+00:12:59,800 --> 00:13:00,360
+Verstehe.
 
 134
-00:13:08,660 --> 00:13:13,200
-Mein Name ist Nina. Nina Fortner
+00:13:01,060 --> 00:13:02,400
+Könnten Sie ihr bitte ausrichten,
 
 135
-00:13:13,200 --> 00:13:40,420
-Schubert ist da.
+00:13:02,620 --> 00:13:05,400
+dass ich heute mit dem 15 Uhr Zug von München abreise?
 
 136
-00:13:40,420 --> 00:13:42,320
-Sein Wagen hält am Hintereingang.
+00:13:05,560 --> 00:13:06,880
+Ich werde sie ja ausrichten.
 
 137
-00:13:43,200 --> 00:13:49,460
-Endlich zeigt sich der Blutsauger von Bayern in der Öffentlichkeit.
+00:13:07,580 --> 00:13:08,640
+Wie war der Name nochmal?
 
 138
-00:13:49,940 --> 00:13:51,480
-Psst, nicht, dass er das hört.
+00:13:09,420 --> 00:13:10,680
+Mein Name ist Nina.
 
 139
-00:13:52,700 --> 00:13:53,940
-Haben Sie die Gäste gesehen?
+00:13:10,680 --> 00:13:13,340
+Nina Fortner
 
 140
-00:13:54,480 --> 00:13:59,340
-Allerdings. Es sind Vertreter von Konzernen aus ganz Europa, dem USA und Japan anwesend.
+00:13:39,700 --> 00:13:42,300
+Schubert ist da, sein Wagen hält am Hintereingang
 
 141
-00:13:59,620 --> 00:14:02,500
-Botschafter, Diplomaten, Größen aus Politik und Wirtschaft.
+00:13:46,260 --> 00:13:49,840
+"Endlich zeigt sich der Blutsauger von Bayern in der Öffentlichkeit."
 
 142
-00:14:03,200 --> 00:14:06,220
-Dabei geht es nur um die Bücherschenkung an eine Bibliothek.
+00:13:49,840 --> 00:13:51,420
+"Psst, nicht dass er das hört."
 
 143
-00:14:06,500 --> 00:14:11,260
-Ja, jede noch so kleine seiner Handlungen wirkt sich auf die gesamte europäische
+00:13:52,420 --> 00:13:54,380
+"Haben Sie die Gäste gesehen?"
 
 144
-00:14:11,260 --> 00:14:13,640
-und teils auch internationale Wirtschaft aus.
+00:13:54,380 --> 00:13:59,340
+"Allerdings. Es sind Vertreter von Konzernen aus ganz Europa, dem USA und Japan anwesend.
 
 145
-00:14:13,900 --> 00:14:16,480
-Es ist bemerkenswert, dass so viele Menschen anreisen,
+00:13:59,640 --> 00:14:02,460
+Botschafter, Diplomaten, Größen aus Politik und Wirtschaft."
 
 146
-00:14:16,580 --> 00:14:19,880
-um jemanden zu sehen, der in der Öffentlichkeit kaum präsent ist.
+00:14:03,060 --> 00:14:06,740
+"Dabei geht es nur um die Bücherschenkung an eine Bibliothek."
 
 147
-00:14:20,100 --> 00:14:21,980
-Auf mich macht diese Schenkung den Eindruck,
+00:14:06,740 --> 00:14:10,520
+"Ja, jede noch so kleine seiner Handlungen wirkt sich auf die gesamte
 
 148
-00:14:22,200 --> 00:14:25,060
-als wolle er schon mal damit beginnen, seinen Nachlass zu verteilen.
+00:14:10,520 --> 00:14:13,620
+europäische und teils auch internationale Wirtschaft aus.
 
 149
+00:14:13,860 --> 00:14:17,560
+Es ist bemerkenswert, dass so viele Menschen anreisen, um jemanden zu sehen,
+
+150
+00:14:17,860 --> 00:14:19,880
+der in der Öffentlichkeit kaum präsent ist.
+
+151
+00:14:20,120 --> 00:14:21,980
+Auf mich macht diese Schenkung den Eindruck,
+
+152
+00:14:22,180 --> 00:14:25,060
+als wolle er ja schon mal damit beginnen, seinen Nachlass zu verteilen.
+
+153
 00:14:25,420 --> 00:14:26,740
 Jetzt hören Sie aber auf.
 
-150
+154
 00:14:27,380 --> 00:14:29,820
 Er ist das Flaggschiff der europäischen Führungsschicht.
 
-151
+155
 00:14:29,920 --> 00:14:31,840
 Ich hoffe, er bleibt uns noch lange erhalten.
 
-152
-00:14:32,420 --> 00:14:32,900
-Karl?
-
-153
-00:14:35,540 --> 00:14:36,020
-Ja?
-
-154
-00:14:37,080 --> 00:14:40,480
-Ich habe in meinem Arbeitszimmer ein wichtiges Dokument vergessen.
-
-155
-00:14:41,260 --> 00:14:42,820
-Was denn für ein Dokument?
-
 156
-00:14:43,120 --> 00:14:44,020
-Das ist egal.
+00:14:32,460 --> 00:14:32,900
+Carl?
 
 157
-00:14:44,200 --> 00:14:45,460
-Fahr in die Villa und hol es.
+00:14:35,580 --> 00:14:36,020
+Ja?
 
 158
-00:14:46,060 --> 00:14:47,640
-Es liegt auf dem Schreibtisch.
+00:14:36,780 --> 00:14:40,460
+- Ich habe in meinem Arbeitszimmer ein wichtiges Dokument vergessen.
 
 159
-00:14:48,040 --> 00:14:49,680
-Aber Vater...
+00:14:41,120 --> 00:14:42,800
+- Was denn für ein Dokument?
 
 160
-00:14:49,680 --> 00:14:51,500
-Johann dürfte gleich hier sein.
+00:14:43,160 --> 00:14:45,460
+- Das ist egal, fahr in die Villa und hol es.
 
 161
-00:14:52,100 --> 00:14:53,420
-Er übernimmt dann für dich.
+00:14:46,020 --> 00:14:47,160
+Es liegt auf dem Schreibtisch.
 
 162
-00:14:56,120 --> 00:14:57,640
-Ja, ist gut.
+00:14:48,300 --> 00:14:49,420
+- Aber Vater...
 
 163
-00:15:11,260 --> 00:15:41,240
-Vielen Dank.
+00:14:49,720 --> 00:14:51,500
+- Johann dürfte gleich hier sein.
 
 164
-00:15:41,260 --> 00:15:43,900
-Wenn wir nicht bald handeln, wird Tenma...
+00:14:52,080 --> 00:14:53,420
+Er übernimmt dann für dich.
 
 165
-00:15:43,900 --> 00:15:48,040
-Er wird die Sache selbst in die Hand nehmen und einen unverzeihlichen Fehler begehen.
+00:14:56,360 --> 00:14:57,640
+- Ja, ist gut.
 
 166
-00:15:52,700 --> 00:15:54,180
-Seien Sie unbesorgt.
+00:15:16,420 --> 00:15:19,680
+"Würden Sie mich bitte über den Stand der Ermittlungen aufklären?"
 
 167
-00:15:54,900 --> 00:15:58,060
-Die Ermittlungen laufen auf Hochtouren. Wir erzielen große Fortschritte.
+00:15:19,680 --> 00:15:21,660
+"Es läuft soweit alles bestens."
 
 168
-00:16:00,160 --> 00:16:01,560
-Ich empfehle mich.
+00:15:21,660 --> 00:15:22,980
+"Das nennen Sie bestens?
 
 169
-00:16:02,240 --> 00:16:04,240
-Johann existiert, und zwar direkt vor Ihren Augen.
+00:15:23,120 --> 00:15:26,800
+Ich habe Ihnen den Aufenthaltsort von Tenma verraten, weil ich davon ausging, dass Sie
 
 170
-00:16:04,780 --> 00:16:06,100
-Nehmen Sie ihn endlich fest.
+00:15:26,800 --> 00:15:28,720
+einschreiten und Schlimmeres verhindern würden.
 
 171
-00:16:07,100 --> 00:16:10,220
-Sie sind ein Kriminalpsychologe wie aus dem Lehrbuch.
+00:15:29,240 --> 00:15:31,120
+Aber Sie treten weiter auf der Stelle.
 
 172
-00:16:10,700 --> 00:16:12,100
-Und ja, ich gebe Ihnen recht.
+00:15:31,620 --> 00:15:35,140
+Haben Sie den Sekretär von Hans-Georg Schubert schon näher unter die Lupe genommen?
 
 173
-00:16:12,740 --> 00:16:15,520
-Dass Johann existiert, lässt sich nicht von der Hand weisen.
+00:15:36,020 --> 00:15:39,800
+Es gibt kein Zweifel, dass Johann Liebert von Anfang an hinter den Paarmorgen gesteckt hat.
 
 174
-00:16:20,800 --> 00:16:22,360
-Er existiert.
+00:15:40,060 --> 00:15:44,060
+Hören Sie mir überhaupt zu, wenn wir nicht bald handeln, wird Tenma...
 
 175
-00:16:24,680 --> 00:16:26,500
-Allerdings nur in Tenmers Kopf.
+00:15:44,060 --> 00:15:48,040
+Er wird die Sache selbst in die Hand nehmen und einen unverzeihlichen Fehler begehen.
 
 176
-00:16:28,320 --> 00:16:29,920
-Wie ist das Verhör gelaufen?
+00:15:52,740 --> 00:15:54,160
+Seien Sie unbesorgt.
 
 177
+00:15:54,880 --> 00:15:58,060
+Die Ermittlungen laufen auf Hochtouren, wir erzählen große Fortschritte.
+
+178
+00:16:00,260 --> 00:16:01,580
+Ich empfehle mich.
+
+179
+00:16:02,260 --> 00:16:04,260
+Johann existiert und zwar direkt vor Ihren Augen.
+
+180
+00:16:07,120 --> 00:16:10,220
+Sie sind ein Kriminalpsychologe wie aus dem Lehrbuch.
+
+181
+00:16:10,740 --> 00:16:12,100
+Und ja, ich gebe Ihnen recht,
+
+182
+00:16:12,740 --> 00:16:15,540
+dass Johann existiert, lässt sich nicht von der Hand weisen.
+
+183
+00:16:21,460 --> 00:16:22,380
+Er existiert.
+
+184
+00:16:24,700 --> 00:16:26,520
+Allerdings nur in Tenmas Kopf.
+
+185
+00:16:28,360 --> 00:16:29,920
+Wie ist das Verhör gelaufen?
+
+186
 00:16:30,080 --> 00:16:31,820
 Konnten Sie noch etwas aus ihm rauskriegen?
 
-178
-00:16:32,220 --> 00:16:34,960
-Leider nicht. Er wiederholt da drin immer nur das Gleiche.
+187
+00:16:32,260 --> 00:16:34,940
+Leider nicht, er wiederholt da drinnen immer nur das Gleiche.
 
-179
-00:16:35,960 --> 00:16:39,360
-Dass er das Gewehr vor ein paar Tagen an einen Japaner verkauft habe.
+188
+00:16:36,020 --> 00:16:39,380
+dass er das Gewehr vor ein paar Tagen an einen Japaner verkauft habe.
 
-180
-00:16:39,960 --> 00:16:44,180
-Eine Mauser SR-93. Sollen wir ihn ein bisschen in die Mangel nehmen?
+189
+00:16:39,960 --> 00:16:41,700
+Eine Mauser SR-93.
 
-181
-00:16:44,860 --> 00:16:47,400
-Nein, offensichtlich weiß er nicht mehr.
+190
+00:16:42,320 --> 00:16:44,180
+Sollen wir ihn ein bisschen in die Mangel nehmen?
 
-182
-00:16:48,000 --> 00:16:48,320
+191
+00:16:44,860 --> 00:16:45,280
+Nein.
+
+192
+00:16:45,840 --> 00:16:47,400
+Offensichtlich weiß er nicht mehr.
+
+193
+00:16:47,980 --> 00:16:48,300
 Tja.
 
-183
+194
 00:16:49,020 --> 00:16:52,980
 Eine Mauser SR-93, wenn ich mich nicht irre, ist das ein Scharfschützengewehr.
 
-184
-00:16:53,400 --> 00:16:55,700
-Ja, und ein sehr gutes sogar.
+195
+00:16:53,380 --> 00:16:53,680
+Ja.
 
-185
+196
+00:16:54,400 --> 00:16:55,700
+Und ein sehr gutes sogar.
+
+197
 00:16:57,400 --> 00:16:59,200
 Wen will er denn damit bloß umlegen?
 
-186
-00:17:03,940 --> 00:17:05,960
-Ich denke wie Tenma.
+198
+00:17:03,840 --> 00:17:14,520
+"Ich denke wie Tenma. Ich denke wie Tenma. Ich bin im Besitz eines extrem präzisen Scharfschützengewehres.
 
-187
-00:17:05,960 --> 00:17:13,140
-Ich denke wie Tenma Ich bin im Besitz eines extrem präzisen
+199
+00:17:17,140 --> 00:17:27,000
+Ich denke wie Tenma. Ich denke wie er und werde. Ich werde zu Johann. Wen töte ich mit dem Gewehr?
 
-188
-00:17:13,140 --> 00:17:20,020
-Scharfschützengewehres Ich denke wie Tenma
+200
+00:17:27,000 --> 00:17:30,480
+Ich habe den Klinikdirektor und zwei Kollegen getötet.
 
-189
-00:17:20,020 --> 00:17:24,260
-Ich denke wie er und werde Ich werde zu Johann
+201
+00:17:31,100 --> 00:17:34,360
+Ich habe mehrere Ehepaare mittleren Alters getötet.
 
-190
-00:17:24,260 --> 00:17:29,780
-Wen töte ich mit dem Gewehr Ich habe den Klinikdirektor und zwei Kollegen
+202
+00:17:35,080 --> 00:17:37,380
+Wen visiere ich als mein nächstes Opfer an?
 
-191
-00:17:29,780 --> 00:17:33,580
-getötet Ich habe mehrere Ehepaare mittleren Alters
+203
+00:17:39,420 --> 00:17:42,160
+Ich und das Chaos.
 
-192
-00:17:33,580 --> 00:17:45,800
-getötet. Wehen wir Sirich als mein nächstes Opfer an. Ich und das Chaos. Ich verehre das Chaos.
+204
+00:17:43,660 --> 00:17:45,800
+Ich verehre das Chaos.
 
-193
-00:18:03,580 --> 00:18:09,180
+205
+00:18:06,780 --> 00:18:09,220
 Sie sollten was essen, Dr. Reichwein.
 
-194
-00:18:10,520 --> 00:18:13,340
-Ach, hab vielen Dank, Dieter.
+206
+00:18:11,200 --> 00:18:13,360
+Hab vielen Dank, Dieter.
 
-195
-00:18:14,260 --> 00:18:16,060
+207
+00:18:14,260 --> 00:18:16,080
 Du brauchst dir keine Sorgen um mich zu machen.
 
-196
+208
 00:18:19,200 --> 00:18:21,580
 Ganz so schnell lasse ich mich nicht unterkriegen.
 
-197
+209
 00:18:22,360 --> 00:18:24,140
 Man mag es mir vielleicht nicht ansehen,
 
-198
+210
 00:18:24,280 --> 00:18:26,640
 aber meine Zeit als Arzt beim Bundesgrenzschutz
 
-199
-00:18:26,640 --> 00:18:28,620
-hat mich körperlich und geistig abgehärtet.
-
-200
-00:18:29,260 --> 00:18:31,840
-Ich werde alles unternehmen, um deinen Freund zu retten.
-
-201
-00:18:32,320 --> 00:18:33,260
-Das verspreche ich.
-
-202
-00:18:33,580 --> 00:18:38,740
-Ein alter Polizeiarzt ist nicht zu unterschätzen.
-
-203
-00:18:39,760 --> 00:18:44,640
-So, und jetzt werde ich mich dem leckeren Frühstück widmen, das du extra für mich zubereitet hast.
-
-204
-00:18:46,200 --> 00:18:48,980
-Mit leerem Magen hat noch keiner etwas Sinnvolles vollbracht.
-
-205
-00:19:03,580 --> 00:19:05,080
-Das ist es.
-
-206
-00:19:07,340 --> 00:19:08,880
-Was haben Sie denn plötzlich?
-
-207
-00:19:09,240 --> 00:19:11,780
-Schuberts Bücherschenkung. Ich muss sofort dahin.
-
-208
-00:19:13,400 --> 00:19:15,380
-Glauben Sie, dass Penma dort ist?
-
-209
-00:19:16,040 --> 00:19:19,540
-Du wartest hier, bis ich wieder da bin. Rühr dich nicht vom Fleck.
-
-210
-00:19:24,140 --> 00:19:25,660
-Es ist Schubert.
-
 211
-00:19:26,860 --> 00:19:29,960
-Ich muss unverzüglich mit Hans-Georg Schubert sprechen.
+00:18:27,000 --> 00:18:28,620
+und geistig abgehärtet.
 
 212
-00:19:30,380 --> 00:19:31,380
-Rufen Sie ihn an.
+00:18:29,300 --> 00:18:31,820
+Ich werde alles unternehmen, um deinen Freund zu retten.
 
 213
-00:19:31,380 --> 00:19:32,200
-Jawohl.
+00:18:32,360 --> 00:18:33,260
+Das verspreche ich.
 
 214
-00:19:33,580 --> 00:19:39,560
-Ach, ist Schubert heute nicht bei der Feier anlässlich der Bücherschenkung in der Bibliothek der Universität München?
+00:18:36,060 --> 00:18:38,740
+Ein alter Polizeiarzt ist nicht zu unterschätzen.
 
 215
-00:19:40,400 --> 00:19:42,440
-Schicken Sie ein Einsatzkommando hin.
+00:18:39,720 --> 00:18:42,680
+So, und jetzt werde ich mich dem leckeren Frühstück widmen,
 
 216
-00:19:42,840 --> 00:19:43,060
-Hä?
+00:18:42,780 --> 00:18:44,640
+das du extra für mich zubereitet hast.
 
 217
-00:19:43,820 --> 00:19:47,640
-Tenmas nächstes Opfer ist Hans-Georg Schubert.
+00:18:46,140 --> 00:18:48,980
+Mit leerem Magen hat noch keiner etwas Sinnvolles vollbracht.
 
 218
-00:19:48,620 --> 00:19:53,780
-Und jetzt möchte ich den Mann auf die Bühne bitten, dem wir diese großzügige Schenkung zu verdanken haben.
+00:19:09,660 --> 00:19:11,880
+Schuberts Bücherschenkung, ich muss sofort dahin.
 
 219
-00:19:54,160 --> 00:19:57,320
-Meine Damen und Herren, hier ist Hans-Georg Schubert.
+00:19:13,540 --> 00:19:15,420
+Glauben Sie, dass Penwell dort ist?
 
 220
-00:20:03,580 --> 00:20:11,580
-Ein Sekretär. Wissen Sie, wo sich Johann gerade befindet?
+00:19:16,360 --> 00:19:18,220
+Du wartest hier, bis ich wieder da bin.
 
 221
-00:20:14,700 --> 00:20:16,900
-Ah, er steht da hinten.
+00:19:18,460 --> 00:19:19,560
+Rühr dich nicht von Fleck!
 
 222
-00:20:29,000 --> 00:20:30,100
-Sehr gut.
+00:19:24,240 --> 00:19:25,660
+Das ist Schubert.
 
 223
-00:20:33,580 --> 00:20:55,020
-Da ist er.
+00:19:26,360 --> 00:19:26,620
+Hä?
 
 224
-00:20:56,300 --> 00:20:59,500
-Ich habe das Monster ins Leben zurückgeholt.
+00:19:26,920 --> 00:19:26,980
+Schubert!
 
 225
+00:19:27,000 --> 00:19:29,960
+Ich muss unverzüglich mit Hans-Georg Schubert sprechen.
+
+226
+00:19:30,420 --> 00:19:31,400
+Rufen Sie ihn an.
+
+227
+00:19:31,720 --> 00:19:32,200
+Jawohl.
+
+228
+00:19:33,680 --> 00:19:39,540
+Ach, ist Schubert heute nicht bei der Feier anlässlich der Bücherschenkung in der Bibliothek der Universität München?
+
+229
+00:19:40,640 --> 00:19:42,440
+Schicken Sie ein Einsatzkommando hin.
+
+230
+00:19:42,800 --> 00:19:43,060
+Hä?
+
+231
+00:19:43,820 --> 00:19:47,640
+Tenma's nächstes Opfer ist Hans-Georg Schubert.
+
+232
+00:19:48,580 --> 00:19:53,780
+Und jetzt möchte ich den Mann auf die Bühne bitten, dem wir diese großzügige Schenkung zu verdanken haben.
+
+233
+00:19:53,780 --> 00:19:57,460
+Meine Damen und Herren, hier ist Hans-Georg Schubert!
+
+234
+00:20:07,700 --> 00:20:11,580
+Mein Sekretär! Wissen Sie, wo sich Johann gerade befindet?
+
+235
+00:20:14,760 --> 00:20:16,860
+Ah, er steht da hinten.
+
+236
+00:20:28,340 --> 00:20:30,120
+Sehr gut.
+
+237
+00:20:56,240 --> 00:20:59,540
+Ich habe das Monster ins Leben zurückgeholt.
+
+238
 00:21:00,420 --> 00:21:01,160
 Ich bin schuld.
 
-226
-00:21:03,580 --> 00:21:08,300
+239
+00:21:07,620 --> 00:21:08,300
 Nina!
 
-227
-00:21:14,100 --> 00:21:16,680
-Lotte! Bist du extra hergekommen?
+240
+00:21:14,040 --> 00:21:16,680
+Latte! Bist du extra hergekommen?
 
-228
-00:21:18,200 --> 00:21:21,320
+241
+00:21:18,020 --> 00:21:21,320
 Ich reise ab. Leider bin ich hier nicht weitergekommen.
 
-229
-00:21:22,060 --> 00:21:24,120
-Ich muss jetzt woanders nach ihm suchen, Lotte.
+242
+00:21:22,040 --> 00:21:23,760
+Ich muss jetzt woanders nach ihm suchen.
 
-230
-00:21:24,940 --> 00:21:28,140
-Dabei haben wir uns so nett angefreundet. Wirklich schade.
+243
+00:21:23,780 --> 00:21:28,140
+Lotte. Dabei haben wir uns so nett angefreundet. Wirklich schade.
 
-231
-00:21:28,740 --> 00:21:32,080
-Seid ihr beide... Ihr beide, ihr seid doch Zwillinge, oder nicht?
+244
+00:21:28,920 --> 00:21:35,560
+Seid ihr beide, ihr beide, ihr seid doch Zwillinge, oder nicht? Ich hab recht, oder? Ihr seid
 
-232
-00:21:33,580 --> 00:21:36,100
-Ich hab recht, oder? Ihr seid Zwillinge.
+245
+00:21:35,560 --> 00:21:41,760
+Zwillinge. Was ist das für ein Bilderbuch? Er hat darin gelesen und ist plötzlich zusammengebrochen.
 
-233
-00:21:37,280 --> 00:21:38,760
-Was ist das für ein Bilderbuch?
+246
+00:21:41,760 --> 00:21:44,940
+Ein...ein Buch!
 
-234
-00:21:39,200 --> 00:21:41,760
-Er hat darin gelesen und ist plötzlich zusammengebrochen.
-
-235
-00:21:43,860 --> 00:21:44,940
-Ein Buch.
-
-236
-00:22:03,580 --> 00:22:26,180
+247
+00:22:24,340 --> 00:22:26,220
 Tötet ihn!
 
-237
-00:22:33,580 --> 00:23:03,560
-Untertitelung des ZDF, 2020
+248
+00:23:32,020 --> 00:23:33,420
+[Musik]
 
-238
-00:23:03,580 --> 00:23:33,560
-Untertitelung des ZDF, 2020
-
-239
-00:23:33,580 --> 00:23:54,300
-Untertitelung des ZDF, 2020
+249
+00:23:39,540 --> 00:23:40,900
+[Musik]
 

@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,740
+00:00:01,740 --> 00:00:03,720
 N'insistez pas, c'est de la perte de temps.
 
 2
@@ -11,7 +11,7 @@ Le professeur n'a jamais fréquenté de prostituées,
 et en plus, celle-ci a été assassinée.
 
 4
-00:00:08,760 --> 00:00:10,600
+00:00:08,780 --> 00:00:10,600
 Ne venez pas fourrer votre nez ici, cher monsieur.
 
 5
@@ -19,11 +19,11 @@ Ne venez pas fourrer votre nez ici, cher monsieur.
 Allez-vous-en, ça vaudra mieux.
 
 6
-00:00:12,620 --> 00:00:14,180
+00:00:12,620 --> 00:00:14,160
 Je vous conseille de ne pas trop pousser.
 
 7
-00:00:14,680 --> 00:00:15,940
+00:00:14,680 --> 00:00:15,960
 Ça pourrait nuire à votre carrière.
 
 8
@@ -31,11 +31,11 @@ Je vous conseille de ne pas trop pousser.
 Nuire à ma carrière ? Vous allez m'accuser de diffamation ?
 
 9
-00:00:20,040 --> 00:00:22,360
+00:00:20,040 --> 00:00:22,380
 C'est au-dessus des moyens d'un petit secrétaire comme vous.
 
 10
-00:00:22,780 --> 00:00:25,720
+00:00:22,760 --> 00:00:25,720
 Et je suppose que vous répugnez avoir le nom du docteur Borsman
 
 11
@@ -43,1228 +43,1228 @@ Et je suppose que vous répugnez avoir le nom du docteur Borsman
 impliqué dans tout ça.
 
 12
-00:00:26,940 --> 00:00:31,020
-Dois-je en déduire que c'est une menace ?
+00:00:28,820 --> 00:00:32,140
+- Dois-je en déduire que c'est une menace ? - Loin de moi, cette idée.
 
 13
-00:00:31,020 --> 00:00:32,160
-Loin de moi cette idée
+00:00:32,960 --> 00:00:35,540
+Je souhaite simplement que la vérité soit faite sur cette affaire.
 
 14
-00:00:32,160 --> 00:00:35,560
-Je souhaite simplement que la vérité soit faite sur cette affaire
-
-15
-00:00:56,940 --> 00:01:26,920
-Sous-titrage ST' 501
-
-16
-00:01:26,940 --> 00:01:56,920
-Sous-titrage ST' 501
-
-17
-00:01:56,940 --> 00:02:04,820
-Aucun moyen de savoir quoi que ce soit.
-
-18
-00:02:05,700 --> 00:02:07,540
+00:02:05,380 --> 00:02:07,560
 Ce n'est pas le secrétaire d'un grand député pour rien.
 
-19
-00:02:08,560 --> 00:02:10,200
+15
+00:02:08,540 --> 00:02:10,200
 Bientôt, nous en saurons plus.
 
-20
-00:02:10,680 --> 00:02:12,920
-Croyez-vous vraiment qu'un député de son importance
+16
+00:02:10,680 --> 00:02:15,760
+Croyez-vous vraiment qu'un député de son importance puisse avoir un rapport quelconque avec une petite prostituée ?
 
-21
-00:02:12,920 --> 00:02:15,760
-puisse avoir un rapport quelconque avec une petite prostituée ?
-
-22
+17
 00:02:15,760 --> 00:02:17,680
 Ce n'était pas une petite prostituée.
 
-23
-00:02:19,220 --> 00:02:21,880
+18
+00:02:19,440 --> 00:02:21,880
 Elle connaissait tous les grands patrons du monde de la finance.
 
-24
-00:02:23,780 --> 00:02:25,680
-Pour l'instant, nous n'avons qu'un témoignage
+19
+00:02:23,820 --> 00:02:28,640
+Pour l'instant, nous n'avons qu'un témoignage stipulant qu'elle a été vue dans l'hôtel où séjournait le docteur Borsman.
 
-25
-00:02:25,680 --> 00:02:28,640
-stipulant qu'elle a été vue dans l'hôtel où séjournait le docteur Borsman.
-
-26
-00:02:29,720 --> 00:02:32,760
+20
+00:02:29,660 --> 00:02:32,740
 Les indices sont trop minces pour prouver qu'ils avaient une relation.
 
+21
+00:02:32,740 --> 00:02:35,420
+- A-t-on vérifié de près la liste de ses clients?
+
+22
+00:02:35,920 --> 00:02:38,360
+- Nous n'avons pas encore réussi à trouver le mot de passe
+
+23
+00:02:38,360 --> 00:02:40,020
+qui permettrait de débloquer la disquette.
+
+24
+00:02:40,760 --> 00:02:43,080
+- Je vais m'en charger. Donnez-moi la disquette.
+
+25
+00:02:43,940 --> 00:02:46,520
+- Avec joie. Mais avec votre emploi du temps,
+
+26
+00:02:46,800 --> 00:02:47,780
+ça ne va pas créer de problème.
+
 27
-00:02:33,500 --> 00:02:35,960
-A-t-on vérifié de près la liste de ses clients ?
+00:02:48,280 --> 00:02:49,740
+- Je prendrai le temps et voilà tout.
 
 28
-00:02:35,960 --> 00:02:40,040
-Nous n'avons pas encore réussi à trouver le mot de passe qui permettrait de débloquer la disquette.
+00:02:50,820 --> 00:02:53,660
+- Dites, chef, il y a une question qui me travaille
 
 29
-00:02:40,780 --> 00:02:43,080
-Je vais m'en charger. Donnez-moi la disquette.
+00:02:53,660 --> 00:02:56,000
+depuis très longtemps. - Ah oui? Quoi?
 
 30
-00:02:43,940 --> 00:02:47,780
-Avec joie. Mais avec votre emploi du temps, ça ne va pas créer de problème.
+00:02:56,680 --> 00:02:58,740
+- Dites-moi, quand trouvez-vous le temps pour dormir?
 
 31
-00:02:48,280 --> 00:02:49,720
-Je prendrai le temps et voilà tout.
+00:02:59,700 --> 00:03:01,880
+- Je ne vois pas en quoi ça concerne cette affaire.
 
 32
-00:02:50,600 --> 00:02:54,460
-Dites, chef, il y a une question qui me travaille depuis très longtemps.
-
-33
-00:02:55,280 --> 00:02:56,600
-Ah oui ? Quoi ?
-
-34
-00:02:56,600 --> 00:02:59,660
-Dites-moi, quand trouvez-vous le temps pour dormir ?
-
-35
-00:02:59,660 --> 00:03:01,900
-Je ne vois pas en quoi ça concerne cette affaire.
-
-36
-00:03:02,100 --> 00:03:02,840
-Non, c'est que...
-
-37
-00:03:02,840 --> 00:03:05,340
+00:03:03,080 --> 00:03:05,360
 Question idiote, fin de la récré, on se met au boulot.
 
-38
-00:03:10,120 --> 00:03:12,280
+33
+00:03:10,140 --> 00:03:12,320
 Quand vas-tu te décider à lui parler ?
 
-39
-00:03:12,280 --> 00:03:13,560
-Ça ne nous avancera à rien.
+34
+00:03:12,320 --> 00:03:13,540
+Ça ne nous avancera rien.
 
-40
-00:03:14,160 --> 00:03:17,800
+35
+00:03:14,140 --> 00:03:17,820
 De toute façon, il ne nous a jamais écoutés, pourquoi essayer ?
 
-41
-00:03:17,800 --> 00:03:19,920
+36
+00:03:17,820 --> 00:03:19,920
 C'est vrai, mais il faudrait tout de même le lui dire.
 
-42
+37
 00:03:20,480 --> 00:03:22,180
 En attendant, n'élève pas trop la voix.
 
-43
-00:03:22,180 --> 00:03:24,760
+38
+00:03:22,480 --> 00:03:24,740
 Ton père s'est enfermé dans sa chambre, il pourrait t'entendre.
 
+39
+00:03:25,100 --> 00:03:26,580
+Tiens donc, c'est pas commun ça.
+
+40
+00:03:38,340 --> 00:03:42,920
+Runge, on m'a dit que tu continuais à suivre l'affaire du docteur Borsman et de la prostituée
+
+41
+00:03:42,920 --> 00:03:43,380
+assassinée.
+
+42
+00:03:43,560 --> 00:03:43,760
+Oui.
+
+43
+00:03:43,960 --> 00:03:45,540
+Et alors, ça pose un problème ?
+
 44
-00:03:25,080 --> 00:03:26,580
-Tiens, non, c'est pas commun, ça.
+00:03:45,540 --> 00:03:46,520
+Oui, et pas qu'un peu.
 
 45
-00:03:38,040 --> 00:03:43,360
-Rungue, on m'a dit que tu continuais à suivre l'affaire du docteur Borsman et de la prostituée assassinée.
+00:03:46,780 --> 00:03:49,840
+On a le ministère de l'Intérieur sur le dos et ils nous mettent la pression.
 
 46
-00:03:43,560 --> 00:03:45,540
-Oui, et alors, ça pose un problème ?
-
-47
-00:03:45,540 --> 00:03:49,840
-Oui, et pas qu'un peu. On a le ministère de l'Intérieur sur le dos et ils nous mettent la pression.
-
-48
-00:03:49,840 --> 00:03:52,940
+00:03:50,220 --> 00:03:52,920
 Je vous laisse affronter la pression politique, vous en avez l'habitude.
 
-49
-00:03:53,400 --> 00:03:56,700
+47
+00:03:53,380 --> 00:03:56,700
 Oui, sauf que cette fois-ci, je ne vais pas trouver le moyen d'intervenir.
 
+48
+00:03:57,120 --> 00:03:57,580
+Ah, non.
+
+49
+00:03:57,720 --> 00:03:58,800
+Cherchant bien, vous trouverez.
+
 50
-00:03:57,160 --> 00:03:58,800
-Allons, cherchons bien, vous trouverez.
+00:03:59,260 --> 00:04:02,080
+Dis-donc, mon petit vieux, tu as pesé les conséquences
 
 51
-00:03:59,480 --> 00:04:03,840
-Dis donc, mon petit vieux, tu as pesé les conséquences si jamais tu faisais fausse piste.
+00:04:02,080 --> 00:04:03,840
+si jamais tu faisais fausse piste.
 
 52
-00:04:05,320 --> 00:04:08,280
+00:04:05,360 --> 00:04:08,280
 Tu as de très beaux états de service, une grande réputation.
 
 53
 00:04:08,740 --> 00:04:11,060
-Tu n'as plus besoin de faire de prouesse pour exister.
+Tu n'as plus besoin de faire de prouesses pour exister.
 
 54
 00:04:11,980 --> 00:04:15,740
 À moins que tout ça ne soit uniquement par revanche politique.
 
 55
-00:04:16,600 --> 00:04:18,600
-Prouesse politique, ces mots-là.
+00:04:17,160 --> 00:04:20,480
+Prouesses, politique, ces mots-là, je n'en ai rien à fiche.
 
 56
-00:04:18,600 --> 00:04:20,480
-Je n'en ai rien à fiche.
+00:04:21,880 --> 00:04:24,780
+Ce que je vois, c'est qu'une femme a été assassinée,
 
 57
-00:04:21,900 --> 00:04:24,740
-Ce que je vois, c'est qu'une femme a été assassinée.
+00:04:25,060 --> 00:04:26,280
+donc il y a un meurtrier.
 
 58
-00:04:25,120 --> 00:04:26,260
-Donc il y a un meurtrier.
+00:04:26,380 --> 00:04:27,740
+Ce qui m'intéressait, c'est de l'arrêter.
 
 59
-00:04:26,400 --> 00:04:27,760
-Ce qui m'intéresse, c'est de l'arrêter.
+00:04:29,720 --> 00:04:30,200
+- Runge!
 
 60
-00:04:27,920 --> 00:04:28,440
-Voilà tout.
+00:04:39,120 --> 00:04:41,680
+- Excusez-moi, inspecteur Runge, mais quelqu'un veut vous voir.
 
 61
-00:04:29,820 --> 00:04:30,180
-Rungue!
+00:04:42,620 --> 00:04:44,100
+- Ça y est. - Quoi?
 
 62
-00:04:39,220 --> 00:04:41,680
-Excusez-moi, inspecteur Rungue, mais quelqu'un veut vous voir.
+00:04:44,760 --> 00:04:47,400
+- J'ai trouvé le mot de passe qui permet de débloquer la disquette.
 
 63
-00:04:42,680 --> 00:04:43,380
-Ça y est.
-
-64
-00:04:43,820 --> 00:04:44,100
-Quoi?
-
-65
-00:04:44,680 --> 00:04:47,400
-J'ai trouvé le mot de passe qui permet de débloquer la disquette.
-
-66
-00:04:47,400 --> 00:04:50,100
+00:04:47,780 --> 00:04:50,100
 Et maintenant, je vais avoir tous les noms dont j'ai besoin.
 
+64
+00:04:50,520 --> 00:04:53,580
+- Génial. En attendant, il y a toujours une personne qui veut vous voir.
+
+65
+00:04:54,900 --> 00:04:56,600
+Une certaine madame Einman.
+
+66
+00:05:03,160 --> 00:05:06,540
+Quand est-ce que vous allez vous décider à arrêter ce Thedma ?
+
 67
-00:04:50,500 --> 00:04:53,580
-Génial. En attendant, il y a toujours une personne qui veut vous voir.
-
-68
-00:04:55,080 --> 00:04:56,620
-Une certaine madame Heinemann.
-
-69
-00:04:57,560 --> 00:05:00,320
-Ah, non, s'il vous plaît, madame, on n'entre pas sans permission.
-
-70
-00:05:03,200 --> 00:05:06,500
-Quand est-ce que vous allez vous décider à arrêter ce Tenma ?
-
-71
-00:05:06,500 --> 00:05:09,440
+00:05:06,540 --> 00:05:09,440
 Madame, vous m'avez l'air d'être dans un état d'ivresse avancé.
 
-72
-00:05:09,520 --> 00:05:10,780
-C'est ma façon de tenir le coup.
+68
+00:05:09,520 --> 00:05:11,400
+C'est ma façon de tenir le coup !
 
-73
+69
 00:05:11,400 --> 00:05:15,520
-Alors, en ce qui concerne le docteur Tenma, pour moi, c'est une affaire classée.
+Alors, en ce qui concerne le docteur Thedma, pour moi, c'est une affaire classée.
 
-74
-00:05:15,900 --> 00:05:16,640
+70
+00:05:15,880 --> 00:05:16,640
 Hein ?
 
-75
-00:05:16,640 --> 00:05:19,880
+71
+00:05:16,640 --> 00:05:19,860
 Il a dit que cette affaire était l'œuvre de quelqu'un nommé Johan.
 
-76
+72
 00:05:20,120 --> 00:05:23,940
 Or, ce Johan n'est autre qu'une seconde personnalité enfouie au fond de lui.
 
-77
-00:05:24,540 --> 00:05:26,880
+73
+00:05:24,520 --> 00:05:26,880
 Moi qui ne trouvais rien de cohérent dans cette affaire,
 
-78
-00:05:27,000 --> 00:05:30,400
+74
+00:05:27,000 --> 00:05:30,380
 j'ai fini par aboutir à une conclusion au terme de mon enquête.
 
-79
-00:05:31,360 --> 00:05:34,500
+75
+00:05:31,060 --> 00:05:34,520
 Il ne reste plus qu'à attendre que la police le trouve et nous le ramène.
 
-80
-00:05:34,500 --> 00:05:38,740
-Quoi ? Votre boulot ne consiste en fait qu'à émettre des mandats d'arrêt et à attendre ?
+76
+00:05:34,600 --> 00:05:38,760
+Quoi, votre boulot ne consiste en fait qu'à émettre des mandats d'arrêt et à attendre ?
 
-81
-00:05:38,740 --> 00:05:42,180
+77
+00:05:38,760 --> 00:05:42,160
 Quand on me le ramènera, j'aurai beaucoup de questions à lui poser.
 
-82
-00:05:42,900 --> 00:05:46,320
+78
+00:05:42,900 --> 00:05:46,300
 Voyez-vous, le docteur Tenma est un individu qui m'intéresse énormément.
 
-83
-00:05:46,640 --> 00:05:48,640
-Hélas, j'ai une pile de dossiers aussi importants
+79
+00:05:47,100 --> 00:05:51,920
+Hélas, j'ai une pile de dossiers aussi importants qui s'entassent sur mon bureau en attente de résolution.
 
-84
-00:05:48,640 --> 00:05:51,640
-qui s'entassent sur mon bureau en attente de résolution.
-
-85
-00:05:52,640 --> 00:05:53,640
+80
+00:05:53,220 --> 00:05:53,740
 Au revoir.
 
+81
+00:05:58,960 --> 00:06:03,260
+On dirait que vous ne comprenez toujours pas, pour le jour de l'assassinat, le professeur
+
+82
+00:06:03,260 --> 00:06:05,000
+a un alibi parfaitement vérifiable.
+
+83
+00:06:05,180 --> 00:06:09,060
+Un alibi, ça ne m'étonne pas, nous avons affaire à un professionnel.
+
+84
+00:06:09,420 --> 00:06:13,180
+Que voulez-vous dire par là ? Tenteriez-vous d'insinuer que le professeur aurait loué
+
+85
+00:06:13,180 --> 00:06:15,980
+les services d'un tueur professionnel ? Mais c'est absurde !
+
 86
-00:05:58,640 --> 00:06:00,640
-On dirait que vous ne comprenez toujours pas.
+00:06:15,980 --> 00:06:19,520
+J'ai mis la main sur la liste des clients de cette femme, un simple travail informatique.
 
 87
-00:06:00,640 --> 00:06:04,640
-Pour le jour de l'assassinat, le professeur a un alibi parfaitement vérifiable.
-
-88
-00:06:04,640 --> 00:06:06,640
-Un alibi ? Ça ne m'étonne pas.
-
-89
-00:06:06,640 --> 00:06:08,640
-Nous avons affaire à un professionnel.
-
-90
-00:06:08,640 --> 00:06:10,640
-Que voulez-vous dire par là ?
-
-91
-00:06:10,640 --> 00:06:14,640
-Tenteriez-vous d'insinuer que le professeur aurait loué les services d'un tueur professionnel ?
-
-92
-00:06:14,640 --> 00:06:15,640
-Mais c'est absurde !
-
-93
-00:06:15,640 --> 00:06:18,040
-J'ai mis la main sur la liste des clients de cette femme.
-
-94
-00:06:18,160 --> 00:06:19,520
-Un simple travail informatique.
-
-95
-00:06:20,600 --> 00:06:23,180
+00:06:20,560 --> 00:06:23,180
 Et comme par hasard, le nom du professeur y figurait.
 
-96
-00:06:24,300 --> 00:06:25,780
-Ça ne prouve absolument rien.
+88
+00:06:24,100 --> 00:06:28,100
+Ça ne prouve absolument rien, et ça ne fait pas du professeur insuspect.
 
-97
-00:06:25,940 --> 00:06:28,000
-Et ça ne fait pas du professeur un suspect.
+89
+00:06:31,060 --> 00:06:33,740
+Oui, évidemment. Vu comme ça, vous avez peut-être raison.
 
-98
-00:06:30,640 --> 00:06:31,860
-Oui, évidemment.
+90
+00:06:33,880 --> 00:06:36,340
+Vous me faites perdre un temps précieux. Allez-vous-en.
 
-99
-00:06:32,120 --> 00:06:33,740
-Vu comme ça, vous avez peut-être raison.
-
-100
-00:06:33,860 --> 00:06:35,300
-Vous me faites perdre un temps précieux.
-
-101
-00:06:35,800 --> 00:06:36,300
-Allez-vous-en.
-
-102
-00:06:38,120 --> 00:06:40,960
+91
+00:06:38,060 --> 00:06:40,960
 L'ennui, c'est que les preuves formelles ne sont pas suffisantes.
 
-103
-00:06:41,400 --> 00:06:43,400
-Connaissez-vous la maison d'édition, Sherland ?
+92
+00:06:41,360 --> 00:06:43,560
+Connaissez-vous la maison d'édition, Sherlone ?
 
-104
-00:06:43,400 --> 00:06:45,500
+93
+00:06:43,560 --> 00:06:45,500
 C'est une édition bien particulière.
 
-105
-00:06:46,240 --> 00:06:49,820
+94
+00:06:46,580 --> 00:06:49,820
 Il semble qu'ils adorent trouver les articles croustillants sur les célébrités.
 
-106
-00:06:50,240 --> 00:06:52,260
+95
+00:06:50,220 --> 00:06:52,260
 Chaque exemplaire de leur revue en est truffé.
 
-107
-00:06:52,820 --> 00:06:55,340
-Ils ont une façon assez douteuse de collecter les scoops.
+96
+00:06:53,740 --> 00:06:55,360
+C'est douteuse de collecter les scoops.
 
-108
-00:06:55,980 --> 00:06:59,840
-Ils embauchent des call girls ou des prostituées pour piéger les personnalités en vue.
+97
+00:06:56,020 --> 00:06:59,840
+Ils embauchent des call-girls ou des prostituées pour piéger les personnalités en vue.
 
-109
-00:07:00,340 --> 00:07:02,540
+98
+00:07:00,360 --> 00:07:02,540
 Ils publient ensuite des articles assez compromettants.
 
-110
-00:07:03,840 --> 00:07:06,700
+99
+00:07:03,820 --> 00:07:06,700
 Monsieur, je vous conseille la plus extrême prudence.
 
-111
-00:07:15,640 --> 00:07:30,640
-On aurait dit qu'il avait fait échec et mat.
+100
+00:07:28,820 --> 00:07:32,620
+On aurait dit qu'il avait fait échec et mat, mais t'aurais vu ça ? Le secrétaire
 
-112
-00:07:30,940 --> 00:07:32,080
-Mais t'aurais vu ça ?
+101
+00:07:32,620 --> 00:07:36,000
+s'est l'ascotché, il a rien trouvé à répondre. En tout cas, moi, il m'impressionne.
 
-113
-00:07:32,080 --> 00:07:34,100
-Le secrétaire, ça l'a scotché, il a rien trouvé à répondre.
+102
+00:07:36,520 --> 00:07:40,600
+Rungeu, je l'ai pas vu se reposer une seule fois. C'est un véritable surhomme, ce type-là.
 
-114
-00:07:34,640 --> 00:07:36,000
-En tout cas, moi, il m'impressionne.
+103
+00:07:41,140 --> 00:07:44,080
+Un surhomme, c'est pas faux. C'est surtout qu'il a pas l'air humain.
 
-115
-00:07:36,460 --> 00:07:38,360
-Rungue, je l'ai pas vu se reposer une seule fois.
+104
+00:07:44,880 --> 00:07:49,780
+Oh, ben ça, placé comme ça, je suis mat en deux coups.
 
-116
-00:07:39,060 --> 00:07:40,600
-C'est un véritable surhomme, ce type-là.
+105
+00:07:49,940 --> 00:07:52,980
+Non mais ça va pas ? Je déteste ça quand on joue à ma place !
 
-117
-00:07:41,060 --> 00:07:42,440
-Un surhomme, c'est pas faux.
+106
+00:07:53,740 --> 00:07:56,280
+N'usez pas vos malheureux neurones à des jeux sans intérêt.
 
-118
-00:07:42,640 --> 00:07:44,080
-C'est surtout qu'il a pas l'air humain.
+107
+00:07:56,680 --> 00:07:58,700
+Je n'ai pas eu besoin d'être trop persuasif
 
-119
-00:07:44,080 --> 00:07:49,920
-Oh ben ça, placé comme ça je suis mat en deux coups
+108
+00:07:58,700 --> 00:08:01,480
+pour que le directeur du journal à scandale se mette à table.
 
-120
-00:07:49,920 --> 00:07:52,780
-Non mais ça va pas, je déteste ça quand on joue à ma place
+109
+00:08:01,960 --> 00:08:04,080
+- Rédigez un procès verbal. - Oui, bien sûr, tout de suite, chef.
 
-121
-00:07:52,780 --> 00:07:56,320
-N'usez pas vos malheureux neurones à des jeux sans intérêt
-
-122
-00:07:56,320 --> 00:08:01,480
-Je n'ai pas eu besoin d'être trop persuasif pour que le directeur du journal à scandale se mette à table
-
-123
-00:08:01,480 --> 00:08:02,900
-Rédigez un procès verbal
-
-124
-00:08:02,900 --> 00:08:04,100
-Oui bien sûr tout de suite chef
-
-125
-00:08:08,500 --> 00:08:12,540
+110
+00:08:08,620 --> 00:08:11,440
 Et ça, est-ce que vous savez ce que c'est ?
 
-126
-00:08:12,540 --> 00:08:14,480
+111
+00:08:12,480 --> 00:08:14,460
 Ça, monsieur, c'est le carnet de la victime.
 
-127
-00:08:14,760 --> 00:08:18,220
-Elle y décrit avec un luxe le détail l'un de ses très bons clients.
+112
+00:08:14,760 --> 00:08:18,200
+Elle y décrit avec un luxe de détails l'un de ses très bons clients.
 
-128
-00:08:19,140 --> 00:08:20,860
+113
+00:08:19,240 --> 00:08:20,860
 Malheureusement, le nom n'est pas dévoilé.
 
-129
-00:08:21,340 --> 00:08:24,000
+114
+00:08:20,860 --> 00:08:24,020
 On a en tout et pour tout une simple initiale, B.
 
-130
-00:08:24,400 --> 00:08:28,180
+115
+00:08:24,440 --> 00:08:28,180
 En revanche, la maison d'édition était en contact avec elle
 
-131
+116
 00:08:28,180 --> 00:08:30,700
 dans le but de publier ses aventures amoureuses.
 
-132
-00:08:32,840 --> 00:08:36,700
+117
+00:08:32,800 --> 00:08:36,700
 Pendant que j'y pense, avez-vous contacté un certain Yanker ?
 
-133
-00:08:36,700 --> 00:08:40,000
+118
+00:08:36,700 --> 00:08:39,980
 Je vous demande ça, parce que si on en croit nos renseignements,
 
-134
+119
 00:08:40,120 --> 00:08:41,240
-c'est un tueur à gages.
+c'est un tueur à gage.
 
-135
-00:08:42,540 --> 00:08:45,700
-Vous allez me foutre le camp.
+120
+00:08:43,880 --> 00:08:45,940
+Vous allez me foutre le con !
 
-136
-00:08:46,960 --> 00:08:48,560
-Sortez d'ici immédiatement.
+121
+00:08:46,960 --> 00:08:48,800
+Sortez d'ici immédiatement !
 
-137
-00:08:59,980 --> 00:09:02,200
-Tu tombes très bien, nous quittons la maison.
+122
+00:09:04,060 --> 00:09:08,360
+Je suis enceinte. Vu le peu d'attention que tu me portes, j'imagine que tu ne l'as pas vue.
 
-138
-00:09:04,140 --> 00:09:05,280
-Je suis enceinte.
-
-139
-00:09:05,620 --> 00:09:08,360
-Vu le peu d'attention que tu me portes, j'imagine que tu ne l'as pas vue.
-
-140
-00:09:08,880 --> 00:09:11,560
+123
+00:09:08,880 --> 00:09:11,600
 Et vous allez vous installer chez le père de l'enfant ?
 
-141
-00:09:11,560 --> 00:09:17,100
-Je pars avec elle. Je ne sais pas si tu étais au courant et peu importe, je m'en moque, mais j'avais un amant.
+124
+00:09:11,600 --> 00:09:14,780
+Je pars avec elle. Je ne sais pas si tu étais au courant,
 
-142
-00:09:24,860 --> 00:09:25,800
-Allô ?
+125
+00:09:14,900 --> 00:09:17,080
+et peu importe, je m'en moque, mais j'avais un amant.
 
-143
-00:09:25,800 --> 00:09:32,980
-Monsieur l'inspecteur, ici Mintak, le secrétaire du professeur. Je vais tout vous dire. Pouvez-vous venir tout de suite ?
-
-144
-00:09:32,980 --> 00:09:34,980
-Entendu. J'arrive.
-
-145
-00:09:37,320 --> 00:09:41,080
+126
+00:09:36,300 --> 00:09:41,000
 Je dois sortir. On reparlera de tout ça au retour.
 
-146
-00:09:41,560 --> 00:09:58,700
-Inspecteur !
+127
+00:09:57,920 --> 00:10:00,140
+- Inspecteur ! - Que se passe-t-il encore ?
 
-147
-00:09:58,700 --> 00:10:00,160
-Que se passe-t-il encore ?
+128
+00:10:00,140 --> 00:10:02,960
+Seul secrétaire, chef. Mintak s'est suicidé !
 
-148
-00:10:00,160 --> 00:10:02,540
-C'est le secrétaire, chef. Mintak s'est suicidé.
+129
+00:10:28,780 --> 00:10:31,300
+Le professeur Borzman est parfaitement innocent.
 
-149
-00:10:11,560 --> 00:10:31,280
-Le professeur Borsman est parfaitement innocent.
-
-150
-00:10:31,700 --> 00:10:34,140
+130
+00:10:31,700 --> 00:10:34,160
 Voilà la lettre qu'il a laissée en évidence avant de se suicider.
 
-151
-00:10:36,460 --> 00:10:39,780
-Rung, je vous dessaisis de l'affaire et je la confie à Kaminski.
+131
+00:10:36,360 --> 00:10:39,800
+Runge, je vous dessaisis de l'affaire et je la confie à Kaminsky.
 
-152
-00:10:39,780 --> 00:10:42,780
-D'ailleurs, je lui ai également confié celle du pack-rake
+132
+00:10:40,540 --> 00:10:43,440
+D'ailleurs, je lui ai également confié celle du packrake
 
-153
-00:10:42,780 --> 00:10:44,780
+133
+00:10:43,440 --> 00:10:45,500
 et celle du meurtre du président Garland.
 
-154
-00:10:45,780 --> 00:10:48,780
+134
+00:10:46,440 --> 00:10:49,120
 Et moi, quelle affaire je vais devoir suivre ?
 
-155
-00:10:53,780 --> 00:10:55,780
+135
+00:10:54,360 --> 00:10:56,220
 Je suis désolé, mon petit vieux.
 
-156
-00:10:55,780 --> 00:10:57,780
-Je n'ai aucune affaire à te confier.
+136
+00:10:57,760 --> 00:10:58,260
+confié.
 
-157
-00:11:09,780 --> 00:11:28,740
-Vu la tournure des événements, tu redeviens mon sujet d'investigation numéro un.
+137
+00:11:24,560 --> 00:11:27,700
+Vu la tournure des événements, tu redeviens mon sujet d'investissement.
 
-158
-00:11:34,900 --> 00:11:37,400
-Excusez-moi, monsieur l'inspecteur, il y a quelqu'un qui veut vous voir.
+138
+00:11:36,080 --> 00:11:37,400
+Il y a quelqu'un qui veut vous voir.
 
-159
-00:11:37,760 --> 00:11:38,580
+139
+00:11:37,740 --> 00:11:38,600
 C'est encore la même dame.
 
-160
-00:11:38,580 --> 00:11:40,300
-C'est cette Eva Heinemann.
+140
+00:11:39,040 --> 00:11:40,280
+C'est cette Eva Einemann.
 
-161
-00:11:42,620 --> 00:11:44,360
+141
+00:11:42,800 --> 00:11:44,380
 Dis-lui qu'elle peut entrer.
 
-162
-00:12:03,000 --> 00:12:04,940
+142
+00:12:03,180 --> 00:12:04,940
 Merci pour ce moment délicieux, Eva.
 
-163
-00:12:09,300 --> 00:12:11,700
+143
+00:12:09,300 --> 00:12:11,660
 Dis-moi, quand reviens-tu me voir ?
 
-164
-00:12:11,700 --> 00:12:15,220
+144
+00:12:11,660 --> 00:12:15,200
 Je te promets de passer dès que mon voyage d'affaires est fini, ma chérie.
 
-165
-00:12:15,400 --> 00:12:18,840
-J'ai un mal fou à te voir repartir voir ta femme, ça me rend folle.
+145
+00:12:15,440 --> 00:12:18,820
+Oh, j'ai un mal fou à te voir repartir voir ta femme, ça me rend folle.
 
-166
-00:12:20,300 --> 00:12:22,440
+146
+00:12:20,320 --> 00:12:22,420
 Ne t'inquiète pas, je vais te revenir très vite.
 
-167
+147
 00:12:27,720 --> 00:12:29,560
 Je serais très étonnée que tu reviennes me voir.
 
-168
+148
 00:12:30,000 --> 00:12:32,660
 J'ai glissé dans ta sacoche un mouchoir imbibé de mon parfum.
 
-169
-00:12:32,920 --> 00:12:34,800
+149
+00:12:32,920 --> 00:12:34,780
 Ton épouse va adorer quand elle le découvrira.
 
-170
-00:12:35,180 --> 00:12:36,640
-Ce type est décidément un ringard.
+150
+00:12:35,140 --> 00:12:35,900
+Ce type est décidé de me voir.
 
-171
-00:12:38,580 --> 00:12:44,320
-Dis-donc, toi, encore en train de m'espionner ?
+151
+00:12:40,560 --> 00:12:44,120
+Dites-donc, toi ! Encore en train de m'espionner ?
 
-172
-00:12:44,320 --> 00:12:48,220
+152
+00:12:44,120 --> 00:12:47,960
 Ça te dérange que tant d'hommes différents viennent ici pour me voir ?
 
-173
-00:12:48,220 --> 00:12:48,840
+153
+00:12:47,960 --> 00:12:48,820
 Non, madame.
 
-174
-00:12:48,980 --> 00:12:52,440
+154
+00:12:48,960 --> 00:12:52,120
 Alors tu penses peut-être que toi, tu mériterais d'être à leur place ?
 
-175
-00:12:52,440 --> 00:12:53,160
+155
+00:12:52,120 --> 00:12:53,140
 Non, madame, non.
 
-176
-00:12:53,460 --> 00:12:54,380
+156
+00:12:53,420 --> 00:12:54,380
 Tu n'es qu'un pervers.
 
-177
-00:12:54,640 --> 00:12:55,260
-Mais pas du tout.
+157
+00:12:54,620 --> 00:12:56,960
+Mais pas du tout ! Oh, madame, je vous jure !
 
-178
-00:12:55,700 --> 00:12:56,700
-Oh, madame, je vous jure.
-
-179
-00:12:57,160 --> 00:12:58,440
+158
+00:12:56,960 --> 00:12:58,520
 J'adore ce jardin.
 
-180
-00:12:59,560 --> 00:13:00,300
-Que c'est joli.
+159
+00:12:59,500 --> 00:13:00,720
+Que c'est joli !
 
-181
-00:13:00,760 --> 00:13:02,700
+160
+00:13:00,720 --> 00:13:02,660
 Il me fait oublier toutes mes peines et mes chagrins.
 
-182
-00:13:04,040 --> 00:13:05,800
+161
+00:13:03,960 --> 00:13:05,800
 C'est vraiment reposant de s'y promener.
 
-183
-00:13:06,960 --> 00:13:08,160
+162
+00:13:06,920 --> 00:13:08,160
 C'est de la médecine douce.
 
-184
-00:13:08,780 --> 00:13:11,020
+163
+00:13:08,900 --> 00:13:11,020
 Je suis content que le jardin plaise à madame.
 
-185
-00:13:11,540 --> 00:13:13,320
+164
+00:13:11,520 --> 00:13:13,320
 Je vais planter du mimosa dans ce coin-là.
 
-186
+165
 00:13:13,760 --> 00:13:16,520
 Et là, tout autour, je vais mettre des variétés de roses différentes.
 
-187
-00:13:16,980 --> 00:13:19,020
+166
+00:13:16,980 --> 00:13:19,000
 Au printemps, vous verrez, ce sera drôlement joli.
 
-188
-00:13:19,320 --> 00:13:22,860
+167
+00:13:19,320 --> 00:13:22,880
 Il n'y a qu'un homme comme toi qui soit capable de créer de la beauté à partir de rien.
 
-189
-00:13:25,340 --> 00:13:30,860
-Penses-tu qu'un homme comme toi pourrait rendre heureuse une femme comme moi ?
+168
+00:13:25,340 --> 00:13:28,760
+Penses-tu qu'un homme comme toi pourrait rendre heureuse une femme comme moi?
 
-190
-00:13:30,860 --> 00:13:32,820
-Papa !
+169
+00:13:31,420 --> 00:13:31,820
+Papa!
 
-191
-00:13:32,820 --> 00:13:35,320
-Est-ce que tu m'écoutes quand je te parle ?
+170
+00:13:32,840 --> 00:13:34,680
+Est-ce que tu m'écoutes quand je te parle?
 
-192
-00:13:35,320 --> 00:13:36,980
-Papa !
+171
+00:13:35,380 --> 00:13:35,620
+- Papa!
 
-193
-00:13:36,980 --> 00:13:38,220
-Hein ?
+172
+00:13:36,980 --> 00:13:37,320
+- Hein?
 
-194
-00:13:38,220 --> 00:13:42,120
-Oh, dis-moi, chérie, qu'est-ce que tu penses de ce repas ?
+173
+00:13:38,040 --> 00:13:41,520
+Oh, dis-moi, chérie, qu'est-ce que tu penses de ce repas?
 
-195
-00:13:42,120 --> 00:13:45,060
-Est-ce qu'au moins tu as entendu ce que je te disais ?
+174
+00:13:42,140 --> 00:13:44,600
+- Est-ce qu'au moins, tu as entendu ce que je te disais?
 
-196
-00:13:45,060 --> 00:13:49,260
-Quand je te vois comme ça dans la lune, je comprends pourquoi maman a préféré s'en aller.
+175
+00:13:45,020 --> 00:13:46,800
+Quand je te vois comme ça dans la lune,
 
-197
-00:13:51,200 --> 00:13:52,260
+176
+00:13:47,100 --> 00:13:49,240
+je comprends pourquoi maman a préféré s'en aller.
+
+177
+00:13:49,760 --> 00:13:49,880
+Oh!
+
+178
+00:13:51,220 --> 00:13:52,240
 Je suis désolée.
 
-198
-00:13:53,280 --> 00:13:54,460
-Non, non, ça ne fait rien.
+179
+00:13:53,260 --> 00:13:54,440
+- Non, non, ça ne fait rien.
 
-199
-00:14:00,940 --> 00:14:03,200
+180
+00:14:00,940 --> 00:14:03,180
 Dis-moi un peu, ma petite chérie.
 
-200
-00:14:03,200 --> 00:14:11,280
-Que dirais-tu si papa avait une autre femme dans sa vie ?
+181
+00:14:04,920 --> 00:14:10,380
+Que dirais-tu si papa... avait... une autre femme dans sa vie ?
 
-201
-00:14:11,280 --> 00:14:13,280
-Non, non, fais comme si je n'avais rien dit
+182
+00:14:11,020 --> 00:14:13,220
+Non, non. Fais comme si je n'avais rien dit.
 
-202
-00:14:13,280 --> 00:14:16,760
-Tout compte fait, ils sont pas terribles, les plats que j'ai préparés ce soir
+183
+00:14:13,720 --> 00:14:16,720
+Tout compte fait, ils sont pas terribles, les plats que j'ai préparés ce soir.
 
-203
-00:14:16,760 --> 00:14:17,980
-Mais si, c'est pas mauvais
+184
+00:14:16,880 --> 00:14:17,920
+Mais si, c'est pas mauvais.
 
-204
-00:14:17,980 --> 00:14:22,320
+185
+00:14:18,440 --> 00:14:19,760
 Ah bon ? Tu trouves ?
 
-205
-00:14:22,320 --> 00:14:23,780
-J'espère que tu ne m'en veux pas
+186
+00:14:22,100 --> 00:14:26,220
+J'espère que tu ne m'en veux pas. Je sais que ce n'est pas le travail d'un jardinier.
 
-206
-00:14:23,780 --> 00:14:26,240
-Je sais que ce n'est pas le travail d'un jardinier
+187
+00:14:26,460 --> 00:14:27,140
+Ça ne fait rien.
 
-207
-00:14:26,240 --> 00:14:27,180
-Ça ne fait rien
+188
+00:14:27,800 --> 00:14:30,800
+C'est que tout le personnel de la maison a démissionné, jour après jour.
 
-208
-00:14:27,180 --> 00:14:30,920
-C'est que tout le personnel de la maison a démissionné, jour après jour
-
-209
-00:14:30,920 --> 00:14:33,720
+189
+00:14:31,300 --> 00:14:33,680
 Si je peux rendre service, tout le plaisir sera pour moi.
 
-210
-00:14:37,220 --> 00:14:40,340
-Dis-moi, ça te dirait de dîner avec moi ce soir ?
+190
+00:14:37,240 --> 00:14:39,820
+- Dis-moi, ça te dit vrai de dîner avec moi ce soir?
 
-211
-00:14:40,340 --> 00:14:42,100
-Oui, ça me... Oui.
+191
+00:14:40,280 --> 00:14:45,040
+- Oui, ça me... Oui, euh...
 
-212
-00:14:53,780 --> 00:14:55,580
-Sois décontracté, détends-toi.
+192
+00:14:45,840 --> 00:14:46,240
+Oh!
 
-213
-00:14:56,120 --> 00:14:59,220
-Oh, c'est que j'ai pas bien l'habitude des grands restaurants comme ça.
+193
+00:14:54,120 --> 00:14:55,580
+- Sois décontracté, détends-toi.
 
-214
-00:14:59,720 --> 00:15:03,960
-Si tu veux devenir digne de moi, il va falloir que tu fasses preuve d'assurance et de confiance en toi.
+194
+00:14:56,040 --> 00:14:57,940
+- Oh! C'est que j'ai pas bien l'habitude
 
-215
-00:15:04,380 --> 00:15:06,640
-Imagine qu'en ce moment, tu es seul dans ton jardin.
+195
+00:14:57,940 --> 00:14:59,220
+des grands restaurants comme ça.
 
-216
-00:15:07,140 --> 00:15:11,040
-Oh, c'est vrai, quand je suis dans mon jardin, je n'ai peur de rien.
+196
+00:14:59,700 --> 00:15:01,200
+- Si tu veux devenir digne de moi,
 
-217
-00:15:11,320 --> 00:15:13,580
+197
+00:15:01,280 --> 00:15:03,040
+il va falloir que tu fasses preuve d'assurance
+
+198
+00:15:03,040 --> 00:15:03,960
+et de confiance en toi.
+
+199
+00:15:04,680 --> 00:15:06,640
+J'imagine qu'en ce moment, tu es seul dans ton jardin.
+
+200
+00:15:07,160 --> 00:15:08,780
+Oh, c'est vrai.
+
+201
+00:15:08,920 --> 00:15:11,040
+Quand je suis dans mon jardin, je n'ai peur de rien.
+
+202
+00:15:11,300 --> 00:15:13,580
 J'ai toute mon assurance et j'ai vraiment confiance en moi.
 
-218
-00:15:14,000 --> 00:15:16,500
+203
+00:15:13,980 --> 00:15:16,500
 Je suis content parce que je concrétise tout ce que j'ai imaginé.
 
-219
+204
 00:15:16,720 --> 00:15:19,900
 Quand je suis dans mon jardin, je suis l'homme le plus comblé de l'univers.
 
-220
-00:15:20,640 --> 00:15:23,140
+205
+00:15:20,620 --> 00:15:23,140
 Parmi ceux qui aiment la nature, on trouve très peu de gens pas bien.
 
-221
-00:15:23,260 --> 00:15:26,220
+206
+00:15:23,240 --> 00:15:26,180
 N'avez-vous pas dit vous-même que vous aimiez beaucoup la verdure ?
 
-222
-00:15:26,220 --> 00:15:28,820
+207
+00:15:26,180 --> 00:15:28,740
 Parce que tu estimes que je suis quelqu'un de bien ?
 
-223
-00:15:28,820 --> 00:15:29,680
+208
+00:15:28,740 --> 00:15:29,700
 Bien sûr, oui.
 
-224
-00:15:32,640 --> 00:15:33,200
+209
+00:15:32,940 --> 00:15:33,300
 Seulement...
 
-225
-00:15:33,200 --> 00:15:34,480
+210
+00:15:33,300 --> 00:15:34,440
 Seulement quoi ?
 
-226
-00:15:34,480 --> 00:15:37,920
-Vous donnez l'impression d'être seul et triste.
+211
+00:15:36,680 --> 00:15:37,920
+d'être seul et triste.
 
-227
-00:15:41,780 --> 00:15:42,880
-Exactement comme toi.
+212
+00:15:41,940 --> 00:15:43,340
+- Exactement comme toi. - Oui.
 
-228
-00:15:43,120 --> 00:15:43,360
-Oui.
-
-229
-00:15:46,700 --> 00:15:49,400
+213
+00:15:46,840 --> 00:15:49,680
 Tu ne te sens pas seul et triste, toi aussi ?
 
-230
-00:15:58,820 --> 00:16:14,040
+214
+00:16:08,860 --> 00:16:14,060
 Désolé de vous avoir réveillé, mais il faut que j'y aille, sinon ma fille va se faire du souci.
 
+215
+00:16:17,960 --> 00:16:18,400
+Kenzo...
+
+216
+00:16:25,100 --> 00:16:25,540
+Kenzo...
+
+217
+00:16:32,680 --> 00:16:34,760
+Ça va bientôt être Noël, ma petite puce.
+
+218
+00:16:36,820 --> 00:16:42,500
+dépenser cette année. T'en fais pas pour lui ça ne le gêne pas du moment que les enfants sont contents. C'est pas ça c'est
+
+219
+00:16:42,500 --> 00:16:46,800
+surtout que j'ai pas tellement envie de fêter Noël cette année on va être que tous les deux toi et moi.
+
+220
+00:16:47,000 --> 00:16:57,140
+Et ben si je te disais que cette année il y a des chances pour qu'on soit plus que deux. Quoi ?
+
+221
+00:17:01,880 --> 00:17:05,460
+L'homme sur la photo c'est celui qui a complètement fichu ma vie en l'air.
+
+222
+00:17:06,680 --> 00:17:08,180
+J'étais juste en train de dépoussiérer.
+
+223
+00:17:08,320 --> 00:17:10,580
+Il s'appelle Kenzo Tenma, Docteur Kenzo Tenma,
+
+224
+00:17:10,640 --> 00:17:11,960
+et nous étions fiancés, lui et moi.
+
+225
+00:17:12,660 --> 00:17:14,700
+Vous avez encore bu, vous ne devriez pas.
+
+226
+00:17:14,940 --> 00:17:16,620
+Ça m'aide à supporter l'existence.
+
+227
+00:17:16,840 --> 00:17:18,640
+Je reviens tout droit du bureau du BKA.
+
+228
+00:17:19,080 --> 00:17:21,740
+Je suis allée rendre visite à un vieil ami, l'inspecteur Runge.
+
+229
+00:17:22,000 --> 00:17:25,480
+Cet incapable n'a rien trouvé de mieux que de me claquer la porte au nez !
+
+230
+00:17:25,480 --> 00:17:28,520
+J'espère qu'un jour, ils arrêteront cette ordure de Tenma !
+
 231
-00:16:16,200 --> 00:16:16,760
-Kenzo.
+00:17:28,520 --> 00:17:30,420
+Le BKA ? L'arrêter ?
 
 232
-00:16:18,900 --> 00:16:19,420
-Kenzo.
+00:17:30,420 --> 00:17:31,380
+Mais pourquoi ?
 
 233
-00:16:28,820 --> 00:16:34,800
-Ça va bientôt être Noël, ma petite puce
-
-234
-00:16:34,800 --> 00:16:37,700
-Dis au Père Noël de ne pas trop dépenser cette année
-
-235
-00:16:37,700 --> 00:16:41,560
-T'en fais pas pour lui, ça ne le gêne pas du moment que les enfants sont contents
-
-236
-00:16:41,560 --> 00:16:45,100
-C'est pas ça, c'est surtout que j'ai pas tellement envie de fêter Noël cette année
-
-237
-00:16:45,100 --> 00:16:46,820
-On va être que tous les deux, toi et moi
-
-238
-00:16:46,820 --> 00:16:50,740
-Eh ben, si je te disais que cette année, il y a des chances pour qu'on soit plus que deux
-
-239
-00:16:50,740 --> 00:16:51,560
-Quoi ?
-
-240
-00:16:58,820 --> 00:17:05,440
-L'homme sur la photo, c'est celui qui a complètement fichu ma vie en l'air
-
-241
-00:17:05,440 --> 00:17:08,220
-Excusez-moi, j'étais juste en train de dépoussiérer
-
-242
-00:17:08,220 --> 00:17:10,600
-Il s'appelle Kenzo Tenma, docteur Kenzo Tenma
-
-243
-00:17:10,600 --> 00:17:11,980
-Et nous étions fiancés, lui et moi
-
-244
-00:17:11,980 --> 00:17:14,780
-Vous avez encore bu, vous ne devriez pas
-
-245
-00:17:14,780 --> 00:17:16,640
-Ça m'aide à supporter l'existence
-
-246
-00:17:16,640 --> 00:17:18,660
-Je reviens tout droit du bureau du Pécard
-
-247
-00:17:18,660 --> 00:17:21,760
-Je suis allée rendre visite à un vieil ami, l'inspecteur Hunge
-
-248
-00:17:21,760 --> 00:17:24,820
-Cet incapable n'a rien trouvé de mieux que de me claquer la porte au nez
-
-249
-00:17:24,820 --> 00:17:28,000
-J'espère qu'un jour ils arrêteront cette ordure de Tenma
-
-250
-00:17:28,540 --> 00:17:31,380
-Le BKA ? L'arrêter ? Mais pourquoi ?
-
-251
-00:17:31,380 --> 00:17:34,580
+00:17:31,380 --> 00:17:34,540
 Il a assassiné mon père ! Il s'est évaporé dans la nature !
 
-252
-00:17:34,580 --> 00:17:38,200
-Il a beau hurler son innocence, je ne suis pas dupe ! Je sais bien que c'est lui !
+234
+00:17:34,540 --> 00:17:36,860
+Il a beau hurler son innocence, je ne suis pas dupe !
 
-253
-00:17:38,200 --> 00:17:41,320
-J'étais la fille du directeur d'hôpital, mon avenir était prometteur !
+235
+00:17:36,860 --> 00:17:38,220
+Je sais bien que c'est lui !
 
-254
-00:17:41,320 --> 00:17:44,500
-Si tous mes mariages ont été des échecs, c'est à cause de lui !
+236
+00:17:38,220 --> 00:17:41,060
+J'étais la fille du directeur de l'hôpital, mon avenir était prometteur.
 
-255
-00:17:44,500 --> 00:17:46,220
+237
+00:17:41,300 --> 00:17:43,920
+Si tous mes mariages ont été des échecs, c'est à cause de lui.
+
+238
+00:17:44,480 --> 00:17:46,220
 Tout est commandité par Johan ?
 
-256
-00:17:46,220 --> 00:17:48,780
-Bah voyons ! Tiens, jette un œil là-dessus !
+239
+00:17:46,220 --> 00:17:47,140
+Bah voyons !
 
-257
-00:17:48,780 --> 00:17:51,500
-Le voilà, le fameux Johan, avec mon père sur la photo !
+240
+00:17:47,140 --> 00:17:48,340
+Tiens, jette un œil là-dessus.
 
-258
-00:17:51,500 --> 00:17:54,040
+241
+00:17:48,760 --> 00:17:51,220
+Le voilà, le fameux Johan, avec mon père sur la photo.
+
+242
+00:17:51,500 --> 00:17:54,000
 Comment ose-t-il dire que cet enfant est un meurtrier ?
 
-259
-00:17:54,040 --> 00:17:56,260
+243
+00:17:54,000 --> 00:17:56,260
 C'est Enma qui prétend une chose pareille ?
 
-260
-00:17:56,260 --> 00:17:58,140
+244
+00:17:56,260 --> 00:17:58,120
 Quelle alibi géniale, un enfant !
 
-261
-00:17:58,140 --> 00:18:01,320
+245
+00:17:58,120 --> 00:18:01,300
 Est-ce que vous avez donné la photo du petit avec votre père à la police ?
 
-262
-00:18:01,320 --> 00:18:02,920
+246
+00:18:01,300 --> 00:18:02,920
 Mais non, bien sûr que non !
 
-263
-00:18:02,920 --> 00:18:05,640
-C'est peut-être une pièce à conviction, ça peut faire avancer l'enquête !
+247
+00:18:04,540 --> 00:18:05,600
+Tu peux faire avancer l'enquête !
 
-264
-00:18:05,640 --> 00:18:07,500
-C'est Tenma le coupable à poids, c'est tout !
+248
+00:18:05,600 --> 00:18:07,480
+C'est Tianma le coupable, à fois, c'est tout !
 
-265
-00:18:07,500 --> 00:18:09,120
+249
+00:18:07,480 --> 00:18:09,100
 Runge est un russe, mais il a raison !
 
-266
-00:18:09,120 --> 00:18:11,260
-Tenma est un schizophrène paranoïaque !
+250
+00:18:09,100 --> 00:18:11,480
+Tianma est un schizophrène paranoïaque !
 
-267
-00:18:13,180 --> 00:18:17,000
-Alors expliquez-moi, pourquoi gardez-vous toutes ces photos de lui à travers la maison
+251
+00:18:13,460 --> 00:18:14,260
+Alors, expliquez-moi,
 
-268
+252
+00:18:14,560 --> 00:18:17,000
+pourquoi gardez-vous toutes ces photos de lui à travers la maison
+
+253
 00:18:17,000 --> 00:18:19,260
 s'il est vraiment l'assassin de votre père ?
 
-269
-00:18:19,260 --> 00:18:23,560
-Je suis sûr qu'au fond de vous, vous êtes convaincus de son innocence.
+254
+00:18:20,160 --> 00:18:21,500
+Je suis sûr qu'au fond de vous,
 
-270
-00:18:23,560 --> 00:18:28,080
-Et je suis sûr d'une autre chose, vous en êtes toujours amoureuse
+255
+00:18:21,880 --> 00:18:23,580
+vous êtes convaincus de son innocence.
 
-271
-00:18:28,080 --> 00:18:32,500
-Tu as regardé trop de sopes à la télévision
+256
+00:18:24,920 --> 00:18:26,440
+Et je suis sûr d'une autre chose,
 
-272
-00:18:32,500 --> 00:18:38,600
-Cet homme c'était le fiancé idéal, un médecin surdoué promis à une carrière exceptionnelle
+257
+00:18:26,780 --> 00:18:28,020
+vous en êtes toujours amoureuse.
 
-273
-00:18:38,600 --> 00:18:40,820
-Il cédait à tous mes caprices
+258
+00:18:30,380 --> 00:18:32,460
+Tu as regardé trop de sopes à la télévision.
 
-274
-00:18:40,820 --> 00:18:46,260
-Je lui demandais ce que je voulais et c'était toujours oui, oui, oui
+259
+00:18:34,540 --> 00:18:36,120
+Cet homme, c'était le fiancé idéal,
 
-275
-00:18:46,260 --> 00:18:49,800
-Quand il me regardait je me sentais belle et je me sentais forte
+260
+00:18:36,160 --> 00:18:38,580
+un médecin surdoué, promis à une carrière exceptionnelle.
 
-276
-00:18:49,800 --> 00:18:51,460
-Notre avenir était tout tracé
+261
+00:18:39,120 --> 00:18:40,800
+Il cédait à tous mes caprices.
 
-277
-00:18:51,460 --> 00:18:53,900
+262
+00:18:41,580 --> 00:18:43,260
+Je lui demandais ce que je voulais,
+
+263
+00:18:43,620 --> 00:18:46,720
+et c'était toujours "oui, oui, oui".
+
+264
+00:18:46,720 --> 00:18:49,780
+Quand il me regardait, je me sentais belle et je me sentais forte.
+
+265
+00:18:50,140 --> 00:18:51,440
+Notre avenir était tout tracé.
+
+266
+00:18:51,760 --> 00:18:53,900
 Il devenait directeur de l'hôpital, je l'épousais.
 
-278
-00:18:54,320 --> 00:18:56,400
+267
+00:18:54,300 --> 00:18:56,400
 Le destin de cet homme, c'était de réussir
 
-279
-00:18:56,400 --> 00:18:58,360
-et de faire de moi la femme la plus heureuse du monde.
+268
+00:18:56,400 --> 00:18:59,580
+et de faire de moi la femme la plus heureuse du monde !
 
-280
-00:18:59,820 --> 00:19:00,720
-Et moi, dans tout ça,
+269
+00:18:59,580 --> 00:19:01,120
+Et moi, dans tout ça ?
 
-281
-00:19:01,140 --> 00:19:03,460
-vous ne croyez pas que je saurais vous rendre heureuse ?
+270
+00:19:01,120 --> 00:19:03,420
+Vous ne croyez pas que je saurais vous rendre heureuse ?
 
-282
-00:19:04,820 --> 00:19:08,240
+271
+00:19:04,800 --> 00:19:08,240
 Je suis prêt à passer ma vie entière dans le jardin pour votre bonheur.
 
-283
-00:19:08,620 --> 00:19:10,460
-Si ça suffisait à combler votre cœur, alors…
+272
+00:19:08,620 --> 00:19:10,680
+Si ça suffisait à combler votre cœur, alors...
 
-284
-00:19:21,460 --> 00:19:24,280
-Non, mais qu'est-ce que tu crois ?
+273
+00:19:22,940 --> 00:19:24,260
+Non mais qu'est-ce que tu crois ?
 
-285
-00:19:24,280 --> 00:19:26,020
-Parce que tu as partagé mon lit une fois ?
+274
+00:19:24,260 --> 00:19:26,020
+Parce que tu as partagé mon lieu une fois ?
 
-286
-00:19:26,020 --> 00:19:27,720
-Tu crois que tu es mon Seigneur et Maître ?
+275
+00:19:26,020 --> 00:19:27,700
+Tu crois que tu es mon seigneur et maître ?
 
-287
-00:19:27,720 --> 00:19:29,280
-Tu te fais des illusions, mon pauvre !
+276
+00:19:27,700 --> 00:19:29,000
+Tu te fais des illusions, mon pauvre.
 
-288
-00:19:29,280 --> 00:19:31,400
-Tu n'as été qu'une passade, une nuit de plaisir !
+277
+00:19:29,260 --> 00:19:31,100
+Tu n'as été qu'une passade, une nuit de plaisir.
 
-289
-00:19:31,400 --> 00:19:33,000
+278
+00:19:31,400 --> 00:19:33,020
 Tu n'as pas vu que je me payais ta tête ?
 
-290
-00:19:33,000 --> 00:19:35,360
-Je t'ai fait marcher ! Non, mais pour qui tu te prends ?
+279
+00:19:33,020 --> 00:19:33,680
+Je t'ai fait marcher.
 
-291
-00:19:37,200 --> 00:19:39,800
+280
+00:19:37,560 --> 00:19:39,800
 Je vous plains, j'avais raison.
 
-292
-00:19:40,160 --> 00:19:42,140
+281
+00:19:40,120 --> 00:19:42,180
 Vous êtes une femme seule et triste.
 
-293
-00:19:43,500 --> 00:19:45,440
+282
+00:19:43,400 --> 00:19:46,600
 Et toi, tu es quoi ?
 
-294
-00:19:45,440 --> 00:19:50,240
+283
+00:19:49,080 --> 00:19:50,240
 Je vais aller chez moi.
 
+284
+00:19:50,560 --> 00:19:52,840
+Je vais célébrer Noël en tête-à-tête avec ma fille.
+
+285
+00:19:53,160 --> 00:19:54,840
+Si vous voulez venir, la porte vous est ouverte.
+
+286
+00:20:05,160 --> 00:20:06,900
+- Dis donc, papa, c'est un vrai festin.
+
+287
+00:20:07,480 --> 00:20:09,180
+C'est toi qui nous as préparé tout ça?
+
+288
+00:20:09,480 --> 00:20:12,140
+- Oui, mais je ne te garantis pas que ce sera bon.
+
+289
+00:20:12,580 --> 00:20:14,740
+- T'as pas l'impression d'en avoir fait un peu trop?
+
+290
+00:20:14,820 --> 00:20:16,220
+- Ben, je n'en suis pas sûr.
+
+291
+00:20:16,560 --> 00:20:17,780
+- Ah! - Hein?
+
+292
+00:20:19,360 --> 00:20:21,040
+- J'ai tout compris, maman revient!
+
+293
+00:20:21,560 --> 00:20:21,820
+- Ah!
+
+294
+00:20:22,460 --> 00:20:23,640
+- C'est ça, c'est ça!
+
 295
-00:19:50,240 --> 00:19:52,840
-Je vais célébrer Noël en tête-à-tête avec ma fille
+00:20:23,800 --> 00:20:25,660
+C'est la surprise de Noël, elle va revenir!
 
 296
-00:19:52,840 --> 00:19:55,340
-Si vous voulez venir, la porte vous est ouverte
+00:20:25,820 --> 00:20:26,360
+- Goleta!
 
 297
-00:19:55,340 --> 00:20:07,520
-Dis donc papa, c'est un vrai festin ?
+00:20:27,160 --> 00:20:27,540
+(toc! toc!)
 
 298
-00:20:07,520 --> 00:20:09,540
-C'est toi qui nous a préparé tout ça ?
+00:20:27,700 --> 00:20:29,640
+- Ah! C'est elle, dit maman!
 
 299
-00:20:09,540 --> 00:20:12,180
-Oui, mais je ne te garantis pas que ce sera bon
+00:20:30,740 --> 00:20:32,600
+(toc! toc!)
 
 300
-00:20:12,180 --> 00:20:14,860
-T'as pas l'impression d'en avoir fait un peu trop ?
+00:20:40,260 --> 00:20:41,220
+Hein ?
 
 301
-00:20:14,860 --> 00:20:16,240
-Ben, je n'en suis pas sûr
+00:20:48,560 --> 00:20:49,760
+Ch... Charlotte !
 
 302
-00:20:16,240 --> 00:20:21,120
-J'ai tout compris, maman revient
+00:20:50,740 --> 00:20:51,700
+Maman !
 
 303
-00:20:21,120 --> 00:20:25,720
-C'est ça, c'est ça, c'est la surprise de Noël, elle va revenir
+00:20:51,700 --> 00:20:54,540
+Est-ce que tu peux me pardonner ? Je te demande pardon !
 
 304
-00:20:25,720 --> 00:20:26,420
-Coletta
+00:21:09,280 --> 00:21:10,240
+(pleurs)
 
 305
-00:20:26,420 --> 00:20:29,720
-C'est elle, c'est maman
+00:21:10,780 --> 00:21:11,000
+(pleurs)
 
 306
-00:20:46,240 --> 00:20:50,340
-Cha... Charlotte !
+00:21:14,720 --> 00:21:15,680
+(pleurs)
 
 307
-00:20:50,340 --> 00:20:54,200
-Maman ! Est-ce que tu peux me pardonner ? Je te demande pardon.
+00:21:15,680 --> 00:21:18,960
+(musique d'action)
 
 308
-00:21:16,240 --> 00:21:29,140
-Mangeons, allez, ça va être froid
+00:21:18,960 --> 00:21:19,820
+(musique d'action)
 
 309
-00:21:29,140 --> 00:21:31,840
-La princesse entre nous deux
+00:21:20,700 --> 00:21:21,880
+(musique d'action)
 
 310
-00:21:31,840 --> 00:21:43,640
-Qu'ils se les mettent où je pense, ces mimodins hétéroses
+00:21:23,380 --> 00:21:24,340
+(rires)
 
 311
-00:21:43,640 --> 00:21:45,700
-Je m'en fous de son jardin minable
+00:21:27,640 --> 00:21:29,120
+- Mangeons, allez, ça va être froid.
 
 312
-00:21:45,700 --> 00:21:49,540
-Directeur d'hôpital ou non, je m'en fous
+00:21:29,540 --> 00:21:31,720
+- La princesse entre nous deux.
 
 313
-00:21:49,540 --> 00:21:51,360
-Que tout brûle comme un enfer
+00:21:32,500 --> 00:21:32,940
+[Rires]
 
 314
-00:21:51,360 --> 00:22:10,300
-Bonjour, madame
+00:21:40,300 --> 00:21:43,920
+Qu'ils se les mettent où j'pense, ces Mimodas hétéroses !
 
 315
-00:22:10,300 --> 00:22:14,860
-On dirait que finalement vous vous décidez à écouter ce que j'ai à vous dire, inspecteur
+00:21:43,920 --> 00:21:45,920
+J'm'en fous d'son jardin minable !
 
 316
-00:22:15,200 --> 00:22:17,200
-Il se trouve que j'ai un peu de temps devant moi.
+00:21:47,720 --> 00:21:51,560
+Directeur d'hôpital ou non, j'm'en fous que tout brûle comme un enfer !
 
 317
-00:22:18,160 --> 00:22:19,560
-Pour moi, il n'y a que lui.
+00:22:18,920 --> 00:22:19,580
+Il n'y a que lui.
 
 318
 00:22:20,900 --> 00:22:23,180
@@ -1275,14 +1275,6 @@ Tant qu'il n'aura pas poussé son dernier soupir,
 je ne serai pas capable de trouver un instant de bonheur.
 
 320
-00:22:44,860 --> 00:23:14,840
-Sous-titrage MFP.
-
-321
-00:23:14,860 --> 00:23:44,840
-Sous-titrage Société Radio-Canada
-
-322
-00:23:44,860 --> 00:23:53,540
-Sous-titrage Société Radio-Canada
+00:23:54,440 --> 00:23:55,400
+Merci d'avoir regardé cette vidéo, n'hésitez pas à la partager et à vous abonner à la chaine pour ne manquer aucune de mes nouvelles vidéos.
 

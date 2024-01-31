@@ -1,49 +1,49 @@
 1
-00:00:00,000 --> 00:00:04,120
+00:00:01,400 --> 00:00:04,140
 Ich habe für dich eine Busfahrkarte gekauft.
 
 2
-00:00:05,160 --> 00:00:09,720
+00:00:05,000 --> 00:00:09,740
 Tenma, du könntest dich auch der Polizei stellen und deine Unschuld beweisen.
 
 3
-00:00:10,040 --> 00:00:11,520
+00:00:10,040 --> 00:00:11,560
 Ich könnte dir dabei helfen.
 
 4
-00:00:12,940 --> 00:00:13,760
+00:00:12,880 --> 00:00:13,760
 Ich danke dir.
 
 5
-00:00:14,480 --> 00:00:17,520
+00:00:14,420 --> 00:00:17,520
 Ich bin nicht hinter Johann her, um meine Unschuld zu beweisen.
 
 6
-00:00:19,240 --> 00:00:21,280
+00:00:19,180 --> 00:00:21,260
 Ich weiß das sehr zu schätzen, Rudi.
 
 7
-00:00:23,240 --> 00:00:26,000
+00:00:23,200 --> 00:00:26,100
 Tenma, aber du willst Johann doch nicht etwa...
 
 8
-00:00:26,720 --> 00:00:27,620
+00:00:26,100 --> 00:00:27,640
 Ach, noch was.
 
 9
-00:00:28,360 --> 00:00:30,700
+00:00:28,200 --> 00:00:30,740
 Du musst wissen, ich habe dich keineswegs verachtet.
 
 10
-00:00:31,560 --> 00:00:32,800
+00:00:31,600 --> 00:00:32,740
 Ich fand dich immer sehr interessant,
 
 11
-00:00:32,940 --> 00:00:34,920
+00:00:32,960 --> 00:00:34,920
 hatte aber nie die Gelegenheit, dir das zu sagen.
 
 12
-00:00:35,840 --> 00:00:38,200
+00:00:35,620 --> 00:00:38,200
 Aber jetzt sind wir beide endlich Freunde geworden.
 
 13
@@ -51,886 +51,794 @@ Aber jetzt sind wir beide endlich Freunde geworden.
 Aber damals, als du mich dabei gesehen hast,
 
 14
-00:00:40,800 --> 00:00:43,700
+00:00:40,780 --> 00:00:43,360
 wie ich heimlich gespickt habe, da hast du...
 
 15
-00:00:43,700 --> 00:00:46,920
+00:00:44,480 --> 00:00:46,920
 Weil ich damals selbst auch gespickt habe.
 
 16
-00:00:57,620 --> 00:01:27,600
-Sprecher Jochen Graf
+00:01:25,980 --> 00:01:27,620
+Hast du eben das Schild gesehen?
 
 17
-00:01:27,600 --> 00:01:39,060
-Ah, entschuldige. Die Karte macht mir wirklich Probleme. Muss ich sie so rumhalten? Oder doch so rum? Ich weiß jetzt gar nicht, in welche Richtung wir fahren.
+00:01:29,180 --> 00:01:31,900
+Entschuldige, die Karte macht mir wirklich Probleme.
 
 18
+00:01:32,780 --> 00:01:36,280
+Muss ich sie so rumhalten oder doch so rum?
+
+19
+00:01:36,860 --> 00:01:39,060
+Ich weiß jetzt gar nicht, in welche Richtung wir fahren.
+
+20
 00:01:39,900 --> 00:01:42,620
 Sag mal, woher hast du denn überhaupt diese Karte?
 
-19
-00:01:43,000 --> 00:01:48,000
-Mein allerliebster Schatz, was ist denn das für eine Frage vom Autoverleih natürlich?
-
-20
-00:01:48,660 --> 00:01:53,800
-Natürlich, das habe ich mir schon gedacht. Wahrscheinlich in der Zeit, als ich auf Toilette war. Stimmt's?
-
 21
-00:01:54,540 --> 00:01:56,660
-Ich kann mit der Karte nichts anfangen.
+00:01:43,000 --> 00:01:44,500
+Mein allerliebster Schatz.
 
 22
-00:01:56,960 --> 00:01:59,900
-In meinem Alter kann ich so eine kleine Schrift nicht mehr lesen.
+00:01:44,920 --> 00:01:48,000
+Was ist denn das für eine Frage vom Autoverleih natürlich.
 
 23
-00:01:59,940 --> 00:02:02,740
-Ja, weil du deine Lesebrille am Flughafen vergessen hast.
+00:01:48,680 --> 00:01:50,700
+Natürlich, das habe ich mir schon gedacht.
 
 24
-00:02:04,000 --> 00:02:08,760
-Wippenhausen, Ampertshausen, Gartelshausen.
+00:01:51,160 --> 00:01:53,800
+Wahrscheinlich in der Zeit, als ich auf Toilette war, stimmt's?
 
 25
+00:01:54,680 --> 00:01:56,660
+Ich kann mit der Karte nichts anfangen.
+
+26
+00:01:56,980 --> 00:01:59,920
+In meinem Alter kann ich so eine kleine Schrift nicht mehr lesen.
+
+27
+00:01:59,960 --> 00:02:02,740
+Ja, weil du deine Lesebrille am Flughafen vergessen hast.
+
+28
+00:02:05,440 --> 00:02:08,800
+Bippenhausen, Ampertshausen, Gartelshausen.
+
+29
 00:02:10,100 --> 00:02:11,860
 Was sind denn das für Ortsnamen?
 
-26
-00:02:11,980 --> 00:02:14,060
+30
+00:02:11,980 --> 00:02:14,040
 Die kann ja kein vernünftiger Mensch aussprechen.
 
-27
-00:02:14,380 --> 00:02:15,420
+31
+00:02:14,420 --> 00:02:15,420
 Klingt lustig, oder?
 
-28
-00:02:15,420 --> 00:02:20,040
-Ja, wäre interessant zu wissen, ob die Deutschen das genauso empfinden, wenn sie nach England fahren.
-
-29
-00:02:20,520 --> 00:02:21,880
-Mich würde eher interessieren,
-
-30
-00:02:21,940 --> 00:02:23,840
-wo lang ich an der nächsten Kreuzung fahren muss.
-
-31
-00:02:26,100 --> 00:02:26,920
-Schau mal.
-
 32
-00:02:28,000 --> 00:02:29,100
-Da vorne sind Leute.
+00:02:15,820 --> 00:02:20,020
+Wäre interessant zu wissen, ob die Deutschen das genauso empfinden, wenn sie nach England fahren.
 
 33
-00:02:29,620 --> 00:02:31,060
-Die können wir nach dem Weg fahren.
+00:02:20,520 --> 00:02:23,820
+Mich würde eher interessieren, wolang ich an der nächsten Kreuzung fahren muss.
 
 34
-00:02:32,200 --> 00:02:33,540
-Wir schaffen das schon.
+00:02:26,100 --> 00:02:31,140
+Schau mal, da vorne sind Leute, die können wir nach dem Weg fragen.
 
 35
-00:02:33,640 --> 00:02:34,860
-Wir fahren einfach weiter.
+00:02:32,180 --> 00:02:34,880
+Wir schaffen das schon, wir fahren einfach weiter.
 
 36
-00:02:35,120 --> 00:02:37,420
-Sieh mal, das sind ja Anhalter.
+00:02:35,080 --> 00:02:39,340
+Sieh mal, das sind ja Anhalter, wollen wir sie mitnehmen?
 
 37
-00:02:38,160 --> 00:02:39,320
-Wollen wir sie mitnehmen?
+00:02:40,020 --> 00:02:44,080
+Das sind doch wildfremde Menschen, wer weiß, nachher haben wir noch irgendeinen Ärger
 
 38
-00:02:40,040 --> 00:02:41,900
-Das sind doch wildfremde Menschen.
+00:02:44,080 --> 00:02:44,560
+mit denen.
 
 39
-00:02:42,020 --> 00:02:44,540
-Wer weiß, nachher haben wir noch irgendeinen Ärger mit denen.
+00:02:45,180 --> 00:02:51,920
+Guck doch mal, der Mann hat sogar noch einen kleinen Jungen bei sich, die tun mir leid,
 
 40
-00:02:45,220 --> 00:02:46,340
-Guck doch mal.
+00:02:52,600 --> 00:02:53,920
+können wir sie nicht mitnehmen?
 
 41
-00:02:47,920 --> 00:02:49,960
-Der Mann hat sogar noch einen kleinen Jungen,
+00:03:02,900 --> 00:03:05,420
+Guck mal da, Tenma, sie haben angehalten.
 
 42
-00:02:50,040 --> 00:02:55,640
-sich. Die tun mir leid. Können wir sie nicht mitnehmen?
+00:03:06,340 --> 00:03:06,840
+Tatsächlich.
 
 43
-00:03:02,440 --> 00:03:09,000
-Guck mal da, Tenma! Sie haben angehalten! Tatsächlich.
+00:03:08,960 --> 00:03:10,360
+[MUSIK]
 
 44
-00:03:20,040 --> 00:03:50,020
-Untertitelung des ZDF, 2020
-
-45
-00:03:50,040 --> 00:04:20,020
-Untertitelung des ZDF, 2020
-
-46
-00:04:20,040 --> 00:04:40,660
-Guten Tag, bitte.
-
-47
-00:04:42,420 --> 00:04:46,240
+00:04:39,020 --> 00:04:46,260
 Guten Tag, wir kommen aus England und kennen uns leider überhaupt nicht aus.
 
-48
-00:04:46,520 --> 00:04:47,940
+45
+00:04:46,540 --> 00:04:47,940
 Ah, Sie kommen aus England?
 
-49
-00:04:48,740 --> 00:04:51,500
-Wir möchten da frei haben. Könnten Sie uns vielleicht mitnehmen?
+46
+00:04:48,760 --> 00:04:51,500
+Wir möchten da frei haben, könnten Sie uns vielleicht mitnehmen?
 
-50
-00:04:52,340 --> 00:04:53,720
+47
+00:04:52,360 --> 00:04:53,740
 Gib mir kurz mal die Karte.
 
-51
-00:04:55,520 --> 00:04:56,720
+48
+00:04:55,880 --> 00:04:56,740
 Wo liegt das denn?
 
-52
-00:04:57,980 --> 00:04:59,800
+49
+00:04:57,940 --> 00:04:59,780
 Wo liegt der Ort, wo Sie hinwollen?
 
+50
+00:05:00,420 --> 00:05:04,640
+Ach so, ähm, also, wir befinden uns gerade ungefähr hier
+
+51
+00:05:05,080 --> 00:05:09,240
+aus immer Richtung Süden. Sieh mal eine an, das ist doch genau die Richtung, in die wir
+
+52
+00:05:09,240 --> 00:05:14,560
+auch müssen. Naja. Na los, mein Kleiner, dann steig doch mal ein. Dankeschön.
+
 53
-00:05:00,420 --> 00:05:06,420
-Ach so. Also, wir befinden uns gerade ungefähr hier und von hier aus immer Richtung Süden.
+00:05:23,560 --> 00:05:30,800
+Woher kennen Sie denn den Jungen? Das ist ja offensichtlich nicht Ihr Sohn. Sie sind
 
 54
-00:05:06,540 --> 00:05:09,800
-Sieh mal eine an. Das ist doch genau die Richtung, in die wir auch müssen.
+00:05:30,800 --> 00:05:34,000
+Asiate und der Junge wahrscheinlich Deutscher, nehme ich an.
 
 55
-00:05:10,160 --> 00:05:10,640
-Na ja.
+00:05:35,580 --> 00:05:40,620
+Ja, er ist der Sohn eines guten Freundes. Sie sehen aus wie jemand, der als Spezialist
 
 56
-00:05:11,060 --> 00:05:13,520
-Na los, mein Kleiner. Dann steig doch mal ein.
+00:05:40,620 --> 00:05:46,640
+in einem bestimmten Beruf arbeitet. Es ist die Art, wie sie reden und auftreten.
 
 57
-00:05:13,520 --> 00:05:14,580
-Danke schön.
+00:05:47,640 --> 00:05:53,640
+Also Liebling, jetzt hör doch mal auf damit. Das ist keine gute Angewohnheit.
 
 58
-00:05:17,940 --> 00:05:25,080
-Woher kennen Sie denn den Jungen?
+00:05:54,640 --> 00:05:59,240
+Entschuldigen Sie bitte, mein Mann kann seine merkwürdigen Angewohnheiten einfach nicht
 
 59
-00:05:27,400 --> 00:05:29,760
-Das ist ja offensichtlich nicht Ihr Sohn.
+00:06:00,800 --> 00:06:05,720
+nämlich Polizist. - Was hat sie gerade gesagt?
 
 60
-00:05:30,440 --> 00:05:33,980
-Sie sind Asiate und der Junge wahrscheinlich Deutscher, nehme ich an.
+00:06:06,320 --> 00:06:09,580
+- Sie hat gesagt, dass der Mann früher mal Polizist war.
 
 61
-00:05:35,360 --> 00:05:38,360
-Ja, er ist der Sohn eines guten Freundes.
+00:06:13,000 --> 00:06:19,600
+- Lass uns aussteigen, Tenma. - Bloß nicht. Ach, ach so. Und jetzt machen
 
 62
-00:05:38,360 --> 00:05:42,900
-Sie sehen aus wie jemand, der als Spezialist in einem bestimmten Beruf arbeitet.
+00:06:19,600 --> 00:06:22,440
+sie zusammen eine schöne Reise und genießen ihren Ruhestand?
 
 63
-00:05:44,160 --> 00:05:46,640
-Es ist die Art, wie Sie reden und auftreten.
+00:06:23,520 --> 00:06:29,280
+- Ja, ganz genau. Nun ja, vorher war es gar nicht möglich. Mein Mann war so mit seiner
 
 64
-00:05:46,640 --> 00:05:53,620
-Also, Liebling, jetzt hör doch mal auf damit. Das ist keine gute Angewohnheit.
+00:06:30,800 --> 00:06:35,680
+zu zweit nicht zu denken war es tut mir sehr leid dass wir sie jetzt in ihrer
 
 65
-00:05:54,580 --> 00:06:01,800
-Entschuldigen Sie bitte. Mein Mann kann seine merkwürdigen Angewohnheiten einfach nicht lassen. Er war früher nämlich Polizist.
+00:06:35,680 --> 00:06:40,420
+zweisamkeit stören sie können uns auch gern rauslassen das wäre absolut in
 
 66
-00:06:03,920 --> 00:06:05,720
-Was hat sie gerade gesagt?
+00:06:40,420 --> 00:06:43,700
+ordnung nein nein wir haben es zwar geschafft am flughafen ein auto zu
 
 67
-00:06:06,300 --> 00:06:09,580
-Sie hat gesagt, dass der Mann früher mal Polizist war.
+00:06:43,700 --> 00:06:46,900
+mieten kommen aber dafür mit der karte nicht zurecht beim essen bestellen haben
 
 68
-00:06:12,900 --> 00:06:14,800
-Lass uns aussteigen, Tenma.
+00:06:46,900 --> 00:06:51,180
+wir auch so unsere schwierigkeiten jemand der das für uns übernimmt wäre da eine
 
 69
-00:06:15,260 --> 00:06:15,920
-Bloß nicht.
+00:06:51,180 --> 00:06:54,280
+große hilfe wirklich
 
 70
-00:06:16,640 --> 00:06:22,440
-Ach, ach so. Und jetzt machen Sie zusammen eine schöne Reise und genießen Ihren Ruhestand?
+00:07:40,740 --> 00:07:43,340
+Ich denke, wir haben keine andere Wahl.
 
 71
-00:06:23,680 --> 00:06:27,700
-Ja, ganz genau. Nun ja, vorher war es gar nicht möglich.
-
-72
-00:06:28,100 --> 00:06:32,320
-Mein Mann war so mit seiner Arbeit beschäftigt, dass an Reisen zu zweit nicht zu denken war.
-
-73
-00:06:33,340 --> 00:06:36,840
-Es tut mir sehr leid, dass wir Sie jetzt in Ihrer Zweisamkeit stören.
-
-74
-00:06:37,780 --> 00:06:40,740
-Sie können uns auch gern rauslassen. Das wäre absolut in Ordnung.
-
-75
-00:06:40,740 --> 00:06:45,680
-Nein, nein. Wir haben es zwar geschafft, am Flughafen ein Auto zu mieten, kommen aber dafür mit der Karte nicht zurecht.
-
-76
-00:06:45,680 --> 00:06:48,360
-Beim Essen bestellen haben wir auch so unsere Schwierigkeiten.
-
-77
-00:06:48,840 --> 00:06:52,040
-Jemand, der das für uns übernimmt, wäre da eine große Hilfe.
-
-78
-00:06:53,420 --> 00:06:53,940
-Wirklich.
-
-79
-00:07:15,680 --> 00:07:39,060
-Ach je, was machen wir jetzt?
-
-80
-00:07:39,960 --> 00:07:43,340
-Hm, ich denke, wir haben keine andere Wahl.
-
-81
-00:07:43,780 --> 00:07:46,040
+00:07:43,820 --> 00:07:46,080
 Wir müssen zu Fuß zur nächsten Tankstelle gehen.
 
-82
-00:07:46,880 --> 00:07:48,260
-Ah, da kommt ein Auto.
+72
+00:07:46,760 --> 00:07:48,300
+Ah, da kommt ein Auto!
 
-83
-00:07:48,700 --> 00:07:51,080
-Stopp! Anhalten! Stehenbleiben!
+73
+00:07:48,680 --> 00:07:49,240
+Stopp!
 
-84
-00:07:54,920 --> 00:07:56,160
-Was ist passiert?
+74
+00:07:49,460 --> 00:07:49,980
+Anhalten!
 
-85
-00:07:56,360 --> 00:07:57,460
-Wir haben kein Benzin mehr.
+75
+00:07:50,440 --> 00:07:51,080
+Stehenbleiben!
 
-86
-00:07:57,660 --> 00:08:02,580
-Ah, ausgerechnet an einem Ort wie diesem. Das ist wirklich sehr ungünstig.
+76
+00:07:54,880 --> 00:07:57,500
+- Was ist passiert? - Wir haben kein Benzin mehr.
 
-87
-00:08:04,920 --> 00:08:07,600
+77
+00:07:57,640 --> 00:08:02,580
+- Ah, ausgerechnet an einem Ort wie diesem, das ist wirklich sehr ungünstig.
+
+78
+00:08:04,900 --> 00:08:07,580
 Ich könnte Sie gern ein Stückchen mitnehmen.
 
-88
-00:08:09,600 --> 00:08:10,680
-Herr Jones, bitte.
+79
+00:08:09,620 --> 00:08:13,080
+- Herr Jones, bitte… - Keine Sorge, fahren Sie ruhig beide mit,
 
-89
-00:08:10,940 --> 00:08:13,080
-Keine Sorge, fahren Sie ruhig beide mit.
+80
+00:08:13,700 --> 00:08:18,020
+aber Sie müssen sich um uns wirklich keine Sorgen machen, glauben Sie mir.
 
-90
-00:08:13,340 --> 00:08:18,040
-Aber Sie müssen sich um uns wirklich keine Sorgen machen. Glauben Sie mir.
+81
+00:08:22,440 --> 00:08:26,620
+- An der nächsten Tankstelle gebe ich Bescheid, dass sie hier liegen geblieben sind und sorge
 
-91
-00:08:22,720 --> 00:08:28,280
-An der nächsten Tankstelle gebe ich Bescheid, dass Sie hier liegen geblieben sind und sorge dafür, dass Sie jemanden vorbeischicken.
+82
+00:08:26,620 --> 00:08:28,280
+dafür, dass sie jemanden vorbeischicken.
 
-92
-00:08:28,720 --> 00:08:32,080
-Vielen Dank, das ist eine gute Idee. Das würde uns weiterhelfen.
+83
+00:08:28,700 --> 00:08:32,120
+- Vielen Dank, das ist eine gute Idee, das würde uns weiterhelfen.
 
-93
-00:08:43,340 --> 00:08:47,440
-Wir haben's geschafft!
-
-94
-00:08:48,520 --> 00:08:49,960
-Was für ein Glück, oder, Tenman?
-
-95
-00:08:50,400 --> 00:08:52,260
+84
+00:08:48,820 --> 00:08:52,260
 Schon wieder jemand, der uns mitnimmt.
 
-96
-00:08:52,740 --> 00:08:52,980
+85
+00:08:52,780 --> 00:08:52,980
 Ja.
 
-97
-00:09:08,300 --> 00:09:10,520
-Könnten Sie bei der nächsten Tankstelle anhalten?
+86
+00:09:08,140 --> 00:09:10,520
+Könnten sie bei der nächsten Tankstelle anhalten?
 
-98
-00:09:11,200 --> 00:09:13,540
+87
+00:09:10,520 --> 00:09:13,600
 Hier in der Gegend gibt es keine.
 
-99
-00:09:35,320 --> 00:09:37,160
+88
+00:09:35,200 --> 00:09:37,180
 Das dauert aber lange.
 
-100
-00:09:37,160 --> 00:09:39,160
-Ja.
+89
+00:09:38,200 --> 00:09:39,540
+Hm? Ja.
 
-101
-00:09:40,520 --> 00:09:47,600
+90
+00:09:40,620 --> 00:09:47,580
 Wenn der junge Mann Bescheid gegeben hat, dann wird doch wohl jemand in der nächsten Zeit ganz bestimmt von der Tankstelle herkommen, oder?
 
-102
-00:09:48,920 --> 00:09:50,160
-Der junge Mann?
+91
+00:09:48,940 --> 00:09:50,160
+Der junge Mann.
 
-103
-00:09:51,440 --> 00:09:51,760
+92
+00:09:51,360 --> 00:09:51,740
 Hä?
 
-104
-00:09:52,860 --> 00:09:55,000
+93
+00:09:52,840 --> 00:09:55,000
 Wahrscheinlich ist er einfach weitergefahren.
 
-105
-00:09:55,700 --> 00:10:02,020
+94
+00:09:55,660 --> 00:10:02,020
 Was sagst du da? Das kann ich mir nicht vorstellen. Ich glaube, dass er ein guter Mensch ist.
 
-106
-00:10:02,740 --> 00:10:03,840
-Wer weiß das schon?
+95
+00:10:02,700 --> 00:10:03,840
+Wer weiß das schon.
 
-107
-00:10:04,360 --> 00:10:04,760
+96
+00:10:04,380 --> 00:10:04,780
 Hä?
 
+97
+00:10:17,380 --> 00:10:22,320
+was für ein schöner himmel du redest immer von der abendsonne ich kann es nicht mehr
+
+98
+00:10:22,320 --> 00:10:28,860
+hören ich habe sie nun schon oft genug gesehen ach was die abendsonne ist doch gar nicht
+
+99
+00:10:28,860 --> 00:10:35,020
+mehr da sie ist doch schon längst untergegangen aber sieh doch nur wie wunderschön der himmel
+
+100
+00:10:35,020 --> 00:10:45,700
+gefärbt ist, nachdem die Sonne weg ist, ob Robert ihn jetzt wohl auch sieht, diesen schönen
+
+101
+00:10:45,700 --> 00:11:00,720
+Himmel, Nanu, das ist doch, da, da, jetzt guck doch mal, da ist doch was, da kommt endlich
+
+102
+00:11:00,720 --> 00:11:22,100
+jemand. Schau mal, er ist es. Ich habs gewusst, da kommen sie. Ein Bauer in der Nähe war
+
+103
+00:11:22,100 --> 00:11:27,300
+so nett uns etwas Benzin und eine Lampe zu geben. Oh vielen lieben Dank, Liebling ist
+
+104
+00:11:27,300 --> 00:11:28,120
+Ist das nicht nett?
+
+105
+00:12:19,840 --> 00:12:23,640
+Ah, das war sehr köstlich, nicht wahr Liebling?
+
+106
+00:12:25,780 --> 00:12:30,500
+Das haben wir Ihnen zu verdanken, nur weil Sie uns die Speisekarte erklärt haben, hatten
+
+107
+00:12:30,500 --> 00:12:32,020
+wir so ein köstliches Mahl.
+
 108
-00:10:10,520 --> 00:10:19,260
-Was für ein schöner Himmel.
-
-109
-00:10:19,780 --> 00:10:22,640
-Du redest immer von der Abendsonne. Ich kann es nicht mehr hören.
-
-110
-00:10:23,220 --> 00:10:24,920
-Ich habe sie nun schon oft genug gesehen.
-
-111
-00:10:26,020 --> 00:10:29,320
-Ach was, die Abendsonne ist doch gar nicht mehr da.
-
-112
-00:10:29,600 --> 00:10:31,200
-Sie ist doch schon längst untergegangen.
-
-113
-00:10:32,080 --> 00:10:37,260
-Aber sieh doch nur, wie wunderschön der Himmel gefärbt ist, nachdem die Sonne weg ist.
-
-114
-00:10:38,780 --> 00:10:39,260
-Ja.
-
-115
-00:10:41,520 --> 00:10:44,040
-Ob Robert ihn jetzt wohl auch sieht?
-
-116
-00:10:44,980 --> 00:10:46,080
-Diesen schönen Himmel.
-
-117
-00:10:48,740 --> 00:10:52,760
-Nanu, das ist doch...
-
-118
-00:10:52,760 --> 00:10:56,280
-Da, da, jetzt guck doch mal, da ist doch was.
-
-119
-00:10:59,120 --> 00:11:01,140
-Da kommt endlich jemand.
-
-120
-00:11:02,880 --> 00:11:06,120
-Ah, schau mal, er ist es.
-
-121
-00:11:06,120 --> 00:11:13,000
-Ich hab's gewusst, da kommen sie
-
-122
-00:11:13,000 --> 00:11:24,480
-Ein Bauer in der Nähe war so nett, uns etwas Benzin und eine Lampe zu geben
-
-123
-00:11:24,480 --> 00:11:26,220
-Oh, vielen lieben Dank
-
-124
-00:11:26,220 --> 00:11:28,120
-Liebling, ist das nicht nett?
-
-125
-00:11:36,120 --> 00:12:06,100
-Untertitelung des ZDF, 2020
-
-126
-00:12:06,120 --> 00:12:22,340
-Ah, das war sehr köstlich.
-
-127
-00:12:22,740 --> 00:12:23,580
-Nicht wahr, Liebling?
-
-128
-00:12:25,820 --> 00:12:27,920
-Das haben wir Ihnen zu verdanken.
-
-129
-00:12:28,120 --> 00:12:30,260
-Nur weil Sie uns die Speisekarte erklärt haben,
-
-130
-00:12:30,340 --> 00:12:31,980
-hatten wir so ein köstliches Mahl.
-
-131
-00:12:32,260 --> 00:12:32,940
+00:12:32,260 --> 00:12:32,980
 Ist doch so.
 
-132
+109
 00:12:34,580 --> 00:12:35,840
 Besonders der Wein.
 
-133
-00:12:36,120 --> 00:12:40,120
-Das ist ein Forster-Ungeheuer. Der Wein kommt aus der Pfalz.
+110
+00:12:36,180 --> 00:12:37,900
+Das ist ein Forster-Ungeheuer.
 
-134
-00:12:40,120 --> 00:12:43,120
-Genau. Und dann noch dieses Lebergericht.
+111
+00:12:38,760 --> 00:12:40,120
+Der Wein kommt aus der Pfalz.
 
-135
-00:12:44,460 --> 00:12:45,100
+112
+00:12:40,320 --> 00:12:40,880
+Genau.
+
+113
+00:12:41,580 --> 00:12:43,820
+Und dann noch dieses Lebergericht.
+
+114
+00:12:44,500 --> 00:12:45,060
 Leberknödel.
 
-136
-00:12:45,660 --> 00:12:49,580
-Ach ja, richtig. Oh, das war wirklich großartig.
+115
+00:12:45,640 --> 00:12:46,760
+Ach ja, richtig.
 
-137
-00:12:50,300 --> 00:12:54,880
-Ohne Ihre Hilfe wären wir niemals in den Genuss dieser köstlichen deutschen Küche gekommen.
+116
+00:12:47,340 --> 00:12:49,580
+Oh, das war wirklich großartig.
 
-138
-00:12:55,980 --> 00:12:59,160
-Gern geschehen. Vielen Dank, dass Sie uns eingeladen haben.
+117
+00:12:49,580 --> 00:12:54,420
+Ohne ihre Hilfe wären wir niemals in den Genuss dieser köstlichen deutschen Küche
 
-139
-00:12:59,880 --> 00:13:03,160
+118
+00:12:54,420 --> 00:12:54,900
+gekommen.
+
+119
+00:12:56,040 --> 00:12:59,200
+Gern geschehen, vielen Dank, dass Sie uns eingeladen haben.
+
+120
+00:12:59,860 --> 00:13:03,180
 Dieter, möchtest du vielleicht noch ein Eis haben?
 
-140
-00:13:04,120 --> 00:13:06,240
+121
+00:13:04,100 --> 00:13:06,260
 Lieber nicht, das reicht, vielen Dank.
 
-141
-00:13:06,760 --> 00:13:08,740
+122
+00:13:06,740 --> 00:13:08,740
 Kann dieser Mann hier ein Mörder sein?
 
-142
-00:13:09,280 --> 00:13:09,480
+123
+00:13:09,300 --> 00:13:09,520
 Hä?
 
-143
-00:13:10,760 --> 00:13:12,160
-Hier in der Zeitung.
+124
+00:13:10,880 --> 00:13:15,440
+Hier in der Zeitung, ich meine diesen Mann, der wegen Verdachts des Mordes an seiner Frau
 
-144
-00:13:12,280 --> 00:13:16,400
-Ich meine diesen Mann, der wegen Verdachts des Mordes an seiner Frau angeklagt war.
+125
+00:13:15,440 --> 00:13:16,420
+angeklagt war.
 
-145
-00:13:17,980 --> 00:13:19,400
+126
+00:13:17,940 --> 00:13:19,380
 Was denken Sie darüber?
 
-146
-00:13:20,600 --> 00:13:21,860
-Ich weiß nicht.
+127
+00:13:20,480 --> 00:13:23,180
+Ich weiß nicht, schwer zu sagen.
 
-147
-00:13:22,300 --> 00:13:23,160
-Schwer zu sagen.
+128
+00:13:23,740 --> 00:13:29,600
+Auch wenn man es mir vielleicht nicht auf den ersten Blick ansieht, aber ich war ein ausgezeichneter Polizist.
 
-148
-00:13:23,720 --> 00:13:27,080
-Auch wenn man es mir vielleicht nicht auf den ersten Blick ansieht,
+129
+00:13:30,420 --> 00:13:36,100
+Ach bitte, jetzt lass doch diese Wichtigtuerei und verschone uns mit deinen alten Angebergeschichten.
 
-149
-00:13:27,080 --> 00:13:29,600
-aber ich war ein ausgezeichneter Polizist.
+130
+00:13:36,360 --> 00:13:40,880
+Ist gut. Aber wenn es darum ging, ob jemand schuldig war oder nicht,
 
-150
-00:13:30,400 --> 00:13:33,140
-Ach bitte, jetzt lass doch diese Wichtigtur.
+131
+00:13:41,720 --> 00:13:45,560
+ob er wirklich ein schlechter Mensch war, brauchte ich ihn mir nur anzusehen.
 
-151
-00:13:33,160 --> 00:13:36,100
-und verschone uns mit deinen alten Angebergeschichten.
+132
+00:13:46,740 --> 00:13:47,260
+Wirklich?
 
-152
-00:13:36,320 --> 00:13:37,100
-Ist gut.
+133
+00:13:47,260 --> 00:13:51,780
+Jetzt hör doch auf damit. Ich glaube, dir ist der Wein zu Kopf gestiegen.
 
-153
-00:13:38,080 --> 00:13:40,880
-Aber wenn es darum ging, ob jemand schuldig war oder nicht,
-
-154
-00:13:41,720 --> 00:13:43,620
-ob er wirklich ein schlechter Mensch war,
-
-155
-00:13:43,740 --> 00:13:45,560
-brauchte ich ihn mir nur anzusehen.
-
-156
-00:13:46,040 --> 00:13:47,200
-Ach, wirklich?
-
-157
-00:13:47,560 --> 00:13:49,080
-Jetzt hör doch auf damit.
-
-158
-00:13:49,660 --> 00:13:51,780
-Ich glaube, dir ist der Wein zu Kopf gestiegen.
-
-159
-00:13:52,460 --> 00:13:56,520
+134
+00:13:52,440 --> 00:13:56,520
 Aber leider hat mit den Jahren mein Talent nachgelassen.
 
-160
-00:13:56,520 --> 00:14:04,820
-Gute und böse Menschen, schuldige oder unschuldige Menschen
+135
+00:14:00,600 --> 00:14:04,800
+Gute und böse Menschen, schuldige oder unschuldige Menschen.
 
-161
-00:14:04,820 --> 00:14:08,840
-Das auseinanderzuhalten ist immer schwerer für mich geworden
+136
+00:14:05,880 --> 00:14:08,800
+Das auseinanderzuhalten ist immer schwerer für mich geworden.
 
-162
-00:14:08,840 --> 00:14:13,900
-Das bedeutete, dass ich kein guter Polizist mehr sein konnte
+137
+00:14:10,340 --> 00:14:13,900
+Das bedeutete, dass ich kein guter Polizist mehr sein konnte.
 
-163
-00:14:19,900 --> 00:14:24,300
-In der Tat, ich habe wahrscheinlich zu viel Wein getrunken
+138
+00:14:19,680 --> 00:14:24,300
+In der Tat, ich habe wahrscheinlich zu viel Wein getrunken.
 
-164
-00:14:24,300 --> 00:14:29,840
-Dieser gute Wein, wie hieß der gleich nochmal?
+139
+00:14:26,160 --> 00:14:29,900
+Dieser gute Wein, wie hieß der gleich noch mal?
 
-165
-00:14:30,520 --> 00:14:31,340
-Ungeheuer
+140
+00:14:30,880 --> 00:14:31,320
+Ungeheuer.
 
-166
-00:14:31,340 --> 00:14:36,580
-Stimmt, ja, der war wirklich christlich
+141
+00:14:33,500 --> 00:14:36,560
+Stimmt, ja, der war wirklich köstlich.
 
-167
-00:14:54,300 --> 00:15:02,380
-Achtung, die nächste Abfahrt müssen wir runter.
+142
+00:14:59,860 --> 00:15:02,380
+- Achtung, die nächste Abfahrt müssen wir runter.
 
-168
-00:15:12,960 --> 00:15:14,700
-Ach, wie niedlich.
+143
+00:15:13,040 --> 00:15:14,680
+- Ach, wie niedlich.
 
-169
-00:15:15,840 --> 00:15:20,520
+144
+00:15:15,480 --> 00:15:20,560
 Ich hoffe, dass du an deinem neuen Wohnort ganz schnell viele tolle Freunde finden wirst.
 
-170
-00:15:20,980 --> 00:15:21,180
-Hä?
-
-171
-00:15:21,180 --> 00:15:25,440
+145
+00:15:23,340 --> 00:15:25,440
 Ja, das hoffe ich auch.
 
-172
-00:15:26,440 --> 00:15:30,180
+146
+00:15:26,460 --> 00:15:30,160
 Jeder von uns hatte ja eine schöne Kindheit und denkt gern daran zurück.
 
-173
+147
 00:15:30,840 --> 00:15:32,260
 Da kommen Erinnerungen hoch.
 
-174
+148
 00:15:32,860 --> 00:15:33,120
 Ja.
 
-175
-00:15:39,520 --> 00:15:40,120
+149
+00:15:37,020 --> 00:15:37,660
+[Hupen]
+
+150
+00:15:39,480 --> 00:15:40,120
 Hoppla.
 
-176
-00:15:47,320 --> 00:15:49,920
-Das muss irgendwo hier in der Nähe gewesen sein.
+151
+00:15:56,720 --> 00:16:00,760
+Verzeihen Sie bitte, wäre es in Ordnung, wenn wir noch einen kurzen Abstecher machen?
 
-177
-00:15:49,920 --> 00:15:51,220
-Was meinen Sie?
-
-178
-00:15:52,460 --> 00:15:54,240
-Hier ist es. Sieh mal.
-
-179
-00:15:56,680 --> 00:16:00,740
-Verzeihen Sie bitte. Wäre es in Ordnung, wenn wir noch einen kurzen Abstecher machen?
-
-180
-00:16:01,020 --> 00:16:01,500
+152
+00:16:01,920 --> 00:16:02,440
 Natürlich.
 
-181
-00:16:12,600 --> 00:16:14,480
+153
+00:16:12,620 --> 00:16:14,460
 Na also, hier ist es.
 
-182
-00:16:17,700 --> 00:16:18,260
-Polizei?
+154
+00:16:35,820 --> 00:16:40,100
+Wir sind gleich wieder da, warten Sie bitte im Wagen, es dauert nicht lange.
 
-183
-00:16:19,920 --> 00:16:40,100
-Wir sind gleich wieder da. Warten Sie bitte im Wagen. Es dauert nicht lange.
-
-184
-00:16:44,380 --> 00:16:45,980
+155
+00:16:43,480 --> 00:16:46,000
 Was machen wir denn jetzt, Tenma?
 
-185
-00:16:49,920 --> 00:16:58,360
-Denmar! Lass uns abhauen!
+156
+00:16:55,740 --> 00:16:58,360
+Tenma, lass uns abhauen!
 
-186
-00:17:19,920 --> 00:17:26,560
-Was ist?
+157
+00:17:26,380 --> 00:17:31,460
+Ja, da steht schon wieder mal ein Auto auf dem Parkplatz für Streifenwagen, Ausländer
 
-187
-00:17:27,520 --> 00:17:30,860
-Ah, da steht schon wieder mal ein Auto auf dem Parkplatz für Streifenwagen.
+158
+00:17:31,460 --> 00:17:31,880
+offenbar.
 
-188
-00:17:31,060 --> 00:17:31,880
-Ausländer offenbar.
-
-189
+159
 00:17:32,380 --> 00:17:33,640
 Tja, was soll man da machen?
 
-190
-00:17:42,480 --> 00:17:44,020
+160
+00:17:41,920 --> 00:17:44,420
 Was machen wir denn jetzt?
 
-191
-00:17:49,920 --> 00:18:19,900
-Untertitelung des ZDF, 2020
+161
+00:17:44,420 --> 00:17:45,820
+*Stöhnen*
 
-192
-00:18:19,920 --> 00:18:25,400
-Entschuldigen Sie, aber wir wollen doch nach Freiham.
+162
+00:18:22,800 --> 00:18:28,040
+Entschuldigen Sie, aber wir wollen doch nach Freiham, wir fahren jetzt genau in die entgegengesetzte
 
-193
-00:18:26,080 --> 00:18:28,320
-Wir fahren jetzt genau in die entgegengesetzte Richtung.
+163
+00:18:28,040 --> 00:18:28,360
+Richtung.
 
-194
-00:18:29,180 --> 00:18:29,420
+164
+00:18:29,140 --> 00:18:29,440
 Ja.
 
-195
-00:18:30,420 --> 00:18:30,740
-Ah.
-
-196
-00:18:31,120 --> 00:18:33,720
+165
+00:18:30,720 --> 00:18:33,720
 Es tut mir sehr leid, aber es wird auch nicht lange dauern.
 
-197
-00:18:34,400 --> 00:18:36,980
+166
+00:18:34,400 --> 00:18:37,020
 Ich möchte nur noch kurz zum Schloss Steinbach fahren.
 
-198
-00:18:37,680 --> 00:18:39,060
+167
+00:18:37,700 --> 00:18:38,420
 Aber Liebling...
 
-199
+168
 00:18:39,060 --> 00:18:40,600
 Zum Schloss Steinbach?
 
-200
-00:18:41,020 --> 00:18:42,920
+169
+00:18:41,000 --> 00:18:42,940
 Es gibt da etwas, was ich sehen möchte.
 
-201
-00:18:49,920 --> 00:19:10,320
-Geht es noch?
+170
+00:19:08,700 --> 00:19:10,300
+- Geht es noch?
 
-202
-00:19:10,320 --> 00:19:13,800
-Hier. Vielen Dank.
+171
+00:19:11,380 --> 00:19:13,780
+- Ja, vielen Dank.
 
-203
-00:19:19,920 --> 00:19:34,200
-unser sohn hat in seinen briefen von ihr erzählt er schrieb immer davon wie großartig die aussicht
+172
+00:19:14,760 --> 00:19:15,280
+[seufzt]
 
-204
-00:19:34,200 --> 00:19:40,200
-von ihr ist und er wollte sie uns unbedingt einmal zeigen ach so ihr sohn lebt also hier
+173
+00:19:28,060 --> 00:19:30,840
+Unser Sohn hat in seinen Briefen von hier erzählt.
 
-205
-00:19:40,200 --> 00:19:47,200
-Ja, wir sind auf dem Weg zu ihm. Aber bei den ganzen Abstechern...
+174
+00:19:31,180 --> 00:19:34,820
+Er schrieb immer davon, wie großartig die Aussicht von hier ist.
 
-206
-00:19:49,380 --> 00:20:03,180
+175
+00:19:35,300 --> 00:19:37,560
+Und er wollte sie uns unbedingt einmal zeigen.
+
+176
+00:19:38,180 --> 00:19:40,280
+Ach so, Ihr Sohn lebt also hier.
+
+177
+00:19:41,320 --> 00:19:43,940
+Ja, wir sind auf dem Weg zu ihm.
+
+178
+00:19:44,420 --> 00:19:47,420
+Aber bei den ganzen Abstechern...
+
+179
+00:20:00,240 --> 00:20:03,200
 Diese Landschaft hatte er also vor Augen.
 
-207
-00:20:11,040 --> 00:20:18,560
-Wissen Sie, unser Sohn hat einen Menschen umgebracht.
+180
+00:20:11,200 --> 00:20:12,720
+Wissen Sie...
 
-208
-00:20:19,240 --> 00:20:23,080
-Wir sind nach Deutschland gekommen, um ihn im Gefängnis zu besuchen.
+181
+00:20:14,440 --> 00:20:18,560
+Unser Sohn hat einen Menschen umgebracht.
 
-209
-00:20:35,740 --> 00:20:37,900
+182
+00:20:19,280 --> 00:20:21,300
+Wir sind nach Deutschland gekommen,
+
+183
+00:20:21,500 --> 00:20:23,260
+um ihn im Gefängnis zu besuchen.
+
+184
+00:20:35,840 --> 00:20:37,920
 Also hier trennen sich unsere Wege.
 
-210
-00:20:37,900 --> 00:20:44,080
-haben sie vielen dank fürs mitnehmen nicht der rede wert wir bedanken uns bei
+185
+00:20:38,660 --> 00:20:40,320
+Haben Sie vielen Dank fürs Mitnehmen.
 
-211
-00:20:44,080 --> 00:20:48,100
-ihnen bleiben sie gesund passen sie auf sich
+186
+00:20:42,140 --> 00:20:43,120
+Nicht der Rede wert.
 
-212
-00:20:48,100 --> 00:20:50,400
-auf
+187
+00:20:45,740 --> 00:20:48,460
+Bleiben Sie gesund. Passen Sie auf sich auf.
 
-213
-00:20:54,180 --> 00:21:01,380
-ein sehr netter mann ist es ist nur so der nette mann wird als verdächtiger in
+188
+00:20:53,940 --> 00:20:55,660
+Ein sehr netter Mann.
 
-214
-00:21:01,380 --> 00:21:05,140
-einer mordserie gesucht was völlig unmöglich
+189
+00:20:56,220 --> 00:20:56,760
+Ist er.
 
-215
-00:21:05,140 --> 00:21:11,040
-niemals ist er doch ich bin mir sicher ich habe vorhin ein fahndungsfoto von
+190
+00:20:58,100 --> 00:21:02,740
+Es ist nur so, der nette Mann wird als Verdächtiger in einer Mordserie gesucht.
 
-216
-00:21:11,040 --> 00:21:15,940
-ihm gesehen aber als wir vorhin auf der polizeiwache waren habe ich ein
+191
+00:21:03,020 --> 00:21:06,600
+Was? Völlig unmöglich. Niemals ist er...
 
-217
-00:21:15,940 --> 00:21:19,880
-fahndungsfoto von dem mann gesehen es in dem büro von dem kommissar der robert
+192
+00:21:06,600 --> 00:21:11,580
+Doch. Ich bin mir sicher. Ich habe vorhin ein Fahndungsfoto von ihm gesehen.
 
-218
-00:21:19,880 --> 00:21:25,360
-gefasst hat ich kann es gar nicht glauben er war doch so gutherzig naja
+193
+00:21:12,480 --> 00:21:13,120
+Aber...
 
-219
-00:21:25,360 --> 00:21:30,180
-ich hatte ehrlich gesagt auch meine zweifel als ich das foto gesehen habe
+194
+00:21:14,960 --> 00:21:17,760
+habe ich ein Fahndungsfoto von dem Mann gesehen.
 
-220
-00:21:30,500 --> 00:21:35,520
-Als ich ihn wiedergesehen habe, wusste ich, dass er unschuldig ist.
+195
+00:21:17,960 --> 00:21:20,600
+Es hing im Büro von dem Kommissar, der Robert gefasst hat.
 
-221
-00:21:36,080 --> 00:21:38,080
+196
+00:21:21,480 --> 00:21:22,740
+Ich kann es gar nicht glauben.
+
+197
+00:21:23,440 --> 00:21:24,760
+Er war doch so gutherzig.
+
+198
+00:21:25,020 --> 00:21:28,340
+Naja, ich hatte ehrlich gesagt auch meine Zweifel,
+
+199
+00:21:28,400 --> 00:21:29,780
+als ich das Foto gesehen habe.
+
+200
+00:21:30,960 --> 00:21:33,060
+Als ich ihn wieder gesehen habe, wusste ich,
+
+201
+00:21:33,980 --> 00:21:35,500
+dass er unschuldig ist.
+
+202
+00:21:36,120 --> 00:21:38,060
 Zumindest ist er kein schlechter Mensch.
 
-222
-00:21:43,320 --> 00:21:46,720
-Robert, unser eigener Sohn ist ein Mörder.
+203
+00:21:43,280 --> 00:21:50,820
+Robert, unser eigener Sohn ist ein Mörder und nicht einmal ich als sein Vater habe das
 
-223
-00:21:48,060 --> 00:21:51,260
-Und nicht einmal ich als sein Vater habe das erkannt.
+204
+00:21:50,820 --> 00:21:51,280
+erkannt.
 
-224
-00:21:51,660 --> 00:21:55,340
+205
+00:21:51,700 --> 00:21:55,360
 Das war der Grund, weshalb ich meinen Dienst als Polizist quittiert habe.
 
-225
-00:21:55,340 --> 00:22:00,520
-Ich möchte mich noch einmal
+206
+00:21:58,420 --> 00:22:07,000
+Ich möchte mich noch einmal mit eigenen Augen davon überzeugen, dass Robert, auch wenn er
 
-226
-00:22:00,520 --> 00:22:03,200
-mit eigenen Augen davon überzeugen
+207
+00:22:08,060 --> 00:22:09,660
+kein schlechter Mensch ist.
 
-227
-00:22:03,200 --> 00:22:08,220
-dass Robert, auch wenn er ein Verbrechen begangen hat
+208
+00:22:12,140 --> 00:22:14,800
+Komm, gehen wir zu ihm,
 
-228
-00:22:08,220 --> 00:22:09,760
-kein schlechter Mensch ist
+209
+00:22:16,280 --> 00:22:17,460
+zu unserem Kind.
 
-229
-00:22:09,760 --> 00:22:14,820
-Komm, gehen wir zu ihm
+210
+00:23:04,280 --> 00:23:07,200
+* Musik *
 
-230
-00:22:14,820 --> 00:22:17,460
-zu unserem Kind
-
-231
-00:22:25,340 --> 00:22:55,320
-Untertitelung des ZDF, 2020
-
-232
-00:22:55,340 --> 00:23:25,320
-Untertitelung des ZDF, 2020
-
-233
-00:23:25,340 --> 00:23:55,320
-Untertitelung des ZDF, 2020
-
-234
-00:23:55,340 --> 00:24:25,320
-Untertitelung des ZDF, 2020
+211
+00:23:48,520 --> 00:23:52,060
+Untertitel von Stephanie Geiges
 

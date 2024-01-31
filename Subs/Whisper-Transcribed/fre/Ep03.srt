@@ -1,305 +1,305 @@
 1
-00:00:00,000 --> 00:00:21,000
-Oui, qu'est-ce que c'est ?
+00:00:21,740 --> 00:00:24,540
+Excusez-moi de venir si tôt. Vu l'heure, je suppose qu'on vous réveille.
 
 2
-00:00:21,720 --> 00:00:27,000
-Excusez-moi de venir si tôt. Vu l'heure, je suppose qu'on vous réveille. Désolé, monsieur, mais est-ce que vous êtes bien le docteur Tenma ?
+00:00:24,640 --> 00:00:27,060
+Désolé, monsieur, mais est-ce que vous êtes bien le Docteur Tenma ?
 
 3
-00:00:30,000 --> 00:00:31,480
-Oui, qu'est-ce qui se passe ?
+00:00:30,140 --> 00:00:31,420
+Qu'est-ce qu'il se passe ?
 
 4
-00:00:31,480 --> 00:00:34,780
+00:00:31,420 --> 00:00:34,780
 Est-ce que vous pouvez nous dire où vous avez passé la nuit, s'il vous plaît ?
 
 5
-00:00:34,780 --> 00:00:38,380
+00:00:35,660 --> 00:00:38,360
 En fait, j'étais pas chez moi, j'ai passé la nuit dans un bar.
 
 6
-00:00:38,900 --> 00:00:39,820
-Pour quelles raisons ?
+00:00:38,940 --> 00:00:39,820
+Pour quelle raison ?
 
 7
 00:00:39,820 --> 00:00:42,740
-On a retrouvé les corps du docteur Heinemann, directeur de l'hôpital Eisler,
+On a retrouvé les corps du Docteur Heinemann, directeur de l'hôpital Eisler,
 
 8
 00:00:42,980 --> 00:00:45,200
-celui du docteur Oppenheimer, chef de service de chirurgie,
+celui du Docteur Oppenheimer, chef de service de chirurgie,
 
 9
-00:00:45,320 --> 00:00:46,620
-ainsi que celui du docteur Boyer.
+00:00:45,300 --> 00:00:46,640
+ainsi que celui du Docteur Boyer.
 
 10
-00:00:47,700 --> 00:00:49,060
+00:00:47,700 --> 00:00:49,040
 Ils ont été tous les trois assassinés.
 
 11
-00:01:00,000 --> 00:01:29,980
-Sous-titrage ST' 501
+00:01:23,640 --> 00:01:26,700
+♪ ♪ ♪
 
 12
-00:01:30,000 --> 00:01:59,980
-Sous-titrage ST' 501
+00:01:33,120 --> 00:01:39,480
+♪ ♪ ♪
 
 13
-00:02:00,000 --> 00:02:29,980
-Sous-titrage Société Radio-Canada
+00:01:39,480 --> 00:01:43,280
+♪ ♪ ♪
 
 14
-00:02:30,000 --> 00:02:33,560
-Est-ce qu'on sait si c'est un meurtre ou un accident ?
+00:01:43,280 --> 00:01:46,120
+♪ ♪ ♪
 
 15
-00:02:33,560 --> 00:02:35,160
-Trois morts en même temps, au même moment.
+00:01:46,120 --> 00:01:46,380
+♪ ♪ ♪
 
 16
-00:02:35,380 --> 00:02:36,900
-Si ce n'est pas un meurtre, c'est quoi ?
+00:02:20,980 --> 00:02:23,060
+Les services de protection ont droit d'accès dans cette zone.
 
 17
-00:02:36,900 --> 00:02:39,440
-Pardon ? Vous démontez l'hypothèse de l'empoisonnement ?
+00:02:23,240 --> 00:02:24,560
+- C'est qui le boulot, dites-moi ? - Oui.
 
 18
-00:02:39,440 --> 00:02:41,820
-Vous êtes médecin de cet hôpital. Avez-vous des informations ?
+00:02:24,840 --> 00:02:26,960
+C'est surtout les médias qui n'ont rien à faire dans l'hôpital.
 
 19
-00:02:41,820 --> 00:02:44,200
-S'il vous plaît, poussez-vous !
+00:02:27,060 --> 00:02:28,800
+Si je vous parle d'indices de preuves, vous dites quoi ?
 
 20
-00:02:44,200 --> 00:02:45,200
-Interdiction de passer.
+00:02:28,800 --> 00:02:30,840
+Les titipos, les flics trouvent jamais rien sur les indices de preuves.
 
 21
-00:02:45,940 --> 00:02:47,700
-Je suis le docteur Tenma, médecin de cet hôpital.
+00:02:31,200 --> 00:02:33,560
+Justement, est-ce qu'on sait si c'est un meurtre ou un accident ?
 
 22
-00:02:48,100 --> 00:02:49,000
-D'accord, vous pouvez y aller.
+00:02:33,560 --> 00:02:35,120
+Trois morts en même temps, au même moment !
 
 23
-00:02:49,360 --> 00:02:50,120
-Les autres, restez là.
+00:02:35,120 --> 00:02:36,900
+- Si c'est pas un meurtre, c'est quoi ? - Circulez, vous.
 
 24
-00:02:50,800 --> 00:02:53,120
-Et donc, vous ne vous souvenez pas d'avoir vu des individus suspects ?
+00:02:36,900 --> 00:02:39,460
+Pardon ? Vous démentez l'hypothèse de l'empoisonnement ?
 
 25
-00:02:53,120 --> 00:02:55,160
-Franchement, le moment est mal choisi pour parler de ça.
+00:02:39,460 --> 00:02:41,800
+Vous êtes médecin de cet hôpital ! Avez-vous des informations ?
 
 26
-00:02:55,200 --> 00:02:56,780
-Docteur Tenma, docteur Tenma !
+00:02:41,800 --> 00:02:43,760
+S'il vous plaît, apposez-vous !
 
 27
-00:02:56,780 --> 00:02:59,500
-Le directeur et les docteurs Oppenheimer et Boyeusson !
+00:02:45,660 --> 00:02:47,700
+Je suis le Docteur Tenma, médecin de cet hôpital.
 
 28
-00:02:59,500 --> 00:03:00,740
-Je vous en prie, gardez votre calme.
+00:02:47,960 --> 00:02:50,840
+D'accord, vous pouvez y aller. Les autres, restez là !
 
 29
-00:03:01,020 --> 00:03:02,720
-Dites-moi d'abord comment ça se passe aux urgences.
+00:02:50,840 --> 00:02:53,000
+Mais donc, vous ne vous souvenez pas d'avoir vu des individus suspects ?
 
 30
-00:03:02,740 --> 00:03:04,080
-L'enfer, c'est de la folie !
+00:02:53,000 --> 00:02:55,160
+Franchement, le moment est mal choisi pour parler de ça.
 
 31
-00:03:04,080 --> 00:03:06,940
-Les admissions aux urgences n'arrêtent pas, on est débordés !
+00:02:55,180 --> 00:02:59,480
+Docteur Tenma ! Docteur Tenma ! Le directeur et les docteurs Oppenheimer et Boyesson !
 
 32
-00:03:06,940 --> 00:03:08,980
-Et nous avons deux patients qui attendent que...
+00:02:59,480 --> 00:03:02,740
+Je vous en prie, gardez votre calme. Dites-moi d'abord comment ça se passe aux urgences.
 
 33
-00:03:08,980 --> 00:03:10,640
-D'accord, j'ai compris. Je m'en occupe tout de suite.
+00:03:02,760 --> 00:03:06,920
+L'enfer ! C'est de la folie ! Les admissions aux urgences n'arrêtent pas, on est débordé !
 
 34
+00:03:06,920 --> 00:03:08,940
+Et nous avons deux patients qui attendent que…
+
+35
+00:03:08,940 --> 00:03:10,640
+D'accord, j'ai compris. Je m'en occupe tout de suite.
+
+36
 00:03:11,140 --> 00:03:13,820
 Oh, vous nous sauvez ! Le premier a eu un accident de voiture !
 
-35
-00:03:13,820 --> 00:03:15,560
-Je vais voir tout de suite les radios en salle de lecture.
-
-36
-00:03:15,960 --> 00:03:17,060
-Et pour le second cas ?
-
 37
-00:03:17,060 --> 00:03:19,060
-Une apoplexie, le patient a perdu connaissance.
+00:03:14,960 --> 00:03:17,040
+en salle de lecture. Et pour le second cas ?
 
 38
-00:03:19,320 --> 00:03:22,900
-Ah, docteur, est-ce qu'on peut compter sur votre aide pour l'enquête, s'il vous plaît ?
+00:03:17,040 --> 00:03:19,060
+Une apoplexie, le patient a perdu connaissance.
 
 39
-00:03:22,900 --> 00:03:23,980
-Franchement, c'est pas le moment.
+00:03:19,340 --> 00:03:22,900
+Ah euh, docteur, est-ce qu'on peut compter sur votre aide pour l'enquête s'il vous plaît ?
 
 40
-00:03:26,780 --> 00:03:30,780
-Est-ce que vous auriez hanté une personne qui pourrait en vouloir particulièrement aux victimes, docteur ?
+00:03:22,900 --> 00:03:24,000
+Franchement, c'est pas le moment.
 
 41
-00:03:31,780 --> 00:03:32,780
-Particulièrement ?
+00:03:24,280 --> 00:03:27,040
+Je comprends bien, mais je préfère battre le fer tant qu'il est encore chaud.
 
 42
-00:03:32,780 --> 00:03:36,780
-Il va vous falloir mettre une croix d'ores et déjà sur vos espoirs de promotion.
+00:03:27,360 --> 00:03:31,700
+Est-ce que vous auriez en tête une personne qui pourrait en vouloir particulièrement aux victimes, docteur ?
 
 43
-00:03:39,780 --> 00:03:41,780
-Ben oui ! Vous pensez à quelqu'un en particulier ?
+00:03:32,560 --> 00:03:33,320
+Particulièrement ?
 
 44
-00:03:41,780 --> 00:03:43,780
-Non, à personne.
+00:03:33,320 --> 00:03:36,480
+Il va vous falloir mettre une croix d'ores et déjà sur vos espoirs de promotion.
 
 45
-00:03:44,780 --> 00:03:46,780
-Docteur Telma ! C'est une catastrophe !
+00:03:40,100 --> 00:03:42,580
+Bah oui, vous pensez à quelqu'un en particulier ?
 
 46
-00:03:46,780 --> 00:03:48,780
-Les enfants, les jumeaux, ils ne sont plus là !
+00:03:42,580 --> 00:03:44,040
+Non, à personne.
 
 47
-00:03:48,780 --> 00:03:50,780
-Ils ont disparu !
+00:03:44,960 --> 00:03:47,420
+Docteur Tellemain ! C'est une catastrophe !
 
 48
-00:03:50,780 --> 00:03:53,780
-Ils ne sont plus dans leur lit, ils ont quitté leur chambre !
+00:03:47,420 --> 00:03:49,820
+Les enfants, les jumeaux, ils ne sont plus là !
 
 49
-00:03:56,780 --> 00:04:02,780
-Non !
+00:03:49,820 --> 00:03:51,380
+Ils ont disparu !
 
 50
-00:04:02,780 --> 00:04:06,760
-Et le lit de sa sœur est vide lui aussi ?
+00:03:51,380 --> 00:03:54,160
+Ils ne sont plus dans leur lit, ils ont quitté leur chambre !
 
 51
-00:04:06,760 --> 00:04:09,040
-Oui, et pourtant, j'ai vraiment cherché partout.
+00:04:02,480 --> 00:04:03,280
+Non !
 
 52
-00:04:11,260 --> 00:04:13,560
-C'est impossible. Je rêve.
+00:04:04,600 --> 00:04:06,760
+Et le lit de sa soeur est vide lui aussi !
 
 53
-00:04:14,800 --> 00:04:16,280
-Qu'est-ce qui se passe, mon sang ?
+00:04:06,760 --> 00:04:09,760
+Oui, et pourtant, j'ai vraiment cherché partout !
 
 54
-00:04:22,880 --> 00:04:24,200
-Repose en paix, mon frère.
+00:04:11,000 --> 00:04:12,880
+C'est impossible !
 
 55
-00:04:24,620 --> 00:04:27,580
-Toi qui as consacré ta vie à soulager les souffrances de ton prochain,
+00:04:12,880 --> 00:04:14,680
+Je rêve !
 
 56
-00:04:28,140 --> 00:04:29,980
-que s'ouvre à toi le royaume de Dieu.
+00:04:24,860 --> 00:04:27,580
+qui a consacré ta vie à soulager les souffrances de ton prochain,
 
 57
-00:04:30,780 --> 00:04:32,680
-Que notre Seigneur t'accueille en son sein.
+00:04:28,140 --> 00:04:29,980
+que s'ouvre à toi le royaume de Dieu,
 
 58
-00:04:36,840 --> 00:04:39,920
-Oh, père chéri !
+00:04:30,760 --> 00:04:32,720
+que notre Seigneur t'accueille en son sein.
 
 59
-00:04:39,920 --> 00:04:45,920
-Eva !
+00:04:36,880 --> 00:04:39,020
+Oh, Père chéri !
 
 60
-00:04:45,920 --> 00:04:46,800
-Eva !
+00:04:45,240 --> 00:04:46,820
+- Éva ! - Éva !
 
 61
-00:04:46,800 --> 00:04:49,140
+00:04:47,380 --> 00:04:49,120
 Je suis là, venez, il va falloir être fort.
 
 62
-00:04:49,140 --> 00:04:50,560
-Oh, lâchez-moi !
+00:04:49,200 --> 00:04:50,580
+Lâchez-moi !
 
 63
-00:04:50,560 --> 00:04:53,680
-Foutez-moi la paix, rendez-moi mon père, ou fichez-moi le camp.
+00:04:50,580 --> 00:04:53,980
+Foutez-moi la paix, rendez-moi mon père ou fichez-moi le camp !
 
 64
-00:04:54,200 --> 00:05:05,260
-C'est quand même incroyable ce qui arrive
+00:05:02,620 --> 00:05:07,020
+C'est quand même incroyable ce qui arrive, vous ne trouvez pas ?
 
 65
-00:05:05,260 --> 00:05:07,560
-Vous trouvez pas ?
-
-66
-00:05:07,560 --> 00:05:08,260
+00:05:07,560 --> 00:05:08,240
 Quoi donc ?
 
+66
+00:05:08,240 --> 00:05:11,520
+Après toutes ces années de vie facile, la pauvre petite fille riche se retrouve toute
+
 67
-00:05:08,260 --> 00:05:11,860
-Après toutes ces années de vie facile, la pauvre petite fille riche se retrouve toute seule
+00:05:11,520 --> 00:05:11,860
+seule.
 
 68
-00:05:11,860 --> 00:05:14,840
-Elle va devoir se débrouiller sans son papa pour la première fois de sa vie
+00:05:12,140 --> 00:05:14,820
+Elle va devoir se débrouiller sans son papa pour la première fois de sa vie.
 
 69
-00:05:14,840 --> 00:05:16,780
-C'est pas chic, mais c'est très choc
+00:05:15,260 --> 00:05:16,780
+C'est pas chic, mais c'est très choc.
 
 70
-00:05:16,780 --> 00:05:18,480
-Vous y allez fort, docteur Baker
+00:05:17,100 --> 00:05:18,400
+Vous y allez fort, Docteur Baker.
 
 71
-00:05:18,480 --> 00:05:20,020
-Oui, oui, excusez-moi
+00:05:19,040 --> 00:05:19,960
+Oui, oui, excusez-moi.
 
 72
-00:05:20,020 --> 00:05:22,100
-Excusez-moi, docteur Tenma ?
+00:05:20,660 --> 00:05:22,060
+Excusez-moi, Docteur Tenma ?
 
 73
-00:05:22,100 --> 00:05:23,600
+00:05:22,060 --> 00:05:23,560
 Oui ?
 
 74
-00:05:23,600 --> 00:05:27,580
-Je suis l'inspecteur Weisbach, officier de police de la province de Westphalie, en Rhénanie.
+00:05:25,020 --> 00:05:27,600
+Officier de police de la province de Westphalie en Rhénanie.
 
 75
-00:05:28,040 --> 00:05:28,820
-Bonjour, inspecteur.
+00:05:28,120 --> 00:05:28,860
+Bonjour inspecteur.
 
 76
-00:05:29,160 --> 00:05:30,700
+00:05:29,180 --> 00:05:30,720
 Encore pardon pour tout ce remue-ménage.
 
 77
@@ -307,1074 +307,1238 @@ Encore pardon pour tout ce remue-ménage.
 Laissez-moi vous présenter un de mes collègues.
 
 78
-00:05:35,160 --> 00:05:38,020
-Commissaire Runger du BKA, la brigade criminelle, si vous voulez.
+00:05:35,200 --> 00:05:38,040
+Commissaire Runge du BKA, la brigade criminelle si vous voulez.
 
 79
-00:05:38,360 --> 00:05:41,660
+00:05:38,380 --> 00:05:41,700
 Je me suis laissé dire que vous étiez un vrai petit génie, c'est vrai ?
 
 80
-00:05:41,660 --> 00:05:44,620
+00:05:41,700 --> 00:05:44,620
 Eh bien, je ne suis qu'un novice, guerre plus.
 
 81
 00:05:49,380 --> 00:05:53,580
-Et vous, commissaire, vous avez retrouvé la trace de nos jumeaux ou des indices, peut-être ?
+Et vous commissaire, vous avez retrouvé la trace de nos jumeaux ou des indices peut-être ?
 
 82
-00:05:53,600 --> 00:05:57,740
-On n'en est pas encore là, docteur Tenma, mais en revanche, nous avons éclairci quelque chose.
+00:05:55,280 --> 00:06:01,380
+On a retrouvé dans l'organisme des 3 médecins un poison à base d'acide nitrique qui a
 
 83
-00:05:58,000 --> 00:06:02,580
-On a retrouvé dans l'organisme des trois médecins un poison à base d'acide nitrique qui a sans doute causé leur mort.
+00:06:01,380 --> 00:06:02,580
+sans doute causé leur mort.
 
 84
-00:06:02,920 --> 00:06:06,240
-On retrouve cet acide dans un médicament contre les atonies musculaires.
+00:06:02,860 --> 00:06:06,240
+On retrouve cet acide dans un médicament contre les atomies musculaires.
 
 85
 00:06:06,300 --> 00:06:09,060
 Je savais qu'en bon médecin que vous êtes, vous ne l'auriez pas ignoré.
 
 86
-00:06:09,220 --> 00:06:11,160
+00:06:09,220 --> 00:06:11,140
 Mais comment ont-ils pu ingérer ces poisons ?
 
 87
-00:06:11,160 --> 00:06:12,560
+00:06:11,140 --> 00:06:12,560
 Ils étaient sous forme de bonbons.
 
 88
-00:06:12,740 --> 00:06:14,340
+00:06:12,720 --> 00:06:14,320
 Ah, sous forme de bonbons ?
 
 89
-00:06:14,340 --> 00:06:18,420
-Oui, des bonbons dont on a retrouvé les papiers d'emballage à côté de chacun des trois cadavres.
+00:06:14,320 --> 00:06:18,400
+Oui, des bonbons dont on a retrouvé les papiers d'emballage à côté de chacun des 3 cadavres.
 
 90
 00:06:18,740 --> 00:06:21,720
 C'était le simple bonbon qu'on avale, comme ça, comme un rien.
 
 91
-00:06:21,720 --> 00:06:27,360
-Sauf que là, avec ces petits bonbons, vous vous retrouvez directement à la morgue
+00:06:23,340 --> 00:06:24,840
+Sauf que là, avec ces bonbons, on n'a rien.
 
 92
-00:06:27,360 --> 00:06:30,020
-Vous avez une idée d'où viennent ces bonbons ?
+00:06:24,860 --> 00:06:27,360
+de petits bonbons, vous vous retrouvez directement à la morgue.
 
 93
-00:06:30,020 --> 00:06:31,760
-Je ne vois pas très bien comment je le saurais
+00:06:27,600 --> 00:06:29,960
+Vous avez une idée d'où viennent ces bonbons ?
 
 94
-00:06:31,760 --> 00:06:35,180
-Mais revenons-en aux jumeaux, où en êtes-vous dans votre enquête ?
+00:06:29,960 --> 00:06:31,740
+Je ne vois pas très bien comment je le saurais.
 
 95
-00:06:35,180 --> 00:06:36,480
-Il ne faut pas vous inquiéter pour ça
+00:06:32,280 --> 00:06:33,440
+Mais revenons-en aux jumeaux.
 
 96
-00:06:36,480 --> 00:06:39,680
-L'enquête a été confiée à la brigade criminelle, tout est sous contrôle
+00:06:33,540 --> 00:06:35,100
+Où en êtes-vous dans votre enquête ?
 
 97
-00:06:39,680 --> 00:06:41,740
-Ne vous inquiétez pas, mais sans vouloir m'avancer
+00:06:35,100 --> 00:06:36,460
+Il ne faut pas vous inquiéter pour ça.
 
 98
-00:06:41,740 --> 00:06:48,720
-On peut imaginer, en creusant un peu, que ces trois meurtres ont un rapport avec celui des parents de ces deux enfants qui ont disparu
+00:06:36,920 --> 00:06:38,820
+L'enquête a été confiée à la brigade criminelle.
 
 99
-00:06:49,520 --> 00:06:53,460
-Les parents arrivent tout juste ici, ressortissant d'Allemagne de l'Est, ne l'oublions pas.
+00:06:38,960 --> 00:06:40,560
+Tout est sous contrôle, ne vous inquiétez pas.
 
 100
-00:06:54,100 --> 00:06:56,440
-Et voilà qu'ils se font aussitôt assassiner. C'est bizarre.
+00:06:40,640 --> 00:06:41,720
+Mais sans vouloir m'avancer,
 
 101
+00:06:42,240 --> 00:06:43,940
+on peut imaginer, en creusant un peu,
+
+102
+00:06:44,000 --> 00:06:46,060
+que ces trois meurtres ont un rapport avec celui
+
+103
+00:06:46,060 --> 00:06:48,680
+des parents de ces deux enfants qui ont disparu.
+
+104
+00:06:49,420 --> 00:06:51,040
+Les parents arrivent tout juste ici,
+
+105
+00:06:51,240 --> 00:06:53,460
+ressortissant d'Allemagne de l'Est, ne l'oublions pas.
+
+106
+00:06:54,860 --> 00:06:56,480
+Ils ont aussitôt assassiné, c'est bizarre.
+
+107
 00:06:57,060 --> 00:06:59,900
 L'hôpital Eisler prend les enfants en charge et trois médecins y passent.
 
-102
-00:07:00,300 --> 00:07:03,960
-C'est deux fois bizarre. Et c'est ce qui me fait penser que les deux affaires sont intimement liées.
+108
+00:07:00,320 --> 00:07:01,360
+C'est deux fois bizarre.
 
-103
+109
+00:07:01,700 --> 00:07:03,960
+Et c'est ce qui me fait penser que les deux affaires sont intimement liées.
+
+110
 00:07:04,340 --> 00:07:07,400
 Je vous le demande, inspecteur. Faites tout pour retrouver ces enfants, s'il vous plaît.
 
-104
+111
 00:07:07,720 --> 00:07:09,100
 Ne vous inquiétez pas pour ça.
 
-105
-00:07:09,600 --> 00:07:09,940
+112
+00:07:09,680 --> 00:07:09,960
 Au revoir.
 
-106
-00:07:09,940 --> 00:07:19,520
-C'est bizarre, juste avant tout ça, ce médecin était au plus mal
-
-107
-00:07:19,520 --> 00:07:23,800
-Il avait été écarté du poste de médecin-chef et ses fiançailles avaient été tout simplement rompues
-
-108
-00:07:23,800 --> 00:07:27,120
-Oui, j'entends bien, mais ce type possède un alibi en béton armé
-
-109
-00:07:27,120 --> 00:07:28,840
-Le soir du crime, il buvait dans un bar
-
-110
-00:07:28,840 --> 00:07:33,740
-Dites-moi, j'aimerais savoir un petit truc
-
-111
-00:07:33,740 --> 00:07:36,240
-Pourquoi vous faites toujours ça avec votre main ?
-
-112
-00:07:36,240 --> 00:07:57,460
-Ah ça, je pianote sur mon clavier d'ordinateur, j'enregistre toutes les informations qui m'arrivent sur le disque dur là-dedans, après ça devient très facile, il suffit que je tapote et ça me ressort les informations type je ne suis qu'un novice guerre plus, c'est ce qu'a répondu Tenma quand je lui ai dit qu'il était un génie et il avait l'air extrêmement gêné, c'est plutôt bizarre.
-
 113
-00:08:00,740 --> 00:08:04,460
-Je pense que tu as remarqué, la police t'a mis sur la liste des suspects.
+00:07:16,160 --> 00:07:19,520
+C'est bizarre. Juste avant tout ça, ce médecin était au plus mal.
 
 114
-00:08:05,180 --> 00:08:08,060
-Rien d'étonnant à ça. Il y a pas mal de pistes qui mènent jusqu'à moi.
+00:07:19,800 --> 00:07:21,600
+Il avait été écarté du poste de médecin-chef
 
 115
-00:08:09,300 --> 00:08:13,100
-Si ça peut te rassurer, moi aussi j'ai été longuement interrogé par ces clowns.
+00:07:21,600 --> 00:07:23,620
+et ses fiançailles avaient été tout simplement rompues.
 
 116
+00:07:24,920 --> 00:07:27,120
+mais ce type possède un alibi en béton armé.
+
+117
+00:07:27,300 --> 00:07:28,840
+Le soir du crime, il buvait dans un bar.
+
+118
+00:07:31,600 --> 00:07:33,740
+Dites-moi, j'aimerais savoir un petit truc.
+
+119
+00:07:33,940 --> 00:07:35,860
+Pourquoi vous faites toujours ça avec votre main ?
+
+120
+00:07:36,860 --> 00:07:38,140
+Ah, ça !
+
+121
+00:07:38,140 --> 00:07:40,060
+Je pianote sur mon clavier d'ordinateur.
+
+122
+00:07:41,340 --> 00:07:45,460
+J'enregistre toutes les informations qui m'arrivent sur le disque dur, là-dedans.
+
+123
+00:07:45,740 --> 00:07:46,740
+Après, ça devient très facile.
+
+124
+00:07:47,060 --> 00:07:49,860
+Il suffit que je tapote, et ça me ressort les informations type
+
+125
+00:07:49,860 --> 00:07:51,940
+"Je ne suis qu'un novice guerre plus".
+
+126
+00:07:51,940 --> 00:07:53,040
+C'est ce qu'a répondu Tenma,
+
+127
+00:08:00,780 --> 00:08:04,480
+Je pense que t'as remarqué. La police t'a mis sur la liste des suspects.
+
+128
+00:08:05,220 --> 00:08:08,040
+Rien d'étonnant à ça. Il y a pas mal de pistes qui mènent jusqu'à moi.
+
+129
+00:08:09,320 --> 00:08:13,180
+Si ça peut te rassurer, moi aussi j'ai été longuement interrogé par ces clowns.
+
+130
 00:08:15,240 --> 00:08:16,960
 Je commence à en avoir assez de tout ça.
 
-117
-00:08:17,620 --> 00:08:22,100
-Je me demande si je ne vais pas rentrer chez moi au Japon, quand les choses se seront un petit peu calmées par ici.
+131
+00:08:17,600 --> 00:08:19,860
+Je me demande si je ne vais pas rentrer chez moi au Japon
 
-118
-00:08:23,040 --> 00:08:25,320
+132
+00:08:19,860 --> 00:08:22,100
+quand les choses se seront un petit peu calmées par ici.
+
+133
+00:08:23,020 --> 00:08:25,320
 J'étais venu en Allemagne plein d'espoir et d'ambition.
 
-119
+134
 00:08:26,340 --> 00:08:27,660
 Mais tout s'est effondré d'un seul coup.
 
-120
-00:08:28,520 --> 00:08:32,260
-Et ça m'a ouvert les yeux. Je sais à présent que mon rôle en tant que médecin consiste à sauver des vies.
+135
+00:08:28,260 --> 00:08:29,440
+Et ça m'a ouvert les yeux.
 
-121
-00:08:32,940 --> 00:08:37,140
-Allez donc, tu veux me foutre le bourdon ou quoi ?
+136
+00:08:29,940 --> 00:08:32,260
+Je sais à présent que mon rôle en tant que médecin consiste à sauver des vies.
 
-122
-00:08:37,140 --> 00:08:38,460
+137
+00:08:32,940 --> 00:08:35,860
+Aladin, tu veux me foutre le bourdon ou quoi ?
+
+138
+00:08:37,160 --> 00:08:38,440
 Désolé, mais tout cela me fatigue.
 
-123
-00:08:39,600 --> 00:08:40,460
+139
+00:08:39,620 --> 00:08:40,460
 Ça m'épuise totalement.
 
-124
-00:08:45,160 --> 00:08:47,140
-Je vois que vous allez beaucoup mieux, monsieur Böffner.
+140
+00:08:45,200 --> 00:08:47,120
+Je vois que vous allez beaucoup mieux, Monsieur Buffner.
 
-125
+141
 00:08:48,500 --> 00:08:49,760
-Je vous remercie, docteur Tenma.
+Je vous remercie, Docteur Tenma.
 
-126
-00:08:50,000 --> 00:08:51,360
+142
+00:08:49,980 --> 00:08:51,360
 Je me sens parfaitement bien.
 
-127
+143
 00:08:51,740 --> 00:08:54,260
 Mais dites, est-ce que je vais pouvoir reprendre mon boulot ?
 
-128
-00:08:54,260 --> 00:08:55,600
+144
+00:08:54,260 --> 00:08:55,580
 Oui, oui, bien sûr.
 
-129
-00:08:55,820 --> 00:08:57,940
-Je ne peux pas me permettre de rester trop longtemps ici,
+145
+00:08:55,580 --> 00:08:59,620
+Je ne peux pas me permettre de rester trop longtemps ici, sinon je vais devoir mettre la clé sous la porte.
 
-130
-00:08:58,040 --> 00:08:59,620
-sinon je vais devoir mettre la clé sous la porte.
-
-131
+146
 00:08:59,900 --> 00:09:01,800
-Oui, je comprends, mais il faudra vous ménager.
+Oui, je comprends. Mais il faudra vous ménager.
 
-132
-00:09:02,160 --> 00:09:04,540
-Quand vous serez sorti d'ici, je viendrai boire un verre chez vous.
+147
+00:09:02,160 --> 00:09:04,520
+Quand vous serez sortis d'ici, je viendrai boire un verre chez vous.
 
-133
-00:09:04,800 --> 00:09:07,060
+148
+00:09:04,780 --> 00:09:07,060
 Comme ça, je pourrai vérifier si vous suivez bien mes conseils.
 
-134
-00:09:08,360 --> 00:09:09,560
+149
+00:09:08,360 --> 00:09:09,580
 Dites, docteur Tenma.
 
-135
-00:09:09,920 --> 00:09:10,580
+150
+00:09:09,900 --> 00:09:10,580
 Je vous écoute.
 
-136
-00:09:10,820 --> 00:09:13,480
-On me raconte dans les couloirs que vous allez peut-être quitter l'hôpital,
+151
+00:09:10,780 --> 00:09:13,460
+On raconte dans les couloirs que vous allez peut-être quitter l'hôpital.
 
-137
-00:09:13,720 --> 00:09:15,120
-mais il ne faut pas faire une chose pareille.
+152
+00:09:13,680 --> 00:09:15,120
+Mais il ne faut pas faire une chose pareille.
 
-138
+153
 00:09:16,480 --> 00:09:18,700
 Il n'y a pas d'aussi bon médecin que vous par ici.
 
-139
-00:09:19,480 --> 00:09:21,940
+154
+00:09:19,460 --> 00:09:21,920
 Alors par pitié, ne me dites pas que vous allez vous en aller.
 
-140
-00:09:22,460 --> 00:09:25,020
+155
+00:09:22,400 --> 00:09:25,000
 Ça serait quelque chose de terrible pour tout le monde.
 
-141
-00:09:25,460 --> 00:09:26,420
-Je vous en supplie.
-
-142
-00:09:26,420 --> 00:09:32,780
-Non, il ne faut pas vous inquiéter
-
-143
-00:09:32,780 --> 00:09:38,120
-Docteur Tenma, le président du conseil vous fait demander
-
-144
-00:09:38,120 --> 00:09:42,600
-Une assemblée générale se tient actuellement dans les bureaux là-haut
-
-145
-00:09:42,600 --> 00:09:46,260
-Ils sont en train de statuer pour l'attribution des postes
-
-146
-00:09:46,260 --> 00:09:49,480
-Jusqu'à présent, c'était le directeur qui privilégiait ces petits protégés
-
-147
-00:09:49,480 --> 00:09:51,060
-Mais là, ils changent de méthode
-
-148
-00:09:51,060 --> 00:09:55,060
-Il va y avoir une épuration et déjà pour commencer, ils vont écarter le docteur Eschner
-
-149
-00:09:55,060 --> 00:09:56,260
-Ah bon ?
-
-150
-00:09:56,260 --> 00:10:00,680
-Et puis je voulais vous dire, Dr Tenma, quoi que le président du conseil décide,
-
-151
-00:10:00,840 --> 00:10:03,660
-sachez bien que tout le personnel de l'hôpital est avec vous.
-
-152
-00:10:04,280 --> 00:10:06,420
-On est là et vous ne devez pas quitter l'hôpital.
-
-153
-00:10:13,560 --> 00:10:17,180
-Je le répète devant vous, pour moi ce qui compte ce sont les compétences.
-
-154
-00:10:17,640 --> 00:10:21,700
-Et c'est pour cette raison, docteur, que je vous nomme chef du service de chirurgie.
-
-155
-00:10:26,260 --> 00:10:33,860
-À quoi ça tient, la vie ?
-
 156
-00:10:33,860 --> 00:10:35,860
-Je désobéis aux ordres du directeur.
+00:09:25,580 --> 00:09:26,540
+Ils nous ont supplés.
 
 157
-00:10:36,280 --> 00:10:37,660
-On me refuse le poste prévu.
+00:09:31,400 --> 00:09:32,740
+Non, il ne faut pas vous inquiéter.
 
 158
-00:10:38,320 --> 00:10:39,980
-Mes fiançailles avec Eva sont rompues.
+00:09:35,340 --> 00:09:38,080
+Docteur Tenma, le président du conseil vous fait demander.
 
 159
-00:10:40,820 --> 00:10:43,300
-Et alors que je décide de ne plus mûrir de plan de carrière
+00:09:39,820 --> 00:09:42,580
+Une assemblée générale se tient actuellement dans les bureaux là-haut.
 
 160
-00:10:43,300 --> 00:10:44,660
-pour redevenir un simple médecin.
+00:09:43,200 --> 00:09:45,860
+Ils sont en train de statuer pour l'attribution des postes.
 
 161
-00:10:54,180 --> 00:10:55,640
-Tout bascule !
+00:09:46,520 --> 00:09:49,480
+Jusqu'à présent, c'était le directeur qui privilégiait ces petits protégés.
 
 162
-00:10:55,640 --> 00:10:57,080
-Bon sang, à quoi ça rime, la vie.
+00:09:49,800 --> 00:09:51,040
+Mais là, ils changent de méthode.
 
 163
-00:11:08,400 --> 00:11:10,300
-Je te remercie d'avoir accepté de venir.
+00:09:51,400 --> 00:09:53,480
+Il va y avoir une épuration et déjà pour commencer,
 
 164
+00:09:53,480 --> 00:09:55,060
+ils vont écarter le Docteur Eschner.
+
+165
+00:09:55,520 --> 00:09:56,260
+Ah bon ?
+
+166
+00:09:56,260 --> 00:09:57,860
+Et puis je voulais vous dire, Docteur Tenma,
+
+167
+00:09:58,540 --> 00:10:00,680
+quoi que le Président du Conseil décide,
+
+168
+00:10:00,820 --> 00:10:03,660
+sachez bien que tout le personnel de l'hôpital est avec vous.
+
+169
+00:10:04,260 --> 00:10:06,440
+On est là, et vous ne devez pas quitter l'hôpital.
+
+170
+00:10:13,560 --> 00:10:14,780
+Je le répète devant vous,
+
+171
+00:10:15,440 --> 00:10:17,180
+pour moi ce qui compte ce sont les compétences.
+
+172
+00:10:17,580 --> 00:10:19,060
+Et c'est pour cette raison, Docteur,
+
+173
+00:10:19,340 --> 00:10:21,680
+que je vous nomme Chef du Service de Chirurgie.
+
+174
+00:10:31,280 --> 00:10:33,780
+À quoi ça tient, la vie ?
+
+175
+00:10:33,780 --> 00:10:35,860
+Je désobéis aux ordres du directeur,
+
+176
+00:10:36,260 --> 00:10:37,660
+on me refuse le poste prévu,
+
+177
+00:10:38,320 --> 00:10:40,000
+mes fiançailles avec Eva sont rompues,
+
+178
+00:10:40,820 --> 00:10:43,300
+et alors que je décide de ne plus mûrir de plans de carrière
+
+179
+00:10:43,300 --> 00:10:44,680
+pour redevenir un simple médecin.
+
+180
+00:10:54,200 --> 00:10:57,480
+Tout bascule ! Bon sang, à quoi s'arrive la vie ?
+
+181
+00:11:08,380 --> 00:11:10,280
+Je te remercie d'avoir accepté de venir.
+
+182
 00:11:10,900 --> 00:11:13,500
 J'ai appris que tu avais été nommé chef du service de chirurgie.
 
-165
-00:11:13,800 --> 00:11:15,460
-Je suis vraiment très contente pour toi, tu sais.
-
-166
-00:11:16,920 --> 00:11:17,800
-Merci infiniment.
-
-167
-00:11:18,620 --> 00:11:21,460
-Kenzo, je n'oublie pas qu'à l'enterrement de mon père,
-
-168
-00:11:22,000 --> 00:11:24,120
-tu étais là et je sais que tu as tenté de me consoler.
-
-169
-00:11:24,200 --> 00:11:24,800
-Je te remercie.
-
-170
-00:11:24,800 --> 00:11:26,640
-Non, ce n'est rien.
-
-171
-00:11:28,080 --> 00:11:33,520
-Écoute, ça s'est très mal passé entre nous ces derniers temps, mais j'aimerais qu'on reparte à zéro.
-
-172
-00:11:41,480 --> 00:11:42,360
-Attends, Kenzo.
-
-173
-00:11:44,520 --> 00:11:46,260
-Kenzo, reviens !
-
-174
-00:11:46,260 --> 00:11:47,200
-Kenzo !
-
-175
-00:11:47,200 --> 00:11:50,420
-Je sais bien que tout est ma faute, mais je veux qu'on se remette ensemble.
-
-176
-00:11:53,280 --> 00:11:54,200
-Kenzo ?
-
-177
-00:11:54,800 --> 00:11:57,460
-Laisse-nous une chance
-
-178
-00:11:57,460 --> 00:12:06,480
-Ce patient a été admis pour une tumeur de la moelle épinière
-
-179
-00:12:06,480 --> 00:12:09,760
-Et on constate une aggravation de la paralysie
-
-180
-00:12:09,760 --> 00:12:12,840
-Pas de problème, je me charge de l'intervention
-
-181
-00:12:12,840 --> 00:12:15,320
-C'est génial docteur, vous nous sauvez la vie
-
-182
-00:12:15,320 --> 00:12:18,300
-Eh bien j'espère surtout sauver la sienne
-
 183
-00:12:18,300 --> 00:12:18,980
-Bien sûr
+00:11:13,820 --> 00:11:15,400
+Je suis vraiment très contente pour toi, Tucson.
 
 184
-00:12:22,340 --> 00:12:23,860
-Quel enfer cette inondation
+00:11:17,000 --> 00:11:17,800
+Merci infiniment.
 
 185
-00:12:23,860 --> 00:12:25,980
-Ça n'en finit jamais les problèmes dans ce fichu pays.
+00:11:18,580 --> 00:11:21,480
+Kenzo, je n'oublie pas qu'à l'enterrement de mon père,
 
 186
-00:12:26,860 --> 00:12:30,280
-Quand le mur de Berlin est tombé il y a 6 ans, on a dit que le monde changerait.
+00:11:25,020 --> 00:11:28,480
+- Non, ce n'est rien. - Écoute...
 
 187
-00:12:31,340 --> 00:12:33,600
-Tu parles de tous les pauvres gars qui répliquent ici ?
+00:11:30,200 --> 00:11:33,520
+Ça s'est très mal passé entre nous ces derniers temps, mais j'aimerais qu'on reparte à zéro.
 
 188
-00:12:33,600 --> 00:12:35,400
-Ouais, et avec eux la délinquance augmente chaque jour.
+00:11:41,520 --> 00:11:42,340
+Attends, Kenzo.
 
 189
-00:12:35,860 --> 00:12:37,860
-Quant à cette foutue Europe unifiée qu'ils veulent faire...
+00:11:44,680 --> 00:11:46,320
+Kenzo, reviens !
 
 190
-00:12:38,780 --> 00:12:40,740
-Ah ouais, l'union des pays d'Europe.
+00:11:46,940 --> 00:11:50,400
+Je sais bien que tout est ma faute, mais je veux qu'on se remette ensemble.
 
 191
-00:12:40,840 --> 00:12:42,400
-Faut vraiment être cinglé pour y croire.
+00:12:03,680 --> 00:12:08,700
+Ce patient a été admis pour une tumeur de la moelle épinière, et on constate une aggravation
 
 192
-00:12:42,840 --> 00:12:43,000
-Ouais.
+00:12:08,700 --> 00:12:09,380
+de la paralysie.
 
 193
-00:12:44,880 --> 00:12:46,860
-Oh ! On y est commissaire, on y est !
+00:12:10,700 --> 00:12:12,820
+Pas de problème, je me charge de l'intervention.
 
 194
-00:12:49,100 --> 00:12:52,160
-Deux corps auxquels on a tranché la gorge avec un couteau.
+00:12:13,260 --> 00:12:15,280
+C'est génial docteur, vous nous sauvez la vie.
 
 195
-00:12:52,960 --> 00:12:54,220
-Leur identité ?
+00:12:16,620 --> 00:12:18,280
+Eh bien j'espère surtout sauver la sienne.
 
 196
-00:12:54,220 --> 00:12:55,740
-Il s'agit de monsieur et madame Leichmann.
+00:12:18,660 --> 00:12:18,960
+Bien sûr.
 
 197
-00:12:56,800 --> 00:12:58,240
-Ils habitaient dans la rue Stech, plus haut.
+00:12:22,320 --> 00:12:25,960
+Quel enfer cette inondation, ça n'en finit jamais les problèmes dans ce fichu pays.
 
 198
-00:12:59,160 --> 00:13:01,300
-Ils ont été très certainement assassinés dans leur maison.
+00:12:26,820 --> 00:12:30,300
+Quand le mur de Berlin est tombé il y a 6 ans, on a dit que le monde changerait.
 
 199
+00:12:31,300 --> 00:12:33,600
+Tu parles de tous les pauvres gars qui rappliquent ici ?
+
+200
+00:12:33,600 --> 00:12:35,420
+Ouais, et avec eux la délinquance augmente chaque jour.
+
+201
+00:12:35,840 --> 00:12:38,780
+Quant à cette foutue Europe unifiée qu'ils veulent faire...
+
+202
+00:12:38,780 --> 00:12:42,400
+Ah ouais, l'union des pays d'Europe, faut vraiment être cinglé pour y croire.
+
+203
+00:12:42,860 --> 00:12:43,000
+Ouais.
+
+204
+00:12:44,820 --> 00:12:47,400
+Oh ! On y est commissaire, on y est !
+
+205
+00:12:49,700 --> 00:12:52,160
+Deux corps auxquels on a tranché la gorge avec un couteau.
+
+206
+00:12:53,020 --> 00:12:55,740
+- Leur identité ? - Il s'agit de M. et Mme Leichmann.
+
+207
+00:12:56,600 --> 00:12:58,240
+Ils habitaient dans la rustèche, plus haut.
+
+208
+00:12:59,100 --> 00:13:01,300
+Ils ont été très certainement assassinés dans leur maison.
+
+209
 00:13:01,540 --> 00:13:04,760
 On suppose que leurs corps ont été dissimulés dans un des barraques quelconques,
 
-200
+210
 00:13:05,400 --> 00:13:07,700
 avant d'être jetés à la flotte pendant les inondations.
 
-201
+211
 00:13:08,340 --> 00:13:09,980
 C'est le quatrième cas de meurtre en deux ans,
 
-202
-00:13:09,980 --> 00:13:12,600
+212
+00:13:10,180 --> 00:13:12,580
 avec le même profil de victime, un couple d'âge moyen.
 
-203
-00:13:13,460 --> 00:13:15,960
+213
+00:13:13,420 --> 00:13:15,980
 Sans doute un cambrioleur qui pense que c'est plus facile à détrousser.
 
-204
-00:13:16,380 --> 00:13:19,660
-Oui, il est prématuré de parler de cambriolage.
+214
+00:13:17,400 --> 00:13:19,660
+Il est prématuré de parler de cambriolage.
 
-205
-00:13:20,400 --> 00:13:23,240
+215
+00:13:20,400 --> 00:13:23,260
 Selon les informations qu'on possède, aucune des victimes n'avait d'enfant.
 
-206
-00:13:23,340 --> 00:13:25,300
+216
+00:13:23,340 --> 00:13:25,360
 Vous ne trouvez pas ça un peu bizarre, vous ?
 
-207
-00:13:25,300 --> 00:13:26,720
+217
+00:13:25,360 --> 00:13:26,740
 Maintenant que vous le dites, c'est pourtant vrai.
 
-208
-00:13:26,980 --> 00:13:28,040
+218
+00:13:27,000 --> 00:13:28,060
 Les Leichmann n'avaient pas d'enfant.
 
-209
-00:13:28,280 --> 00:13:31,420
+219
+00:13:28,260 --> 00:13:31,420
 Vous ne pensez pas que vous avez tendance à tirer des conclusions un peu hâtives
 
-210
+220
 00:13:31,420 --> 00:13:33,960
 sur la base de quelques coïncidences insignifiantes ?
 
-211
+221
 00:13:33,960 --> 00:13:34,900
 Quand même !
 
-212
-00:13:34,900 --> 00:13:38,200
+222
+00:13:34,900 --> 00:13:38,220
 Des objets de valeur ont été dérobés à chaque fois auprès de chacune des victimes.
 
-213
+223
 00:13:38,440 --> 00:13:40,920
 À chaque fois, les vols étaient peu importants.
 
-214
-00:13:40,920 --> 00:13:44,660
-Tout juste suffisant pour une personne seule, en supposant bien sûr qu'il n'y ait eu qu'un seul voleur.
+224
+00:13:41,000 --> 00:13:42,600
+Tout juste suffisant pour une personne seule,
 
-215
-00:13:44,840 --> 00:13:47,260
+225
+00:13:42,640 --> 00:13:44,660
+en supposant bien sûr qu'il n'y ait eu qu'un seul voleur.
+
+226
+00:13:44,840 --> 00:13:47,220
 Pourquoi ? Vous croyez que le meurtrier n'était pas seul ?
 
-216
-00:13:47,260 --> 00:13:51,680
-Dans deux des cas, les victimes possédaient un système d'alarme directement relié au commissariat.
+227
+00:13:47,400 --> 00:13:50,020
+En deux des cas, les victimes possédaient un système d'alarmes
 
-217
-00:13:52,260 --> 00:13:56,360
-Sans compter les serrures sur les portes qui, d'après nos spécialistes, sont extrêmement difficiles à crocheter.
+228
+00:13:50,020 --> 00:13:51,680
+directement relié au commissariat.
 
-218
+229
+00:13:52,220 --> 00:13:54,800
+Sans compter les serrures sur les portes qui, d'après nos spécialistes,
+
+230
+00:13:54,880 --> 00:13:56,380
+sont extrêmement difficiles à crocheter.
+
+231
 00:13:56,860 --> 00:13:59,980
 Le malfaiteur a malgré tout réussi à entrer sans beaucoup de problèmes.
 
-219
-00:14:00,420 --> 00:14:02,220
+232
+00:14:00,440 --> 00:14:02,220
 J'ajoute qu'on n'a relevé aucune trace de lutte.
 
-220
-00:14:02,380 --> 00:14:04,160
+233
+00:14:02,420 --> 00:14:04,180
 Et aux alentours, on n'a rien entendu.
 
-221
-00:14:04,660 --> 00:14:09,020
-Vous ne trouvez pas que le coup est un peu trop parfait pour avoir été fait par un seul cambrioleur ?
+234
+00:14:04,640 --> 00:14:06,300
+Vous ne trouvez pas que le coup est un peu trop parfait
 
-222
-00:14:09,020 --> 00:14:09,660
+235
+00:14:06,300 --> 00:14:09,060
+pour avoir été fait par un seul cambrioleur ?
+
+236
+00:14:09,060 --> 00:14:09,660
 Sans doute.
 
-223
-00:14:10,540 --> 00:14:12,560
+237
+00:14:10,460 --> 00:14:12,560
 Vous avez déjà vu cet homme ?
 
-224
+238
 00:14:12,560 --> 00:14:13,300
 Non, jamais.
 
-225
-00:14:13,300 --> 00:14:15,900
+239
+00:14:13,440 --> 00:14:15,900
 Adolf Junkers, 32 ans, suspecté de vol.
 
-226
-00:14:15,900 --> 00:14:18,400
-Deux fois interpellé puis relâché faute de preuve
+240
+00:14:18,320 --> 00:14:21,540
+mais bien connu comme le meilleur spécialiste des serrures difficiles.
 
-227
-00:14:18,400 --> 00:14:21,560
-Mais bien connu comme le meilleur spécialiste des serrures difficiles
+241
+00:14:21,880 --> 00:14:23,400
+On appelle ça un crocheteur.
 
-228
-00:14:21,560 --> 00:14:23,400
-On appelle ça un crocheteur
+242
+00:14:23,880 --> 00:14:25,940
+Il se trouve que dans trois des affaires dont il est question,
 
-229
-00:14:23,400 --> 00:14:25,940
-Il se trouve que dans trois des affaires dont il est question
+243
+00:14:26,380 --> 00:14:28,560
+on l'a aperçu à proximité des lieux du crime.
 
-230
-00:14:25,940 --> 00:14:28,580
-On l'a aperçu à proximité des lieux du crime
+244
+00:14:29,100 --> 00:14:30,820
+Ah d'accord, alors c'est lui le coupable.
 
-231
-00:14:28,580 --> 00:14:30,840
-Ah d'accord, alors c'est lui le coupable
+245
+00:14:32,000 --> 00:14:33,500
+Eh bien, à votre avis.
 
-232
-00:14:30,840 --> 00:14:33,540
-Eh bien, à votre avis
+246
+00:14:34,620 --> 00:14:37,360
+De toute façon, le travail de la police départementale s'arrête ici.
 
-233
-00:14:33,540 --> 00:14:37,400
-De toute façon le travail de la police départementale s'arrête ici
+247
+00:14:38,040 --> 00:14:40,360
+Le BK prend l'affaire en main, ne vous inquiétez plus.
 
-234
-00:14:37,400 --> 00:14:40,480
-Le BKA prend l'affaire en main, ne vous inquiétez plus
+248
+00:14:41,720 --> 00:14:42,520
+Ah, bien.
 
-235
-00:14:40,480 --> 00:14:42,540
-Ah, bien
+249
+00:14:48,040 --> 00:14:50,360
+Oh zut ! Je n'arrive pas à le faire voler
 
-236
-00:14:45,900 --> 00:14:50,400
-Oh zut, je n'arrive pas à le faire voler
+250
+00:14:50,360 --> 00:14:53,420
+En fait je n'avais encore jamais joué au cerf-volant avant
 
-237
-00:14:50,400 --> 00:14:53,420
-En fait, je n'avais encore jamais joué au cerf-volant avant
-
-238
+251
 00:14:53,420 --> 00:14:55,120
 C'était presque réussi quand même
 
-239
-00:14:55,120 --> 00:14:58,380
+252
+00:14:55,120 --> 00:14:58,360
 Alors champion, dis-moi voir, c'était comment hier soir ?
 
-240
-00:14:58,380 --> 00:15:00,660
+253
+00:14:58,360 --> 00:15:00,660
 Bien, c'est une fille vraiment très sympa
 
-241
+254
 00:15:00,660 --> 00:15:03,880
 Très sympa, je te rappelle que c'est la fille du président de l'ordre des médecins
 
-242
+255
 00:15:03,880 --> 00:15:06,800
-Alors ne me dis pas que vous avez juste dîné et ciao, bonsoir
+Alors ne me dit pas que vous avez juste dîné et ciao, bonsoir
 
-243
+256
 00:15:06,800 --> 00:15:09,920
-En fait, j'ai reçu un appel de l'hôpital pour une admission aux urgences
+En fait j'ai reçu un appel de l'hôpital pour une admission aux urgences
 
-244
+257
 00:15:09,920 --> 00:15:11,100
 On en était au dessert
 
-245
-00:15:11,100 --> 00:15:12,840
-Oh non, mais j'y crois pas
-
-246
-00:15:12,840 --> 00:15:16,440
-Il va falloir que t'arrêtes de faire passer le boulot avant tout le reste, mon gars.
-
-247
-00:15:16,780 --> 00:15:20,000
-Tu verras, tu regretteras d'avoir fait foirer tes coups avec toutes ces belettes.
-
-248
-00:15:20,300 --> 00:15:21,020
-Tu m'entends ?
-
-249
-00:15:21,020 --> 00:15:22,840
-Hep, monsieur le chef de service, allô !
-
-250
-00:15:23,360 --> 00:15:24,620
-Un cerf-volant ?
-
-251
-00:15:24,620 --> 00:15:26,740
-Docteur Tenma, vous étiez là, bonjour.
-
-252
-00:15:27,240 --> 00:15:28,640
-Il est à toi ?
-
-253
-00:15:28,640 --> 00:15:30,120
-Oui, c'est un cadeau de mon grand-père.
-
-254
-00:15:30,760 --> 00:15:32,800
-Mais il ne veut pas s'envoler, alors...
-
-255
-00:15:32,800 --> 00:15:34,800
-Il faut sans doute refixer l'axe, c'est tout.
-
-256
-00:15:35,300 --> 00:15:38,100
-Dites, Docteur Tenma, est-ce que vous arriveriez à le faire voler, vous ?
-
-257
-00:15:38,100 --> 00:15:40,760
-Au Japon, quand j'étais tout gamin, on en faisait voler dès comme ça.
-
 258
-00:15:42,840 --> 00:15:45,660
-Vas-y, Carl, tiens-le bien. Plus haut, oui.
+00:15:11,100 --> 00:15:16,460
+Oh non mais j'y crois pas ! Il va falloir que t'arrêtes de faire passer le boulot avant tout le reste mon gars
 
 259
-00:15:46,300 --> 00:15:47,400
-Comme ça, ça va ?
+00:15:17,400 --> 00:15:21,040
+tu regretteras d'avoir fait foirer tes coups avec toutes ces bolettes, tu m'entends ?
 
 260
-00:15:47,400 --> 00:15:49,320
-C'est parfait, là. On y va.
+00:15:21,040 --> 00:15:23,340
+Hep, monsieur le chef de service, allo !
 
 261
-00:15:50,020 --> 00:15:52,280
-Voyons si ça marche.
+00:15:23,340 --> 00:15:24,400
+Un cerf-volant ?
 
 262
-00:16:07,100 --> 00:16:08,520
-Ils s'envolent !
+00:15:24,400 --> 00:15:26,780
+Docteur Tenma, vous étiez là, bonjour.
 
 263
-00:16:08,520 --> 00:16:08,740
-Oui.
+00:15:27,200 --> 00:15:28,640
+Il est à toi ?
 
 264
-00:16:10,140 --> 00:16:10,620
-Oui.
+00:15:28,640 --> 00:15:32,780
+Oui, c'est un cadeau de mon grand-père, mais il ne veut pas s'envoler, alors…
 
 265
-00:16:10,620 --> 00:16:19,900
-Quelle misère ! Si j'étais à sa place, bon sang de bois, je pourrais m'envoyer en l'air tous les jours avec les plus belles femmes. Quel gâchis !
+00:15:32,780 --> 00:15:34,780
+Il faut sans doute refixer l'axe, c'est tout.
 
 266
-00:16:19,900 --> 00:16:22,800
-Bravo ! Vous êtes génial, docteur Tenma !
+00:15:35,300 --> 00:15:38,080
+Dites, Docteur Tenma, est-ce que vous arriveriez à le faire voler, vous ?
 
 267
-00:16:22,800 --> 00:16:26,840
-Il faut vite que tu guérisses. Et comme ça, c'est toi qui le feras voler, et encore plus haut.
+00:15:38,080 --> 00:15:40,760
+Au Japon, quand j'étais tout gamin, on en faisait voler des comme ça.
 
 268
-00:16:26,840 --> 00:16:41,620
-L'opération d'aujourd'hui va consister à l'extraction du méningiome sur la partie du faisceau de Turk
+00:15:43,040 --> 00:15:46,340
+Vas-y, Carl, tiens-le bien ! Plus haut, oui !
 
 269
-00:16:41,620 --> 00:16:43,140
-Oui
+00:15:47,400 --> 00:15:52,560
+C'est parfait, là ! On y va… Voyons… si… ça marche !
 
 270
-00:16:43,140 --> 00:16:45,480
-Messieurs, soyez très attentifs
+00:16:06,700 --> 00:16:09,040
+Il s'envole ! Ouais !
 
 271
-00:16:45,480 --> 00:16:48,080
-Cette intervention est réalisée par le docteur Tenma
+00:16:11,000 --> 00:16:11,520
+Oui…
 
 272
-00:16:48,080 --> 00:16:49,720
-Parfaitement incroyable
+00:16:12,160 --> 00:16:15,200
+Quelle misère ! Si j'étais à sa place, bon sang de bois,
 
 273
-00:16:49,720 --> 00:16:52,140
-Le cerveau ne présente aucune trace de contraction
+00:16:15,200 --> 00:16:18,360
+Je pourrais m'envoyer en l'air tous les jours avec les plus belles femmes.
 
 274
-00:16:52,140 --> 00:16:55,680
-Vous avez là un génie de la neurochirurgie, messieurs les internes
+00:16:18,900 --> 00:16:19,920
+Quel gâchis !
 
 275
-00:16:55,680 --> 00:16:59,980
-Vous devez bien comprendre avec quelle précision il faut manipuler le cerveau humain.
+00:16:19,920 --> 00:16:22,780
+Bravo ! Vous êtes génial, Docteur Tenma !
 
 276
-00:17:25,680 --> 00:17:41,440
-Il bouge plus, merde !
+00:16:22,780 --> 00:16:24,040
+Il faut vite que tu guérisses.
 
 277
-00:17:41,440 --> 00:17:43,220
-Appelez une ambulance, vite !
+00:16:24,440 --> 00:16:26,860
+Et comme ça, c'est toi qui le fera voler, et encore plus haut.
 
 278
-00:17:43,220 --> 00:17:46,480
-J'y suis pour rien, moi ! Il a surgit, comme ça !
+00:16:35,820 --> 00:16:39,260
+L'opération d'aujourd'hui va consister à l'extraction du méningiome
 
 279
-00:17:46,480 --> 00:17:51,480
-C'est pas ma faute, il sait pas ce que j'étais sous ma voiture, comme un dingue !
+00:16:39,760 --> 00:16:41,640
+sur la partie du faisceau de Turck.
 
 280
-00:17:51,480 --> 00:17:54,980
-C'est bien lui qui a été admis ici ?
+00:16:42,960 --> 00:16:43,140
+Oui.
 
 281
-00:17:54,980 --> 00:17:55,180
+00:16:43,140 --> 00:16:43,280
 Oui.
 
 282
-00:17:55,880 --> 00:17:57,060
-Comment va-t-il ?
+00:16:44,040 --> 00:16:45,460
+Messieurs, soyez très attentifs.
 
 283
-00:17:57,060 --> 00:18:00,880
-Pas bien. J'ai bien peur qu'on ne puisse pas faire grand-chose.
+00:16:45,760 --> 00:16:48,060
+Cette intervention est réalisée par le docteur Tenma.
 
 284
+00:16:48,640 --> 00:16:49,720
+Parfaitement incroyable.
+
+285
+00:16:50,000 --> 00:16:52,160
+Le cerveau ne présente aucune trace de contraction.
+
+286
+00:16:52,680 --> 00:16:55,640
+Vous avez là un génie de la neurochirurgie, messieurs les internes.
+
+287
+00:16:56,480 --> 00:16:59,960
+Vous devez bien comprendre avec quelle précision il faut manipuler le cerveau humain.
+
+288
+00:17:13,140 --> 00:17:16,740
+*musique épique*
+
+289
+00:17:25,280 --> 00:17:26,540
+*cris de douleur*
+
+290
+00:17:28,660 --> 00:17:32,700
+*musique épique*
+
+291
+00:17:39,960 --> 00:17:41,160
+Il bouge plus, merde !
+
+292
+00:17:41,160 --> 00:17:42,880
+Appelez une ambulance, vite !
+
+293
+00:17:43,140 --> 00:17:46,500
+J'y suis pour rien, moi ! Il a surgi, comme ça !
+
+294
+00:17:46,500 --> 00:17:50,140
+C'est pas de ma faute ! Il s'est presque jeté sous ma voiture, comme un dingue !
+
+295
+00:17:52,320 --> 00:17:54,780
+C'est bien lui qui a été admis ici ?
+
+296
+00:17:54,780 --> 00:17:55,180
+Oui.
+
+297
+00:17:55,800 --> 00:17:57,060
+Comment va-t-il ?
+
+298
+00:17:57,060 --> 00:17:57,460
+Pas bien.
+
+299
+00:17:58,160 --> 00:18:00,880
+J'ai bien peur qu'on ne puisse pas faire grand-chose.
+
+300
 00:18:01,180 --> 00:18:03,460
 C'est un témoin clé dans une enquête importante.
 
-285
-00:18:03,920 --> 00:18:07,100
+301
+00:18:03,920 --> 00:18:07,080
 Son témoignage pourrait nous permettre de résoudre une affaire de meurtre en série.
 
-286
-00:18:07,480 --> 00:18:09,420
+302
+00:18:07,460 --> 00:18:09,320
 Vous comprenez pourquoi je suis là ?
 
-287
-00:18:09,420 --> 00:18:11,360
+303
+00:18:09,320 --> 00:18:11,360
 Pour nous, c'est primordial que vous puissiez le sauver.
 
-288
-00:18:11,800 --> 00:18:14,520
-Je comprends bien, mais votre client est plutôt mal en point.
+304
+00:18:13,140 --> 00:18:14,520
+Le client est plutôt mal en point.
 
-289
-00:18:15,260 --> 00:18:18,000
-Il y a bien peu de chances qu'ici, on puisse le...
+305
+00:18:15,300 --> 00:18:17,960
+Il y a bien peu de chance qu'ici on puisse le...
 
-290
-00:18:18,000 --> 00:18:21,420
+306
+00:18:17,960 --> 00:18:21,380
 Je sais qu'à l'hôpital Eisler, ils ont un grand génie de la neurochirurgie.
 
-291
+307
 00:18:21,560 --> 00:18:24,840
 Alors, évidemment, si on pouvait le faire venir ici, ça aiderait.
 
-292
-00:18:24,980 --> 00:18:29,180
-Neurochirurgien. Il ne s'agirait pas du Docteur Tenma.
-
-293
-00:18:34,700 --> 00:18:36,920
-Désolé de vous avoir dérangé, Docteur Tenma.
-
-294
-00:18:37,200 --> 00:18:39,420
-Il n'y a pas de mal. Comment va le blessé ?
-
-295
-00:18:39,420 --> 00:18:43,020
-Mal. Il a perdu connaissance et ses pupilles sont complètement dilatées.
-
-296
-00:18:43,420 --> 00:18:47,500
-Comment se retrouve, cher Docteur Tenma ?
-
-297
-00:18:47,500 --> 00:18:50,460
-Pardon. Pouvez-vous me rafraîchir la mémoire ? Je ne vous remets pas.
-
-298
-00:18:50,460 --> 00:18:54,340
-C'était il y a environ neuf ans, à l'époque du meurtre du Docteur Heinemann.
-
-299
-00:18:54,980 --> 00:18:56,960
-Je me souviens de vous, vous êtes du BKA, c'est ça ?
-
-300
-00:18:56,960 --> 00:19:03,380
-Commissaire Rung, dans l'intérêt du BKA, j'aimerais que vous tiriez d'affaire l'individu que vous allez opérer ici.
-
-301
-00:19:04,320 --> 00:19:09,960
-La survie de cet individu pourrait nous permettre de résoudre de façon définitive une enquête très importante pour nous.
-
-302
-00:19:10,560 --> 00:19:14,960
-Je n'ai pas l'habitude de faire des interventions pour satisfaire la police, mais plutôt pour le bien de mes patients.
-
-303
-00:19:16,140 --> 00:19:17,340
-Et pas de problème, ça me va.
-
-304
-00:19:17,760 --> 00:19:19,680
-À présent, veuillez m'excuser, j'ai une opération.
-
-305
-00:19:22,160 --> 00:19:24,400
-Au fait, j'ai appris que vous aviez eu une promotion.
-
-306
-00:19:24,980 --> 00:19:28,920
-Docteur Tenma, vous êtes devenu médecin-chef, c'est bien.
-
-307
-00:19:29,540 --> 00:19:31,140
-Et ça vous pose un problème ?
-
 308
-00:19:31,140 --> 00:19:33,780
-Pas du tout. Un homme si jeune, c'est impressionnant.
+00:18:26,620 --> 00:18:27,340
+Neurochirurgien ?
 
 309
-00:19:34,340 --> 00:19:36,260
-À ce train-là, vous allez être bientôt président.
+00:18:27,340 --> 00:18:30,520
+Il ne s'agirait pas du Docteur Tenma ?
 
 310
-00:19:36,740 --> 00:19:38,900
-Oh non, j'en suis loin à tous les niveaux.
+00:18:34,740 --> 00:18:36,920
+Désolé de vous avoir dérangé, Docteur Tenma.
 
 311
-00:19:39,480 --> 00:19:42,380
-Je me souviens que les meurtres de l'hôpital Eisler étaient bizarres.
+00:18:37,160 --> 00:18:39,420
+Il n'y a pas de mal, comment va le blessé ?
 
 312
-00:19:42,760 --> 00:19:45,360
-Il y avait très peu d'indices à part ces bonbons empoisonnés.
+00:18:39,420 --> 00:18:43,040
+Mal, il a perdu connaissance et ses pupilles sont complètement dilatées.
 
 313
-00:19:45,660 --> 00:19:46,800
-Vous vous en souvenez sans doute.
+00:18:43,420 --> 00:18:46,340
+Comment on se retrouve, cher Docteur Tenma ?
 
 314
-00:19:47,440 --> 00:19:49,720
-C'était le seul élément tangible dans toute cette histoire.
+00:18:47,440 --> 00:18:50,460
+Pardon, pouvez-vous me rafraîchir la mémoire ? Je ne vous remets pas.
 
 315
-00:19:50,140 --> 00:19:52,800
-Ce qui nous laisse à penser qu'il y a eu préméditation.
+00:18:50,680 --> 00:18:54,320
+C'était il y a environ neuf ans, à l'époque du meurtre du Docteur Heinemann.
 
 316
-00:19:52,800 --> 00:19:56,860
-Ce qui, évidemment, nous amène à une conclusion simple
+00:18:54,960 --> 00:18:56,960
+Je me souviens de vous, vous êtes du BKA, c'est ça ?
 
 317
-00:19:56,860 --> 00:20:00,200
-C'est qu'il y avait un rapport d'intérêt entre la victime et son assassin
+00:18:56,960 --> 00:18:57,880
+Commissaire Runge.
 
 318
-00:20:00,200 --> 00:20:02,240
-Je ne vois pas où vous voulez en venir
+00:18:58,600 --> 00:18:59,660
+Dans l'intérêt du BKA,
 
 319
-00:20:02,240 --> 00:20:04,180
-Oh, désolé, je m'excuse
+00:18:59,940 --> 00:19:03,360
+j'aimerais que vous tiriez d'affaire l'individu que vous allez opérer ici.
 
 320
-00:20:04,180 --> 00:20:07,520
-Mais il faut comprendre que je ressasse mes enquêtes irrésolues
+00:19:04,320 --> 00:19:05,840
+La survie de cet individu
 
 321
-00:20:07,520 --> 00:20:08,620
-Ça tourne dans ma tête
+00:19:05,840 --> 00:19:08,140
+pourrait nous permettre de résoudre de façon définitive
 
 322
-00:20:08,620 --> 00:20:11,100
-De toute façon, il ne faut pas trop vous inquiéter
+00:19:08,140 --> 00:19:10,620
+une enquête très importante pour nous ?
 
 323
-00:20:11,100 --> 00:20:15,320
-Tout au long de ma carrière, il n'y a pas une seule de mes affaires que je n'ai pas résolues
+00:19:10,620 --> 00:19:12,320
+Je n'ai pas l'habitude de faire des interventions
 
 324
-00:20:15,320 --> 00:20:17,920
-Pas une seule, vous m'avez entendu ?
+00:19:12,320 --> 00:19:13,280
+pour satisfaire la police,
 
 325
-00:20:19,200 --> 00:20:20,480
-Parfait, je compte sur vous
+00:19:13,600 --> 00:19:14,980
+mais plutôt pour le bien de mes patients.
 
 326
-00:20:20,480 --> 00:20:33,340
-Bon, nous allons inciser la boîte crânienne et retirer l'hématome.
+00:19:16,140 --> 00:19:17,340
+Pas de problème, ça me va.
 
 327
-00:20:33,600 --> 00:20:35,060
-Il faut faire vite pour éviter les complications.
+00:19:17,780 --> 00:19:19,700
+À présent, veuillez m'excuser, j'ai une opération.
 
 328
-00:20:39,240 --> 00:20:43,460
-À qui cette affaire de meurtre à l'hôpital Eisler a-t-elle le plus profité par la suite ?
+00:19:22,360 --> 00:19:24,460
+Au fait, j'ai appris que vous aviez eu une promotion,
 
 329
+00:19:25,120 --> 00:19:25,880
+Docteur Tenma.
+
+330
+00:19:26,900 --> 00:19:28,920
+Vous êtes devenu médecin-chef, c'est bien.
+
+331
+00:19:29,540 --> 00:19:31,120
+Et ça vous pose un problème ?
+
+332
+00:19:31,120 --> 00:19:33,740
+Pas du tout. Un homme si jeune, c'est impressionnant.
+
+333
+00:19:34,080 --> 00:19:36,280
+À ce train-là, vous allez être bientôt président.
+
+334
+00:19:36,660 --> 00:19:38,900
+Non, j'en suis loin à tous les niveaux.
+
+335
+00:19:39,440 --> 00:19:42,380
+Je me souviens que les meurtres de l'hôpital Eisler étaient bizarres.
+
+336
+00:19:42,780 --> 00:19:45,360
+Il y avait très peu d'indices à part ces bonbons empoisonnés.
+
+337
+00:19:45,680 --> 00:19:46,820
+Vous vous en souvenez, sans doute.
+
+338
+00:19:47,420 --> 00:19:49,700
+C'était le seul élément tangible dans toute cette histoire.
+
+339
+00:19:50,400 --> 00:19:52,700
+Ce qui nous laisse à penser qu'il y a eu préméditation.
+
+340
+00:19:54,120 --> 00:19:56,860
+Ce qui, évidemment, nous amène à une conclusion simple,
+
+341
+00:19:56,980 --> 00:20:00,160
+c'est qu'il y avait un rapport d'intérêt entre la victime et son assassin.
+
+342
+00:20:00,780 --> 00:20:02,180
+Je ne vois pas où vous voulez en venir.
+
+343
+00:20:03,740 --> 00:20:07,540
+Je m'excuse, mais il faut comprendre que je ressasse mes enquêtes irrésolues.
+
+344
+00:20:07,660 --> 00:20:08,620
+Ça tourne dans ma tête.
+
+345
+00:20:09,380 --> 00:20:11,080
+De toute façon, il ne faut pas trop vous inquiéter.
+
+346
+00:20:11,520 --> 00:20:12,600
+Tout au long de ma carrière,
+
+347
+00:20:12,760 --> 00:20:15,300
+il n'y a pas une seule de mes affaires que je n'ai pas résolues.
+
+348
+00:20:15,820 --> 00:20:18,060
+Pas une seule, vous m'avez entendu ?
+
+349
+00:20:19,260 --> 00:20:20,440
+Parfait, je compte sur vous.
+
+350
+00:20:29,440 --> 00:20:31,600
+Bon, nous allons inciser la boîte crânienne
+
+351
+00:20:32,200 --> 00:20:33,320
+et retirer l'hématome.
+
+352
+00:20:33,740 --> 00:20:35,080
+Il faut faire vite pour éviter les complications.
+
+353
+00:20:39,060 --> 00:20:43,460
+À qui cette affaire de meurtre à l'hôpital Heisler a-t-elle le plus profité par la suite ?
+
+354
 00:20:43,460 --> 00:20:44,800
 Je ne vois qu'une seule personne.
 
-330
+355
 00:20:45,380 --> 00:20:47,400
 Et j'ai beau retourner le problème dans tous les sens,
 
-331
-00:20:47,400 --> 00:20:52,860
-Il n'y a qu'un seul nom qui revient, c'est le vôtre docteur Tedma
+356
+00:20:49,460 --> 00:20:51,100
+il n'y a qu'un seul nom qui revient.
 
-332
-00:20:52,860 --> 00:21:02,200
-Une nouvelle fois je dois vous remercier de vous être déplacé
+357
+00:20:51,380 --> 00:20:52,820
+C'est le vôtre Docteur Tedma.
 
-333
-00:21:02,200 --> 00:21:05,500
-Ça va, comment se porte notre patient à présent ?
+358
+00:20:59,080 --> 00:21:02,120
+Une nouvelle fois, je dois vous remercier de vous être déplacé.
 
-334
-00:21:05,500 --> 00:21:11,180
-Bon ça va mieux, il est conscient, mais sa pupille droite est dilatée et son côté gauche est encore paralysé
+359
+00:21:03,740 --> 00:21:05,040
+et qui transporte notre patient à présent.
 
-335
-00:21:11,180 --> 00:21:14,200
-On peut estimer alors qu'il est tiré d'affaire n'est-ce pas ?
+360
+00:21:05,440 --> 00:21:06,660
+Ça va mieux, il est conscient.
 
-336
-00:21:14,200 --> 00:21:17,340
-La paralysie devrait s'estomper, tout me paraît on ne peut plus normal
+361
+00:21:07,000 --> 00:21:11,160
+Mais sa pupille droite est dilatée et son côté gauche est encore paralysé.
 
-337
-00:21:17,340 --> 00:21:22,100
-La police va très certainement vous demander la permission de l'interroger au plus vite, mais je vous conseille de refuser.
+362
+00:21:11,420 --> 00:21:14,060
+On peut estimer alors qu'il est tiré d'affaire, n'est-ce pas ?
 
-338
-00:21:22,400 --> 00:21:25,540
-J'entends bien, mais ce commissaire Juncker fait du harcèlement.
+363
+00:21:14,060 --> 00:21:15,520
+La paralysie devrait s'estomper.
 
-339
-00:21:25,900 --> 00:21:28,520
+364
+00:21:16,000 --> 00:21:17,280
+Tout me paraît on ne peut plus normal.
+
+365
+00:21:17,540 --> 00:21:20,720
+La police va très certainement vous demander la permission de l'interroger au plus vite,
+
+366
+00:21:20,860 --> 00:21:22,080
+mais je vous conseille de refuser.
+
+367
+00:21:22,360 --> 00:21:25,520
+J'entends bien, mais ce commissaire Runge fait du harcèlement.
+
+368
+00:21:25,840 --> 00:21:28,520
 Alors mettez en avant le prompt rétablissement de votre patient.
 
-340
-00:21:36,340 --> 00:21:39,340
-Alors, vous vous sentez comment aujourd'hui, monsieur Juncker ?
+369
+00:21:36,300 --> 00:21:39,760
+Alors, vous vous sentez comment aujourd'hui, M. Junkers ?
 
-341
-00:21:39,340 --> 00:21:45,340
-Monsieur Juncker, est-ce que vous entendez ce que je vous dis ?
+370
+00:21:42,300 --> 00:21:46,260
+M. Junkers, est-ce que vous entendez ce que je vous dis ?
 
-342
-00:21:45,340 --> 00:21:52,320
-est-ce que vous pouvez voir mon doigt s'il vous plaît est-ce que vous pouvez
+371
+00:21:46,260 --> 00:21:49,940
+Est-ce que vous pouvez voir mon doigt ?
 
-343
-00:21:52,320 --> 00:22:03,920
-me répondre le monstre doit pardon le monstre doit excusez moi mais je ne vous
+372
+00:21:49,940 --> 00:21:53,860
+S'il vous plaît, est-ce que vous pouvez me répondre ?
 
-344
-00:22:03,920 --> 00:22:11,720
-entends pas c'est le monstre il doit comment je n'entends pas ce que vous
+373
+00:21:53,860 --> 00:21:57,160
+Le monstre doit…
 
-345
-00:22:11,720 --> 00:22:25,720
-raconter ? Le monstre doit... Il doit... Le monstre doit... Venir... Le... Le monstre ?
+374
+00:21:57,160 --> 00:21:58,620
+Pardon ?
+
+375
+00:21:58,620 --> 00:22:02,280
+Le monstre doit…
+
+376
+00:22:03,740 --> 00:22:04,440
+Je ne vous entends pas.
+
+377
+00:22:05,660 --> 00:22:07,600
+C'est le monstre.
+
+378
+00:22:08,160 --> 00:22:09,500
+Il doit...
+
+379
+00:22:09,500 --> 00:22:10,460
+Comment ?
+
+380
+00:22:10,460 --> 00:22:12,200
+Je n'entends pas ce que vous racontez.
+
+381
+00:22:12,680 --> 00:22:14,560
+Le monstre doit...
+
+382
+00:22:14,560 --> 00:22:16,740
+Il doit...
+
+383
+00:22:18,280 --> 00:22:20,980
+Le monstre doit...
+
+384
+00:22:20,980 --> 00:22:21,580
+Venir.
+
+385
+00:22:24,640 --> 00:22:26,300
+Le... Le monstre ?
+
+386
+00:22:36,420 --> 00:22:37,820
+Sous-titres réalisés para la communauté d'Amara.org
 

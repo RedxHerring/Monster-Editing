@@ -1,5 +1,4 @@
 
-# Make sure to conda activate ipex in advance
 
 function get_language() { # input shorthand $lang and get full language name
     if [[ $1 == "ara" ]]; then
@@ -39,14 +38,16 @@ function get_language() { # input shorthand $lang and get full language name
     fi
 }
 
-source /opt/intel/oneapi/setvars.sh
-export LD_PRELOAD=/usr/lib/libstdc++.so.6.0.32
+# Uncomment below if using intel arc
+# Make sure to conda activate ipex in advance
+# source /opt/intel/oneapi/setvars.sh
+# export LD_PRELOAD=/usr/lib/libstdc++.so.6.0.32
 
 # whisper $1 --model large-v2 --task translate --language de --logprob_threshold -.4 --beam_size 10 --patience 2 --output_format srt --output_dir Subs
 lang=$(echo $(basename $1))
 mkdir -p Subs/Whisper-Transcribed/$lang
 language=$(get_language $lang)
-for afile in "$1"*.flac; do
+for afile in "$1"*.wav; do
     echo "Transcribing $afile into  Subs/Whisper-Transcribed/$lang/"
     whisper "$afile" --model large-v2 --task transcribe --language $language --beam_size 10 --patience 2   --suppress_tokens "" --condition_on_previous_text False \
         --word_timestamps True  --hallucination_silence_threshold 2 --output_format srt --output_dir Subs/Whisper-Transcribed/$lang/

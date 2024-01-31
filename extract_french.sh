@@ -18,7 +18,7 @@ for vid in "$Fr_dir"/*.mkv; do
     out_name="Ep$epnum"
     echo "Processing video $vid, $out_name"
     # Japanese first, French second, only want French
-    ffmpeg -n -loglevel warning -i "$vid" -map a:1 -c:a flac "$pwd0/Audio/fre/$out_name.flac"
+    ffmpeg -n -loglevel warning -i "$vid" -map a:1 "$pwd0/Audio/fre/$out_name.wav"
     # Get sub files
     ffmpeg -n -loglevel warning -i "$vid" -map s:0 "$out_name.ass"
     ffmpeg -n -loglevel warning -i "$vid" -map s:1 "$out_name-titlesnsigns.ass"

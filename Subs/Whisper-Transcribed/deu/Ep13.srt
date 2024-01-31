@@ -1,1376 +1,1404 @@
 1
-00:00:00,000 --> 00:00:10,800
-Petra, mach jetzt auf! Petra! Heute wirst du mitkommen, du musst untersucht werden.
+00:00:05,780 --> 00:00:10,800
+Petra, mach jetzt auf, Petra, heute wirst du mitkommen, du musst untersucht werden.
 
 2
-00:00:10,940 --> 00:00:13,140
+00:00:10,960 --> 00:00:13,140
 Auch wenn du jeden Tag fragst, ich komm nicht mit.
 
 3
-00:00:13,460 --> 00:00:17,120
-Warum bist du bloß so dickköpfig? Warum glaubst du, komm ich jeden Tag hierher?
+00:00:13,480 --> 00:00:17,140
+Warum bist du bloß so dickköpfig, warum glaubst du, komm ich jeden Tag hierher?
 
 4
-00:00:17,200 --> 00:00:18,820
+00:00:17,220 --> 00:00:18,840
 Niemand hat dich darum gebeten.
 
 5
-00:00:18,980 --> 00:00:21,180
-Ach, du widerborstiges Weibstück, du!
+00:00:18,980 --> 00:00:21,220
+Ach, du widerborstiges Weibsstück, du.
 
 6
-00:00:21,320 --> 00:00:23,000
-Sei bloß still, du alter Quacksalber!
+00:00:21,340 --> 00:00:26,100
+Sei bloß still, du alter Quacksalber, ich habe in meinem ganzen Leben noch keinen Arzt
 
 7
-00:00:23,960 --> 00:00:28,400
-Ich habe in meinem ganzen Leben noch keinen Arzt gebraucht und werde jetzt bestimmt nicht damit anfangen.
+00:00:26,100 --> 00:00:29,980
+gebraucht und werde jetzt bestimmt nicht damit anfangen, ich bin kerngesund, also verschwende
 
 8
-00:00:28,400 --> 00:00:30,220
-Ich bin kerngesund, also verschwende!
-
-9
-00:00:30,620 --> 00:00:31,060
-Tuch!
-
-10
-00:00:31,880 --> 00:00:33,380
-Doktor, ein Notfall!
-
-11
-00:00:34,900 --> 00:00:36,080
-Doktor Schumann!
-
-12
-00:00:36,900 --> 00:00:37,920
+00:00:36,560 --> 00:00:37,960
 Was ist los?
 
-13
-00:00:38,220 --> 00:00:39,000
+9
+00:00:38,160 --> 00:00:39,000
 Kommen Sie mit!
 
-14
-00:00:39,600 --> 00:00:42,300
-Der besoffene Fink wurde auf der Landstraße angefahren!
+10
+00:00:39,640 --> 00:00:42,300
+Der besoffene Fink wurde auf der Landstraße angefahren.
 
-15
-00:00:44,940 --> 00:00:47,020
-Wissen Sie, ob er beim Bewusstsein ist?
+11
+00:00:45,000 --> 00:00:47,040
+Wissen Sie, ob er bei Bewusstsein ist?
 
-16
-00:00:47,180 --> 00:00:49,980
+12
+00:00:47,200 --> 00:00:49,980
 Der Mann, der uns Fink gebracht hat, hat ihn auch schon behandelt.
 
-17
-00:00:50,560 --> 00:00:54,160
+13
+00:00:50,820 --> 00:00:54,160
 Dieser Mann hat ihn wohl zufällig gefunden und dann gleich untersucht.
 
-18
+14
 00:00:54,560 --> 00:00:55,340
-Das wie bitte?
+Was? Wie bitte?
+
+15
+00:01:03,320 --> 00:01:05,020
+- Erklären Sie mir, was hier los ist.
+
+16
+00:01:05,120 --> 00:01:08,380
+- Ich sagte ihm, dass Sie nur kurz einen Hausbesuch machen, aber er hat sofort angefangen.
+
+17
+00:01:08,400 --> 00:01:10,020
+- Und Sie haben ihn einfach machen lassen?
+
+18
+00:01:10,460 --> 00:01:14,900
+- Entschuldigen Sie, ich wollte ihn ja zurückhalten, er meinte nur, es drohe Lebensgefahr und er
 
 19
-00:00:58,400 --> 00:01:05,040
-Erklären Sie mir, was hier los ist.
+00:01:14,900 --> 00:01:16,780
+müsse sofort Notmaßnahmen ergreifen.
 
 20
-00:01:05,140 --> 00:01:08,380
-Ich sagte ihm, dass Sie nur kurz einen Hausbesuch machen, aber er hat sofort angefangen.
+00:01:18,260 --> 00:01:19,700
+- Können Sie mir sagen, wer das war?
 
 21
-00:01:08,400 --> 00:01:10,040
-Und Sie haben ihn einfach machen lassen?
+00:01:20,020 --> 00:01:23,020
+- Nein, seinen Namen, den hat er mir leider nicht genannt.
 
 22
-00:01:10,480 --> 00:01:12,880
-Entschuldigen Sie, ich wollte ihn ja zurückhalten.
-
-23
-00:01:13,000 --> 00:01:16,780
-Er meinte nur, es drohe Lebensgefahr und er müsse sofort Notmaßnahmen ergreifen.
-
-24
-00:01:18,100 --> 00:01:19,700
-Können Sie mir sagen, wer das war?
-
-25
-00:01:20,060 --> 00:01:23,020
-Nein, seinen Namen, den hat er mir leider nicht genannt.
-
-26
-00:01:23,020 --> 00:01:26,280
+00:01:23,540 --> 00:01:26,240
 Ah, er hat etwas auf die Patientenkarte geschrieben.
 
+23
+00:01:32,360 --> 00:01:37,460
+Der Patient hat kein Geld und sagte im Delirium immer wieder ich solle ihn nicht zu einem
+
+24
+00:01:37,460 --> 00:01:38,220
+Arzt bringen.
+
+25
+00:01:38,660 --> 00:01:44,040
+Für die Behandlungskosten habe ich Geld auf den Tisch gelegt, verflucht, was denkt der
+
+26
+00:01:44,040 --> 00:01:44,640
+Kerl sich?
+
 27
-00:01:28,400 --> 00:01:38,220
-Der Patient hat kein Geld und sagte im Delirium immer wieder, ich solle ihn nicht zu einem Arzt bringen.
-
-28
-00:01:38,640 --> 00:01:42,080
-Für die Behandlungskosten habe ich Geld auf den Tisch gelegt.
-
-29
-00:01:42,420 --> 00:01:44,640
-Verflucht! Was denkt der Kerl sich?
-
-30
-00:01:45,420 --> 00:01:47,120
+00:01:45,600 --> 00:01:47,120
 Herr Doktor, wo wollen Sie hin?
 
-31
-00:01:47,440 --> 00:01:49,100
-Beschreiben Sie ihn. Wie sah er aus?
+28
+00:01:47,500 --> 00:01:49,100
+Beschreiben Sie ihn, wie sah er aus?
 
-32
-00:01:49,800 --> 00:01:52,880
+29
+00:01:49,820 --> 00:01:52,880
 Er sah asiatisch aus und er hatte einen Jungen bei sich.
 
-33
-00:01:52,880 --> 00:01:58,720
+30
+00:01:56,520 --> 00:01:58,740
 Und was soll ich jetzt mit Herrn Fink machen?
 
+31
+00:01:59,180 --> 00:02:00,860
+Lassen Sie ihn den Rausch ausschlafen.
+
+32
+00:02:01,040 --> 00:02:03,280
+Dieser Mann hat doch nur Notmaßnahmen ergriffen.
+
+33
+00:02:03,340 --> 00:02:04,380
+Was macht Sie so sauer?
+
 34
-00:01:59,100 --> 00:02:00,840
-Lassen Sie ihn deinen Rausch ausschlafen.
-
-35
-00:02:01,060 --> 00:02:04,380
-Dieser Mann hat doch nur Notmaßnahmen ergriffen. Was macht Sie so sauer?
-
-36
-00:02:05,060 --> 00:02:06,800
+00:02:05,120 --> 00:02:06,800
 Das waren keine Notmaßnahmen.
 
-37
-00:02:07,860 --> 00:02:09,980
+35
+00:02:07,840 --> 00:02:09,980
 Ich habe noch nie so gute Arbeit gesehen.
 
+36
+00:02:35,660 --> 00:02:38,760
+* Musik *
+
+37
+00:03:43,800 --> 00:03:47,720
+- Hör mal, Dieter, dass du mit mir gekommen bist,
+
 38
-00:02:22,880 --> 00:02:52,860
-Untertitelung des ZDF, 2020
+00:03:47,800 --> 00:03:49,700
+macht die Sache für mich nicht wirklich einfacher.
 
 39
-00:02:52,880 --> 00:03:22,860
-Untertitelung des ZDF, 2020
-
-40
-00:03:22,880 --> 00:03:44,760
-Hör mal, Dieter.
-
-41
-00:03:46,140 --> 00:03:49,700
-Dass du mit mir gekommen bist, macht die Sache für mich nicht wirklich einfacher.
-
-42
-00:03:49,700 --> 00:03:53,940
+00:03:51,700 --> 00:03:53,940
 Ich kann nie lange an einem Ort bleiben.
 
-43
-00:03:54,380 --> 00:03:56,060
+40
+00:03:54,400 --> 00:03:56,060
 Wie willst du denn so zur Schule gehen?
 
-44
-00:03:56,860 --> 00:03:58,120
+41
+00:03:56,860 --> 00:03:58,140
 Dort könntest du Freunde finden.
 
-45
-00:03:58,180 --> 00:03:59,220
+42
+00:03:58,200 --> 00:03:59,240
 Ich hab doch einen Freund.
 
-46
-00:03:59,800 --> 00:04:00,760
+43
+00:03:59,800 --> 00:04:00,740
 Und wer ist das?
 
-47
+44
 00:04:01,260 --> 00:04:01,780
 Tenma.
 
-48
-00:04:03,960 --> 00:04:04,880
+45
+00:04:03,720 --> 00:04:04,900
 Ach, Dieter.
 
-49
-00:04:07,920 --> 00:04:08,980
+46
+00:04:07,920 --> 00:04:09,000
 Sind Sie das?
 
-50
-00:04:10,280 --> 00:04:13,360
+47
+00:04:10,260 --> 00:04:13,360
 Waren Sie in meiner Arztpraxis und haben da rumgespielt?
 
-51
-00:04:14,620 --> 00:04:16,340
-Was fällt Ihnen eigentlich ein?
+48
+00:04:14,600 --> 00:04:16,360
+Was fällt Ihnen eigentlich ein,
 
-52
-00:04:16,340 --> 00:04:19,360
-Dass Fink ein mittelloser Säufer ist, weiß ich selber.
+49
+00:04:16,720 --> 00:04:18,660
+dass Fink ein mittelloser Säufer ist?
 
-53
-00:04:19,700 --> 00:04:23,140
+50
+00:04:19,700 --> 00:04:23,160
 Ich hatte nicht vor, ihm Geld abzuknöpfen, das er gar nicht hat, verstehen Sie?
 
-54
-00:04:23,540 --> 00:04:24,500
+51
+00:04:23,620 --> 00:04:24,500
 Äh, ja.
 
+52
+00:04:25,340 --> 00:04:26,140
+Was soll das?
+
+53
+00:04:26,280 --> 00:04:27,220
+Wer sind Sie eigentlich?
+
+54
+00:04:27,320 --> 00:04:31,780
+Ein Elitearzt aus einer Luxusklinik, der hier Urlaub macht und so nebenbei den Samariter
+
 55
-00:04:25,320 --> 00:04:27,160
-Was soll das? Wer sind Sie eigentlich?
+00:04:31,780 --> 00:04:32,160
+spielt?
 
 56
-00:04:27,300 --> 00:04:32,160
-Ein Elite-Arzt aus einer Luxusklinik, der hier Urlaub macht und so nebenbei den Samariter spielt?
-
-57
-00:04:33,100 --> 00:04:33,580
+00:04:32,880 --> 00:04:33,580
 Grüß dich.
 
-58
+57
 00:04:34,040 --> 00:04:34,780
 Hallo, Heinz.
 
-59
-00:04:35,340 --> 00:04:36,480
+58
+00:04:35,360 --> 00:04:36,500
 Dieter, wir gehen jetzt.
 
-60
-00:04:38,400 --> 00:04:38,840
+59
+00:04:38,380 --> 00:04:38,860
 Hey!
 
-61
+60
 00:04:39,680 --> 00:04:41,360
-Ich bin noch nicht fertig mit Ihnen.
+Ich bin noch nicht fertig mit Ihnen!
 
-62
-00:04:41,880 --> 00:04:42,780
+61
+00:04:41,840 --> 00:04:42,780
 Entschuldigen Sie bitte.
 
-63
+62
 00:04:43,280 --> 00:04:45,500
 Ich wollte nur helfen und jetzt haben wir es eilig.
 
+63
+00:04:46,240 --> 00:04:47,500
+Fink wurde angefahren.
+
 64
-00:04:46,240 --> 00:04:48,280
-Fink wurde angefahren. Fahrerflucht.
+00:04:47,780 --> 00:04:48,260
+Fahrerflucht.
 
 65
-00:04:48,580 --> 00:04:49,660
+00:04:48,580 --> 00:04:49,640
 Du meinst unseren Fink?
 
 66
-00:04:49,700 --> 00:04:50,620
-Solfer Fink?
+00:04:49,700 --> 00:04:50,660
+Säufer-Fink?
 
 67
-00:04:50,880 --> 00:04:52,920
-Genau den. Wir suchen noch nach Zeugen.
+00:04:50,900 --> 00:04:51,520
+Genau den.
 
 68
-00:04:53,860 --> 00:04:55,400
-Oh, schlimme Sache.
+00:04:51,880 --> 00:04:52,920
+Wir suchen noch nach Zeugen.
 
 69
-00:04:59,240 --> 00:05:03,020
-Ah, Herr Dr. Schumann, guten Tag. Wie geht es Fink inzwischen?
+00:04:53,880 --> 00:04:55,420
+Oh, schlimme Sache.
 
 70
-00:05:04,600 --> 00:05:08,300
-Er schwebt nicht in Lebensgefahr. Seine Alkoholsucht ist problematischer.
+00:04:58,920 --> 00:05:01,060
+Ah, Herr Doktor Schumann, guten Tag.
 
 71
-00:05:09,440 --> 00:05:10,580
-Und wer sind Sie?
+00:05:01,820 --> 00:05:03,020
+Wie geht es Fink inzwischen?
 
 72
-00:05:11,160 --> 00:05:12,940
-Ich? Also ich...
+00:05:04,480 --> 00:05:06,240
+Er schwebt nicht in Lebensgefahr.
 
 73
-00:05:12,940 --> 00:05:22,660
-Dr. Chang. Ein junger Kollege von der Uniklinik. Er hat gerade Urlaub und verbringt seine Ferien hier bei uns.
+00:05:06,400 --> 00:05:08,320
+Seine Alkoholsucht ist problematischer.
 
 74
-00:05:23,040 --> 00:05:26,320
-Dr. Chang, ja? Irgendwie kommen sie mir bekannt vor.
+00:05:09,340 --> 00:05:10,580
+Und wer sind Sie?
 
 75
-00:05:26,580 --> 00:05:31,820
-Er hat heute netterweise die Behandlung von Fink für mich übernommen, als ich gerade einen Hausbesuch machte.
+00:05:11,200 --> 00:05:11,560
+Ich?
 
 76
-00:05:31,940 --> 00:05:34,720
-Und was für einen Hausbesuch? Rate mal, wo ich heute wieder war.
+00:05:11,960 --> 00:05:12,940
+Also ich...
 
 77
-00:05:35,420 --> 00:05:38,420
-Eins, ich war mal wieder bei deiner Mutter, bei Petra.
+00:05:15,420 --> 00:05:16,420
+Doktor Chang.
 
 78
+00:05:17,380 --> 00:05:21,960
+Ein junger Kollege von der Uniklinik, er hat gerade Urlaub und verbringt seine Ferien
+
+79
+00:05:21,960 --> 00:05:22,660
+hier bei uns.
+
+80
+00:05:23,140 --> 00:05:23,380
+Dr.
+
+81
+00:05:23,560 --> 00:05:24,160
+Chang, ja?
+
+82
+00:05:24,740 --> 00:05:26,320
+Irgendwie kommen Sie mir bekannt vor.
+
+83
+00:05:26,580 --> 00:05:30,600
+Er hat heute netterweise die Behandlung von Fink für mich übernommen, als ich gerade
+
+84
+00:05:30,600 --> 00:05:31,820
+einen Hausbesuch machte.
+
+85
+00:05:31,940 --> 00:05:33,260
+Und was für einen Hausbesuch?
+
+86
+00:05:33,400 --> 00:05:34,740
+Rate mal, wo ich heute wieder war?
+
+87
+00:05:35,460 --> 00:05:38,420
+Heinz, ich war mal wieder bei deiner Mutter, bei Petra.
+
+88
 00:05:38,580 --> 00:05:39,000
 Bei Mutter?
 
-79
-00:05:39,940 --> 00:05:42,480
+89
+00:05:39,900 --> 00:05:42,460
 Überzeuge sie bitte, sich von mir untersuchen zu lassen.
 
-80
-00:05:42,940 --> 00:05:45,400
+90
+00:05:42,960 --> 00:05:45,400
 Ich glaube, dass sie dringend ärztlich behandelt werden muss.
 
-81
-00:05:45,740 --> 00:05:50,040
-Das wird nichts. Ein Sturkopf wie sie hört auf niemanden, nicht mal auf ihren Sohn.
-
-82
-00:05:50,400 --> 00:05:52,240
-Machst du dir keine Sorgen um deine Mutter?
-
-83
-00:05:52,860 --> 00:05:56,380
-Ach nein, nicht wirklich. So schnell wird meine alte Dame nicht sterben.
-
-84
-00:05:56,500 --> 00:05:57,180
-Also das ist...
-
-85
-00:05:57,180 --> 00:06:01,800
-Und außerdem hat sie mich großgezogen. Sie hatte also ein erfülltes Leben.
-
-86
-00:06:02,640 --> 00:06:07,920
-Was sagst du da? Ist das dein Ernst? Petras Leben fängt gerade erst an, wartet nur ab.
-
-87
-00:06:13,940 --> 00:06:15,800
-Warum haben Sie für mich gelogen?
-
-88
-00:06:17,660 --> 00:06:20,200
-Das ist mein Dank für Ihre gute Arbeit.
-
-89
-00:06:20,740 --> 00:06:23,560
-Denn ohne Ihr schnelles Eingreifen wäre Fink jetzt tot.
-
-90
-00:06:25,220 --> 00:06:27,000
-Ich danke Ihnen vielmals.
-
 91
-00:06:27,840 --> 00:06:31,720
-Beim Anblick des Polizisten sind Sie leichenblass geworden, ich frage mich.
+00:05:46,700 --> 00:05:50,060
+Ein Sturkopf wie sie hört auf niemanden, nicht mal auf ihren Sohn.
 
 92
-00:06:33,420 --> 00:06:37,680
-Egal. Sie sind kein schnöseliger Elitearzt einer Luxusklinik.
+00:05:50,420 --> 00:05:52,240
+Machst du dir keine Sorgen um deine Mutter?
 
 93
-00:06:38,240 --> 00:06:41,060
-Sie wissen gar nicht, wie sehr Sie mir geholfen haben.
+00:05:52,880 --> 00:05:54,140
+Ach nein, nicht wirklich.
 
 94
-00:06:41,440 --> 00:06:43,140
-Wie kann ich Ihnen nur danken?
+00:05:54,400 --> 00:05:56,380
+So schnell wird meine alte Dame nicht sterben.
 
 95
-00:06:43,500 --> 00:06:44,200
-Mir danken?
+00:05:56,540 --> 00:05:57,180
+Also das ist...
 
 96
-00:06:45,400 --> 00:06:47,260
-Würden Sie noch mal mit mir ins Dorf fahren?
+00:05:57,180 --> 00:05:59,780
+Und außerdem hat sie mich großgezogen.
 
 97
-00:06:52,100 --> 00:06:54,180
-Die Schiene war nur ein wenig verrutscht.
+00:06:00,080 --> 00:06:01,800
+Sie hatte also ein erfülltes Leben.
 
 98
+00:06:02,680 --> 00:06:03,860
+Was sagst du da?
+
+99
+00:06:04,220 --> 00:06:05,300
+Ist das dein Ernst?
+
+100
+00:06:05,540 --> 00:06:07,200
+Petras Leben fängt gerade erst an.
+
+101
+00:06:07,340 --> 00:06:07,900
+Wart's nur ab!
+
+102
+00:06:14,020 --> 00:06:15,800
+Warum haben Sie für mich gelogen?
+
+103
+00:06:17,720 --> 00:06:20,220
+Das ist mein Dank für Ihre gute Arbeit,
+
+104
+00:06:20,780 --> 00:06:23,600
+denn ohne Ihr schnelles Eingreifen wäre Fink jetzt tot.
+
+105
+00:06:25,260 --> 00:06:27,000
+Ich danke Ihnen vielmals.
+
+106
+00:06:27,860 --> 00:06:30,800
+Beim Anblick des Polizisten sind Sie leichenblass geworden,
+
+107
+00:06:31,020 --> 00:06:31,720
+ich frage mich.
+
+108
+00:06:33,500 --> 00:06:37,680
+Egal, Sie sind kein schnöseliger Elitearzt einer Luxusklinik.
+
+109
+00:06:38,340 --> 00:06:41,060
+Sie wissen gar nicht, wie sehr Sie mir geholfen haben.
+
+110
+00:06:41,460 --> 00:06:43,160
+Wie kann ich Ihnen nur danken?
+
+111
+00:06:43,500 --> 00:06:44,220
+Mir danken?
+
+112
+00:06:45,340 --> 00:06:47,260
+Würden Sie noch mal mit mir ins Dorf fahren?
+
+113
+00:06:52,120 --> 00:06:54,180
+Die Schiene war nur ein wenig verrutscht.
+
+114
 00:06:54,920 --> 00:06:57,880
 Es tut vielleicht noch ein bisschen weh, aber Sie schaffen das.
 
-99
-00:07:03,580 --> 00:07:05,600
+115
+00:07:03,620 --> 00:07:05,720
 Ich denke, so ist es in Ordnung.
 
-100
-00:07:07,180 --> 00:07:10,300
+116
+00:07:07,200 --> 00:07:10,300
 In zwei Wochen können wir die Schiene sicher wieder abnehmen.
 
-101
-00:07:10,300 --> 00:07:14,800
-Herr Doktor, es geht frischen Apfelwein bei uns. Wie wär's mit einem Gläschen, hä?
+117
+00:07:10,500 --> 00:07:13,020
+Herr Doktor, es gibt frischen Apfelwein bei uns.
 
-102
-00:07:15,260 --> 00:07:20,260
-Na, hören Sie mal, Sie sind mein Patient. Wenn Sie wieder gesund sind, komme ich gern bei Ihnen vorbei.
+118
+00:07:13,240 --> 00:07:14,440
+Wie wär's mit einem Gläschen?
 
-103
-00:07:22,720 --> 00:07:26,540
-Das ist sehr gut verheilt. In ein paar Tagen können Sie wieder aufs Feld.
+119
+00:07:15,300 --> 00:07:17,160
+Hören Sie mal, Sie sind mein Patient.
 
-104
+120
+00:07:17,680 --> 00:07:20,260
+Wenn Sie wieder gesund sind, komme ich gern bei Ihnen vorbei.
+
+121
+00:07:22,660 --> 00:07:24,220
+Das ist sehr gut verheilt.
+
+122
+00:07:24,700 --> 00:07:26,540
+In ein paar Tagen können Sie wieder aufs Feld.
+
+123
 00:07:27,340 --> 00:07:29,100
-Klingt doch gut, oder, Herr Schöne?
+Klingt doch gut, oder Herr Schöne?
 
-105
-00:07:29,400 --> 00:07:33,280
-Nehmen Sie doch Kartoffeln mit, Herr Doktor. Dieses Jahr schmecken sie besonders gut.
+124
+00:07:29,400 --> 00:07:31,360
+Nehmen Sie doch Kartoffeln mit, Herr Doktor.
 
-106
-00:07:33,380 --> 00:07:36,860
+125
+00:07:31,460 --> 00:07:33,300
+Dieses Jahr schmecken sie besonders gut.
+
+126
+00:07:33,300 --> 00:07:36,900
 Dann sollte ich wohl nächstes Mal besser mit einem LKW herkommen.
 
-107
-00:07:40,300 --> 00:07:42,540
+127
+00:07:40,100 --> 00:07:42,560
 Ich muss sagen, Sie sind wirklich eine große Hilfe.
 
-108
+128
 00:07:42,960 --> 00:07:47,120
 Eigentlich bin ich Internist und alles andere versuche ich, so gut es eben geht, zu behandeln.
 
-109
-00:07:47,560 --> 00:07:50,200
+129
+00:07:47,560 --> 00:07:50,220
 Aber ich kann es nicht so gut machen, wie ich gern würde.
 
-110
-00:07:50,780 --> 00:07:52,100
+130
+00:07:50,760 --> 00:07:52,100
 Ich finde das beeindruckend.
 
-111
-00:07:52,360 --> 00:07:55,840
-Ach was, das ist ein verschlafenes Dorf. Nichts Aufregendes.
-
-112
-00:07:56,060 --> 00:07:57,360
-Nein, das meine ich nicht.
-
-113
-00:07:59,000 --> 00:08:01,960
-Ich finde es beeindruckend, wie Sie die Leute behandeln.
-
-114
-00:08:02,620 --> 00:08:05,640
-Die Menschen hier in diesem Dorf lieben Sie und Sie lieben die Menschen.
-
-115
-00:08:05,640 --> 00:08:11,860
-Liebe, sagen Sie, von diesem hochtrabenden Gefühl habe ich schon lange nicht mehr gehört
-
-116
-00:08:11,860 --> 00:08:15,160
-Ich erledige nur meine Arbeit, nichts weiter
-
-117
-00:08:15,160 --> 00:08:19,560
-So, jetzt kommt der letzte Besuch für heute
-
-118
-00:08:19,560 --> 00:08:21,580
-Und der wird besonders lustig
-
-119
-00:08:21,580 --> 00:08:25,880
-Du bist sowas von penetrant
-
-120
-00:08:25,880 --> 00:08:29,240
-Ach ja? Und wie kann man so dickköpfig sein?
-
-121
-00:08:29,240 --> 00:08:31,780
-Und wenn du jeden Tag kommst, das wird nichts ändern
-
-122
-00:08:31,780 --> 00:08:33,240
-Verschwinde, du Puscher
-
-123
-00:08:33,240 --> 00:08:37,480
-So läuft das hier immer.
-
-124
-00:08:38,360 --> 00:08:40,320
-Das ist die Mutter von dem Polizisten vorhin.
-
-125
-00:08:41,200 --> 00:08:43,900
-Bei der Feldarbeit wurde ihr übel und sie ist zusammengebrochen.
-
-126
-00:08:44,220 --> 00:08:46,220
-Sie war schon auf dem Weg zu mir in die Praxis.
-
-127
-00:08:46,800 --> 00:08:50,460
-Aber unterwegs ging es ihr besser und sie ist einfach wieder nach Hause gegangen.
-
-128
-00:08:50,660 --> 00:08:51,920
-Und Sie machen sich Sorgen.
-
-129
-00:08:52,620 --> 00:08:53,020
-Allerdings.
-
-130
-00:08:54,400 --> 00:08:56,420
-Hätten Sie was dagegen, wenn ich es mal versuche?
-
 131
-00:08:56,720 --> 00:08:58,740
-Probieren Sie es, aber es ist aussichtslos.
+00:07:52,320 --> 00:07:55,820
+Ach was, das ist ein verschlafenes Dorf, nichts Aufregendes.
 
 132
-00:08:58,780 --> 00:09:00,860
-Lunges Lädt war immer noch vor meiner Tür herum.
+00:07:56,040 --> 00:07:57,360
+Nein, das meine ich nicht.
 
 133
-00:09:01,180 --> 00:09:03,780
-Ich kann hier so lange herumlungern, wie ich will, hörst du?
+00:07:59,040 --> 00:08:01,940
+Ich finde es beeindruckend, wie Sie die Leute behandeln.
 
 134
-00:09:03,780 --> 00:09:06,640
-Bitte hören Sie auf. So wird sie ganz bestimmt nicht herauskommen,
+00:08:03,300 --> 00:08:05,680
+Denn in diesem Dorf leben sie, und sie lieben die Menschen.
 
 135
-00:09:06,780 --> 00:09:08,560
-selbst wenn es ihr noch so schlecht gehen sollte.
+00:08:07,220 --> 00:08:11,840
+Liebe, sagen sie? Von diesem hochtrabenden Gefühl habe ich schon lange nicht mehr gehört.
 
 136
-00:09:08,920 --> 00:09:10,720
-Eines Tages kommst du in meine Praxis.
+00:08:12,860 --> 00:08:15,080
+Ich erledige nur meine Arbeit, nichts weiter.
 
 137
-00:09:11,020 --> 00:09:13,560
-Ich kann doch nicht den Sinn meines Lebens verlieren.
+00:08:17,160 --> 00:08:21,520
+So, jetzt kommt der letzte Besuch für heute. Und der wird besonders lustig.
 
 138
-00:09:18,380 --> 00:09:21,600
-Ich meinte damit, ohne sie hätte ich niemanden mehr zum Streiten.
+00:08:24,060 --> 00:08:25,880
+Du bist sowas von penetrant!
 
 139
-00:09:21,920 --> 00:09:25,760
-Und außerdem macht sie das allerbeste Gulasch weit und breit.
+00:08:26,320 --> 00:08:29,200
+Ach ja? Und wie kann man so dickköpfig sein?
 
 140
-00:09:26,320 --> 00:09:28,260
-Sie sind ja ganz rot im Gesicht.
+00:08:29,200 --> 00:08:31,760
+Und wenn du jeden Tag kommst, das wird nichts ändern.
 
 141
-00:09:28,580 --> 00:09:30,100
-Was sagst du da, du Bengel?
+00:08:32,180 --> 00:08:33,200
+Verschwinde, du Pfuscher!
 
 142
-00:09:30,860 --> 00:09:36,620
-Machen Sie bitte auf, Frau Petra.
+00:08:36,240 --> 00:08:37,460
+So läuft das hier immer.
 
 143
-00:09:37,240 --> 00:09:39,380
-Was soll das denn jetzt? Etwa noch ein Arzt?
+00:08:38,340 --> 00:08:40,320
+Das ist die Mutter von dem Polizisten vorhin.
 
 144
-00:09:40,220 --> 00:09:42,280
-Vergessen Sie es! Sie ist ein Sturkopf!
+00:08:41,180 --> 00:08:43,920
+Bei der Feldarbeit wurde ihr übel und sie ist zusammengebrochen.
 
 145
-00:09:42,760 --> 00:09:44,780
-Darf ich fragen, warum Sie Ärzte so hassen?
+00:08:44,220 --> 00:08:46,240
+Sie war schon auf dem Weg zu mir in die Praxis.
 
 146
+00:08:46,780 --> 00:08:50,480
+Aber unterwegs ging's ihr besser und sie ist einfach wieder nach Hause gegangen.
+
+147
+00:08:50,660 --> 00:08:51,940
+Und Sie machen sich Sorgen?
+
+148
+00:08:52,600 --> 00:08:53,040
+Allerdings.
+
+149
+00:08:54,240 --> 00:08:56,440
+Hätten Sie was dagegen, wenn ich es mal versuche?
+
+150
+00:08:56,700 --> 00:08:58,720
+Probieren Sie's, aber es ist aussichtslos.
+
+151
+00:09:00,700 --> 00:09:03,780
+Ich kann hier so lange herumlungern, wie ich will, hörst du?
+
+152
+00:09:04,080 --> 00:09:06,660
+Bitte hören Sie auf, so wird sie ganz bestimmt nicht herauskommen,
+
+153
+00:09:06,780 --> 00:09:08,580
+selbst wenn es ihr noch so schlecht gehen sollte.
+
+154
+00:09:08,960 --> 00:09:10,700
+Eines Tages kommst du in meine Praxis.
+
+155
+00:09:11,060 --> 00:09:13,580
+Ich kann doch nicht den Sinn meines Lebens verlieren.
+
+156
+00:09:18,380 --> 00:09:21,580
+Ich meinte damit, ohne sie hätte ich niemanden mehr zum Streiten.
+
+157
+00:09:21,940 --> 00:09:25,760
+Und äh, außerdem macht sie das allerbeste Gulasch weit und breit.
+
+158
+00:09:26,300 --> 00:09:28,260
+Sie sind ja ganz rot im Gesicht.
+
+159
+00:09:34,820 --> 00:09:36,660
+Machen Sie bitte auf, Frau Petra!
+
+160
+00:09:37,240 --> 00:09:39,400
+Was soll das denn jetzt? Etwa noch ein Arzt?
+
+161
+00:09:40,200 --> 00:09:42,280
+Vergessen Sie es, sie ist ein Sturkopf!
+
+162
+00:09:42,780 --> 00:09:44,760
+Darf ich fragen, warum Sie Ärzte so hassen?
+
+163
 00:09:45,000 --> 00:09:45,940
 Warum ich sie hasse?
 
-147
-00:09:46,540 --> 00:09:51,040
+164
+00:09:46,520 --> 00:09:51,060
 Sie fummeln am Körper von einem rum und fühlen sich dabei wie der Herrgott höchstpersönlich.
 
-148
-00:09:51,320 --> 00:09:51,780
+165
+00:09:51,340 --> 00:09:51,800
 Darum!
 
-149
-00:09:54,780 --> 00:09:55,620
+166
+00:09:54,800 --> 00:09:55,620
 Wie Gott?
 
-150
+167
 00:09:56,380 --> 00:09:58,480
 Manchmal wünsche ich mir, wir wären Götter.
 
-151
-00:09:58,480 --> 00:10:02,460
-Wir können uns die größte Mühe geben und machen trotzdem Fehler.
-
-152
-00:10:04,040 --> 00:10:08,680
-Ich wäre froh, wenn wir mit göttlicher Macht jeden Menschen heilen könnten.
-
-153
-00:10:10,600 --> 00:10:15,760
-Wenn ich einen Patienten vor mir habe, dann kommt es vor, dass ich innerlich zittere.
-
-154
-00:10:16,520 --> 00:10:18,980
-Ich habe nur eine Bitte. Lassen Sie mich kurz rein.
-
-155
-00:10:28,480 --> 00:10:39,860
-Das riecht aber gut. Sie kochen doch nicht gerade Gulasch, oder?
-
-156
-00:10:40,320 --> 00:10:43,160
-Wollen Sie vielleicht damit sagen, dass Sie Gulasch mögen?
-
-157
-00:10:43,760 --> 00:10:49,040
-Ja, das tue ich. Und Herr Dr. Schumann hat Ihr hausgemachtes Gulasch in den allerhöchsten Tönen gelobt.
-
-158
-00:10:49,040 --> 00:10:54,080
-Das höre ich aber zum ersten Mal. Bis jetzt hat er es immer nur gegessen, aber nie was gesagt.
-
-159
-00:10:54,340 --> 00:10:58,220
-Er ist eben schüchtern. Das sieht wirklich lecker aus.
-
-160
-00:10:58,480 --> 00:11:04,100
-Verflixt doch mal. Meine Schulter ist ganz steif, aber das Essen muss ja gekocht werden. Da hilft nichts.
-
-161
-00:11:04,200 --> 00:11:09,100
-Ihre Schulter ist steif? Sagen Sie, Petra, kommen Sie mit Ihrem Kinn bis zur Brust?
-
-162
-00:11:10,240 --> 00:11:13,600
-Natürlich komme ich mit dem Kinn bis zur Brust. Ich zeige es Ihnen.
-
-163
-00:11:15,020 --> 00:11:16,660
-Ich darf doch kurz, oder?
-
-164
-00:11:19,600 --> 00:11:21,400
-Ganze Vierfinger Abstand.
-
-165
-00:11:22,220 --> 00:11:23,780
-Was soll der Hokus Pokus?
-
-166
-00:11:24,520 --> 00:11:26,100
-Bitte, warten Sie kurz.
-
-167
-00:11:28,820 --> 00:11:29,340
-Und?
-
 168
-00:11:30,640 --> 00:11:34,060
-Sie hat eine Subarachnoidalblutung.
+00:10:00,200 --> 00:10:06,220
+größte Mühe geben und machen trotzdem Fehler. Ich wäre froh, wenn wir mit
 
 169
-00:11:34,380 --> 00:11:35,340
-Was sagen Sie da?
+00:10:06,220 --> 00:10:08,680
+göttlicher Macht jeden Menschen heilen könnten.
 
 170
-00:11:37,300 --> 00:11:37,820
-Peter!
+00:10:10,960 --> 00:10:15,200
+Wenn ich einen Patienten vor mir habe, dann kommt es vor, dass ich innerlich
 
 171
-00:11:39,960 --> 00:11:43,480
-Gerade ist die Fahndung nach einem Mordverdächtigen reingekommen. Kopier das mal.
+00:10:15,200 --> 00:10:19,000
+zittere. Ich habe nur eine Bitte. Lassen Sie mich kurz rein.
 
 172
-00:11:43,940 --> 00:11:47,420
-Ach, wie geht's deiner Mutter? Hab gehört, sie ist vor drei Tagen zusammengebrochen.
+00:10:36,000 --> 00:10:39,860
+Das riecht aber gut. Sie kochen doch nicht gerade Gulasch, oder?
 
 173
-00:11:47,420 --> 00:11:51,580
-Meiner Mutter geht's gut. Die kann so schnell nichts aus dem Gleichgewicht bringen.
+00:10:40,260 --> 00:10:43,180
+Wollen Sie vielleicht damit sagen, dass Sie Gulasch mögen?
 
 174
-00:11:51,580 --> 00:11:59,980
-Der erste Anfall liegt bald 72 Stunden zurück
+00:10:43,780 --> 00:10:48,180
+Ja, das tue ich. Und Herr Dr. Schumann hat Ihr hausgemachtes Gulasch in den allerhöchsten
 
 175
-00:11:59,980 --> 00:12:01,500
-Die Zeit läuft uns davon
+00:10:48,180 --> 00:10:51,620
+Tönen gelobt. Das höre ich aber zum ersten Mal. Bis jetzt
 
 176
-00:12:01,500 --> 00:12:03,480
-Sie muss schleunigst operiert werden
+00:10:51,620 --> 00:10:54,040
+hat er es immer nur gegessen, aber nie was gesagt.
 
 177
-00:12:03,480 --> 00:12:05,420
-Wir brauchen unbedingt einen Hubschrauber
+00:10:54,280 --> 00:10:58,220
+Er ist eben schüchtern. Das sieht wirklich lecker aus.
 
 178
-00:12:05,420 --> 00:12:07,240
-Können Sie so etwas?
+00:11:00,200 --> 00:11:04,100
+Ihre Schulter ist ganz steif, aber das Essen muss ja gekocht werden, da hilft nichts.
 
 179
-00:12:08,460 --> 00:12:09,100
-Bitte
+00:11:04,200 --> 00:11:05,420
+Ihre Schulter ist steif?
 
 180
-00:12:09,100 --> 00:12:10,760
-Ich flehe Sie an
+00:11:06,220 --> 00:11:09,100
+Sagen Sie, Petra, kommen Sie mit Ihrem Kinn bis zur Brust?
 
 181
-00:12:10,760 --> 00:12:13,480
-Wenn Sie das operieren können, dann tun Sie es
+00:11:09,460 --> 00:11:09,680
+Hm?
 
 182
-00:12:13,480 --> 00:12:14,900
-Sie darf nicht
+00:11:10,360 --> 00:11:12,660
+Natürlich komme ich mit dem Kinn bis zur Brust.
 
 183
-00:12:14,900 --> 00:12:19,700
-Ich möchte nicht noch einmal einen geliebten Menschen auf dem Gewissen haben
+00:11:12,960 --> 00:11:13,600
+Ich zeig's Ihnen.
 
 184
-00:12:21,580 --> 00:12:28,440
-Und du bist dir sicher, dass es Kenzo Tenma war?
+00:11:15,060 --> 00:11:16,660
+Ich darf doch kurz, oder?
 
 185
+00:11:19,600 --> 00:11:21,420
+Ganze vier Finger Abstand.
+
+186
+00:11:22,200 --> 00:11:23,620
+Was soll der Hokuspokus?
+
+187
+00:11:24,580 --> 00:11:26,120
+Bitte, warten Sie kurz.
+
+188
+00:11:28,780 --> 00:11:29,300
+Und?
+
+189
+00:11:30,760 --> 00:11:34,100
+Sie hat eine Subarachnoidalblutung.
+
+190
+00:11:34,360 --> 00:11:35,340
+Was sagen Sie da?
+
+191
+00:11:37,280 --> 00:11:37,800
+Peter!
+
+192
+00:11:39,960 --> 00:11:42,660
+Gerade ist die Fahndung nach einem Mordverdächtigen reingekommen.
+
+193
+00:11:42,800 --> 00:11:43,500
+Kopier das mal.
+
+194
+00:11:43,960 --> 00:11:45,140
+Ach, wie geht's deiner Mutter?
+
+195
+00:11:45,320 --> 00:11:47,420
+Hab gehört, sie ist vor drei Tagen zusammengebrochen.
+
+196
+00:11:47,560 --> 00:11:48,680
+Meiner Mutter geht's gut.
+
+197
+00:11:49,000 --> 00:11:51,540
+Die kann so schnell nichts aus dem Gleichgewicht bringen.
+
+198
+00:11:56,660 --> 00:11:59,980
+Der erste Anfall liegt bald 72 Stunden zurück.
+
+199
+00:12:00,300 --> 00:12:01,480
+Die Zeit läuft uns davon.
+
+200
+00:12:01,720 --> 00:12:03,460
+Sie muss schleunigst operiert werden.
+
+201
+00:12:03,680 --> 00:12:05,380
+Wir brauchen unbedingt einen Hubschrauber.
+
+202
+00:12:06,220 --> 00:12:07,220
+Können Sie so etwas?
+
+203
+00:12:08,540 --> 00:12:09,100
+Bitte.
+
+204
+00:12:09,640 --> 00:12:10,700
+Ich flehe Sie an.
+
+205
+00:12:11,380 --> 00:12:13,440
+Wenn Sie das operieren können, dann tun Sie es.
+
+206
+00:12:14,060 --> 00:12:14,860
+Sie darf nicht.
+
+207
+00:12:15,740 --> 00:12:19,680
+Ich möchte nicht noch einmal einen geliebten Menschen auf dem Gewissen haben.
+
+208
+00:12:26,080 --> 00:12:28,440
+Und du bist dir sicher, dass es Kenzo Tenma war?
+
+209
 00:12:28,640 --> 00:12:28,880
 Ja.
 
-186
-00:12:29,340 --> 00:12:32,860
-Also gut, weit kann er noch nicht sein. Wir brauchen Kontrollen auf den Landstraßen.
+210
+00:12:29,360 --> 00:12:29,880
+Also gut.
 
-187
+211
+00:12:30,000 --> 00:12:30,960
+Weit kann er noch nicht sein.
+
+212
+00:12:31,060 --> 00:12:32,860
+Wir brauchen Kontrollen auf den Landstraßen.
+
+213
 00:12:33,120 --> 00:12:35,780
 Wenn wir den Kerl fassen, ist das dein Verdienst, Heinz.
 
-188
-00:12:36,180 --> 00:12:36,860
+214
+00:12:36,160 --> 00:12:36,840
 Ja, jawohl.
 
-189
-00:12:37,420 --> 00:12:39,260
+215
+00:12:37,440 --> 00:12:39,280
 Alle Mann bereit machen, wir fahren los!
 
-190
-00:12:40,520 --> 00:12:43,480
-Ja, Wahnsinn! Wenn alles gut läuft, werde ich befördert.
+216
+00:12:40,480 --> 00:12:41,360
+Ja, Wahnsinn!
 
-191
+217
+00:12:41,600 --> 00:12:43,480
+Wenn alles gut läuft, werde ich befördert.
+
+218
 00:12:43,920 --> 00:12:45,500
-Hey, Heinz, Telefon für dich.
+Hey Heinz, Telefon für dich.
 
-192
-00:12:49,440 --> 00:12:50,620
+219
+00:12:49,440 --> 00:12:50,600
 Hallo, wer ist da bitte?
 
-193
-00:12:51,580 --> 00:12:53,060
-Ah, Sie sind Schwester.
+220
+00:12:51,540 --> 00:12:53,080
+Oh, Sie sind Schwester.
 
-194
-00:12:54,160 --> 00:12:57,520
-Was? Meine Mutter ist wieder zusammengebrochen?
+221
+00:12:54,180 --> 00:12:54,500
+Was?
 
-195
-00:12:58,420 --> 00:13:03,420
+222
+00:12:55,460 --> 00:12:57,520
+Meine Mutter ist wieder zusammengebrochen?
+
+223
+00:12:58,360 --> 00:13:03,400
 Hätte ich Sie doch gleich nach dem ersten Anfall gegen Ihren Willen in ein Krankenhaus eingewiesen.
 
-196
-00:13:05,340 --> 00:13:08,760
+224
+00:13:05,320 --> 00:13:08,760
 Dr. Tenma, jetzt sind Sie meine einzige Hoffnung.
 
-197
-00:13:10,840 --> 00:13:14,520
+225
+00:13:10,900 --> 00:13:14,680
 Wie ich vermutet habe, ein Aneurysma in der Gabelung der mittleren Hirnschlagader.
 
-198
-00:13:15,660 --> 00:13:19,760
-Verflucht. Ich habe weder ein OP-Mikroskop noch Kraniotomie-Besteck.
+226
+00:13:15,400 --> 00:13:19,760
+Ach, verflucht. Ich habe weder ein OP-Mikroskop noch Kraniotomie-Besteck.
 
-199
-00:13:19,760 --> 00:13:23,040
-Mit einer Aneurysma-Klemme kann ich es invasiv versuchen.
+227
+00:13:21,540 --> 00:13:27,200
+kann ich es invasiv versuchen sind sie sich da sicher das ist doch unglaublich schwierig nun
 
-200
-00:13:23,680 --> 00:13:26,440
-Sind Sie sich da sicher? Das ist doch unglaublich schwierig.
+228
+00:13:27,200 --> 00:13:33,460
+ja uns bleibt keine wahl sollte das aneurysma platzen dann stehen ihre chancen schlecht
 
-201
-00:13:27,000 --> 00:13:28,560
-Nun ja, uns bleibt keine Wahl.
+229
+00:13:34,920 --> 00:13:39,600
+dass es dazu kommen kann ist allein meine schuld hören sie damit auf dr schumann sie
 
-202
-00:13:29,800 --> 00:13:33,380
-Sollte das Aneurysma platzen, dann stehen Ihre Chancen schlecht.
+230
+00:13:39,600 --> 00:13:46,200
+haben großartige arbeit geleistet das gesamte dorf ganz allein ärztlich betreut ich weiß nicht
 
-203
-00:13:35,000 --> 00:13:37,700
-Dass es dazu kommen kann, ist allein meine Schuld.
+231
+00:13:46,200 --> 00:13:50,540
+was in der vergangenheit passiert ist aber wir werden alles tun um frau petra zu retten
 
-204
-00:13:37,860 --> 00:13:41,540
-Hören Sie damit auf, Dr. Schumann. Sie haben großartige Arbeit geleistet.
+232
+00:13:51,540 --> 00:13:53,540
+Darauf kommt es jetzt an.
 
-205
-00:13:41,620 --> 00:13:44,080
-Das gesamte Dorf ganz allein ärztlich betreut.
+233
+00:14:03,380 --> 00:14:06,080
+Hallo Kleiner, ist Dr. Schumann in seiner Praxis?
 
-206
-00:13:45,500 --> 00:13:47,860
-Ich weiß nicht, was in der Vergangenheit passiert ist.
-
-207
-00:13:47,860 --> 00:13:50,520
-Aber wir werden alles tun, um Frau Petra zu retten.
-
-208
-00:13:51,120 --> 00:13:53,000
-Allein darauf kommt es jetzt an.
-
-209
-00:14:03,420 --> 00:14:06,060
-Hallo, Kleiner. Ist Dr. Schumann in seiner Praxis?
-
-210
-00:14:06,580 --> 00:14:08,060
+234
+00:14:06,540 --> 00:14:08,080
 Ja, er operiert gerade.
 
-211
+235
 00:14:08,380 --> 00:14:13,120
 Etwa meine Mutter? Er hat sie nicht ins städtische Krankenhaus gebracht, sondern operiert sie in seiner Praxis?
 
-212
-00:14:13,600 --> 00:14:16,000
-Kein Grund zur Sorge. Tenma ist ja dabei.
-
-213
-00:14:16,580 --> 00:14:17,480
-Tenma, sagst du?
-
-214
-00:14:18,480 --> 00:14:19,800
-Wie sind die Vitalwerte?
-
-215
-00:14:20,660 --> 00:14:22,800
-Blutdruck 126 zu 84.
-
-216
-00:14:23,720 --> 00:14:24,600
-Puls 88.
-
-217
-00:14:29,200 --> 00:14:29,920
-Unglaublich.
-
-218
-00:14:30,600 --> 00:14:32,520
-Keinerlei Kraniometrie-Besteck.
-
-219
-00:14:32,520 --> 00:14:34,820
-Und er öffnet den Schädel mit Leichtigkeit.
-
-220
-00:14:37,080 --> 00:14:38,420
-Hey, was tun Sie da?
-
-221
-00:14:38,780 --> 00:14:41,160
-Wie du siehst, operieren wir gerade deine Mutter.
-
-222
-00:14:41,300 --> 00:14:43,140
-Was furtelst du da mit der Waffe rum?
-
-223
-00:14:43,300 --> 00:14:44,860
-Sofort die Hände hoch, Tenma!
-
-224
-00:14:45,300 --> 00:14:45,820
-Tenma!
-
-225
-00:14:46,000 --> 00:14:49,360
-Wir sind mitten in der OP. Willst du deine Mutter umbringen?
-
-226
-00:14:49,740 --> 00:14:51,300
-Das sollten Sie lieber ihn fragen.
-
-227
-00:14:51,440 --> 00:14:55,200
-Fragen Sie Tenma, wieso er wegen Mordverdachts auf der Fahndungsliste ganz oben steht.
-
-228
-00:14:55,360 --> 00:14:55,660
-Was?
-
-229
-00:14:56,360 --> 00:14:58,420
-In Heidelberg soll er einen Mann getötet haben.
-
-230
-00:14:59,300 --> 00:15:02,280
-Und außerdem wird er verdächtigt, mehrere Ehepaare ermordet zu haben.
-
-231
-00:15:03,200 --> 00:15:05,000
-Nicht zu fassen, dass ich ihn hier finde.
-
-232
-00:15:06,080 --> 00:15:09,780
-So hat mir meine Mutter auf ungewöhnlichem Weg zu einer richtig guten Chance verholfen.
-
-233
-00:15:09,920 --> 00:15:12,740
-Also los, Hände hoch. Wird's bald? Oder ich schieße.
-
-234
-00:15:12,920 --> 00:15:14,160
-Mach, dass du rauskommst.
-
-235
-00:15:14,820 --> 00:15:19,840
-Dies ist ein steriler Operationsraum und du Idiot schleppst uns hier noch Erreger rein.
-
 236
-00:15:20,160 --> 00:15:23,980
-Wenn sich deine Mutter infiziert, wird sie an einer Hirnhautentzündung sterben.
+00:14:13,580 --> 00:14:16,000
+Kein Grund zur Sorge, Tenma ist ja dabei.
 
 237
-00:15:24,220 --> 00:15:25,860
-Dann brechen sie die OP eben ab.
+00:14:16,640 --> 00:14:17,480
+Tenma sagst du?
 
 238
-00:15:26,560 --> 00:15:29,480
-Du legst es darauf an, deine Mutter umzubringen.
+00:14:18,500 --> 00:14:19,800
+Wie sind die Vitalwerte?
 
 239
-00:15:30,740 --> 00:15:33,080
-Sie leidet an einer Subarachnoidalblutung.
+00:14:21,540 --> 00:14:33,860
+von 20 zu 84. Puls 88. Unglaublich. Keinerlei Kraniometrie-Besteck unteröffnet den Schädel
 
 240
-00:15:33,420 --> 00:15:38,260
-Vor drei Tagen ist sie zum ersten Mal zusammengebrochen und nach 72 Stunden wird es zu spät sein.
+00:14:33,860 --> 00:14:41,140
+mit Leichtigkeit. Hey, was tun Sie da? Wie Du siehst, operieren wir gerade Deine Mutter.
 
 241
-00:15:41,100 --> 00:15:42,780
-So, und jetzt raus hier!
+00:14:41,280 --> 00:14:47,160
+Was furtelst Du da mit der Waffe rum? Sofort die Hände hoch, Tenma! Tenma! Wir sind mitten
 
 242
-00:15:43,220 --> 00:15:45,040
-Ich glaube, sie wollen eine Geisel nehmen.
+00:14:47,160 --> 00:14:51,680
+in der OP. Willst du deine Mutter umbringen? Das sollten Sie lieber ihn fragen. Fragen
 
 243
-00:15:45,320 --> 00:15:47,460
-Meine Mutter als Geisel und dann fliehen, habe ich recht?
+00:14:51,680 --> 00:14:55,640
+Sie Tenma, wieso er wegen Mordverdachts auf der Fahndungsliste ganz oben steht. Was?
 
 244
-00:15:47,560 --> 00:15:48,680
-Ihnen traue ich alles zu.
+00:14:56,380 --> 00:15:00,600
+In Heidelberg soll er einen Mann getötet haben. Und außerdem wird er verdächtigt,
 
 245
-00:15:49,080 --> 00:15:51,580
-Ich brauche die Aneurysma-Klemme und eine Pinzette.
+00:15:00,680 --> 00:15:06,400
+mehrere Ehepaare ermordet zu haben. Nicht zu fassen, dass ich ihn hier finde. So hat
 
 246
-00:15:53,520 --> 00:15:55,300
-Aneurysma-Klemme und eine Pinzette.
+00:15:06,400 --> 00:15:10,160
+mir meine Mutter auf ungewöhnlichem Weg zu einer richtig guten Chance verholfen. Also
 
 247
-00:15:55,460 --> 00:15:55,940
-Sofort!
+00:15:10,160 --> 00:15:16,320
+los, Hände hoch! Wird's bald? Oder ich schieße! Mach, dass du rauskommst! Dies ist ein steriler
 
 248
-00:15:56,360 --> 00:15:58,440
-Sie lassen auf der Stelle meine Mutter in Ruhe.
+00:15:17,160 --> 00:15:19,840
+Und du, Idiot, schleppst uns hier noch Erreger rein!
 
 249
+00:15:20,180 --> 00:15:24,000
+Wenn sich deine Mutter infiziert, wird sie an einer Hirnhautentzündung sterben.
+
+250
+00:15:24,220 --> 00:15:25,880
+Dann brechen sie die OP eben ab!
+
+251
+00:15:26,540 --> 00:15:29,500
+Du legst es darauf an, deine Mutter umzubringen.
+
+252
+00:15:30,400 --> 00:15:33,100
+Sie leidet an einer Subarachnoidalblutung.
+
+253
+00:15:33,420 --> 00:15:35,820
+Vor drei Tagen ist sie zum ersten Mal zusammengebrochen.
+
+254
+00:15:36,060 --> 00:15:38,260
+Und nach 72 Stunden wird es zu spät sein.
+
+255
+00:15:41,140 --> 00:15:42,780
+So, und jetzt raus hier!
+
+256
+00:15:43,240 --> 00:15:45,020
+Ich glaub, sie wollen eine Geisel nehmen.
+
+257
+00:15:45,020 --> 00:15:47,460
+Meine Mutter als Geisel und dann fliehen, hab ich recht?
+
+258
+00:15:47,580 --> 00:15:48,700
+Ihn trau ich alles zu!
+
+259
+00:15:49,140 --> 00:15:51,620
+Ich brauche die Aneurysma-Klämme und eine Pinzette.
+
+260
+00:15:53,560 --> 00:15:55,300
+Aneurysma-Klämme und eine Pinzette.
+
+261
+00:15:55,480 --> 00:15:55,940
+Sofort!
+
+262
+00:15:56,380 --> 00:15:58,440
+Sie lassen auf der Stelle meine Mutter in Ruhe!
+
+263
 00:15:58,980 --> 00:16:00,120
 Hände weg von meiner Mutter!
 
-250
-00:16:00,940 --> 00:16:01,940
+264
+00:16:00,920 --> 00:16:01,920
 So ist es.
 
-251
+265
 00:16:02,260 --> 00:16:03,380
 Petra ist deine Mutter.
 
-252
-00:16:04,020 --> 00:16:07,480
+266
+00:16:04,020 --> 00:16:07,460
 Sag mir, was hast du in den letzten fünf Jahren für deine Mutter getan?
 
-253
-00:16:07,480 --> 00:16:10,740
+267
+00:16:07,760 --> 00:16:10,740
 Hast du sie ein einziges Mal besucht, seit du in der Stadt wohnst?
 
-254
-00:16:10,740 --> 00:16:15,820
-Sie hat dich mit Liebe aufgezogen. Und was hast du seither für sie getan?
-
-255
-00:16:16,860 --> 00:16:20,460
-Auch die liebsten Menschen können uns eines Tages genommen werden.
-
-256
-00:16:22,320 --> 00:16:25,160
-Erinnerst du dich, wie köstlich ihr Gulasch schmeckt?
-
-257
-00:16:25,920 --> 00:16:29,000
-Noch immer kocht sie jedes Mal eine Portion für dich mit.
-
-258
-00:16:29,820 --> 00:16:35,020
-Und diese Portion bekomme dann immer ich. Und es schmeckt köstlich, unvorstellbar köstlich.
-
-259
-00:16:35,920 --> 00:16:39,220
-Dr. Tenma kämpft gerade verzweifelt um das Leben deiner Mutter.
-
-260
-00:16:39,220 --> 00:16:44,420
-Wenn du je wieder ihr Gulasch essen willst, verschwindest du jetzt besser.
-
-261
-00:16:47,920 --> 00:16:50,720
-Na, was hab ich gesagt? Tenma macht das schon.
-
-262
-00:16:56,320 --> 00:16:59,560
-Blutdruck 140 zu 86. Puls 82.
-
-263
-00:17:00,640 --> 00:17:04,800
-Ihre Vitalfunktionen sind stabil. Sie sollten sich jetzt ausruhen, Schwester.
-
-264
-00:17:05,460 --> 00:17:06,960
-Und was ist mit Ihnen, Herr Doktor?
-
-265
-00:17:07,440 --> 00:17:09,700
-Machen Sie sich keine Sorgen. Ruhen Sie sich aus.
-
-266
-00:17:09,880 --> 00:17:10,940
-In Ordnung. Vielen Dank.
-
-267
-00:17:11,400 --> 00:17:12,780
-Das war gute Arbeit, Schwester.
-
 268
-00:17:13,480 --> 00:17:15,720
-Dr. Thelma, Sie können auch schlafen gehen.
+00:16:11,240 --> 00:16:13,160
+Sie hat dich mit Liebe aufgezogen.
 
 269
-00:17:16,220 --> 00:17:17,940
-Nein, ich brauche jetzt keinen Schlaf.
+00:16:15,020 --> 00:16:20,480
+für sie getan? Auch die liebsten Menschen können uns eines Tages genommen werden.
 
 270
+00:16:22,440 --> 00:16:27,800
+Erinnerst du dich, wie köstlich ihr Gulasch schmeckt? Noch immer kocht sie jedes Mal eine
+
+271
+00:16:27,800 --> 00:16:33,580
+Portion für dich mit. Und diese Portion bekomme dann immer ich. Und es schmeckt köstlich,
+
+272
+00:16:33,680 --> 00:16:39,240
+unvorstellbar köstlich. Dr. Tenma kämpft gerade verzweifelt um das Leben deiner Mutter.
+
+273
+00:16:39,900 --> 00:16:44,540
+Wenn du je wieder ihr Gulasch essen willst, verschwindest du jetzt besser!
+
+274
+00:16:47,940 --> 00:16:50,760
+Na, was hab ich gesagt? Tenma macht das schon.
+
+275
+00:16:56,300 --> 00:16:59,660
+Blutdruck 140 zu 86. Puls 82.
+
+276
+00:17:00,740 --> 00:17:04,820
+Ihre Vitalfunktionen sind stabil. Sie sollten sich jetzt ausruhen, Schwester.
+
+277
+00:17:05,440 --> 00:17:06,960
+Und was ist mit Ihnen, Herr Doktor?
+
+278
+00:17:06,960 --> 00:17:09,740
+Machen Sie sich keine Sorgen, ruhen Sie sich aus.
+
+279
+00:17:09,860 --> 00:17:10,940
+In Ordnung, vielen Dank.
+
+280
+00:17:11,380 --> 00:17:12,800
+Das war gute Arbeit, Schwester.
+
+281
+00:17:13,460 --> 00:17:15,720
+Dr. Telmer, Sie können auch schlafen gehen.
+
+282
+00:17:16,200 --> 00:17:17,960
+Nein, ich brauche jetzt keinen Schlaf.
+
+283
 00:17:18,080 --> 00:17:21,580
 Sie haben eine langwierige und schwierige OP hinter sich.
 
-271
-00:17:21,960 --> 00:17:23,860
+284
+00:17:21,940 --> 00:17:23,880
 Ich will sicher gehen, dass alles gut ist.
 
-272
-00:17:24,340 --> 00:17:28,860
-Sie sollen doch schließlich Ihre Chance erhalten, Frau Petra einen Heiratsantrag machen zu können.
+285
+00:17:24,340 --> 00:17:26,280
+Sie sollen doch schließlich Ihre Chance erhalten,
 
-273
+286
+00:17:26,380 --> 00:17:28,860
+Frau Petra einen Heiratsantrag machen zu können.
+
+287
 00:17:30,240 --> 00:17:32,180
 Heiratsantrag? Was soll das heißen?
 
-274
+288
 00:17:33,440 --> 00:17:35,700
-Du schon wieder. Warum schläfst du nicht?
+Ach, du schon wieder. Warum schläfst du nicht?
 
-275
-00:17:36,520 --> 00:17:37,700
-Wie könnte ich schlafen?
-
-276
-00:17:37,940 --> 00:17:39,480
+289
+00:17:37,700 --> 00:17:39,480
 Erstmal nehme ich den Kerl mit zur Wache.
 
-277
-00:17:41,040 --> 00:17:43,140
+290
+00:17:40,780 --> 00:17:43,140
 Sagen Sie mir, was das heißen soll, Doktor.
 
-278
-00:17:43,240 --> 00:17:44,380
+291
+00:17:43,280 --> 00:17:44,380
 Wollen Sie meine Mutter etwa...
 
-279
-00:17:44,380 --> 00:17:45,360
-Rek, kein Unsinn!
+292
+00:17:44,380 --> 00:17:45,380
+Brech keinen Unsinn!
 
-280
-00:17:47,100 --> 00:17:48,020
-So ein Quatsch.
+293
+00:17:46,920 --> 00:17:48,040
+So ein Quatsch!
 
-281
-00:17:50,420 --> 00:17:55,380
+294
+00:17:50,340 --> 00:17:55,400
 So jemand wie ich sollte anderen Menschen besser keinen Heiratsantrag machen.
 
-282
-00:17:56,800 --> 00:18:00,340
+295
+00:17:57,140 --> 00:18:00,340
 Als ich damals als junger Arzt an der Uniklinik arbeitete,
 
-283
-00:18:00,560 --> 00:18:03,180
+296
+00:18:00,560 --> 00:18:03,160
 war das Gespräch mit den Patienten für mich zweitrangig.
 
-284
+297
 00:18:03,820 --> 00:18:05,680
 Mich interessierte nur meine Karriere.
 
-285
-00:18:05,700 --> 00:18:10,640
-Ich schmeichelte mich bei den Führungskräften ein und schrieb für den Direktor Vorträge.
-
-286
-00:18:11,060 --> 00:18:14,200
-Schließlich heiratete ich sogar die Tochter des Klinikdirektors.
-
-287
-00:18:15,120 --> 00:18:20,120
-Ach, danach arbeitete ich weiterhin blind und eigennützig an meiner Karriere.
-
-288
-00:18:20,800 --> 00:18:25,160
-Ja, hätte ich sie einmal richtig angesehen, hätte ich es bemerken müssen.
-
-289
-00:18:25,840 --> 00:18:27,420
-Es wäre meine Pflicht gewesen.
-
-290
-00:18:28,040 --> 00:18:32,680
-Meine Frau litt lange Zeit von mir unbemerkt an grippeähnlichen Symptomen.
-
-291
-00:18:33,560 --> 00:18:36,380
-Hätte ich mich um sie gekümmert, hätte es mir auffallen müssen.
-
-292
-00:18:37,040 --> 00:18:38,900
-Es war eine Leberinsuffizienz.
-
-293
-00:18:39,340 --> 00:18:42,840
-Als sie ihren letzten Atemzug tat, sagte sie...
-
-294
-00:18:42,840 --> 00:18:45,880
-Endlich! Endlich siehst du mich an!
-
-295
-00:18:48,940 --> 00:18:53,520
-Die traurige Wahrheit ist, ich bin nicht fähig, einen Menschen zu lieben.
-
-296
-00:18:55,080 --> 00:18:56,400
-Das stimmt nicht.
-
-297
-00:18:57,660 --> 00:18:59,600
-Sie wissen, wie man sich um Menschen kümmert.
-
 298
-00:18:59,820 --> 00:19:02,140
-Die Bewohner dieses Dorfes sind ihnen dankbar dafür.
+00:18:06,960 --> 00:18:11,400
+mich bei den Führungskräften ein und schrieb für den Direktor Vorträge. Schließlich
 
 299
-00:19:02,680 --> 00:19:06,360
-Und nur weil sie hingesehen haben, konnten wir Frau Petra retten.
+00:18:11,400 --> 00:18:17,620
+heiratete ich sogar die Tochter des Klinikdirektors. Nach danach arbeitete ich weiterhin blind
 
 300
-00:19:21,780 --> 00:19:24,300
-Und jetzt willst du ihn immer noch verhaften?
+00:18:17,620 --> 00:18:24,000
+und eigennützig an meiner Karriere. Ja, hätte ich sie einmal richtig angesehen, hätte
 
 301
-00:19:24,840 --> 00:19:28,100
-Den Mann, der wie verrückt um das Leben deiner Mutter gekämpft hat,
+00:18:24,000 --> 00:18:30,360
+ich es bemerken müssen. Es wäre meine Pflicht gewesen. Meine Frau litt lange Zeit von mir
 
 302
-00:19:28,260 --> 00:19:30,240
-hältst du ihn immer noch für einen Mörder?
+00:18:30,360 --> 00:18:35,580
+unbemerkt an grippeähnlichen Symptomen. Hätte ich mich um sie gekümmert, hätte es mir
 
 303
-00:19:32,680 --> 00:19:36,640
-Heinz!
+00:18:36,960 --> 00:18:38,900
+Es war eine Leberinsuffizienz.
 
 304
-00:19:37,380 --> 00:19:39,360
-Hier ist Heinz. Den Chef bitte.
+00:18:39,420 --> 00:18:41,740
+Als sie ihren letzten Atemzug tat, sagte sie,
 
 305
-00:19:40,960 --> 00:19:44,200
-Es tut mir leid, Chef. Ja, ich habe mich geirrt.
+00:18:43,680 --> 00:18:45,960
+"Endlich, endlich siehst du mich an."
 
 306
-00:19:45,260 --> 00:19:47,260
-Die Straßenkontrollen brauchen wir nicht.
+00:18:48,980 --> 00:18:50,980
+Die traurige Wahrheit ist,
 
 307
-00:19:48,200 --> 00:19:52,900
-Der Mann, den ich gesehen habe, ist nicht Tenma. Sein Name ist Dr. Chang. Ich habe mich geirrt.
+00:18:51,140 --> 00:18:53,500
+ich bin nicht fähig, einen Menschen zu lieben.
 
 308
-00:19:53,540 --> 00:19:56,020
-Ja, er ist auch Asiate. Deshalb habe ich ihn verwechselt.
+00:18:55,300 --> 00:18:56,400
+Das stimmt nicht.
 
 309
-00:19:56,300 --> 00:19:58,460
-Es tut mir wirklich leid. Das hätte nicht passieren dürfen.
+00:18:57,680 --> 00:18:59,600
+Sie wissen, wie man sich um Menschen kümmert.
 
 310
-00:20:02,680 --> 00:20:08,000
-Da hat der Arzt aus dem Krankenhaus ja ganz schöne Augen gemacht.
+00:18:59,820 --> 00:19:02,160
+Die Bewohner dieses Dorfes sind Ihnen dankbar dafür.
 
 311
-00:20:08,140 --> 00:20:10,440
-Eine so hervorragend ausgeführte Operation
+00:19:02,800 --> 00:19:04,480
+Und nur, weil Sie hingesehen haben,
 
 312
-00:20:10,440 --> 00:20:14,120
-hat er in einer kleinen Dorfpraxis wie der unseren nicht erwartet.
+00:19:04,480 --> 00:19:06,480
+konnten wir Frau Petra retten.
 
 313
-00:20:14,320 --> 00:20:14,960
-Doktor!
+00:19:21,720 --> 00:19:24,300
+Und jetzt willst du ihn immer noch verhaften?
 
 314
-00:20:16,160 --> 00:20:18,760
-Lassen Sie diesen jungen Arzt etwa gehen?
+00:19:24,840 --> 00:19:30,220
+Den Mann, der wie verrückt um das Leben deiner Mutter gekämpft hat, hältst du ihn immer noch für einen Mörder?
 
 315
-00:20:19,080 --> 00:20:21,180
-Ich wollte ihm was zu essen bringen,
+00:19:36,240 --> 00:19:36,640
+Heinz!
 
 316
-00:20:21,340 --> 00:20:23,400
-aber er und der Junge sind losgezogen.
+00:19:37,400 --> 00:19:39,380
+Hier ist Heinz. Den Chef bitte.
 
 317
-00:20:28,280 --> 00:20:28,840
-Tenma!
+00:19:41,300 --> 00:19:44,220
+Es tut mir leid, Chef. Ja, ich habe mich geirrt.
 
 318
-00:20:28,840 --> 00:20:36,340
-Gehen Sie bitte nicht! Bei uns im Dorf sind Sie sicher! Sie müssen nicht fliehen!
+00:19:45,800 --> 00:19:47,260
+Die Straßenkontrollen brauchen wir nicht.
 
 319
-00:20:37,360 --> 00:20:38,960
-Äh, Dr. Schumann.
+00:19:48,200 --> 00:19:50,540
+Der Mann, den ich gesehen habe, ist nicht Tenma.
 
 320
-00:20:39,220 --> 00:20:42,180
-Dieter, dir gefällt es hier im Dorf doch auch.
+00:19:50,640 --> 00:19:52,900
+Sein Name ist Dr. Chang. Ich habe mich geirrt.
 
 321
-00:20:42,840 --> 00:20:46,840
-Das stimmt, es gefällt ihm. Hier wäre Dieter sicher gut aufgehoben, oder nicht?
+00:19:53,520 --> 00:19:55,600
+Ja, er ist auch Asiate. Deshalb habe ich ihn verwechselt.
 
 322
-00:20:47,080 --> 00:20:51,840
-Natürlich! Und Sie auch! Unser ganzes Dorf würde Sie vor der Polizei beschützen!
+00:19:56,300 --> 00:19:58,480
+Es tut mir wirklich leid. Das hätte nicht passieren dürfen.
 
 323
-00:20:54,180 --> 00:20:57,400
-Bleiben Sie bei uns und behandeln Sie zusammen mit mir die Menschen.
+00:20:04,480 --> 00:20:08,020
+Da hat der Arzt aus dem Krankenhaus ja ganz schöne Augen gemacht.
 
 324
+00:20:08,260 --> 00:20:12,760
+Eine so hervorragend ausgeführte Operation hat er in einer kleinen Dorfpraxis wie der
+
+325
+00:20:12,760 --> 00:20:14,120
+unseren nicht erwartet.
+
+326
+00:20:14,620 --> 00:20:15,180
+Doktor!
+
+327
+00:20:16,220 --> 00:20:18,760
+Lassen Sie diesen jungen Arzt etwa gehen?
+
+328
+00:20:19,140 --> 00:20:23,400
+Ich wollte ihm was zu essen bringen, aber er und der Junge sind losgezogen.
+
+329
+00:20:28,320 --> 00:20:36,580
+"Tenma! Gehen Sie bitte nicht! Bei uns im Dorf sind Sie sicher! Sie müssen nicht fliehen!"
+
+330
+00:20:37,260 --> 00:20:39,160
+"Äh, Dr. Schumann?"
+
+331
+00:20:39,160 --> 00:20:42,620
+"Dieter, dir gefällt es hier im Dorf doch auch!"
+
+332
+00:20:42,620 --> 00:20:47,020
+"Das stimmt, es gefällt ihm. Hier wäre Dieter sicher gut aufgehoben, oder nicht?"
+
+333
+00:20:47,020 --> 00:20:52,440
+"Natürlich! Und Sie auch! Unser ganzes Dorf würde Sie vor der Polizei beschützen!"
+
+334
+00:20:54,140 --> 00:20:57,420
+Bleiben Sie bei uns und behandeln Sie zusammen mit mir die Menschen.
+
+335
 00:20:57,900 --> 00:20:59,880
 Das Dorf braucht Sie und das wissen Sie.
 
-325
-00:21:01,180 --> 00:21:04,300
+336
+00:21:01,060 --> 00:21:04,300
 Ich weiß, aber ich muss gehen. Ich kann nicht anders.
 
-326
-00:21:04,440 --> 00:21:04,800
+337
+00:21:04,460 --> 00:21:04,780
 Warum?
 
-327
-00:21:06,000 --> 00:21:08,440
-Machen Sie es gut. Kümmern Sie sich um Dieter.
-
-328
-00:21:09,120 --> 00:21:11,280
-Tenma, warte! Ich komme mit!
-
-329
-00:21:11,600 --> 00:21:16,060
-Wenn Sie hierbleiben, dann können wir noch vielen Menschen in dieser Gegend das Leben retten.
-
-330
-00:21:16,540 --> 00:21:18,260
-Sie und ich, wir arbeiten zusammen.
-
-331
-00:21:20,740 --> 00:21:22,740
-Vielen Menschen das Leben retten.
-
-332
-00:21:22,740 --> 00:21:27,640
-Nun, das geht nicht. Ich habe einen Mann zu töten.
-
-333
-00:21:28,520 --> 00:21:29,580
-Was sagen Sie da?
-
-334
-00:21:32,560 --> 00:21:33,080
-Tenma!
-
-335
-00:21:33,800 --> 00:21:37,980
-Was meinen Sie da mit Tenma? Sie können doch gar nicht töten. Niemals!
-
-336
-00:21:38,280 --> 00:21:41,840
-Im Gegenteil, Sie geben doch alles, um das Leben der Menschen zu retten.
-
-337
-00:21:42,560 --> 00:21:47,100
-Er geht wirklich. Er geht und keiner kann ihn aufhalten.
-
 338
-00:21:52,740 --> 00:21:55,540
-Geh mit ihm, Dieter.
+00:21:06,000 --> 00:21:08,440
+Machen Sie's gut. Kümmern Sie sich um Dieter.
 
 339
-00:21:56,520 --> 00:22:00,480
-Du musst auch gehen, denn wenn du bei ihm bist, wird er nicht vom Weg abkommen.
+00:21:09,140 --> 00:21:11,280
+Tenma, warte! Ich komme mit!
 
 340
-00:22:01,020 --> 00:22:03,020
-Du wirst gut auf ihn aufpassen müssen.
+00:21:11,600 --> 00:21:16,060
+Wenn Sie hierbleiben, dann können wir noch vielen Menschen in dieser Gegend das Leben retten!
 
 341
-00:22:22,740 --> 00:22:52,720
-Untertitelung des ZDF, 2020
+00:21:16,560 --> 00:21:18,240
+Sie und ich, wir arbeiten zusammen!
 
 342
-00:22:52,740 --> 00:23:22,720
-Untertitelung des ZDF, 2020
+00:21:20,740 --> 00:21:28,360
+"Vielen Menschen das Leben retten. Nun, das geht nicht. Ich habe einen Mann zu töten."
 
 343
-00:23:22,740 --> 00:23:52,720
-Untertitelung des ZDF, 2020
+00:21:28,360 --> 00:21:30,240
+"Was sagen Sie da?"
 
 344
-00:23:52,740 --> 00:23:54,420
-Untertitelung des ZDF für funk, 2017
+00:21:32,520 --> 00:21:33,640
+"Tenma!"
+
+345
+00:21:33,640 --> 00:21:42,400
+"Was meinen Sie damit, Tenma? Sie können doch gar nicht töten, niemals. Im Gegenteil, Sie geben doch alles, um das Leben der Menschen zu retten."
+
+346
+00:21:42,400 --> 00:21:47,440
+"Er geht wirklich. Er geht und keiner kann ihn aufhalten."
+
+347
+00:21:56,320 --> 00:21:59,080
+Du musst auch gehen, denn wenn du bei ihm bist,
+
+348
+00:21:59,180 --> 00:22:00,480
+wird er nicht vom Weg abkommen.
+
+349
+00:22:01,040 --> 00:22:03,040
+Du wirst gut auf ihn aufpassen müssen.
+
+350
+00:22:04,420 --> 00:22:04,580
+[leise schluchzt]
+
+351
+00:23:39,720 --> 00:23:41,120
+[Musik]
 
