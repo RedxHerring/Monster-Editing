@@ -4,7 +4,7 @@ from seamless_communication.models.inference import Translator
 
 def translate_srt(srt_file, out_file, src_lang, tgt_lang):
     # Initialize a Translator object with a multitask model, vocoder on the GPU.
-    translator = Translator("seamlessM4T_large", vocoder_name_or_card="vocoder_36langs", device=torch.device("cpu"))
+    translator = Translator("seamlessM4T_large", vocoder_name_or_card="vocoder_36langs", device=torch.device("cuda"))
     with open(srt_file,'r') as file:
         lines = file.readlines()
         idx = 0

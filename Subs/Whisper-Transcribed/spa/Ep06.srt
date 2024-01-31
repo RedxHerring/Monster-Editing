@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:03,300
+00:00:01,220 --> 00:00:03,300
 ¿Cuánto hace que no se ducha, señor Maurer?
 
 2
@@ -7,27 +7,27 @@
 ¿Me lo prometió cuando se instaló en esta mesa? ¿Lo ha olvidado?
 
 3
-00:00:07,200 --> 00:00:09,900
+00:00:07,240 --> 00:00:09,900
 Dijo que se ducharía al menos una vez cada dos días.
 
 4
-00:00:10,380 --> 00:00:12,300
+00:00:10,400 --> 00:00:12,300
 ¡Ah! ¡Qué mujer más pesada!
 
 5
-00:00:13,040 --> 00:00:15,320
+00:00:13,160 --> 00:00:15,320
 Por cierto, tiene una visita en la sala de espera.
 
 6
-00:00:15,960 --> 00:00:18,020
+00:00:15,940 --> 00:00:18,020
 Yo me marcho y ya le servirá el té a usted si quiere.
 
 7
-00:00:18,400 --> 00:00:19,600
+00:00:18,420 --> 00:00:19,580
 Yo por hoy ya he terminado.
 
 8
-00:00:20,140 --> 00:00:22,260
+00:00:20,180 --> 00:00:22,260
 ¿Una visita? ¿Y quién es a estas horas?
 
 9
@@ -35,27 +35,27 @@ Yo por hoy ya he terminado.
 Uno al que tampoco le vendría mal una ducha.
 
 10
-00:00:25,340 --> 00:00:27,380
+00:00:25,320 --> 00:00:27,380
 Huele casi tan mal como usted, señor Maurer.
 
 11
-00:00:27,900 --> 00:00:29,200
+00:00:27,380 --> 00:00:29,200
 ¡Qué poco respeto!
 
 12
-00:00:30,760 --> 00:00:31,520
-En fin.
+00:00:30,800 --> 00:00:31,540
+¡En fin!
 
 13
-00:00:33,680 --> 00:00:34,760
-Será posible.
+00:00:33,740 --> 00:00:34,700
+¿Será posible?
 
 14
-00:00:35,200 --> 00:00:37,600
-Por culpa de quien se cree que no puedo ni ducharme.
+00:00:35,160 --> 00:00:37,580
+¿Por culpa de quién se cree que no puedo ni ducharme?
 
 15
-00:00:39,160 --> 00:00:42,720
+00:00:39,140 --> 00:00:42,720
 Alguien se tiene que preocupar de que este periódico de pacotilla no se hunda.
 
 16
@@ -63,739 +63,739 @@ Alguien se tiene que preocupar de que este periódico de pacotilla no se hunda.
 Y esto es lo que hago yo, aunque nadie me lo reconozca.
 
 17
-00:00:46,640 --> 00:00:47,680
+00:00:46,640 --> 00:00:47,700
 Aquí no hay justicia.
 
 18
-00:00:50,340 --> 00:00:52,180
+00:00:50,280 --> 00:00:52,160
 Perdone, siento haberle hecho esperar.
 
 19
-00:00:53,860 --> 00:00:55,920
+00:00:53,800 --> 00:00:55,940
 Buenas noches, señor. Me llamo Temma.
 
 20
-00:00:56,580 --> 00:00:58,080
-Se lo ruego, necesito que me ayude.
+00:00:57,380 --> 00:01:02,260
+- Necesito que me ayude. - Pues tenía razón, este hombre va hecho unos zorros.
 
 21
-00:00:59,020 --> 00:01:02,240
-Pues tenía razón. Este hombre va hecho unos zorros.
-
-22
-00:01:04,220 --> 00:01:07,740
+00:01:04,220 --> 00:01:07,720
 Vaya, así que es usted médico. O lo parece, la verdad.
 
-23
-00:01:09,900 --> 00:01:13,540
+22
+00:01:09,920 --> 00:01:13,500
 Veamos, doctor, a ver si he entendido bien la historia que me ha contado.
 
-24
-00:01:14,360 --> 00:01:20,240
+23
+00:01:14,360 --> 00:01:20,840
 Las siguientes víctimas del homicida de cuatro matrimonios de mediana edad, según usted, están aquí, en Heidelberg.
 
-25
-00:01:21,660 --> 00:01:24,540
+24
+00:01:21,580 --> 00:01:24,540
 El matrimonio en cuestión tiene una hija adoptiva.
 
-26
-00:01:24,540 --> 00:01:28,520
+25
+00:01:24,540 --> 00:01:28,500
 El día que ella cumpla 20 años, el asesino vendrá y la secuestrará.
 
+26
+00:01:29,140 --> 00:01:31,980
+Y al mismo tiempo, matará también a sus padres.
+
 27
-00:01:29,180 --> 00:01:31,980
-Y al mismo tiempo matará también a sus padres.
+00:01:35,000 --> 00:01:39,000
+Pero usted no tiene ni idea de quiénes son, ni de dónde se encuentra esta gente.
 
 28
-00:01:34,960 --> 00:01:39,000
-Pero usted no tiene ni idea de quiénes son ni de dónde se encuentra esta gente.
-
-29
-00:01:44,440 --> 00:01:47,580
+00:01:44,500 --> 00:01:47,580
 Me temo que ha leído demasiadas novelas de misterio.
 
+29
+00:01:47,820 --> 00:01:50,200
+No, esto no es ninguna broma. Tiene que creerme.
+
 30
-00:01:47,800 --> 00:01:50,220
-Oh, no, esto no es ninguna broma. Tiene que creerme.
+00:01:50,200 --> 00:01:55,080
+Es ridículo. Ni un periódico de tercera le dedicaría un artículo a esto.
 
 31
-00:01:50,700 --> 00:01:51,520
-Es ridículo.
-
-32
-00:01:52,020 --> 00:01:55,080
-Ni un periódico de tercera le dedicaría un artículo a esto.
-
-33
-00:01:55,780 --> 00:01:57,860
+00:01:55,760 --> 00:01:57,860
 No he venido a pedirle que escriba ningún artículo.
 
+32
+00:01:58,360 --> 00:02:01,020
+Solo que me escuche, desde que esos gemelos huyeron de mi hospital,
+
+33
+00:02:01,360 --> 00:02:04,720
+hasta que apareció el hermano en Munich, hay un espacio en blanco de medio año.
+
 34
-00:01:58,380 --> 00:02:01,020
-Solo que me escuche, desde que esos gemelos huyeron de mi hospital
-
-35
-00:02:01,020 --> 00:02:02,800
-hasta que apareció el hermano en Múnich,
-
-36
-00:02:02,880 --> 00:02:04,740
-hay un espacio en blanco de medio año.
-
-37
-00:02:04,940 --> 00:02:06,320
+00:02:04,940 --> 00:02:06,300
 ¿Y qué problema hay?
 
-38
+35
 00:02:06,560 --> 00:02:09,300
 Tengo varias razones para creer que después de huir del hospital,
 
-39
+36
 00:02:09,600 --> 00:02:11,640
 ambos hermanos vinieron aquí, a Heidelberg.
 
-40
-00:02:12,440 --> 00:02:14,440
+37
+00:02:12,340 --> 00:02:14,460
 Usted lo ha dicho, solo lo cree.
 
-41
-00:02:14,880 --> 00:02:16,160
-Y sé que cuando llegaron aquí,
+38
+00:02:14,860 --> 00:02:18,500
+Y sé que cuando llegaron aquí, ambos fueron adoptados por el mismo matrimonio.
 
-42
-00:02:16,160 --> 00:02:18,520
-ambos fueron adoptados por el mismo matrimonio.
+39
+00:02:20,200 --> 00:02:23,140
+una temporada y luego huyó, dejando aquí a la hermana.
 
-43
-00:02:18,520 --> 00:02:23,120
-Pero el chico estuvo solo una temporada y luego huyó, dejando aquí a la hermana.
-
-44
-00:02:25,120 --> 00:02:28,200
+40
+00:02:25,180 --> 00:02:28,200
 Podría escribir una novela, aunque dudo que se la compraran.
 
-45
+41
 00:02:28,220 --> 00:02:31,260
 Es posible que esos padres publicaran un anuncio para encontrarle.
 
-46
-00:02:31,960 --> 00:02:34,800
+42
+00:02:32,020 --> 00:02:34,800
 E incluso puede que se escribiera algún artículo sobre el tema.
 
-47
-00:02:36,120 --> 00:02:39,240
+43
+00:02:36,140 --> 00:02:39,260
 Por favor, déjeme examinar los periódicos de hace nueve años.
 
-48
-00:02:39,760 --> 00:02:40,660
-Se lo pido, por favor.
+44
+00:02:39,780 --> 00:02:40,640
+¡Se lo pido, por favor!
 
-49
-00:02:44,900 --> 00:02:45,780
+45
+00:02:44,960 --> 00:02:45,760
 ¡Se lo ruego!
 
-50
-00:02:45,780 --> 00:02:49,080
-No puedo permitir que haya más víctimas.
+46
+00:02:46,980 --> 00:02:49,820
+¡No puedo permitir que haya más víctimas! ¡Quiero evitarlo!
 
-51
-00:02:49,240 --> 00:02:49,840
-¡Quiero evitarlo!
+47
+00:02:51,120 --> 00:02:52,460
+Por favor, señor Maurer.
 
-52
-00:02:51,080 --> 00:02:52,440
-¡Por favor, señor Maurer!
-
-53
-00:03:03,780 --> 00:03:06,780
+48
+00:03:03,820 --> 00:03:06,760
 El director no es amante de las nuevas tecnologías.
 
-54
-00:03:08,920 --> 00:03:11,840
+49
+00:03:08,920 --> 00:03:11,880
 Aquí tiene los anuarios y los fotolitos originales.
 
-55
-00:03:11,840 --> 00:03:16,840
+50
+00:03:13,720 --> 00:03:17,500
 Y aquí hay artículos de sucesos y ficheros de investigaciones.
 
-56
-00:03:18,660 --> 00:03:20,140
+51
+00:03:18,680 --> 00:03:20,120
 Muchas gracias, señor Maurer.
 
-57
-00:03:21,200 --> 00:03:23,840
-Vaya, reverencia a la japonesa, de nada, hombre.
+52
+00:03:21,020 --> 00:03:23,840
+Vaya, reverencia a la japonesa de nada, hombre.
 
-58
-00:03:24,320 --> 00:03:28,080
+53
+00:03:24,300 --> 00:03:28,100
 Pero le advierto que según que investigaciones no son más que una pérdida de tiempo.
 
-59
-00:03:31,640 --> 00:03:34,360
+54
+00:03:31,680 --> 00:03:34,400
 Cuando haya terminado, apague la luz y lárguese.
 
-60
-00:03:37,300 --> 00:03:41,680
-Vaya, siempre tienen que venir tipos raros como este.
+55
+00:03:37,860 --> 00:03:41,700
+Vaya. Siempre tienen que venir tipos raros como este.
 
-61
-00:03:41,840 --> 00:03:49,640
+56
+00:03:44,800 --> 00:03:49,660
 Vamos. Tiene que salir algo. Tengo que encontrarlo.
 
+57
+00:04:53,640 --> 00:04:56,480
+[Música de cierre]
+
+58
+00:05:21,280 --> 00:05:24,280
+Episodio 6 "El Artículo de la Desaparición"
+
+59
+00:05:25,040 --> 00:05:25,920
+¡Hola, chicas!
+
+60
+00:05:26,460 --> 00:05:28,760
+Menos mal, hoy veo que tienes mejor aspecto.
+
+61
+00:05:28,880 --> 00:05:31,540
+Sí, porque menudo susto nos diste con tu desmayo.
+
 62
-00:04:11,840 --> 00:04:41,820
-¡Suscríbete al canal!
+00:05:31,860 --> 00:05:35,360
+¿Qué pasó? ¿Tampoco te gustó el chico aquel que te presentamos?
 
 63
-00:04:41,840 --> 00:05:11,820
-¡Suscríbete al canal!
+00:05:35,560 --> 00:05:37,560
+No, claro que no, nada de eso.
 
 64
-00:05:11,840 --> 00:05:35,360
-¿Qué pasa? ¿Tampoco te gustó el chico aquel que te presentamos?
+00:05:37,820 --> 00:05:39,000
+Tengo que ir a disculparme.
 
 65
-00:05:35,360 --> 00:05:39,000
-No, claro que no. Nada de eso. Tengo que ir a disculparme.
-
-66
-00:05:39,520 --> 00:05:40,700
+00:05:39,500 --> 00:05:40,700
 Él no tuvo nada que ver.
 
+66
+00:05:41,120 --> 00:05:42,760
+No te preocupes, lo mejor será que no se te ocurra nada.
+
 67
-00:05:41,140 --> 00:05:43,920
-No te preocupes. Lo mejor será que te olvides de él.
+00:05:42,780 --> 00:05:43,920
+¿Será que te olvides de él?
 
 68
-00:05:44,600 --> 00:05:44,860
+00:05:44,600 --> 00:05:44,840
 ¿Eh?
 
 69
-00:05:45,380 --> 00:05:50,480
-Hemos estado investigando a fondo y hemos descubierto que Otto Uberman no es tu príncipe azul.
+00:05:45,320 --> 00:05:50,140
+Hemos estado investigando a fondo y hemos descubierto que Otto Überman no es tu Príncipe
 
 70
-00:05:50,660 --> 00:05:54,860
-Es verdad. Nos ha dicho que él no te había mandado ningún mensaje por correo electrónico.
+00:05:50,140 --> 00:05:50,520
+Azul.
 
 71
-00:05:55,660 --> 00:05:57,320
-Oh, entonces...
+00:05:50,660 --> 00:05:51,200
+Es verdad.
 
 72
-00:06:00,320 --> 00:06:05,620
-Es decir, que la razón por la que te desmayaste es porque viste a un chico de lejos. ¿Es eso?
+00:05:51,340 --> 00:05:54,860
+Nos ha dicho que él no te había mandado ningún mensaje por correo electrónico.
 
 73
-00:06:06,260 --> 00:06:06,600
-Sí.
+00:05:56,080 --> 00:05:57,040
+Oh, ¿entonces?
 
 74
-00:06:07,520 --> 00:06:09,700
-¿Y recuerdas cómo era ese chico?
+00:06:00,420 --> 00:06:05,620
+Es decir que la razón por la que te desmayaste es porque viste a un chico de lejos, ¿es eso?
 
 75
-00:06:09,700 --> 00:06:13,120
-Solo le vi un momento. No sabría qué decir.
+00:06:06,260 --> 00:06:06,620
+Sí.
 
 76
-00:06:13,460 --> 00:06:16,560
-¿Qué te hizo sentir? ¿Qué impresión te causó? ¿Te gustó?
+00:06:07,620 --> 00:06:09,700
+¿Y recuerdas cómo era ese chico?
 
 77
-00:06:17,180 --> 00:06:19,900
-Fue como si sintiera mucha añoranza.
+00:06:10,100 --> 00:06:11,320
+Solo le vi un momento.
 
 78
-00:06:20,640 --> 00:06:21,360
-¿Añoranza?
+00:06:12,840 --> 00:06:16,580
+¿Qué te hizo sentir? ¿Qué impresión te causó? ¿Te gustó?
 
 79
-00:06:21,860 --> 00:06:27,120
-Pero no, es distinto. No sé muy bien cómo explicarlo, pero...
+00:06:17,120 --> 00:06:19,920
+Fue como... si sintiera mucha añoranza.
 
 80
-00:06:27,120 --> 00:06:27,640
-¿Pero?
+00:06:20,680 --> 00:06:21,360
+¿Añoranza?
 
 81
-00:06:39,700 --> 00:06:48,660
-Ya vale, Nina. No hace falta que te esfuerces.
+00:06:22,140 --> 00:06:27,120
+Pero... no, es distinto. No sé muy bien cómo explicarlo, pero...
 
 82
+00:06:27,120 --> 00:06:27,600
+¿Pero?
+
+83
+00:06:46,080 --> 00:06:48,640
+Ya vale, Nina. No hace falta que te esfuerces.
+
+84
 00:06:48,900 --> 00:06:50,120
 Era diabólico.
 
-83
-00:06:51,860 --> 00:06:58,380
+85
+00:06:52,060 --> 00:06:58,360
 No sé cómo expresarlo, pero sí me sentí exactamente igual que cuando tuve aquellas pesadillas.
 
-84
-00:06:59,600 --> 00:07:03,960
+86
+00:06:59,640 --> 00:07:03,940
 Hablando de diabólico, nos metemos otra vez en el contexto religioso.
 
-85
-00:07:04,500 --> 00:07:12,700
-Pero yo no voy nunca a la iglesia y sin embargo siento que quizá, creo que si volviera a verle, podría esclarecer el asunto y saber qué me pasó.
-
-86
-00:07:13,720 --> 00:07:16,780
-¿Y sientes también que podrías recuperar la memoria perdida?
-
 87
-00:07:17,000 --> 00:07:17,580
-Así es.
+00:07:04,460 --> 00:07:09,000
+Pero yo no voy nunca a la iglesia y, sin embargo, siento que, quizá,
 
 88
-00:07:18,500 --> 00:07:24,520
-Bueno, puede ser una solución, pero ¿no crees que deberías intentar dejar de obsesionarte con el pasado?
+00:07:09,000 --> 00:07:12,700
+Creo que si volviera a verle, podría escarecer el asunto y saber qué me pasó.
 
 89
-00:07:25,140 --> 00:07:28,660
-Tienes que seguir adelante, Nina. Tu futuro ahora es lo más importante.
+00:07:13,440 --> 00:07:16,780
+¿Y sientes también que podrías recuperar la memoria perdida?
 
 90
-00:07:29,900 --> 00:07:30,460
-Sí.
+00:07:17,000 --> 00:07:17,600
+Así es.
 
 91
-00:07:31,080 --> 00:07:34,000
-Bien, no te preocupes. Sigue haciendo mucho deporte.
+00:07:18,680 --> 00:07:21,440
+Bueno, puede ser una solución, pero...
 
 92
-00:07:34,480 --> 00:07:36,400
-Eso ayuda a que la inquietud desaparezca.
+00:07:21,440 --> 00:07:24,520
+¿No crees que deberías intentar dejar de obsesionarte con el pasado?
 
 93
-00:07:42,820 --> 00:07:45,600
-Buenos días, Maurer. ¿Ha vuelto a pasar la noche aquí dentro?
+00:07:25,100 --> 00:07:28,640
+Tienes que seguir adelante, Nina. Tu futuro ahora es lo más importante.
 
 94
-00:07:45,680 --> 00:07:46,000
+00:07:30,180 --> 00:07:30,460
 Sí.
 
 95
-00:07:47,140 --> 00:07:52,840
-Ah, por cierto, supongo que ha sido usted quien ha dado permiso a ese hombre para examinar la hemeroteca.
+00:07:31,100 --> 00:07:34,000
+Bien, no te preocupes. Sigue haciendo mucho deporte.
 
 96
-00:07:53,160 --> 00:07:54,120
-¿Qué? ¿Qué hombre?
+00:07:34,440 --> 00:07:36,380
+Eso ayuda a que la inquietud desaparezca.
 
 97
-00:07:54,520 --> 00:07:59,160
-Uno que, cuando le he preguntado qué estaba haciendo, me ha asegurado que venía de su parte.
+00:07:42,840 --> 00:07:45,620
+Buenos días, Maurer. ¿Ha vuelto a pasar la noche aquí adentro?
 
 98
-00:07:59,160 --> 00:08:01,360
-Todavía está aquí ese tipo
-
-99
-00:08:01,360 --> 00:08:02,640
-Diablos
-
-100
-00:08:02,640 --> 00:08:08,120
-Vale, ya, no, haga el favor
-
-101
-00:08:08,120 --> 00:08:15,840
-Pero bueno, ¿estás bien?
-
-102
-00:08:16,700 --> 00:08:17,160
-Oye
-
-103
-00:08:27,560 --> 00:08:28,520
-Vamos, come
-
-104
-00:08:29,520 --> 00:08:29,960
+00:07:45,680 --> 00:07:45,980
 Sí.
 
+99
+00:07:47,160 --> 00:07:52,160
+Ah, por cierto, supongo que ha sido usted quien ha dado permiso a ese hombre para examinar
+
+100
+00:07:52,160 --> 00:07:52,840
+la hemeroteca.
+
+101
+00:07:53,160 --> 00:07:53,460
+¿Qué?
+
+102
+00:07:53,620 --> 00:07:54,120
+¿Qué hombre?
+
+103
+00:07:54,500 --> 00:07:58,900
+Uno que, cuando le he preguntado qué estaba haciendo, me ha asegurado que venía de su
+
+104
+00:07:58,900 --> 00:07:59,160
+parte.
+
 105
-00:08:37,980 --> 00:08:38,900
-¿A qué está bueno?
+00:07:59,780 --> 00:08:02,580
+Todavía está aquí ese tipo. Diablos.
 
 106
-00:08:39,400 --> 00:08:41,300
-Yo desayuno todos los días en este bar.
+00:08:05,920 --> 00:08:07,920
+¡Vale, ya! ¡No! ¡Haga el favor!
 
 107
-00:08:42,260 --> 00:08:43,700
-¿Usted nunca se va a su casa?
+00:08:13,400 --> 00:08:17,140
+¡Pero bueno! ¡Estás bien! ¡Oye!
 
 108
-00:08:44,200 --> 00:08:45,220
-¿Y su familia qué dice?
+00:08:27,320 --> 00:08:28,500
+¡Vamos! ¡Come!
 
 109
-00:08:45,860 --> 00:08:47,000
-No tengo familia.
+00:08:29,240 --> 00:08:29,960
+Sí.
 
 110
-00:08:47,180 --> 00:08:49,120
-Mi mujer ya hace tiempo que se largó de casa.
+00:08:37,900 --> 00:08:41,320
+¿A qué está bueno? Yo desayuno todos los días en este bar.
 
 111
-00:08:50,120 --> 00:08:51,720
-Ando siempre muy ocupado.
+00:08:42,100 --> 00:08:45,220
+¿Usted nunca se va a su casa? ¿Y su familia qué dice?
 
 112
-00:08:51,840 --> 00:08:56,260
-Y un día al volver a casa supe que mi mujer se había marchado a casa de sus padres con la niña.
+00:08:45,860 --> 00:08:49,140
+No tengo familia a mi mujer y hace tiempo que se largó de casa.
 
 113
-00:08:59,140 --> 00:09:01,520
-¿Y no se le ocurrió ir a buscarlas inmediatamente?
+00:08:50,140 --> 00:08:56,260
+Ando siempre muy ocupado y un día al volver a casa supe que mi mujer se había marchado a casa de sus padres con la niña.
 
 114
-00:09:02,940 --> 00:09:04,100
-¿Yo? ¿Por qué?
+00:08:58,980 --> 00:09:01,500
+¿Y no se le ocurrió ir a buscarlas inmediatamente?
 
 115
-00:09:04,440 --> 00:09:06,300
-Fue ella quien decidió alargarse.
+00:09:02,960 --> 00:09:04,120
+¿Yo? ¿Por qué?
 
 116
+00:09:04,460 --> 00:09:06,300
+Fue ella quien decidió largarse.
+
+117
 00:09:06,420 --> 00:09:08,400
 ¿Por qué demonios tenía que ir a buscarla?
 
-117
-00:09:08,920 --> 00:09:12,700
-Bueno, me ha parecido que lo lamentaba y que tanto trabajo le agobia.
-
 118
+00:09:08,920 --> 00:09:10,960
+Bueno, me ha parecido que lo lamentaba
+
+119
+00:09:10,960 --> 00:09:12,700
+y que tanto trabajo le agobia.
+
+120
 00:09:13,080 --> 00:09:14,780
 No digas tonterías, hombre.
 
-119
+121
 00:09:15,900 --> 00:09:17,740
 Para un hombre el trabajo es lo primero.
 
-120
-00:09:18,140 --> 00:09:21,980
-Y si mi mujer no entiende que en mi trabajo no hay horario, ha hecho bien en marcharse.
-
-121
-00:09:22,380 --> 00:09:24,300
-Perdone, no debo entrometerme en su vida.
-
 122
-00:09:25,060 --> 00:09:27,280
-Tú lo has dicho, no te metas más.
+00:09:18,140 --> 00:09:20,640
+Y si mi mujer no entiende que en mi trabajo no hay horario,
 
 123
-00:09:27,280 --> 00:09:33,740
-Ah, pero debo decirle otra cosa. Fuma usted demasiado. Como médico tengo que advertirle que si sigue fumando...
+00:09:20,740 --> 00:09:21,980
+ha hecho bien en marcharse.
 
 124
-00:09:33,740 --> 00:09:38,060
-Te digo que no te metas en mis asuntos. Veo que eres igual que mi esposa, un plasta.
+00:09:22,380 --> 00:09:24,300
+Perdone, no debo intrometerme en su vida.
 
 125
+00:09:25,080 --> 00:09:27,280
+Tú lo has dicho, no te metas más.
+
+126
+00:09:27,620 --> 00:09:29,760
+Ah, pero debo decirle otra cosa.
+
+127
+00:09:30,440 --> 00:09:31,320
+Fuma usted demasiado.
+
+128
+00:09:33,320 --> 00:09:35,700
+Te digo que no te metas en mis asuntos.
+
+129
+00:09:35,840 --> 00:09:38,080
+Veo que eres igual que mi esposa, un plasta.
+
+130
 00:09:38,920 --> 00:09:42,400
 Esto quiere decir que su esposa se preocupaba por su salud, ¿verdad?
 
-126
-00:09:48,340 --> 00:09:50,040
+131
+00:09:48,340 --> 00:09:50,020
 Te he dicho que no te metas.
 
-127
-00:09:52,240 --> 00:09:54,340
+132
+00:09:52,260 --> 00:09:54,340
 ¿Es el regalo de cumpleaños de Nina?
 
-128
-00:09:55,280 --> 00:09:57,880
+133
+00:09:55,300 --> 00:09:57,880
 Sí, ya era hora. Por fin lo he terminado.
 
-129
-00:09:58,460 --> 00:10:01,780
+134
+00:09:58,520 --> 00:10:01,780
 ¿Te acuerdas de lo pequeños que eran sus jerseys cuando era una niña?
 
-130
-00:10:02,860 --> 00:10:05,040
+135
+00:10:02,780 --> 00:10:05,040
 Cariño, ¿por qué tenemos que decírselo?
 
-131
-00:10:05,480 --> 00:10:08,080
+136
+00:10:05,420 --> 00:10:08,060
 Me duele que sepa que en realidad no es nuestra hija.
 
-132
-00:10:09,080 --> 00:10:11,020
+137
+00:10:09,080 --> 00:10:11,080
 Creo que sería mejor dejarlo como está.
 
-133
-00:10:14,200 --> 00:10:17,560
+138
+00:10:14,120 --> 00:10:17,560
 Tienes razón. Yo también creo que es mejor no decirle nada.
 
-134
+139
 00:10:18,220 --> 00:10:20,300
 Nina es nuestra hija, digan lo que digan.
 
-135
-00:10:23,340 --> 00:10:23,860
-¡Hola!
-
-136
-00:10:24,340 --> 00:10:25,700
-¡Hola, hija!
-
-137
-00:10:27,440 --> 00:10:28,760
-¡Me muero de hambre!
-
-138
-00:10:32,400 --> 00:10:35,080
-A partir de hoy tengo que pensar en el futuro.
-
-139
-00:10:36,260 --> 00:10:38,040
-Sí, quizá tenga razón el Dr. Geitel.
-
 140
-00:10:54,340 --> 00:11:00,480
-¡Ah! Mañana, día de tu cumpleaños, nos vemos a las siete en el castillo de Heidelberg.
+00:10:23,920 --> 00:10:25,680
+- ¡Hola! - ¡Hola, hija!
 
 141
-00:11:01,920 --> 00:11:05,060
-Mañana, en el castillo de Heidelberg.
+00:10:27,540 --> 00:10:28,760
+¡Me muero de hambre!
 
 142
-00:11:10,860 --> 00:11:15,660
-Con el trabajo que tengo y llevo ya dos días perdido rebuscando en viejas carpetas.
+00:10:32,640 --> 00:10:35,080
+A partir de hoy, tengo que pensar en el futuro.
 
 143
-00:11:16,260 --> 00:11:17,940
-Lo podríamos dejar ya, ¿no crees?
+00:10:36,020 --> 00:10:38,060
+Sí, quizá tenga razón el Dr. Geitel.
 
 144
-00:11:24,340 --> 00:11:29,180
-Oye, doctor
+00:10:56,240 --> 00:11:00,480
+Mañana, día de tu cumpleaños, nos vemos a las 7 en el castillo de Heidelberg.
 
 145
-00:11:29,180 --> 00:11:33,120
-Supongamos, solo supongamos
+00:11:01,880 --> 00:11:04,580
+Mañana, en el castillo de Heidelberg.
 
 146
-00:11:33,120 --> 00:11:36,520
-Que un buen día me da por ir a buscar a mi mujer
+00:11:10,840 --> 00:11:15,660
+Con el trabajo que tengo y llevo ya dos días perdido rebuscando en viejas carpetas.
 
 147
-00:11:36,520 --> 00:11:39,720
-¿Tú crees que ella aceptaría volver conmigo?
+00:11:16,280 --> 00:11:17,940
+Lo podríamos dejar ya, ¿no crees?
 
 148
-00:11:41,020 --> 00:11:43,020
-Sí, si deja de fumar, claro
+00:11:27,980 --> 00:11:29,000
+Oye, doctor.
 
 149
-00:11:48,780 --> 00:11:49,840
-¿Qué pasa?
+00:11:31,220 --> 00:11:36,460
+Supongamos, solo supongamos, que un buen día me da por ir a buscar a mi mujer.
 
 150
-00:11:51,100 --> 00:11:52,040
-Lo tengo
+00:11:37,760 --> 00:11:39,720
+¿Tú crees que ella aceptaría volver conmigo?
 
 151
-00:11:52,040 --> 00:11:55,840
-Desaparecido un chico de 11 años
+00:11:40,780 --> 00:11:43,020
+Sí, si deja de fumar, claro.
 
 152
-00:11:55,840 --> 00:11:57,960
-No se descarta que sea un secuestro
+00:11:48,880 --> 00:11:49,840
+¿Qué pasa?
 
 153
-00:11:57,960 --> 00:11:59,960
-Pero al no haber recibido petición de rescate
+00:11:51,200 --> 00:11:52,000
+Lo tengo.
 
 154
-00:11:59,960 --> 00:12:01,500
-Podría haberse dado a la fuga
+00:11:54,140 --> 00:11:55,800
+Desaparecido un chico de 11 años.
 
 155
-00:12:01,500 --> 00:12:03,820
-La dirección es Neckerstrasse 16
+00:11:56,400 --> 00:11:57,940
+No se descarta que sea un secuestro,
 
 156
-00:12:03,820 --> 00:12:07,220
-Aquí dice que lo reclama una familia que se llama Forner
+00:11:57,940 --> 00:12:01,480
+pero al no haber recibido petición de rescate, podría haberse dado a la fuga.
 
 157
-00:12:07,220 --> 00:12:11,920
-A ver, el artículo original tendría que estar por aquí
+00:12:02,000 --> 00:12:03,780
+La dirección es Neckarstrasse 16.
 
 158
-00:12:11,920 --> 00:12:13,560
-Sí, aquí está
+00:12:04,480 --> 00:12:07,160
+Aquí dice que lo reclama una familia que se llama Forner.
 
 159
-00:12:13,560 --> 00:12:18,500
-Diablos
+00:12:09,060 --> 00:12:11,880
+A ver, el artículo original tendría que estar por aquí.
 
 160
-00:12:18,500 --> 00:12:19,620
-¿Qué ocurre?
+00:12:12,680 --> 00:12:13,520
+Sí, aquí está.
 
 161
-00:12:20,440 --> 00:12:25,780
-Si mal no recuerdo, dijiste que el asesino iría a buscar a su hermana cuando cumpliera los 20 años, ¿verdad?
+00:12:17,960 --> 00:12:19,580
+- ¡Diablos! - ¿Qué ocurre?
 
 162
-00:12:26,220 --> 00:12:32,080
-Si el chico de este artículo es realmente su hermano, mira eso. Aquí está escrita su fecha de nacimiento.
+00:12:20,200 --> 00:12:25,760
+Si mal no recuerdo, dijiste que el asesino iría a buscar a su hermana cuando cumpliera los 20 años, ¿verdad?
 
 163
-00:12:33,580 --> 00:12:37,080
-Tal vez sea casualidad, pero hoy es el cumpleaños de los gemelos.
+00:12:25,760 --> 00:12:30,220
+Si el chico de este artículo es realmente su hermano, mira eso.
 
 164
-00:12:44,880 --> 00:12:46,320
-Ah, papá, ¿eres tú?
+00:12:30,320 --> 00:12:32,100
+Aquí está escrita su fecha de nacimiento.
 
 165
-00:12:47,280 --> 00:12:48,960
-Oye, acabo de salir del trabajo.
+00:12:33,620 --> 00:12:37,100
+Tal vez sea casualidad, pero hoy es el cumpleaños de los gemelos.
 
 166
-00:12:49,620 --> 00:12:52,480
-Hoy llegaré un poco más tarde porque he quedado con un amigo.
+00:12:44,920 --> 00:12:46,320
+Ah, papá, ¿eres tú?
 
 167
-00:12:53,780 --> 00:12:55,520
-En el castillo de Heidelberg.
+00:12:47,300 --> 00:12:48,980
+Oye, acabo de salir del trabajo.
 
 168
-00:12:56,320 --> 00:13:00,180
-Vale, pero recuerda que tu madre está preparando tu fiesta de cumpleaños.
+00:12:49,820 --> 00:12:52,480
+Hoy llegaré un poco más tarde porque he quedado con un amigo.
 
 169
-00:13:03,040 --> 00:13:04,220
-Eranina, ¿qué te ha dicho?
+00:12:52,480 --> 00:12:55,520
+Sí, en el castillo de Heidelberg.
 
 170
-00:13:04,600 --> 00:13:09,340
-Pues, dice que ha quedado con un amigo, pero no me ha dicho qué amigo.
+00:12:55,980 --> 00:13:00,160
+Vale, pero recuerda que tu madre está preparando tu fiesta de cumpleaños.
 
 171
-00:13:10,140 --> 00:13:12,140
-Se está haciendo mayor, cariño.
+00:13:02,920 --> 00:13:04,220
+Eranina, ¿qué te ha dicho?
 
 172
-00:13:14,140 --> 00:13:17,440
-Esto podría ayudar a llenar las lagunas que tengo.
+00:13:04,540 --> 00:13:09,340
+Pues dice que ha quedado con un amigo, pero no me ha dicho qué amigo.
 
 173
-00:13:19,620 --> 00:13:25,540
-Quiero saber de verdad quién soy.
+00:13:10,040 --> 00:13:12,120
+Se está haciendo mayor, cariño.
 
 174
-00:13:27,340 --> 00:13:31,600
-Doctor, si en casa de los Forner vive esa chica, ¿qué vas a decirles?
+00:13:14,000 --> 00:13:17,460
+Esto podría ayudar a llenar las lagunas que tengo.
 
 175
-00:13:31,940 --> 00:13:34,680
-La cuestión es que esa familia corre un grave peligro.
+00:13:21,900 --> 00:13:25,520
+Quiero saber de verdad quién soy.
 
 176
-00:13:35,100 --> 00:13:37,440
-Llamaré a la policía y les pediré que vigilen la casa.
+00:13:27,300 --> 00:13:31,600
+Doctor, si en casa de los Forner vive esa chica, ¿qué vas a decirles?
 
 177
-00:13:39,760 --> 00:13:43,780
-¿Esperas que la policía mueva un dedo por una simple hipótesis de un desconocido?
+00:13:31,880 --> 00:13:34,640
+La cuestión es que esa familia corre un grave peligro.
 
 178
-00:13:44,060 --> 00:13:46,080
-Cuanto haya pasado, será demasiado tarde.
+00:13:35,100 --> 00:13:37,420
+Llamaré a la policía y les pediré que vigilen la casa.
 
 179
-00:13:46,440 --> 00:13:49,500
-Pero no pasará. Todo esto es invención tuya.
+00:13:39,720 --> 00:13:43,780
+¿Esperas que la policía mueva un dedo por una simple hipótesis de un desconocido?
 
 180
-00:13:49,620 --> 00:13:52,660
-Escúchame, doctor
+00:13:44,060 --> 00:13:46,080
+Cuanto haya pasado será demasiado tarde.
 
 181
-00:13:52,660 --> 00:13:57,820
-Yo mismo fui a cubrir la noticia de uno de los cuatro asesinatos de los matrimonios
+00:13:47,460 --> 00:13:49,520
+Ah, todo esto es invención tuya.
 
 182
-00:13:57,820 --> 00:13:58,660
-El de Colonia
+00:13:51,720 --> 00:13:52,660
+Escúchame, doctor.
 
 183
-00:13:58,660 --> 00:14:02,720
-Aquel crimen fue realmente espantoso
+00:13:53,420 --> 00:13:58,660
+Yo mismo fui a cubrir la noticia de uno de los cuatro asesinatos de los matrimonios, el de Colonia.
 
 184
-00:14:02,720 --> 00:14:07,980
-No había un móvil aparente, no hubo robo, ni motivos de envidia, ni odio, ni nada
+00:14:00,380 --> 00:14:02,660
+Aquel crimen fue realmente espantoso.
 
 185
-00:14:07,980 --> 00:14:12,300
-Y viendo la escena, todo indicaba que el homicida disfrutaba matando
+00:14:03,640 --> 00:14:07,940
+No había un móvil aparente, no hubo robo, ni motivos de envidia, ni odio, ni nada.
 
 186
-00:14:12,300 --> 00:14:15,680
-Si hubieras estado allí, me darías la razón
+00:14:08,560 --> 00:14:12,280
+Y viendo la escena, todo indicaba que el homicida disfrutaba matando.
 
 187
-00:14:15,680 --> 00:14:18,500
-Tú sospechas de un chaval de 20 años, ¿no es así?
+00:14:13,320 --> 00:14:15,640
+Si hubieras estado allí, me darías la razón.
 
 188
-00:14:18,500 --> 00:14:24,180
-¿Crees realmente que un crío de esa edad puede asesinar así, sin ningún motivo, sin escrúpulos?
+00:14:17,540 --> 00:14:24,180
+¿No es así? ¿Crees realmente que un niño de esa edad puede asesinar así, sin ningún motivo, sin escrúpulos?
 
 189
-00:14:24,640 --> 00:14:29,460
-No, eso no era obra de un chaval, sino de algo más complejo.
+00:14:24,620 --> 00:14:27,140
+No, eso no era obra de un chaval.
 
 190
-00:14:30,100 --> 00:14:31,760
-¿Más complejo? ¿Qué quiere decir?
+00:14:27,880 --> 00:14:29,440
+Sino de algo más complejo.
 
 191
-00:14:32,860 --> 00:14:38,220
-Ese es el problema. Tantos años de periodismo y no encuentro las palabras para describirlo.
+00:14:30,120 --> 00:14:31,740
+¿Más complejo? ¿Qué quiere decir?
 
 192
-00:14:42,760 --> 00:14:46,640
-Pero si insistes, yo diría que era algo perverso, demoníaco,
+00:14:32,840 --> 00:14:38,200
+Ese es el problema. Tantos años de periodismo y no encuentro las palabras para describirlo.
 
 193
-00:14:46,640 --> 00:14:49,080
-como si fuera obra del mismísimo diablo.
+00:14:42,760 --> 00:14:46,640
+Pero si insistes, yo diría que era algo perverso, demoníaco.
 
 194
-00:14:50,860 --> 00:14:53,620
-Si alguna vez tuviera a ese hombre delante,
+00:14:47,460 --> 00:14:54,360
+obra del mismísimo diablo. Si alguna vez tuviera a ese hombre delante, te aseguro
 
 195
-00:14:53,760 --> 00:14:56,660
-te aseguro que no dudaría ni un segundo en matarlo.
+00:14:54,360 --> 00:14:56,700
+que no dudaría ni un segundo en matarlo.
 
 196
-00:15:03,720 --> 00:15:05,140
-Neckerstrasse 16.
+00:15:03,780 --> 00:15:06,920
+Neckarstrasse 16. Es aquí.
 
 197
-00:15:06,140 --> 00:15:06,920
-Es aquí.
-
-198
-00:15:13,100 --> 00:15:15,720
+00:15:13,080 --> 00:15:15,720
 Buenas noches. Disculpen las molestias.
 
+198
+00:15:18,940 --> 00:15:19,760
+(MURMURA)
+
 199
-00:15:16,640 --> 00:15:20,880
+00:15:20,450 --> 00:15:20,860
 ¿Sí?
 
 200
-00:15:25,780 --> 00:15:30,360
+00:15:25,700 --> 00:15:30,380
 Disculpe, me llamo Maurer y trabajo en el periódico Heidelberg Post.
 
 201
@@ -803,434 +803,462 @@ Disculpe, me llamo Maurer y trabajo en el periódico Heidelberg Post.
 ¿Y qué quiere un periodista de nosotros?
 
 202
-00:15:33,140 --> 00:15:36,020
+00:15:33,120 --> 00:15:36,000
 Bueno, verá, quisiera hacerle unas preguntas.
 
 203
-00:15:38,980 --> 00:15:40,020
+00:15:39,250 --> 00:15:40,020
 ¿Usted dirá?
 
 204
-00:15:40,020 --> 00:15:47,240
-es sobre la desaparición de un niño que buscaban ustedes en 1986.
+00:15:40,700 --> 00:15:41,340
+(SUSPIRA)
 
 205
-00:15:50,020 --> 00:15:52,220
-No, no, no tengo nada que decirle.
+00:15:42,600 --> 00:15:47,620
+Es sobre la desaparición de un niño que buscaban ustedes en 1986.
 
 206
-00:15:53,860 --> 00:15:57,040
-Espere, solo necesitamos que nos diga dos cosas, por favor.
+00:15:50,060 --> 00:15:52,200
+No, no, no tengo nada que decirle.
 
 207
-00:15:57,460 --> 00:16:00,060
-Queremos saber si aún vive con ustedes la chica que adoptaron.
+00:15:53,860 --> 00:15:57,060
+Espere, solo necesitamos que nos diga dos cosas, por favor.
 
 208
-00:16:00,380 --> 00:16:02,800
-Es la gemela del niño desaparecido, ¿verdad? ¡Abra!
+00:15:57,420 --> 00:16:00,060
+Queremos saber si aún vive con ustedes la chica que adoptaron.
 
 209
-00:16:04,440 --> 00:16:06,620
-Por favor, señor Forner, contésteme.
+00:16:00,360 --> 00:16:02,800
+Es la gemela del niño desaparecido, ¿verdad? ¡Abra!
 
 210
-00:16:08,220 --> 00:16:09,560
-Eso huele bien.
+00:16:04,440 --> 00:16:06,560
+Por favor, señor Forner, ¡contésteme!
 
 211
-00:16:10,020 --> 00:16:16,400
-El pastel. Está claro que ahí dentro están preparando una fiesta de cumpleaños.
+00:16:08,200 --> 00:16:09,540
+Eso huele bien.
 
 212
-00:16:18,300 --> 00:16:23,420
-Oiga, ustedes adoptaron a unos gemelos, ¿no? Y la chica vive aún con ustedes, ¿no es cierto?
+00:16:11,440 --> 00:16:16,320
+El pastel. Está claro que ahí dentro están preparando una fiesta de cumpleaños.
 
 213
-00:16:24,180 --> 00:16:33,220
-Váyase. Todos estos años hemos criado a Nina como a nuestra hija. Hagan el favor de no entrometerse. Déjennos en paz.
+00:16:18,240 --> 00:16:23,440
+Oiga, ustedes adoptaron a unos gemelos, ¿no? Y la chica vive aún con ustedes, ¿no es cierto?
 
 214
-00:16:33,220 --> 00:16:39,980
-Solo quiero saber si el niño de esos gemelos hace nueve años tenía una cicatriz en la cabeza
+00:16:24,100 --> 00:16:29,500
+Váyase. Todos estos años hemos criado a Nina como a nuestra hija.
 
 215
-00:16:39,980 --> 00:16:42,620
-Y si la niña sufría una pérdida de memoria
+00:16:29,840 --> 00:16:33,220
+Hagan el favor de no entrometerse. Déjennos en paz.
 
 216
-00:16:42,620 --> 00:16:44,200
-Por favor, dígamelo
+00:16:35,040 --> 00:16:39,980
+Solo quiero saber si el niño de esos gemelos hace nueve años tenía una cicatriz en la cabeza
 
 217
-00:16:44,200 --> 00:16:50,460
-Señor Forner, hay que avisar inmediatamente a la policía
+00:16:41,340 --> 00:16:42,600
+¡Había una pérdida de memoria!
 
 218
-00:16:50,460 --> 00:16:53,540
-Tanto ustedes como su hija están en grave peligro
+00:16:42,980 --> 00:16:44,120
+¡Por favor, dígamelo!
 
 219
-00:16:53,540 --> 00:16:55,040
-Maurer
+00:16:46,940 --> 00:16:50,420
+¡Señor Forner, hay que avisar inmediatamente a la policía!
 
 220
-00:16:55,040 --> 00:17:03,360
-¿De qué están ustedes hablando?
+00:16:50,740 --> 00:16:53,420
+¡Tanto ustedes como su hija están en grave peligro!
 
 221
-00:17:03,860 --> 00:17:06,100
-Es importante que hablemos con su hija
+00:16:54,360 --> 00:16:55,000
+¿Maurer?
 
 222
-00:17:06,100 --> 00:17:07,880
-Ahora no está en casa
+00:17:01,140 --> 00:17:03,360
+¿De qué están ustedes hablando?
 
 223
-00:17:07,880 --> 00:17:10,920
-¿Dónde está?
+00:17:03,800 --> 00:17:06,020
+Es importante que hablemos con su hija.
 
 224
-00:17:11,200 --> 00:17:12,960
-Ha ido al castillo de Heidelberg
+00:17:06,200 --> 00:17:07,840
+¡Ahora no está en casa!
 
 225
-00:17:12,960 --> 00:17:15,420
-Me ha dicho que había quedado con un amigo allí
+00:17:10,240 --> 00:17:10,900
+¿Dónde está?
 
 226
-00:17:15,420 --> 00:17:18,260
-Présteme el coche, Maurer
+00:17:11,080 --> 00:17:12,960
+Ha ido al castillo de Heidelberg.
 
 227
-00:17:18,260 --> 00:17:21,660
-Espera, creo que primero deberíamos avisar a la policía
+00:17:13,200 --> 00:17:15,320
+Me ha dicho que había quedado con un amigo allí.
 
 228
-00:17:21,660 --> 00:17:23,540
-No hay tiempo de contar todo esto a la policía
+00:17:17,100 --> 00:17:18,220
+Présteme el coche, Maurer.
 
 229
-00:17:24,300 --> 00:17:25,320
-¡Depresa! ¡La llave!
+00:17:18,820 --> 00:17:21,620
+Espera, creo que primero deberíamos avisar a la policía.
 
 230
-00:17:27,800 --> 00:17:30,640
-Está bien, vete. Yo ya me encargaré de llamarles.
+00:17:21,720 --> 00:17:23,520
+No hay tiempo de contar todo esto a la policía.
 
 231
-00:17:31,000 --> 00:17:31,320
-De acuerdo.
+00:17:24,380 --> 00:17:25,340
+¡Deprisa, la llave!
 
 232
-00:17:33,060 --> 00:17:34,120
-¡Eh, doctor! ¡Espera!
+00:17:27,820 --> 00:17:28,940
+Está bien, vete.
 
 233
-00:17:36,380 --> 00:17:38,740
-Ve con cuidado. Ya te lo he dicho antes.
+00:17:29,140 --> 00:17:30,640
+Yo ya me encargaré de llamarles.
 
 234
-00:17:38,880 --> 00:17:40,420
-Ese tipo es muy peligroso.
+00:17:31,020 --> 00:17:31,320
+De acuerdo.
 
 235
-00:17:40,740 --> 00:17:42,220
-No dejes que te mate. ¿Me oyes?
+00:17:33,060 --> 00:17:34,020
+¡Ve, doctor, espera!
 
 236
-00:17:42,860 --> 00:17:43,840
-De acuerdo, Maurer.
+00:17:36,360 --> 00:17:41,700
+Ve con cuidado, ya te lo he dicho antes, ese tipo es muy peligroso, no dejes que te mate,
 
 237
-00:17:44,660 --> 00:17:46,440
-Tienes que volver vivo, chaval.
+00:17:41,780 --> 00:17:42,280
+¿me oyes?
 
 238
-00:17:47,120 --> 00:17:48,560
-Y si lo haces...
+00:17:42,880 --> 00:17:43,840
+De acuerdo, Maurer.
 
 239
-00:17:48,560 --> 00:17:51,660
-Mira, dejaré de fumar, como me aconsejáis los matasanos.
+00:17:44,620 --> 00:17:50,900
+Tienes que volver vivo, chaval, y si lo haces, mira, dejaré de fumar, como me aconsejáis
 
 240
-00:17:52,660 --> 00:17:54,380
-Su mujer se alegrará mucho.
+00:17:50,900 --> 00:17:51,720
+los matasanos.
 
 241
-00:17:57,120 --> 00:18:00,260
-Bueno, a ver cómo les cuento este embrollo a los polis.
+00:17:52,960 --> 00:17:54,340
+Su mujer se alegrará mucho.
 
 242
+00:17:57,140 --> 00:18:00,260
+Bueno, a ver cómo les cuento este embrollo a los polis.
+
+243
 00:18:00,480 --> 00:18:02,940
 Mi hija, dígame, ¿le ha pasado algo a mi hija?
 
-243
-00:18:03,180 --> 00:18:04,700
-¿Qué es lo que está ocurriendo?
-
 244
-00:18:05,140 --> 00:18:07,980
-Tranquilos, no se preocupen. Debería hacer una llamada.
+00:18:04,020 --> 00:18:06,660
+- ¿Qué está ocurriendo? - Tranquilos, no se preocupen.
 
 245
-00:18:08,240 --> 00:18:09,640
-¿Qué le ha ocurrido a mi hija?
+00:18:06,920 --> 00:18:09,680
+- Debería hacer una llamada. - ¿Qué le ha ocurrido a mi hija?
 
 246
-00:18:10,060 --> 00:18:11,920
-Díganos qué está pasando, por favor.
+00:18:10,200 --> 00:18:14,220
+- Díganos qué está pasando, por favor. - Les pido que se calmen.
 
 247
-00:18:12,680 --> 00:18:14,180
-Les pido que se calmen.
+00:18:21,180 --> 00:18:24,220
+¿Qué diablos ocurre? La línea está cortada.
 
 248
-00:18:14,180 --> 00:18:22,620
-¿Qué diablos ocurre?
+00:18:38,800 --> 00:18:41,120
+Ana. Aguanta un poco.
 
 249
-00:18:23,120 --> 00:18:24,260
-La línea está cortada
+00:18:41,760 --> 00:18:42,080
+Ana.
 
 250
-00:18:38,660 --> 00:18:41,120
-Ana, aguanta un poco
+00:18:44,580 --> 00:18:45,800
+Es muy tarde.
 
 251
-00:18:41,120 --> 00:18:42,060
-Ana
+00:18:46,360 --> 00:18:47,840
+Ya hace rato que ha pasado la hora.
 
 252
-00:18:42,060 --> 00:18:47,860
-Es muy tarde. Ya hace rato que ha pasado la hora.
+00:18:48,560 --> 00:18:49,620
+No debería haber venido.
 
 253
-00:18:48,580 --> 00:18:51,340
-No debería haber venido. Seguro que me han gastado una broma.
+00:18:49,760 --> 00:18:51,340
+Seguro que me han gastado una broma.
 
 254
 00:18:52,520 --> 00:18:52,820
 Me voy.
 
 255
-00:18:55,260 --> 00:18:57,060
+00:18:55,180 --> 00:18:57,040
 No vas a ninguna parte.
 
 256
-00:18:57,060 --> 00:19:10,540
-Debes esperarte aquí
+00:19:08,840 --> 00:19:12,240
+Debes esperarte aquí. Hasta que venga.
 
 257
-00:19:10,540 --> 00:19:12,280
-Hasta que venga
-
-258
-00:19:12,280 --> 00:19:19,620
+00:19:18,500 --> 00:19:19,620
 ¿Quién es usted?
 
+258
+00:19:22,020 --> 00:19:23,380
+Tengo órdenes.
+
 259
-00:19:21,620 --> 00:19:23,440
-Tengo órdenes
+00:19:25,540 --> 00:19:28,260
+Órdenes de no dejarte marchar hasta que él llegue.
 
 260
-00:19:23,440 --> 00:19:27,040
-Órdenes de no dejarte marido
+00:19:30,720 --> 00:19:34,900
+Te he dicho que te esperes. ¿Qué pasa? ¿No lo entiendes?
 
 261
-00:19:27,060 --> 00:19:28,320
-Voy a marchar hasta que él llegue.
-
-262
-00:19:30,680 --> 00:19:33,040
-Te he dicho que te esperes.
-
-263
-00:19:33,400 --> 00:19:35,280
-¿Qué pasa? ¿No lo entiendes?
-
-264
 00:19:37,340 --> 00:19:38,060
 ¡Detente!
 
-265
-00:19:39,700 --> 00:19:41,160
+262
+00:19:39,700 --> 00:19:41,220
 ¡Tienes que esperarle!
 
-266
-00:19:42,560 --> 00:19:44,560
+263
+00:19:42,520 --> 00:19:44,560
 ¡Esas son sus órdenes!
 
-267
-00:19:45,960 --> 00:19:46,680
+264
+00:19:45,980 --> 00:19:46,700
 ¡Anna!
 
-268
+265
 00:19:52,620 --> 00:19:53,340
 ¡Anna!
 
-269
-00:19:54,340 --> 00:19:56,780
-No, ahora eres Nina Forner.
+266
+00:19:54,300 --> 00:19:57,260
+No, ahora eres Nina Forner, ¿verdad?
 
-270
-00:19:56,780 --> 00:19:58,360
-¿Verdad? ¿Te acuerdas de mí?
+267
+00:19:57,620 --> 00:19:58,340
+¿Te acuerdas de mí?
 
-271
-00:19:59,240 --> 00:20:00,400
+268
+00:19:59,220 --> 00:20:00,420
 Soy Tenma, el doctor.
 
-272
-00:20:01,240 --> 00:20:02,300
+269
+00:20:01,280 --> 00:20:02,280
 Me alegro de que estés bien.
 
+270
+00:20:03,340 --> 00:20:04,060
+¿Anna?
+
+271
+00:20:04,600 --> 00:20:05,960
+¿Doctor Tenma?
+
+272
+00:20:06,640 --> 00:20:09,000
+¡Anda, vámonos! ¡Tienes que volver a casa!
+
 273
-00:20:03,500 --> 00:20:05,940
-¿Ana? ¿Doctor Tenma?
+00:20:09,520 --> 00:20:12,440
+¿Entonces usted es mi Príncipe Azul?
 
 274
-00:20:06,460 --> 00:20:09,000
-Anda, vámonos. Tienes que volver a casa.
+00:20:12,820 --> 00:20:13,000
+¿Eh?
 
 275
-00:20:09,540 --> 00:20:12,400
-¿Entonces usted es mi príncipe azul?
-
-276
-00:20:13,720 --> 00:20:15,700
+00:20:13,820 --> 00:20:15,700
 ¿Quién demonios eres tú?
 
+276
+00:20:16,300 --> 00:20:19,680
+¡No te entrometas! ¡No te entrometas!
+
 277
-00:20:16,560 --> 00:20:19,680
-No te entrometas. ¡No te entrometas!
+00:20:20,220 --> 00:20:22,680
+¡Esta chica se va a quedar aquí conmigo!
 
 278
-00:20:20,220 --> 00:20:22,720
-Esta chica se va a quedar aquí conmigo.
+00:20:24,060 --> 00:20:27,780
+Porque si no lo hace yo... yo...
 
 279
-00:20:23,980 --> 00:20:25,780
-Porque si no lo hace yo...
+00:20:27,780 --> 00:20:30,260
+¡Ah! ¡Me voy a quedar sin la pasta!
 
 280
-00:20:26,780 --> 00:20:30,280
-Yo... ¡Me voy a quedar sin la pasta!
+00:20:30,920 --> 00:20:31,200
+¡Ah!
 
 281
-00:20:32,800 --> 00:20:36,720
-¡Me mintió! ¡Prometió que no vendría nadie! ¡Maldita sea!
+00:20:32,180 --> 00:20:33,240
+¡Ah! ¡Ah!
 
 282
-00:20:50,720 --> 00:20:51,980
-¿Está usted bien?
+00:20:33,280 --> 00:20:35,540
+¡Me mintió! ¡Prometió que no vendría nadie!
 
 283
-00:20:52,560 --> 00:20:54,340
-Sí, estoy bien. Muchas gracias.
+00:20:36,640 --> 00:20:37,220
+[GRITANDO]
 
 284
-00:20:54,880 --> 00:20:56,580
-Deme algo para atarle rápido.
+00:20:50,860 --> 00:20:51,980
+¿Está usted bien?
 
 285
-00:20:56,780 --> 00:21:00,700
-¡Suéltame!
+00:20:52,680 --> 00:20:53,640
+Sí, estoy bien.
 
 286
-00:21:02,160 --> 00:21:04,000
-Quiero saber quién te ha contratado.
+00:20:53,740 --> 00:20:54,320
+Muchas gracias.
 
 287
-00:21:04,180 --> 00:21:05,260
-No, no lo sé.
+00:20:54,820 --> 00:20:56,060
+Deme algo para atarle.
 
 288
-00:21:05,900 --> 00:21:08,100
-Pues dime al menos cuándo te dijo que vendría.
+00:20:56,240 --> 00:20:56,640
+Rápido.
 
 289
-00:21:08,360 --> 00:21:10,060
-No lo sé, lo único...
+00:21:00,080 --> 00:21:00,660
+¡Suéltame!
 
 290
-00:21:10,060 --> 00:21:13,820
-Lo único que dijo fue que antes tenía que hacer un trabajo muy importante.
+00:21:02,060 --> 00:21:04,000
+Quiero saber quién te ha contratado.
 
 291
-00:21:15,600 --> 00:21:18,000
-Tus padres están en peligro.
+00:21:04,160 --> 00:21:05,260
+No, no lo sé.
 
 292
-00:21:21,300 --> 00:21:23,320
-Tenemos que volver enseguida a tu casa.
+00:21:06,640 --> 00:21:08,120
+menos cuando te dijo que vendría.
 
 293
-00:21:23,320 --> 00:21:24,460
-¿Por qué? ¿Qué ocurre?
+00:21:08,460 --> 00:21:09,000
+No lo sé.
 
 294
-00:21:24,460 --> 00:21:28,100
-Te lo explicaré luego. Ahora tenemos que irnos, Ana. ¡Rápido!
+00:21:09,140 --> 00:21:12,480
+Lo único, lo único que dijo fue que antes tenía que hacer un
 
 295
-00:21:28,360 --> 00:21:29,160
-Ana...
+00:21:12,480 --> 00:21:13,840
+trabajo muy importante.
 
 296
-00:21:29,160 --> 00:21:29,440
-¡Vamos!
+00:21:15,660 --> 00:21:18,000
+Tus padres están en peligro.
 
 297
-00:21:36,520 --> 00:21:38,200
-¡Mierda! ¡No puedo soltarme!
+00:21:21,380 --> 00:21:23,320
+Tenemos que volver enseguida a tu casa.
 
 298
-00:21:54,460 --> 00:22:00,020
-Dígame, Dr. Demma, dígame, no sé quién es usted
+00:21:23,460 --> 00:21:23,760
+¿Por qué?
 
 299
-00:22:00,020 --> 00:22:03,360
-Además, yo no me llamo Ana, me llamo Nina
+00:21:23,900 --> 00:21:24,440
+¿Qué ocurre?
 
 300
-00:22:03,360 --> 00:22:08,340
-No, cuando te ingresaron a mi hospital, te llamabas Ana, de eso estoy muy seguro
+00:21:24,980 --> 00:21:25,980
+Te lo explicaré luego.
 
 301
-00:22:08,340 --> 00:22:12,920
-Y él, tu hermano, se llamaba Johan
+00:21:26,120 --> 00:21:27,440
+Ahora tenemos que irnos, Ana.
 
 302
-00:22:12,920 --> 00:22:16,280
-¿Mi hermano?
+00:21:27,680 --> 00:21:28,120
+Rápido.
 
 303
-00:22:24,460 --> 00:22:54,440
-La Iglesia de Jesucristo de los Santos de los Últimos Días
+00:21:28,420 --> 00:21:28,860
+Ana.
 
 304
-00:22:54,460 --> 00:22:57,920
-If you're game enough
+00:21:29,140 --> 00:21:29,440
+Vamos.
 
 305
-00:22:57,920 --> 00:23:06,120
-You could place your trust in me
+00:21:36,780 --> 00:21:38,240
+¡Mierda, no puedo soltarme!
 
 306
-00:23:06,120 --> 00:23:15,700
-For the love of life
+00:21:57,120 --> 00:21:59,980
+Dígame, Dr. Demma. Dígame, no sé quién es usted.
 
 307
-00:23:15,700 --> 00:23:20,460
-There's a trade-off
+00:22:00,400 --> 00:22:01,960
+Además, yo no me llamo Ana.
 
 308
-00:23:24,460 --> 00:23:31,560
-We could lose it all, but we'll go down fighting.
+00:22:02,580 --> 00:22:03,340
+¡Me llamo Nina!
 
 309
-00:23:47,280 --> 00:23:50,720
-Episodio 7. La mansión de las atrocidades.
+00:22:03,340 --> 00:22:08,320
+No, cuando te ingresaron a mi hospital, te llamaba Sana, de eso estoy muy seguro.
+
+310
+00:22:09,200 --> 00:22:12,920
+Y él, tu hermano, se llamaba Johan.
+
+311
+00:22:15,320 --> 00:22:16,280
+¿Mi hermano?
+
+312
+00:22:44,600 --> 00:22:46,000
+(Música)
+
+313
+00:23:06,520 --> 00:23:07,920
+[Música]
+
+314
+00:23:14,800 --> 00:23:16,200
+[Música]
+
+315
+00:23:24,240 --> 00:23:31,940
+Podríamos perderlo todo, pero bajaremos luchando.
+
+316
+00:23:46,720 --> 00:23:50,780
+Episodio 7 "La mansión de las atrocidades"
 
