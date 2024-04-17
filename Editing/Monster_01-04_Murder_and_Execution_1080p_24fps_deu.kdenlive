@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.22.0" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing">
- <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
+<mlt LC_NUMERIC="C" producer="main_bin" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing" version="7.22.0">
+ <profile colorspace="709" description="1440x1080 23.98fps" display_aspect_den="3" display_aspect_num="4" frame_rate_den="1001" frame_rate_num="24000" height="1080" progressive="1" sample_aspect_den="1" sample_aspect_num="1" width="1440"/>
  <chain id="chain31" out="00:23:54.763">
   <property name="length">34400</property>
   <property name="eof">pause</property>
@@ -965,7 +965,7 @@
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
   <blank length="01:08:38.872"/>
-  <entry producer="chain0" in="00:00:00.000" out="00:01:42.584">
+  <entry in="00:00:00.000" out="00:01:42.584" producer="chain0">
    <property name="kdenlive:id">15</property>
    <filter id="filter0">
     <property name="mlt_service">rbpitch</property>
@@ -1222,7 +1222,7 @@
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
   <blank length="00:05:49.174"/>
-  <entry producer="chain1" in="00:07:37.537" out="00:08:04.796">
+  <entry in="00:07:37.537" out="00:08:04.796" producer="chain1">
    <property name="kdenlive:id">3</property>
    <filter id="filter6" in="00:08:04.546" out="00:08:04.796">
     <property name="window">75</property>
@@ -1244,7 +1244,7 @@
    </filter>
   </entry>
   <blank length="00:00:43.377"/>
-  <entry producer="chain1" in="00:18:13.055" out="00:18:14.181">
+  <entry in="00:18:13.055" out="00:18:14.181" producer="chain1">
    <property name="kdenlive:id">3</property>
    <filter id="filter8" in="00:18:13.931" out="00:18:14.181">
     <property name="window">75</property>
@@ -1284,7 +1284,7 @@
    </filter>
   </entry>
   <blank length="00:01:14.681"/>
-  <entry producer="chain1" in="00:10:17.601" out="00:10:21.813">
+  <entry in="00:10:17.601" out="00:10:21.813" producer="chain1">
    <property name="kdenlive:id">3</property>
    <filter id="filter12">
     <property name="window">75</property>
@@ -1296,7 +1296,7 @@
    </filter>
   </entry>
   <blank length="00:00:01.835"/>
-  <entry producer="chain1" in="00:10:25.192" out="00:10:26.735">
+  <entry in="00:10:25.192" out="00:10:26.735" producer="chain1">
    <property name="kdenlive:id">3</property>
    <filter id="filter14" in="00:10:26.318" out="00:10:26.735">
     <property name="window">75</property>
@@ -1318,7 +1318,7 @@
    </filter>
   </entry>
   <blank length="00:00:03.879"/>
-  <entry producer="chain1" in="00:10:47.756" out="00:11:26.526">
+  <entry in="00:10:47.756" out="00:11:26.526" producer="chain1">
    <property name="kdenlive:id">3</property>
    <filter id="filter13">
     <property name="window">75</property>
@@ -1330,7 +1330,7 @@
    </filter>
   </entry>
   <blank length="00:00:54.805"/>
-  <entry producer="chain1" in="00:12:44.753" out="00:13:16.433">
+  <entry in="00:12:44.753" out="00:13:16.433" producer="chain1">
    <property name="kdenlive:id">3</property>
    <filter id="filter18" in="00:13:16.141" out="00:13:16.433">
     <property name="window">75</property>
@@ -1343,7 +1343,7 @@
    </filter>
   </entry>
   <blank length="00:03:56.139"/>
-  <entry producer="chain1" in="00:17:14.681" out="00:17:19.895">
+  <entry in="00:17:14.681" out="00:17:19.895" producer="chain1">
    <property name="kdenlive:id">3</property>
    <filter id="filter20" in="00:17:14.681" out="00:17:14.932">
     <property name="window">75</property>
@@ -1356,7 +1356,7 @@
    </filter>
   </entry>
   <blank length="00:13:10.010"/>
-  <entry producer="chain3" in="00:10:33.116" out="00:11:08.467">
+  <entry in="00:10:33.116" out="00:11:08.467" producer="chain3">
    <property name="kdenlive:id">5</property>
    <filter id="filter138" in="00:10:33.116" out="00:10:34.034">
     <property name="window">75</property>
@@ -1369,7 +1369,7 @@
    </filter>
   </entry>
   <blank length="00:01:11.470"/>
-  <entry producer="chain2" in="00:00:07.633" out="00:01:31.990">
+  <entry in="00:00:07.633" out="00:01:31.990" producer="chain2">
    <property name="kdenlive:id">14</property>
    <filter id="filter21">
     <property name="window">75</property>
@@ -1406,7 +1406,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain3" in="00:14:19.353" out="00:14:24.316">
+  <entry in="00:14:19.353" out="00:14:24.316" producer="chain3">
    <property name="kdenlive:id">5</property>
    <filter id="filter25" in="00:14:19.353" out="00:14:22.356">
     <property name="window">75</property>
@@ -1428,7 +1428,7 @@
    </filter>
   </entry>
   <blank length="00:07:03.295"/>
-  <entry producer="chain3" in="00:21:44.836" out="00:21:48.173">
+  <entry in="00:21:44.836" out="00:21:48.173" producer="chain3">
    <property name="kdenlive:id">5</property>
    <filter id="filter16">
     <property name="window">75</property>
@@ -1440,7 +1440,7 @@
    </filter>
   </entry>
   <blank length="00:06:12.554"/>
-  <entry producer="chain4" in="00:07:52.761" out="00:10:31.448">
+  <entry in="00:07:52.761" out="00:10:31.448" producer="chain4">
    <property name="kdenlive:id">7</property>
    <property name="kdenlive:activeeffect">1</property>
    <filter id="filter17">
@@ -1461,14 +1461,12 @@
    </filter>
   </entry>
   <blank length="00:12:03.503"/>
-  <entry producer="chain5" in="00:03:09.384" out="00:07:21.730">
+  <entry in="00:03:09.384" out="00:07:21.730" producer="chain5">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
   <blank length="00:02:24.942"/>
-  <entry producer="chain5" in="00:09:47.673" out="00:09:57.975">
+  <entry in="00:09:47.673" out="00:09:57.975" producer="chain5">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter34">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -1487,9 +1485,8 @@
    </filter>
   </entry>
   <blank length="00:00:05.005"/>
-  <entry producer="chain5" in="00:09:47.673" out="00:09:57.975">
+  <entry in="00:09:47.673" out="00:09:57.975" producer="chain5">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter28">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -1508,9 +1505,8 @@
    </filter>
   </entry>
   <blank length="00:00:02.461"/>
-  <entry producer="chain5" in="00:09:47.673" out="00:09:57.975">
+  <entry in="00:09:47.673" out="00:09:57.975" producer="chain5">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter30">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -1529,25 +1525,23 @@
    </filter>
   </entry>
   <blank length="00:03:04.463"/>
-  <entry producer="chain5" in="00:13:11.386" out="00:13:41.333">
+  <entry in="00:13:11.386" out="00:13:42.584" producer="chain5">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter32">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
-    <property name="level">00:13:11.386=0;00:13:40.123~=0;00:13:41.291~=-13.7214</property>
+    <property name="level">00:13:11.386=0;00:13:40.123~=0;00:13:42.542~=-9.32428</property>
     <property name="mlt_service">volume</property>
     <property name="kdenlive_id">volume</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:01:07.382"/>
-  <entry producer="chain5" in="00:15:22.022" out="00:15:31.406">
+  <blank length="00:01:06.131"/>
+  <entry in="00:15:22.022" out="00:15:31.406" producer="chain5">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
   <blank length="00:02:26.735"/>
-  <entry producer="chain5" in="00:18:18.227" out="00:18:21.313">
+  <entry in="00:18:18.227" out="00:18:21.313" producer="chain5">
    <property name="kdenlive:id">9</property>
    <filter id="filter45" in="00:18:18.227" out="00:18:21.313">
     <property name="window">75</property>
@@ -1734,7 +1728,7 @@
  <playlist id="playlist4">
   <property name="kdenlive:audio_track">1</property>
   <blank length="00:01:46.964"/>
-  <entry producer="chain6" in="00:03:21.146" out="00:05:03.712">
+  <entry in="00:03:21.146" out="00:05:03.712" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter51" in="00:03:21.146" out="00:03:25.692">
     <property name="window">75</property>
@@ -1756,7 +1750,7 @@
    </filter>
   </entry>
   <blank length="00:02:46.588"/>
-  <entry producer="chain6" in="00:08:06.715" out="00:08:08.050">
+  <entry in="00:08:06.715" out="00:08:08.050" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter54" in="00:08:06.715" out="00:08:07.049">
     <property name="window">75</property>
@@ -1778,7 +1772,7 @@
    </filter>
   </entry>
   <blank length="00:00:43.418"/>
-  <entry producer="chain6" in="00:08:59.768" out="00:09:25.776">
+  <entry in="00:08:59.768" out="00:09:25.776" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter56" in="00:08:59.768" out="00:08:59.977">
     <property name="window">75</property>
@@ -1799,7 +1793,7 @@
    </filter>
   </entry>
   <blank length="00:00:09.593"/>
-  <entry producer="chain6" in="00:09:38.080" out="00:10:19.436">
+  <entry in="00:09:38.080" out="00:10:19.436" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter58" in="00:09:38.080" out="00:09:38.538">
     <property name="window">75</property>
@@ -1820,7 +1814,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.959"/>
-  <entry producer="chain6" in="00:10:21.313" out="00:10:25.150">
+  <entry in="00:10:21.313" out="00:10:25.150" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter35">
     <property name="window">75</property>
@@ -1832,7 +1826,7 @@
    </filter>
   </entry>
   <blank length="00:00:01.335"/>
-  <entry producer="chain6" in="00:10:34.952" out="00:10:38.747">
+  <entry in="00:10:34.952" out="00:10:38.747" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter62" in="00:10:34.952" out="00:10:37.246">
     <property name="window">75</property>
@@ -1854,7 +1848,7 @@
    </filter>
   </entry>
   <blank length="00:00:37.371"/>
-  <entry producer="chain6" in="00:11:28.445" out="00:11:35.535">
+  <entry in="00:11:28.445" out="00:11:35.535" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter53">
     <property name="window">75</property>
@@ -1866,7 +1860,7 @@
    </filter>
   </entry>
   <blank length="00:05:20.771"/>
-  <entry producer="chain6" in="00:17:25.275" out="00:18:55.264">
+  <entry in="00:17:25.275" out="00:18:55.264" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter65" in="00:18:54.346" out="00:18:55.264">
     <property name="window">75</property>
@@ -1888,7 +1882,7 @@
    </filter>
   </entry>
   <blank length="00:00:21.021"/>
-  <entry producer="chain6" in="00:19:18.769" out="00:20:31.490">
+  <entry in="00:19:18.769" out="00:20:31.490" producer="chain6">
    <property name="kdenlive:id">3</property>
    <filter id="filter59">
     <property name="window">75</property>
@@ -1900,7 +1894,7 @@
    </filter>
   </entry>
   <blank length="00:01:05.005"/>
-  <entry producer="chain7" in="00:00:00.000" out="00:00:53.011">
+  <entry in="00:00:00.000" out="00:00:53.011" producer="chain7">
    <property name="kdenlive:id">5</property>
    <filter id="filter69" out="00:00:04.421">
     <property name="window">75</property>
@@ -1912,7 +1906,7 @@
    </filter>
   </entry>
   <blank length="00:08:44.294"/>
-  <entry producer="chain7" in="00:11:09.676" out="00:11:28.362">
+  <entry in="00:11:09.676" out="00:11:28.362" producer="chain7">
    <property name="kdenlive:id">5</property>
    <filter id="filter60">
     <property name="window">75</property>
@@ -1924,7 +1918,7 @@
    </filter>
   </entry>
   <blank length="00:00:05.005"/>
-  <entry producer="chain7" in="00:11:49.841" out="00:11:52.844">
+  <entry in="00:11:49.841" out="00:11:52.844" producer="chain7">
    <property name="kdenlive:id">5</property>
    <filter id="filter61">
     <property name="window">75</property>
@@ -1936,7 +1930,7 @@
    </filter>
   </entry>
   <blank length="00:00:22.189"/>
-  <entry producer="chain7" in="00:12:27.110" out="00:14:16.600">
+  <entry in="00:12:27.110" out="00:14:16.600" producer="chain7">
    <property name="kdenlive:id">5</property>
    <filter id="filter75" in="00:14:14.556" out="00:14:16.600">
     <property name="window">75</property>
@@ -1949,7 +1943,7 @@
    </filter>
   </entry>
   <blank length="00:05:18.101"/>
-  <entry producer="chain7" in="00:19:56.098" out="00:21:45.170">
+  <entry in="00:19:56.098" out="00:21:45.170" producer="chain7">
    <property name="kdenlive:id">5</property>
    <filter id="filter76" in="00:19:56.098" out="00:19:57.849">
     <property name="window">75</property>
@@ -1971,7 +1965,7 @@
    </filter>
   </entry>
   <blank length="00:00:08.425"/>
-  <entry producer="chain7" in="00:22:01.001" out="00:22:11.470">
+  <entry in="00:22:01.001" out="00:22:11.470" producer="chain7">
    <property name="kdenlive:id">5</property>
    <filter id="filter79" in="00:22:07.466" out="00:22:11.470">
     <property name="window">75</property>
@@ -1992,11 +1986,11 @@
    </filter>
   </entry>
   <blank length="00:01:01.960"/>
-  <entry producer="chain8" in="00:02:19.519" out="00:03:33.116">
+  <entry in="00:02:19.519" out="00:03:33.116" producer="chain8">
    <property name="kdenlive:id">7</property>
   </entry>
   <blank length="00:00:13.889"/>
-  <entry producer="chain8" in="00:04:01.501" out="00:06:03.545">
+  <entry in="00:04:01.501" out="00:06:03.545" producer="chain8">
    <property name="kdenlive:id">7</property>
    <filter id="filter80" in="00:04:01.501" out="00:04:02.628">
     <property name="window">75</property>
@@ -2017,7 +2011,7 @@
    </filter>
   </entry>
   <blank length="00:00:05.130"/>
-  <entry producer="chain8" in="00:06:11.386" out="00:07:30.989">
+  <entry in="00:06:11.386" out="00:07:30.989" producer="chain8">
    <property name="kdenlive:id">7</property>
    <filter id="filter66">
     <property name="window">75</property>
@@ -2029,9 +2023,8 @@
    </filter>
   </entry>
   <blank length="00:02:35.744"/>
-  <entry producer="chain8" in="00:10:46.380" out="00:12:48.507">
+  <entry in="00:10:46.380" out="00:12:48.507" producer="chain8">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter38">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2042,13 +2035,12 @@
    </filter>
   </entry>
   <blank length="00:03:58.433"/>
-  <entry producer="chain8" in="00:17:02.336" out="00:17:03.587">
+  <entry in="00:17:02.336" out="00:17:03.587" producer="chain8">
    <property name="kdenlive:id">7</property>
   </entry>
   <blank length="00:00:12.012"/>
-  <entry producer="chain8" in="00:17:02.794" out="00:17:19.645">
+  <entry in="00:17:02.794" out="00:17:19.645" producer="chain8">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter39">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2059,18 +2051,16 @@
    </filter>
   </entry>
   <blank length="00:00:21.480"/>
-  <entry producer="chain8" in="00:17:50.676" out="00:18:38.205">
+  <entry in="00:17:50.676" out="00:18:38.205" producer="chain8">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
   <blank length="00:01:37.412"/>
-  <entry producer="chain8" in="00:20:16.683" out="00:22:27.152">
+  <entry in="00:20:16.683" out="00:22:27.152" producer="chain8">
    <property name="kdenlive:id">7</property>
   </entry>
   <blank length="00:00:18.477"/>
-  <entry producer="chain9" in="00:02:42.751" out="00:02:57.099">
+  <entry in="00:02:42.751" out="00:02:57.099" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter40">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2081,7 +2071,7 @@
    </filter>
   </entry>
   <blank length="00:04:17.100"/>
-  <entry producer="chain9" in="00:07:27.945" out="00:09:53.220">
+  <entry in="00:07:27.945" out="00:09:53.220" producer="chain9">
    <property name="kdenlive:id">9</property>
    <filter id="filter41">
     <property name="window">75</property>
@@ -2093,9 +2083,8 @@
    </filter>
   </entry>
   <blank length="00:00:07.549"/>
-  <entry producer="chain9" in="00:09:47.673" out="00:09:57.975">
+  <entry in="00:09:47.673" out="00:09:57.975" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter42">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2114,9 +2103,8 @@
    </filter>
   </entry>
   <blank length="00:00:03.128"/>
-  <entry producer="chain9" in="00:09:47.673" out="00:09:57.975">
+  <entry in="00:09:47.673" out="00:09:57.975" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter44">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2135,9 +2123,8 @@
    </filter>
   </entry>
   <blank length="00:00:02.753"/>
-  <entry producer="chain9" in="00:09:47.673" out="00:09:56.640">
+  <entry in="00:09:47.673" out="00:09:56.640" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter68">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2148,7 +2135,7 @@
    </filter>
   </entry>
   <blank length="00:00:31.907"/>
-  <entry producer="chain9" in="00:10:43.085" out="00:13:12.304">
+  <entry in="00:10:43.085" out="00:13:12.304" producer="chain9">
    <property name="kdenlive:id">9</property>
    <filter id="filter70">
     <property name="window">75</property>
@@ -2160,9 +2147,8 @@
    </filter>
   </entry>
   <blank length="00:00:30.656"/>
-  <entry producer="chain9" in="00:13:56.890" out="00:14:05.005">
+  <entry in="00:13:56.890" out="00:14:05.005" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter71">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2173,9 +2159,9 @@
    </filter>
   </entry>
   <blank length="00:00:04.129"/>
-  <entry producer="chain9" in="00:14:12.679" out="00:14:16.391">
+  <entry in="00:14:12.679" out="00:14:16.391" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <filter id="filter106" in="00:14:16.183" out="00:14:16.433">
+   <filter id="filter106" in="00:14:16.141" out="00:14:16.391">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2186,9 +2172,8 @@
    </filter>
   </entry>
   <blank length="00:00:02.669"/>
-  <entry producer="chain9" in="00:14:22.231" out="00:15:02.211">
+  <entry in="00:14:22.231" out="00:15:02.211" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter72">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2199,9 +2184,8 @@
    </filter>
   </entry>
   <blank length="00:00:04.504"/>
-  <entry producer="chain9" in="00:15:19.228" out="00:15:22.064">
+  <entry in="00:15:19.228" out="00:15:22.064" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter73">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2212,9 +2196,8 @@
    </filter>
   </entry>
   <blank length="00:00:08.258"/>
-  <entry producer="chain9" in="00:15:32.074" out="00:18:00.876">
+  <entry in="00:15:32.074" out="00:18:00.876" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
  </playlist>
  <playlist id="playlist5">
@@ -2475,11 +2458,11 @@
  </chain>
  <playlist id="playlist6">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="chain10" in="00:00:00.000" out="00:01:52.761">
+  <entry in="00:00:00.000" out="00:01:52.761" producer="chain10">
    <property name="kdenlive:id">3</property>
   </entry>
   <blank length="00:01:36.286"/>
-  <entry producer="chain10" in="00:05:03.837" out="00:07:25.484">
+  <entry in="00:05:03.837" out="00:07:25.484" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter122" in="00:07:24.691" out="00:07:25.484">
     <property name="window">75</property>
@@ -2500,7 +2483,7 @@
    </filter>
   </entry>
   <blank length="00:00:26.485"/>
-  <entry producer="chain10" in="00:08:09.927" out="00:08:55.055">
+  <entry in="00:08:09.927" out="00:08:55.055" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter123" in="00:08:52.844" out="00:08:55.055">
     <property name="window">75</property>
@@ -2522,7 +2505,7 @@
    </filter>
   </entry>
   <blank length="00:00:22.481"/>
-  <entry producer="chain10" in="00:09:25.317" out="00:09:38.038">
+  <entry in="00:09:25.317" out="00:09:38.038" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter125" in="00:09:25.317" out="00:09:26.401">
     <property name="window">75</property>
@@ -2544,7 +2527,7 @@
    </filter>
   </entry>
   <blank length="00:00:44.753"/>
-  <entry producer="chain10" in="00:10:29.238" out="00:10:34.117">
+  <entry in="00:10:29.238" out="00:10:34.117" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter81" in="00:10:29.238" out="00:10:30.781">
     <property name="window">75</property>
@@ -2565,7 +2548,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain10" in="00:10:38.413" out="00:10:40.666">
+  <entry in="00:10:38.413" out="00:10:40.666" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter129" in="00:10:38.413" out="00:10:38.997">
     <property name="window">75</property>
@@ -2578,7 +2561,7 @@
    </filter>
   </entry>
   <blank length="00:00:39.331"/>
-  <entry producer="chain10" in="00:11:46.255" out="00:12:39.248">
+  <entry in="00:11:46.255" out="00:12:39.248" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter130" in="00:11:46.255" out="00:11:49.967">
     <property name="window">75</property>
@@ -2591,7 +2574,7 @@
    </filter>
   </entry>
   <blank length="00:00:30.113"/>
-  <entry producer="chain10" in="00:13:16.558" out="00:17:14.056">
+  <entry in="00:13:16.558" out="00:17:14.056" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter131" in="00:13:16.558" out="00:13:16.642">
     <property name="window">75</property>
@@ -2612,7 +2595,7 @@
    </filter>
   </entry>
   <blank length="00:01:32.699"/>
-  <entry producer="chain10" in="00:18:56.139" out="00:19:18.393">
+  <entry in="00:18:56.139" out="00:19:18.393" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter132" in="00:18:56.139" out="00:18:57.057">
     <property name="window">75</property>
@@ -2634,7 +2617,7 @@
    </filter>
   </entry>
   <blank length="00:01:11.178"/>
-  <entry producer="chain10" in="00:21:16.892" out="00:22:26.610">
+  <entry in="00:21:16.892" out="00:22:26.610" producer="chain10">
    <property name="kdenlive:id">3</property>
    <filter id="filter84">
     <property name="window">75</property>
@@ -2646,7 +2629,7 @@
    </filter>
   </entry>
   <blank length="00:00:46.171"/>
-  <entry producer="chain11" in="00:02:18.685" out="00:10:33.784">
+  <entry in="00:02:18.685" out="00:10:33.784" producer="chain11">
    <property name="kdenlive:id">5</property>
    <filter id="filter137" in="00:10:33.700" out="00:10:33.784">
     <property name="window">75</property>
@@ -2659,7 +2642,7 @@
    </filter>
   </entry>
   <blank length="00:00:45.754"/>
-  <entry producer="chain11" in="00:11:34.326" out="00:11:45.754">
+  <entry in="00:11:34.326" out="00:11:45.754" producer="chain11">
    <property name="kdenlive:id">5</property>
    <filter id="filter85">
     <property name="window">75</property>
@@ -2671,7 +2654,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.334"/>
-  <entry producer="chain11" in="00:11:55.097" out="00:12:22.564">
+  <entry in="00:11:55.097" out="00:12:22.564" producer="chain11">
    <property name="kdenlive:id">5</property>
    <filter id="filter86">
     <property name="window">75</property>
@@ -2683,7 +2666,7 @@
    </filter>
   </entry>
   <blank length="00:00:11.386"/>
-  <entry producer="chain12" in="00:00:00.000" out="00:00:55.681">
+  <entry in="00:00:00.000" out="00:00:55.681" producer="chain12">
    <property name="kdenlive:id">14</property>
    <filter id="filter143">
     <property name="window">75</property>
@@ -2704,7 +2687,7 @@
    </filter>
   </entry>
   <blank length="00:00:38.288"/>
-  <entry producer="chain11" in="00:14:34.201" out="00:19:56.348">
+  <entry in="00:14:34.201" out="00:19:56.348" producer="chain11">
    <property name="kdenlive:id">5</property>
    <filter id="filter87">
     <property name="window">75</property>
@@ -2716,7 +2699,7 @@
    </filter>
   </entry>
   <blank length="00:01:45.963"/>
-  <entry producer="chain11" in="00:21:50.342" out="00:22:00.959">
+  <entry in="00:21:50.342" out="00:22:00.959" producer="chain11">
    <property name="kdenlive:id">5</property>
    <filter id="filter88">
     <property name="window">75</property>
@@ -2728,7 +2711,7 @@
    </filter>
   </entry>
   <blank length="00:00:03.837"/>
-  <entry producer="chain11" in="00:22:11.511" out="00:22:26.735">
+  <entry in="00:22:11.511" out="00:22:26.735" producer="chain11">
    <property name="kdenlive:id">5</property>
    <filter id="filter149" in="00:22:11.511" out="00:22:12.512">
     <property name="window">75</property>
@@ -2740,7 +2723,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain13" in="00:00:00.000" out="00:00:53.095">
+  <entry in="00:00:00.000" out="00:00:53.095" producer="chain13">
    <property name="kdenlive:id">7</property>
    <filter id="filter89">
     <property name="window">75</property>
@@ -2752,7 +2735,7 @@
    </filter>
   </entry>
   <blank length="00:01:09.343"/>
-  <entry producer="chain13" in="00:03:38.247" out="00:03:55.222">
+  <entry in="00:03:38.247" out="00:03:55.222" producer="chain13">
    <property name="kdenlive:id">7</property>
    <filter id="filter151" in="00:03:38.247" out="00:03:40.207">
     <property name="window">75</property>
@@ -2765,18 +2748,16 @@
    </filter>
   </entry>
   <blank length="00:02:00.334"/>
-  <entry producer="chain13" in="00:06:05.631" out="00:06:11.345">
+  <entry in="00:06:05.631" out="00:06:11.345" producer="chain13">
    <property name="kdenlive:id">7</property>
   </entry>
   <blank length="00:05:56.056"/>
-  <entry producer="chain13" in="00:12:48.799" out="00:16:49.299">
+  <entry in="00:12:48.799" out="00:16:49.299" producer="chain13">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
   <blank length="00:00:00.542"/>
-  <entry producer="chain13" in="00:16:49.132" out="00:17:02.544">
+  <entry in="00:16:49.132" out="00:17:02.544" producer="chain13">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter90">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2787,9 +2768,8 @@
    </filter>
   </entry>
   <blank length="00:00:11.845"/>
-  <entry producer="chain13" in="00:17:23.941" out="00:17:50.884">
+  <entry in="00:17:23.941" out="00:17:50.884" producer="chain13">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter91">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2800,17 +2780,15 @@
    </filter>
   </entry>
   <blank length="00:00:45.212"/>
-  <entry producer="chain13" in="00:18:37.955" out="00:20:15.974">
+  <entry in="00:18:37.955" out="00:20:15.974" producer="chain13">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
   <blank length="00:02:07.591"/>
-  <entry producer="chain14" in="00:02:19.978" out="00:02:43.543">
+  <entry in="00:02:19.978" out="00:02:43.543" producer="chain14">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
   <blank length="00:00:11.595"/>
-  <entry producer="chain14" in="00:03:00.876" out="00:03:06.423">
+  <entry in="00:03:00.876" out="00:03:06.423" producer="chain14">
    <property name="kdenlive:id">9</property>
    <filter id="filter92">
     <property name="window">75</property>
@@ -2822,7 +2800,7 @@
    </filter>
   </entry>
   <blank length="00:06:30.614"/>
-  <entry producer="chain15" in="00:17:40.415" out="00:18:21.772">
+  <entry in="00:17:40.415" out="00:18:21.772" producer="chain15">
    <property name="kdenlive:id">11</property>
    <filter id="filter162" in="00:17:40.415" out="00:17:40.540">
     <property name="window">75</property>
@@ -2835,9 +2813,8 @@
    </filter>
   </entry>
   <blank length="00:00:08.008"/>
-  <entry producer="chain14" in="00:10:01.877" out="00:10:36.453">
+  <entry in="00:10:01.877" out="00:10:36.453" producer="chain14">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter163" in="00:10:01.877" out="00:10:02.252">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2857,9 +2834,8 @@
    </filter>
   </entry>
   <blank length="00:02:52.803"/>
-  <entry producer="chain14" in="00:13:45.837" out="00:13:53.011">
+  <entry in="00:13:45.837" out="00:13:53.011" producer="chain14">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter94">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2870,12 +2846,11 @@
    </filter>
   </entry>
   <blank length="00:00:05.088"/>
-  <entry producer="chain14" in="00:14:07.674" out="00:14:13.180">
+  <entry in="00:14:07.674" out="00:14:13.180" producer="chain14">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
   <blank length="00:00:01.710"/>
-  <entry producer="chain14" in="00:14:15.682" out="00:14:22.314">
+  <entry in="00:14:15.682" out="00:14:22.314" producer="chain14">
    <property name="kdenlive:id">9</property>
    <filter id="filter95">
     <property name="window">75</property>
@@ -2887,9 +2862,8 @@
    </filter>
   </entry>
   <blank length="00:00:37.120"/>
-  <entry producer="chain14" in="00:15:09.885" out="00:15:14.932">
+  <entry in="00:15:09.885" out="00:15:14.932" producer="chain14">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter96">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2900,9 +2874,8 @@
    </filter>
   </entry>
   <blank length="00:00:10.260"/>
-  <entry producer="chain14" in="00:15:31.281" out="00:15:32.074">
+  <entry in="00:15:31.281" out="00:15:32.074" producer="chain14">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter97">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -2913,9 +2886,8 @@
    </filter>
   </entry>
   <blank length="00:02:27.361"/>
-  <entry producer="chain14" in="00:18:12.346" out="00:23:37.955">
+  <entry in="00:18:12.346" out="00:23:37.955" producer="chain14">
    <property name="kdenlive:id">9</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter98">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -3814,7 +3786,7 @@
  </producer>
  <playlist id="playlist8">
   <blank length="00:00:00.042"/>
-  <entry producer="chain16" in="00:00:00.000" out="00:01:52.219">
+  <entry in="00:00:00.000" out="00:01:52.219" producer="chain16">
    <property name="kdenlive:id">2</property>
    <filter id="filter180" in="00:01:48.257" out="00:01:52.219">
     <property name="start">1</property>
@@ -3826,7 +3798,7 @@
    </filter>
   </entry>
   <blank length="00:05:07.174"/>
-  <entry producer="chain16" in="00:08:58.267" out="00:09:23.649">
+  <entry in="00:08:58.267" out="00:09:23.649" producer="chain16">
    <property name="kdenlive:id">2</property>
    <filter id="filter181" in="00:08:58.267" out="00:08:59.726">
     <property name="start">1</property>
@@ -3837,56 +3809,56 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain16" in="00:09:25.317" out="00:09:36.995">
+  <entry in="00:09:25.317" out="00:09:36.995" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:09:38.080" out="00:10:18.435">
+  <entry in="00:09:38.080" out="00:10:18.435" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:10:18.894" out="00:10:21.271">
+  <entry in="00:10:18.894" out="00:10:21.271" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:10:21.772" out="00:10:24.274">
+  <entry in="00:10:21.772" out="00:10:24.274" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:10:25.192" out="00:10:27.110">
+  <entry in="00:10:25.192" out="00:10:27.110" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="producer1" in="00:05:15.599" out="00:05:19.353">
+  <entry in="00:05:15.599" out="00:05:19.353" producer="producer1">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:10:38.789" out="00:10:40.666">
+  <entry in="00:10:38.789" out="00:10:40.666" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:10:50.133" out="00:11:25.817">
+  <entry in="00:10:50.133" out="00:11:25.817" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:11:28.445" out="00:11:35.535">
+  <entry in="00:11:28.445" out="00:11:35.535" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:11:49.800" out="00:12:38.914">
+  <entry in="00:11:49.800" out="00:12:38.914" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:12:45.504" out="00:13:16.183">
+  <entry in="00:12:45.504" out="00:13:16.183" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:13:16.850" out="00:17:13.513">
+  <entry in="00:13:16.850" out="00:17:13.513" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:17:15.015" out="00:17:19.144">
+  <entry in="00:17:15.015" out="00:17:19.144" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:17:25.275" out="00:18:54.596">
+  <entry in="00:17:25.275" out="00:18:54.596" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
   <blank length="00:00:00.083"/>
-  <entry producer="chain16" in="00:18:56.556" out="00:19:18.143">
+  <entry in="00:18:56.556" out="00:19:18.143" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:19:18.769" out="00:20:30.030">
+  <entry in="00:19:18.769" out="00:20:30.030" producer="chain16">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain16" in="00:21:16.808" out="00:22:26.610">
+  <entry in="00:21:16.808" out="00:22:26.610" producer="chain16">
    <property name="kdenlive:id">2</property>
    <filter id="filter182" in="00:22:22.147" out="00:22:26.610">
     <property name="start">1</property>
@@ -3898,7 +3870,7 @@
    </filter>
   </entry>
   <blank length="00:00:46.171"/>
-  <entry producer="chain17" in="00:02:18.685" out="00:10:25.192">
+  <entry in="00:02:18.685" out="00:10:25.192" producer="chain17">
    <property name="kdenlive:id">4</property>
    <filter id="filter183" in="00:02:18.685" out="00:02:21.313">
     <property name="start">1</property>
@@ -3909,31 +3881,31 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer2" in="00:08:20.270" out="00:08:27.903">
+  <entry in="00:08:20.270" out="00:08:27.903" producer="producer2">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:10:34.993" out="00:11:08.467">
+  <entry in="00:10:34.993" out="00:11:08.467" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:11:09.676" out="00:11:27.861">
+  <entry in="00:11:09.676" out="00:11:27.861" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:11:39.414" out="00:11:43.835">
+  <entry in="00:11:39.414" out="00:11:43.835" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:11:44.211" out="00:11:44.962">
+  <entry in="00:11:44.211" out="00:11:44.962" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:11:49.591" out="00:11:51.843">
+  <entry in="00:11:49.591" out="00:11:51.843" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:11:52.177" out="00:11:52.803">
+  <entry in="00:11:52.177" out="00:11:52.803" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer3" in="00:01:58.892" out="00:01:59.393">
+  <entry in="00:01:58.892" out="00:01:59.393" producer="producer3">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:11:57.140" out="00:12:20.479">
+  <entry in="00:11:57.140" out="00:12:20.479" producer="chain17">
    <property name="kdenlive:id">4</property>
    <filter id="filter184" in="00:12:19.102" out="00:12:20.479">
     <property name="start">1</property>
@@ -3945,7 +3917,7 @@
    </filter>
   </entry>
   <blank length="00:01:47.506"/>
-  <entry producer="chain17" in="00:14:34.201" out="00:19:52.886">
+  <entry in="00:14:34.201" out="00:19:52.886" producer="chain17">
    <property name="kdenlive:id">4</property>
    <filter id="filter185" in="00:14:34.201" out="00:14:35.994">
     <property name="start">1</property>
@@ -3957,67 +3929,67 @@
    </filter>
   </entry>
   <blank length="00:01:50.259"/>
-  <entry producer="chain17" in="00:21:51.009" out="00:21:52.052">
+  <entry in="00:21:51.009" out="00:21:52.052" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:21:52.261" out="00:22:00.959">
+  <entry in="00:21:52.261" out="00:22:00.959" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer4" in="00:08:48.757" out="00:08:52.552">
+  <entry in="00:08:48.757" out="00:08:52.552" producer="producer4">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain17" in="00:22:11.511" out="00:22:26.735">
+  <entry in="00:22:11.511" out="00:22:26.735" producer="chain17">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain18" in="00:00:00.000" out="00:00:52.511">
+  <entry in="00:00:00.000" out="00:00:52.511" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:02:21.271" out="00:03:33.116">
+  <entry in="00:02:21.271" out="00:03:33.116" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:03:40.207" out="00:03:55.222">
+  <entry in="00:03:40.207" out="00:03:55.222" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:04:02.669" out="00:06:03.253">
+  <entry in="00:04:02.669" out="00:06:03.253" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:06:05.923" out="00:06:11.345">
+  <entry in="00:06:05.923" out="00:06:11.345" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:06:11.428" out="00:07:27.819">
+  <entry in="00:06:11.428" out="00:07:27.819" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:07:50.467" out="00:10:30.364">
+  <entry in="00:07:50.467" out="00:10:30.364" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:10:47.422" out="00:12:47.047">
+  <entry in="00:10:47.422" out="00:12:47.047" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:12:48.799" out="00:16:47.923">
+  <entry in="00:12:48.799" out="00:16:47.923" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
   <blank length="00:00:02.002"/>
-  <entry producer="chain18" in="00:16:49.216" out="00:17:02.044">
+  <entry in="00:16:49.216" out="00:17:02.044" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:17:03.670" out="00:17:18.685">
+  <entry in="00:17:03.670" out="00:17:18.685" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:17:26.276" out="00:17:26.735">
+  <entry in="00:17:26.276" out="00:17:26.735" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:17:27.152" out="00:17:50.425">
+  <entry in="00:17:27.152" out="00:17:50.425" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:17:52.052" out="00:18:37.913">
+  <entry in="00:17:52.052" out="00:18:37.913" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:18:38.205" out="00:20:15.849">
+  <entry in="00:18:38.205" out="00:20:15.849" producer="chain18">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain18" in="00:20:16.683" out="00:22:26.777">
+  <entry in="00:20:16.683" out="00:22:26.777" producer="chain18">
    <property name="kdenlive:id">6</property>
-   <filter id="filter186" in="00:22:25.651" out="00:22:26.818">
+   <filter id="filter186" in="00:22:25.609" out="00:22:26.777">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -4027,76 +3999,76 @@
    </filter>
   </entry>
   <blank length="00:00:19.770"/>
-  <entry producer="chain19" in="00:02:43.669" out="00:02:53.720">
+  <entry in="00:02:43.669" out="00:02:53.720" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:02:57.516" out="00:03:00.417">
+  <entry in="00:02:57.516" out="00:03:00.417" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:03:00.876" out="00:03:06.298">
+  <entry in="00:03:00.876" out="00:03:06.298" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:03:09.384" out="00:07:21.521">
+  <entry in="00:03:09.384" out="00:07:21.521" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:07:28.028" out="00:09:46.630">
+  <entry in="00:07:28.028" out="00:09:46.630" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain22" in="00:17:40.457" out="00:18:21.104">
+  <entry in="00:17:40.457" out="00:18:21.104" producer="chain22">
    <property name="kdenlive:id">10</property>
   </entry>
-  <entry producer="chain19" in="00:09:47.673" out="00:09:56.640">
+  <entry in="00:09:47.673" out="00:09:56.640" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:10:02.294" out="00:10:34.159">
+  <entry in="00:10:02.294" out="00:10:34.159" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:10:43.085" out="00:13:11.678">
+  <entry in="00:10:43.085" out="00:13:11.678" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:13:12.262" out="00:13:40.749">
+  <entry in="00:13:12.262" out="00:13:40.749" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:13:47.923" out="00:13:52.344">
+  <entry in="00:13:47.923" out="00:13:52.344" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:13:58.600" out="00:14:04.338">
+  <entry in="00:13:58.600" out="00:14:04.338" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:14:07.674" out="00:14:12.429">
+  <entry in="00:14:07.674" out="00:14:12.429" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:14:12.679" out="00:14:16.391">
+  <entry in="00:14:12.679" out="00:14:16.391" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="producer5" in="00:05:42.709" out="00:05:43.418">
+  <entry in="00:05:42.709" out="00:05:43.418" producer="producer5">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="producer6" in="00:05:43.919" out="00:05:44.878">
+  <entry in="00:05:43.919" out="00:05:44.878" producer="producer6">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:14:18.727" out="00:14:19.603">
+  <entry in="00:14:18.727" out="00:14:19.603" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:14:22.231" out="00:15:01.752">
+  <entry in="00:14:22.231" out="00:15:01.752" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:15:09.635" out="00:15:14.556">
+  <entry in="00:15:09.635" out="00:15:14.556" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:15:19.519" out="00:15:21.730">
+  <entry in="00:15:19.519" out="00:15:21.730" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:15:22.314" out="00:15:30.656">
+  <entry in="00:15:22.314" out="00:15:30.656" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:15:30.739" out="00:15:31.907">
+  <entry in="00:15:30.739" out="00:15:31.907" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:15:32.783" out="00:17:59.893">
+  <entry in="00:15:32.783" out="00:17:59.893" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="chain19" in="00:18:12.512" out="00:23:37.955">
+  <entry in="00:18:12.512" out="00:23:37.955" producer="chain19">
    <property name="kdenlive:id">8</property>
   </entry>
  </playlist>
@@ -4428,7 +4400,7 @@
  </chain>
  <playlist id="playlist10">
   <blank length="00:01:47.965"/>
-  <entry producer="chain23" in="00:03:22.147" out="00:05:03.712">
+  <entry in="00:03:22.147" out="00:05:03.712" producer="chain23">
    <property name="kdenlive:id">2</property>
    <filter id="filter187" in="00:03:22.147" out="00:03:26.109">
     <property name="start">1</property>
@@ -4439,16 +4411,16 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain23" in="00:05:04.338" out="00:07:24.274">
+  <entry in="00:05:04.338" out="00:07:24.274" producer="chain23">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain23" in="00:07:37.913" out="00:08:04.796">
+  <entry in="00:07:37.913" out="00:08:04.796" producer="chain23">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain23" in="00:08:06.590" out="00:08:07.591">
+  <entry in="00:08:06.590" out="00:08:07.591" producer="chain23">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="chain23" in="00:08:10.219" out="00:08:53.595">
+  <entry in="00:08:10.219" out="00:08:53.595" producer="chain23">
    <property name="kdenlive:id">2</property>
    <filter id="filter188" in="00:08:52.052" out="00:08:53.595">
     <property name="start">1</property>
@@ -4460,7 +4432,7 @@
    </filter>
   </entry>
   <blank length="00:11:41.124"/>
-  <entry producer="chain24" in="00:00:00.000" out="00:00:52.594">
+  <entry in="00:00:00.000" out="00:00:52.594" producer="chain24">
    <property name="kdenlive:id">4</property>
    <filter id="filter189" out="00:00:04.421">
     <property name="start">1</property>
@@ -4480,7 +4452,7 @@
    </filter>
   </entry>
   <blank length="00:09:33.659"/>
-  <entry producer="chain24" in="00:12:27.110" out="00:14:18.393">
+  <entry in="00:12:27.110" out="00:14:18.393" producer="chain24">
    <property name="kdenlive:id">4</property>
    <filter id="filter191" in="00:14:15.974" out="00:14:18.393">
     <property name="start">1</property>
@@ -4500,18 +4472,18 @@
    </filter>
   </entry>
   <blank length="00:05:16.308"/>
-  <entry producer="chain24" in="00:19:56.098" out="00:21:44.294">
+  <entry in="00:19:56.098" out="00:21:44.294" producer="chain24">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain24" in="00:21:45.587" out="00:21:47.547">
+  <entry in="00:21:45.587" out="00:21:47.547" producer="chain24">
    <property name="kdenlive:id">4</property>
   </entry>
   <blank length="00:14:49.716"/>
-  <entry producer="chain25" in="00:17:00.667" out="00:17:02.628">
+  <entry in="00:17:00.667" out="00:17:02.628" producer="chain25">
    <property name="kdenlive:id">6</property>
   </entry>
   <blank length="00:05:23.941"/>
-  <entry producer="chain26" in="00:02:20.812" out="00:02:42.125">
+  <entry in="00:02:20.812" out="00:02:42.125" producer="chain26">
    <property name="kdenlive:id">8</property>
    <filter id="filter193" in="00:02:20.812" out="00:02:23.232">
     <property name="start">1</property>
@@ -4534,7 +4506,7 @@
   <track hide="audio" producer="playlist11"/>
  </tractor>
  <tractor id="tractor6" in="00:00:00.000" out="01:19:01.668">
-  <property name="kdenlive:duration">01:19:01:17</property>
+  <property name="kdenlive:duration">01:19:01.710</property>
   <property name="kdenlive:maxduration">113686</property>
   <property name="kdenlive:clipname">Sequence 1</property>
   <property name="kdenlive:description"/>
@@ -4544,30 +4516,63 @@
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">aadd8f57ef28fe2051fd307127266c22</property>
   <property name="kdenlive:folderid">13</property>
-  <property name="kdenlive:sequenceproperties.activeTrack">5</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">1</property>
   <property name="kdenlive:sequenceproperties.audioTarget">1</property>
   <property name="kdenlive:sequenceproperties.disablepreview">0</property>
   <property name="kdenlive:sequenceproperties.documentuuid">{5d9a1881-23a1-459d-8d76-1cd643492ee4}</property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
   <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
-  <property name="kdenlive:sequenceproperties.position">113685</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">3521966</property>
+  <property name="kdenlive:sequenceproperties.position">101320</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">124388</property>
+  <property name="kdenlive:sequenceproperties.subtitlesList">[
+    {
+        "file": "/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing/Monster_01-04_Murder_and_Execution_1080p_24fps_deu.kdenlive.srt",
+        "id": 0,
+        "name": "Subtitles"
+    }
+]
+</property>
   <property name="kdenlive:sequenceproperties.tracksCount">6</property>
   <property name="kdenlive:sequenceproperties.videoTarget">3</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
   <property name="kdenlive:sequenceproperties.zoneout">113686</property>
-  <property name="kdenlive:sequenceproperties.zoom">1</property>
+  <property name="kdenlive:sequenceproperties.zoom">6</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
             {
-                "data": "4:77433",
+                "data": "1:105862",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:77400",
+                "children": [
+                    {
+                        "data": "4:102355",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:102338",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:41181",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:41059",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4577,12 +4582,12 @@
     {
         "children": [
             {
-                "data": "4:15161",
+                "data": "4:80876",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:15154",
+                "data": "2:80876",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4592,47 +4597,22 @@
     {
         "children": [
             {
-                "data": "4:39940",
+                "data": "2:67516",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:39895",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:25309",
+                "data": "4:67541",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:25311",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:58823",
-                "leaf": "clip",
+                "data": "-2:69953",
+                "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
-                "data": "4:58851",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:61085",
+                "data": "-2:69396",
                 "leaf": "subtitle",
                 "type": "Leaf"
             }
@@ -4642,12 +4622,12 @@
     {
         "children": [
             {
-                "data": "2:52170",
+                "data": "4:90959",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "5:52170",
+                "data": "2:90957",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4657,17 +4637,12 @@
     {
         "children": [
             {
-                "data": "4:54813",
+                "data": "4:44528",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:54793",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:54839",
+                "data": "3:44528",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4677,12 +4652,12 @@
     {
         "children": [
             {
-                "data": "1:63761",
+                "data": "3:12163",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:63706",
+                "data": "4:12172",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4692,12 +4667,22 @@
     {
         "children": [
             {
-                "data": "4:23599",
+                "data": "3:100908",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:23599",
+                "data": "4:100957",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:100981",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:100939",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4707,12 +4692,12 @@
     {
         "children": [
             {
-                "data": "3:55507",
+                "data": "1:102118",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:55507",
+                "data": "4:102125",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4722,12 +4707,12 @@
     {
         "children": [
             {
-                "data": "3:95466",
+                "data": "5:26902",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:95476",
+                "data": "2:26902",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4737,13 +4722,38 @@
     {
         "children": [
             {
-                "data": "4:58490",
-                "leaf": "clip",
+                "data": "-2:2588",
+                "leaf": "subtitle",
                 "type": "Leaf"
             },
             {
-                "data": "3:58443",
-                "leaf": "clip",
+                "data": "-2:2692",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:2564",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "5:2588",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            },
+            {
+                "data": "-2:3543",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "data": "-2:3387",
+                "leaf": "subtitle",
                 "type": "Leaf"
             }
         ],
@@ -4752,72 +4762,12 @@
     {
         "children": [
             {
-                "data": "5:54765",
+                "data": "4:84782",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:54748",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:8371",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:8380",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:76161",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:76144",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:9044",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:9051",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:76480",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:76501",
+                "data": "3:84782",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5022,6 +4972,521 @@
     {
         "children": [
             {
+                "data": "2:61873",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:61874",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:77433",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:77400",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:99784",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:99805",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:15161",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:15154",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:76480",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:76501",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:5024",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:5012",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "-2:7808",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "data": "-2:5060",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:9044",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:9051",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:101003",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:101003",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:39940",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:39895",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "-2:56797",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:56767",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:56725",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:76161",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:76144",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:14424",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:14406",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:8371",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:8380",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:23081",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:23071",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:54765",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:54748",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:102071",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:102071",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:58490",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:58443",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:100849",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:100849",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:95466",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:95476",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:105883",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:105879",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:55507",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:55507",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:40744",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:40744",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:23599",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:23599",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:61743",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:61736",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:63761",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:63706",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:55141",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:55141",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:54813",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:54793",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:54839",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "0:98753",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "4:96241",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:96241",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:52170",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:52170",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:10947",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:10947",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:25309",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:25311",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:58823",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:58851",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "-2:61085",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
                 "data": "1:44480",
                 "leaf": "clip",
                 "type": "Leaf"
@@ -5057,6 +5522,11 @@
                 "type": "Leaf"
             },
             {
+                "data": "1:95114",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
                 "data": "3:94281",
                 "leaf": "clip",
                 "type": "Leaf"
@@ -5078,11 +5548,6 @@
             },
             {
                 "data": "1:94807",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:95114",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5318,491 +5783,6 @@
             }
         ],
         "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:84782",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:84782",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:2588",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:2692",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "2:2564",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "5:2588",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            },
-            {
-                "data": "-2:3387",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:3543",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:26902",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:26902",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:102118",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:102125",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:100908",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:100957",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:100981",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:100939",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:12163",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:12172",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:44528",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:44528",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:90959",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:90957",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:67516",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:67541",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:69953",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:69396",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:80876",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:80876",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:41181",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:41059",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:105862",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "4:102355",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:102338",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:61873",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:61874",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:99784",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:99805",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:101003",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:101003",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:10947",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:10947",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "0:98753",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "4:96241",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:96241",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:55141",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:55141",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:61743",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:61736",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:40744",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:40744",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:105883",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:105879",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:100849",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:100849",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:102071",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:102071",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:23081",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:23071",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:14424",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:14406",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "-2:56797",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:56767",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:56725",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:5024",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:5012",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:7808",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:5060",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
     }
 ]
 </property>
@@ -5907,6 +5887,7 @@
   </filter>
   <filter id="filter100">
    <property name="mlt_service">avfilter.subtitles</property>
+   <property name="av.alpha">1</property>
    <property name="internal_added">237</property>
    <property name="av.filename">Monster_01-04_Murder_and_Execution_1080p_24fps_deu.kdenlive.srt</property>
   </filter>
@@ -5915,6 +5896,7 @@
   <property name="kdenlive:folder.-1.13">Sequences</property>
   <property name="kdenlive:docproperties.activetimeline">{5d9a1881-23a1-459d-8d76-1cd643492ee4}</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.binsort">0</property>
   <property name="kdenlive:docproperties.browserurl">/home/redxarch/Videos/</property>
   <property name="kdenlive:docproperties.compositing">1</property>
   <property name="kdenlive:docproperties.documentid">1666493296366</property>
@@ -5972,7 +5954,7 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">23.08.4</property>
+  <property name="kdenlive:docproperties.kdenliveversion">24.02.1</property>
   <property name="kdenlive:docproperties.opensequences">{5d9a1881-23a1-459d-8d76-1cd643492ee4}</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -6001,6 +5983,7 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_01-04_Murder_and_Execution_1080p_24fps_deu.mp4</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.uuid">{5d9a1881-23a1-459d-8d76-1cd643492ee4}</property>
   <property name="kdenlive:docproperties.version">1.1</property>
@@ -6009,30 +5992,32 @@
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:binZoom">0</property>
   <property name="kdenlive:documentnotes">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
-&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;meta charset="utf-8" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: "\2610"; }
+li.checked::marker { content: "\2612"; }
 &lt;/style>&lt;/head>&lt;body style=" font-family:'Noto Sans'; font-size:10pt; font-weight:400; font-style:normal;">
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">srt formatting: https://docs.fileformat.com/video/srt/&lt;/p>
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">adding empty char to raise subtitles by a line: https://emptycharacter.com/&lt;/p>&lt;/body>&lt;/html></property>
-  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_01-04_Murder_and_Execution_1080p_24fps_deu.mp4</property>
   <property name="xml_retain">1</property>
-  <entry producer="chain31" in="00:00:00.000" out="00:23:54.763"/>
-  <entry producer="chain27" in="00:00:00.000" out="00:23:54.763"/>
-  <entry producer="chain32" in="00:00:00.000" out="00:23:55.472"/>
-  <entry producer="chain28" in="00:00:00.000" out="00:23:55.472"/>
-  <entry producer="chain33" in="00:00:00.000" out="00:23:55.430"/>
-  <entry producer="chain30" in="00:00:00.000" out="00:23:55.430"/>
-  <entry producer="chain34" in="00:00:00.000" out="00:23:55.430"/>
-  <entry producer="chain29" in="00:00:00.000" out="00:23:55.430"/>
-  <entry producer="chain36" in="00:00:00.000" out="00:23:55.597"/>
-  <entry producer="chain37" in="00:00:00.000" out="00:23:55.597"/>
-  <entry producer="chain20" in="00:00:00.000" out="00:03:11.220"/>
-  <entry producer="chain21" in="00:00:00.000" out="00:01:42.584"/>
-  <entry producer="chain35" in="00:00:00.000" out="00:24:09.593"/>
-  <entry producer="tractor6" in="00:00:00.000" out="01:19:30.239"/>
+  <entry in="00:00:00.000" out="00:23:54.763" producer="chain31"/>
+  <entry in="00:00:00.000" out="00:23:54.763" producer="chain27"/>
+  <entry in="00:00:00.000" out="00:23:55.472" producer="chain32"/>
+  <entry in="00:00:00.000" out="00:23:55.472" producer="chain28"/>
+  <entry in="00:00:00.000" out="00:23:55.430" producer="chain33"/>
+  <entry in="00:00:00.000" out="00:23:55.430" producer="chain30"/>
+  <entry in="00:00:00.000" out="00:23:55.430" producer="chain34"/>
+  <entry in="00:00:00.000" out="00:23:55.430" producer="chain29"/>
+  <entry in="00:00:00.000" out="00:23:55.597" producer="chain36"/>
+  <entry in="00:00:00.000" out="00:23:55.597" producer="chain37"/>
+  <entry in="00:00:00.000" out="00:03:11.220" producer="chain20"/>
+  <entry in="00:00:00.000" out="00:01:42.584" producer="chain21"/>
+  <entry in="00:00:00.000" out="00:24:09.593" producer="chain35"/>
+  <entry in="00:00:00.000" out="01:19:01.668" producer="tractor6"/>
  </playlist>
  <tractor id="tractor7" in="00:00:00.000" out="01:19:01.668">
   <property name="kdenlive:projectTractor">1</property>
-  <track producer="tractor6" in="00:00:00.000" out="01:19:01.668"/>
+  <track in="00:00:00.000" out="01:19:01.668" producer="tractor6"/>
  </tractor>
 </mlt>
