@@ -1,0 +1,2596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.4.0" root="/home/redxherring/Videos/Monster/Editing">
+ <profile frame_rate_num="30000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="960x720 29.97fps" display_aspect_num="4" frame_rate_den="1001" width="960" height="720" sample_aspect_den="1"/>
+ <producer id="producer0" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTu.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">158206681</property>
+  <property name="kdenlive:file_hash">8934f5b8ac75b8429e1645c1c5e0555c</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">877757</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">344200000</property>
+  <property name="meta.media.frame_rate_den">11484803</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 57 - That Night [Eng Dub &amp; HD] - YouTube.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">158221921</property>
+  <property name="kdenlive:file_hash">2f455a3f667fe5d8bce305a8fad47d71</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">877860</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">114728000</property>
+  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 58 - I Hate This Job [Eng Dub &amp; HD] - YouTube.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">151838100</property>
+  <property name="kdenlive:file_hash">dca3db418ca94437fcc7b51b6da2e5a3</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">842265</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">114728000</property>
+  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer3" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouT.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">151337551</property>
+  <property name="kdenlive:file_hash">fbeb337ed2d0f3af76876976e3efbafb</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">839440</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">344200000</property>
+  <property name="meta.media.frame_rate_den">11484803</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer4" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 60 - The Man Who Knew Too Much [Eng Dub &amp; HD] - YouT.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">150772063</property>
+  <property name="kdenlive:file_hash">ae171c1cff2a764c61364d01039144e6</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">836339</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">114728000</property>
+  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer5" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTuL.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">137818498</property>
+  <property name="kdenlive:file_hash">e1560dcad2e9f9fb7202d7622751eaf8</property>
+  <property name="kdenlive:audio_max0">234</property>
+ </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTuR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">137818498</property>
+  <property name="kdenlive:file_hash">27c435fde93b51e2bddd77d0bbe1c978</property>
+  <property name="kdenlive:audio_max0">232</property>
+ </producer>
+ <producer id="producer7" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 57 - That Night [Eng Dub &amp; HD] - YouTubeL.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d5c5bbdf73a2a3411d1a97b13c81171c</property>
+  <property name="kdenlive:audio_max0">234</property>
+ </producer>
+ <producer id="producer8" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 57 - That Night [Eng Dub &amp; HD] - YouTubeR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d2410b04f77017937759168a913a3541</property>
+  <property name="kdenlive:audio_max0">244</property>
+ </producer>
+ <producer id="producer9" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 58 - I Hate This Job [Eng Dub &amp; HD] - YouTubeL.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d28c59dead29aaa5c00aaab05c790050</property>
+  <property name="kdenlive:audio_max0">240</property>
+ </producer>
+ <producer id="producer10" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 58 - I Hate This Job [Eng Dub &amp; HD] - YouTubeR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">12</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">6e638c0f8956f43c69a34acdcc491c44</property>
+  <property name="kdenlive:audio_max0">235</property>
+ </producer>
+ <producer id="producer11" in="00:00:00.000" out="00:23:55.622">
+  <property name="length">43026</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouTL.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">137821842</property>
+  <property name="kdenlive:file_hash">1c14d7266c8bf796b7e38c687457ecce</property>
+  <property name="kdenlive:audio_max0">237</property>
+ </producer>
+ <producer id="producer12" in="00:00:00.000" out="00:23:55.622">
+  <property name="length">43026</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouTR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_size">137821842</property>
+  <property name="kdenlive:file_hash">24b6ccda0640b2bbc8825b7238ac1db6</property>
+  <property name="kdenlive:audio_max0">231</property>
+ </producer>
+ <producer id="producer13" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 60 - The Man Who Knew Too Much [Eng Dub &amp; HD] - YouTL.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">a230c8f0177023c5e350fa11b7a5d2c7</property>
+  <property name="kdenlive:audio_max0">235</property>
+ </producer>
+ <producer id="producer14" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 60 - The Man Who Knew Too Much [Eng Dub &amp; HD] - YouTR.wav</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">16</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">a7b4828b0505e072e236e3a3a9f4cb60</property>
+  <property name="kdenlive:audio_max0">232</property>
+ </producer>
+ <playlist id="main_bin">
+  <property name="kdenlive:docproperties.activeTrack">0</property>
+  <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1643759023163</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.externalproxyparams"/>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.groups">[
+    {
+        "children": [
+            {
+                "data": "4:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:0",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "3:0",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:39602",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "data": "1:39467",
+                                "leaf": "clip",
+                                "type": "Leaf"
+                            },
+                            {
+                                "data": "0:39467",
+                                "leaf": "clip",
+                                "type": "Leaf"
+                            }
+                        ],
+                        "type": "Normal"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "data": "4:28447",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "data": "2:28447",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            },
+                                            {
+                                                "data": "3:28447",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    }
+                                ],
+                                "type": "Normal"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "data": "1:38258",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            },
+                                            {
+                                                "data": "0:38258",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "data": "2:38353",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            },
+                                            {
+                                                "data": "3:38353",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "data": "3:38504",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    },
+                                                    {
+                                                        "data": "2:38504",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            },
+                                            {
+                                                "data": "4:38504",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    },
+                                    {
+                                        "data": "4:38258",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "data": "4:28755",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "data": "3:28755",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    },
+                                                    {
+                                                        "data": "2:28755",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    },
+                                    {
+                                        "data": "4:38390",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    }
+                                ],
+                                "type": "Normal"
+                            }
+                        ],
+                        "type": "Normal"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "data": "3:152331",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    },
+                                    {
+                                        "data": "2:152331",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    }
+                                ],
+                                "type": "Normal"
+                            },
+                            {
+                                "data": "4:152331",
+                                "leaf": "clip",
+                                "type": "Leaf"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "data": "0:147922",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    },
+                                    {
+                                        "data": "1:147922",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    }
+                                ],
+                                "type": "Normal"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "children": [
+                                                                    {
+                                                                        "data": "2:118947",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    },
+                                                                    {
+                                                                        "data": "3:118947",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    }
+                                                                ],
+                                                                "type": "Normal"
+                                                            },
+                                                            {
+                                                                "data": "4:118947",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "children": [
+                                                                    {
+                                                                        "data": "2:58208",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    },
+                                                                    {
+                                                                        "data": "3:58208",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    }
+                                                                ],
+                                                                "type": "Normal"
+                                                            },
+                                                            {
+                                                                "data": "4:58208",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "children": [
+                                                                    {
+                                                                        "data": "2:76931",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    },
+                                                                    {
+                                                                        "data": "3:76931",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    }
+                                                                ],
+                                                                "type": "Normal"
+                                                            },
+                                                            {
+                                                                "data": "4:76931",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "children": [
+                                                                    {
+                                                                        "data": "2:114719",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    },
+                                                                    {
+                                                                        "data": "3:114719",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    }
+                                                                ],
+                                                                "type": "Normal"
+                                                            },
+                                                            {
+                                                                "data": "4:114719",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "children": [
+                                                                    {
+                                                                        "data": "3:79841",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    },
+                                                                    {
+                                                                        "data": "2:79841",
+                                                                        "leaf": "clip",
+                                                                        "type": "Leaf"
+                                                                    }
+                                                                ],
+                                                                "type": "Normal"
+                                                            },
+                                                            {
+                                                                "data": "4:79841",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "data": "0:58056",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            },
+                                                            {
+                                                                "data": "1:58056",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    },
+                                                    {
+                                                        "data": "5:58056",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "data": "3:44873",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            },
+                                                            {
+                                                                "data": "2:44873",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    },
+                                                    {
+                                                        "data": "4:44873",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "data": "3:39796",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            },
+                                                            {
+                                                                "data": "2:39796",
+                                                                "leaf": "clip",
+                                                                "type": "Leaf"
+                                                            }
+                                                        ],
+                                                        "type": "Normal"
+                                                    },
+                                                    {
+                                                        "data": "4:39796",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    }
+                                ],
+                                "type": "Normal"
+                            },
+                            {
+                                "data": "4:147922",
+                                "leaf": "clip",
+                                "type": "Leaf"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "data": "1:152331",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    },
+                                    {
+                                        "data": "0:152331",
+                                        "leaf": "clip",
+                                        "type": "Leaf"
+                                    }
+                                ],
+                                "type": "Normal"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "data": "3:154551",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    },
+                                                    {
+                                                        "data": "2:154551",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            },
+                                            {
+                                                "data": "4:154551",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "data": "4:152379",
+                                                "leaf": "clip",
+                                                "type": "Leaf"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "data": "3:152379",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    },
+                                                    {
+                                                        "data": "2:152379",
+                                                        "leaf": "clip",
+                                                        "type": "Leaf"
+                                                    }
+                                                ],
+                                                "type": "Normal"
+                                            }
+                                        ],
+                                        "type": "Normal"
+                                    }
+                                ],
+                                "type": "Normal"
+                            }
+                        ],
+                        "type": "Normal"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:28357",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:28357",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "0:28391",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:28391",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">21.12.1</property>
+  <property name="kdenlive:docproperties.position">189669</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">/home/redxherring/.local/share/kdenlive/profiles/customprofile1</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.renderaudioquality">80</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfield">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
+  <property name="kdenlive:docproperties.renderquality">24</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">360</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">480</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/home/redxherring/Videos/Monster/Output/ep56-60.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:docproperties.scrollPos">11758210</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1.04</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">189674</property>
+  <property name="kdenlive:docproperties.zoom">0</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:documentnotes"/>
+  <property name="xml_retain">1</property>
+  <entry producer="producer0" in="00:00:00.000" out="00:23:55.589"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:23:55.589"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer5" in="00:00:00.000" out="00:23:55.589"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:23:55.589"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer8" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer9" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer11" in="00:00:00.000" out="00:23:55.622"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:23:55.622"/>
+  <entry producer="producer13" in="00:00:00.000" out="00:23:55.522"/>
+  <entry producer="producer14" in="00:00:00.000" out="00:23:55.522"/>
+ </playlist>
+ <producer id="black_track" in="00:00:00.000" out="02:02:09.810">
+  <property name="length">2147483647</property>
+  <property name="eof">continue</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="mlt_image_format">rgb24a</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <producer id="producer15" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTuR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">137818498</property>
+  <property name="kdenlive:file_hash">27c435fde93b51e2bddd77d0bbe1c978</property>
+  <property name="kdenlive:audio_max0">232</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer16" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 57 - That Night [Eng Dub &amp; HD] - YouTubeR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d2410b04f77017937759168a913a3541</property>
+  <property name="kdenlive:audio_max0">244</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer17" in="00:00:00.000" out="00:23:55.622">
+  <property name="length">43026</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouTR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_size">137821842</property>
+  <property name="kdenlive:file_hash">24b6ccda0640b2bbc8825b7238ac1db6</property>
+  <property name="kdenlive:audio_max0">231</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="00:15:47.314"/>
+  <entry producer="producer15" in="00:15:49.750" out="00:15:51.952">
+   <property name="kdenlive:id">8</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter0" in="00:15:51.151" out="00:15:51.985">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter1" in="00:15:49.750" out="00:15:50.284">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:05:26.994"/>
+  <entry producer="producer15" in="00:21:19.553" out="00:21:25.359">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter2" in="00:21:23.924" out="00:21:25.359">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:34.501"/>
+  <entry producer="producer15" in="00:22:15.315" out="00:22:26.126">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter3" in="00:22:15.315" out="00:22:19.820">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <blank length="00:10:09.409"/>
+  <entry producer="producer16" in="00:11:57.090" out="00:12:02.135">
+   <property name="kdenlive:id">10</property>
+  </entry>
+  <blank length="00:49:53.487"/>
+  <entry producer="producer17" in="00:19:53.954" out="00:22:21.021">
+   <property name="kdenlive:id">14</property>
+  </entry>
+  <entry producer="producer17" in="00:22:21.054" out="00:22:22.623">
+   <property name="kdenlive:id">14</property>
+   <filter id="filter4" in="00:22:21.021" out="00:22:22.623">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000" out="01:24:44.378">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist0"/>
+  <track hide="video" producer="playlist1"/>
+  <filter id="filter5">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter6">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">1</property>
+   <property name="disable">0</property>
+  </filter>
+  <filter id="filter7">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer18" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTuL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">137818498</property>
+  <property name="kdenlive:file_hash">e1560dcad2e9f9fb7202d7622751eaf8</property>
+  <property name="kdenlive:audio_max0">234</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer19" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 57 - That Night [Eng Dub &amp; HD] - YouTubeL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d5c5bbdf73a2a3411d1a97b13c81171c</property>
+  <property name="kdenlive:audio_max0">234</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer20" in="00:00:00.000" out="00:23:55.622">
+  <property name="length">43026</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouTL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">137821842</property>
+  <property name="kdenlive:file_hash">1c14d7266c8bf796b7e38c687457ecce</property>
+  <property name="kdenlive:audio_max0">237</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="00:15:47.314"/>
+  <entry producer="producer18" in="00:15:49.750" out="00:15:51.952">
+   <property name="kdenlive:id">7</property>
+   <property name="kdenlive:activeeffect">-1</property>
+   <filter id="filter8" in="00:15:51.151" out="00:15:51.985">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter9" in="00:15:49.750" out="00:15:50.284">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:05:26.994"/>
+  <entry producer="producer18" in="00:21:19.553" out="00:21:25.359">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter10" in="00:21:23.924" out="00:21:25.359">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:34.501"/>
+  <entry producer="producer18" in="00:22:15.315" out="00:22:26.126">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter11" in="00:22:15.315" out="00:22:19.720">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:10:09.409"/>
+  <entry producer="producer19" in="00:11:57.090" out="00:12:02.135">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <blank length="00:49:53.487"/>
+  <entry producer="producer20" in="00:19:53.954" out="00:22:21.021">
+   <property name="kdenlive:id">13</property>
+  </entry>
+  <entry producer="producer20" in="00:22:21.054" out="00:22:22.623">
+   <property name="kdenlive:id">13</property>
+   <filter id="filter12" in="00:22:21.021" out="00:22:22.623">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor1" in="00:00:00.000" out="01:24:44.378">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist2"/>
+  <track hide="video" producer="playlist3"/>
+  <filter id="filter13">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter14">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0</property>
+   <property name="disable">0</property>
+  </filter>
+  <filter id="filter15">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer21" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTuR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">137818498</property>
+  <property name="kdenlive:file_hash">27c435fde93b51e2bddd77d0bbe1c978</property>
+  <property name="kdenlive:audio_max0">232</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer22" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 57 - That Night [Eng Dub &amp; HD] - YouTubeR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d2410b04f77017937759168a913a3541</property>
+  <property name="kdenlive:audio_max0">244</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer23" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 58 - I Hate This Job [Eng Dub &amp; HD] - YouTubeR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">12</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">6e638c0f8956f43c69a34acdcc491c44</property>
+  <property name="kdenlive:audio_max0">235</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer24" in="00:00:00.000" out="00:23:55.622">
+  <property name="length">43026</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouTR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_size">137821842</property>
+  <property name="kdenlive:file_hash">24b6ccda0640b2bbc8825b7238ac1db6</property>
+  <property name="kdenlive:audio_max0">231</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer25" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 60 - The Man Who Knew Too Much [Eng Dub &amp; HD] - YouTR.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">16</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">a7b4828b0505e072e236e3a3a9f4cb60</property>
+  <property name="kdenlive:audio_max0">232</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist4">
+  <property name="kdenlive:audio_track">1</property>
+  <entry producer="producer21" in="00:00:00.000" out="00:15:46.146">
+   <property name="kdenlive:id">8</property>
+  </entry>
+  <entry producer="producer21" in="00:15:46.780" out="00:15:49.182">
+   <property name="kdenlive:id">8</property>
+   <property name="kdenlive:activeeffect">-1</property>
+   <filter id="filter16" in="00:15:48.382" out="00:15:49.216">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.567"/>
+  <entry producer="producer21" in="00:15:52.185" out="00:16:02.436">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter17" in="00:15:52.185" out="00:15:52.519">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry producer="producer21" in="00:16:02.469" out="00:21:19.520">
+   <property name="kdenlive:id">8</property>
+  </entry>
+  <blank length="00:00:03.170"/>
+  <entry producer="producer21" in="00:21:28.195" out="00:21:33.200">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter18" in="00:21:28.195" out="00:21:29.429">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry producer="producer21" in="00:21:33.233" out="00:22:09.843">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter19" in="00:22:06.473" out="00:22:09.843">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:06.473"/>
+  <entry producer="producer8" in="00:00:17.684" out="00:03:07.074">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter20" in="00:00:17.684" out="00:00:19.086">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry producer="producer22" in="00:04:33.133" out="00:11:55.689">
+   <property name="kdenlive:id">10</property>
+  </entry>
+  <blank length="00:00:02.336"/>
+  <entry producer="producer22" in="00:12:02.169" out="00:22:26.860">
+   <property name="kdenlive:id">10</property>
+  </entry>
+  <entry producer="producer23" in="00:00:00.000" out="00:01:37.070">
+   <property name="kdenlive:id">12</property>
+  </entry>
+  <entry producer="producer23" in="00:03:03.036" out="00:22:26.760">
+   <property name="kdenlive:id">12</property>
+  </entry>
+  <entry producer="producer24" in="00:00:00.000" out="00:02:21.054">
+   <property name="kdenlive:id">14</property>
+  </entry>
+  <entry producer="producer24" in="00:03:47.147" out="00:19:53.921">
+   <property name="kdenlive:id">14</property>
+  </entry>
+  <blank length="00:02:27.127"/>
+  <entry producer="producer25" in="00:01:24.758" out="00:01:26.326">
+   <property name="kdenlive:id">16</property>
+   <filter id="filter21" in="00:01:24.758" out="00:01:26.326">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer25" in="00:01:26.360" out="00:02:38.805">
+   <property name="kdenlive:id">16</property>
+  </entry>
+  <entry producer="producer25" in="00:04:05.038" out="00:23:36.937">
+   <property name="kdenlive:id">16</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor2" in="00:00:00.000" out="01:45:28.762">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist4"/>
+  <track hide="video" producer="playlist5"/>
+  <filter id="filter22">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter23">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">1</property>
+   <property name="disable">0</property>
+  </filter>
+  <filter id="filter24">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer26" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTuL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_size">137818498</property>
+  <property name="kdenlive:file_hash">e1560dcad2e9f9fb7202d7622751eaf8</property>
+  <property name="kdenlive:audio_max0">234</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer27" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 57 - That Night [Eng Dub &amp; HD] - YouTubeL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d5c5bbdf73a2a3411d1a97b13c81171c</property>
+  <property name="kdenlive:audio_max0">234</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer28" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 58 - I Hate This Job [Eng Dub &amp; HD] - YouTubeL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">d28c59dead29aaa5c00aaab05c790050</property>
+  <property name="kdenlive:audio_max0">240</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer29" in="00:00:00.000" out="00:23:55.622">
+  <property name="length">43026</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouTL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">137821842</property>
+  <property name="kdenlive:file_hash">1c14d7266c8bf796b7e38c687457ecce</property>
+  <property name="kdenlive:audio_max0">237</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <producer id="producer30" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/WAV/Monster 60 - The Man Who Knew Too Much [Eng Dub &amp; HD] - YouTL.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:file_size">137811810</property>
+  <property name="kdenlive:file_hash">a230c8f0177023c5e350fa11b7a5d2c7</property>
+  <property name="kdenlive:audio_max0">235</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist6">
+  <property name="kdenlive:audio_track">1</property>
+  <entry producer="producer26" in="00:00:00.000" out="00:15:46.146">
+   <property name="kdenlive:id">7</property>
+  </entry>
+  <entry producer="producer26" in="00:15:46.780" out="00:15:49.182">
+   <property name="kdenlive:id">7</property>
+   <property name="kdenlive:activeeffect">-1</property>
+   <filter id="filter25" in="00:15:48.415" out="00:15:49.216">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.567"/>
+  <entry producer="producer26" in="00:15:52.185" out="00:16:02.436">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter26" in="00:15:52.185" out="00:15:52.519">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <entry producer="producer26" in="00:16:02.469" out="00:21:19.520">
+   <property name="kdenlive:id">7</property>
+  </entry>
+  <blank length="00:00:03.170"/>
+  <entry producer="producer26" in="00:21:28.195" out="00:21:33.200">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter27" in="00:21:28.195" out="00:21:29.429">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer26" in="00:21:33.233" out="00:22:09.843">
+   <property name="kdenlive:id">7</property>
+   <filter id="filter28" in="00:22:06.473" out="00:22:09.843">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:06.473"/>
+  <entry producer="producer7" in="00:00:17.684" out="00:03:07.074">
+   <property name="kdenlive:id">9</property>
+   <filter id="filter29" in="00:00:17.684" out="00:00:18.986">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer27" in="00:04:33.133" out="00:11:55.689">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <blank length="00:00:02.336"/>
+  <entry producer="producer27" in="00:12:02.169" out="00:22:26.860">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer28" in="00:00:00.000" out="00:01:37.070">
+   <property name="kdenlive:id">11</property>
+  </entry>
+  <entry producer="producer28" in="00:03:03.036" out="00:22:26.760">
+   <property name="kdenlive:id">11</property>
+  </entry>
+  <entry producer="producer29" in="00:00:00.000" out="00:02:21.054">
+   <property name="kdenlive:id">13</property>
+  </entry>
+  <entry producer="producer29" in="00:03:47.147" out="00:19:53.921">
+   <property name="kdenlive:id">13</property>
+  </entry>
+  <blank length="00:02:27.127"/>
+  <entry producer="producer30" in="00:01:24.758" out="00:01:26.326">
+   <property name="kdenlive:id">15</property>
+   <filter id="filter30" in="00:01:24.758" out="00:01:26.326">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer30" in="00:01:26.360" out="00:02:38.805">
+   <property name="kdenlive:id">15</property>
+  </entry>
+  <entry producer="producer30" in="00:04:05.038" out="00:23:36.937">
+   <property name="kdenlive:id">15</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist7">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor3" in="00:00:00.000" out="01:45:28.762">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist6"/>
+  <track hide="video" producer="playlist7"/>
+  <filter id="filter31">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter32">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0</property>
+   <property name="disable">0</property>
+  </filter>
+  <filter id="filter33">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer31" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTu.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">158206681</property>
+  <property name="kdenlive:file_hash">8934f5b8ac75b8429e1645c1c5e0555c</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">877757</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">344200000</property>
+  <property name="meta.media.frame_rate_den">11484803</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer32" in="00:00:00.000" out="00:11:57.791">
+  <property name="length">21513</property>
+  <property name="eof">pause</property>
+  <property name="resource">2.000000:/home/redxherring/Videos/Monster/MP4/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTu.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">877757</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">2</property>
+  <property name="warp_resource">/home/redxherring/Videos/Monster/MP4/Monster 56 - The Never-ending Journey [Eng Dub &amp; HD] - YouTu.mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">2</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">344200000</property>
+  <property name="meta.media.frame_rate_den">11484803</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer33" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 57 - That Night [Eng Dub &amp; HD] - YouTube.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">158221921</property>
+  <property name="kdenlive:file_hash">2f455a3f667fe5d8bce305a8fad47d71</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">877860</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">114728000</property>
+  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer34" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 58 - I Hate This Job [Eng Dub &amp; HD] - YouTube.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">151838100</property>
+  <property name="kdenlive:file_hash">dca3db418ca94437fcc7b51b6da2e5a3</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">842265</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">114728000</property>
+  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer35" in="00:00:00.000" out="00:23:55.589">
+  <property name="length">43025</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 59 - The Man Who Saw The Devil [Eng Dub &amp; HD] - YouT.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">151337551</property>
+  <property name="kdenlive:file_hash">fbeb337ed2d0f3af76876976e3efbafb</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">839440</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">344200000</property>
+  <property name="meta.media.frame_rate_den">11484803</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer36" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 60 - The Man Who Knew Too Much [Eng Dub &amp; HD] - YouT.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">150772063</property>
+  <property name="kdenlive:file_hash">ae171c1cff2a764c61364d01039144e6</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">836339</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">114728000</property>
+  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist8">
+  <entry producer="producer31" in="00:00:00.000" out="00:15:46.146">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer32" in="00:07:53.086" out="00:07:56.056">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer31" in="00:15:52.185" out="00:16:02.436">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer31" in="00:16:02.469" out="00:21:19.520">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer31" in="00:21:19.553" out="00:21:23.924">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer31" in="00:21:29.429" out="00:21:33.200">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer31" in="00:21:33.233" out="00:22:09.843">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <entry producer="producer31" in="00:22:19.820" out="00:22:26.126">
+   <property name="kdenlive:id">2</property>
+  </entry>
+  <blank length="00:00:00.133"/>
+  <entry producer="producer1" in="00:00:17.684" out="00:03:07.074">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer33" in="00:04:33.133" out="00:11:55.689">
+   <property name="kdenlive:id">3</property>
+   <filter id="filter34" in="00:11:52.953" out="00:11:55.689">
+    <property name="start">1</property>
+    <property name="level">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="alpha">00:00:00.000=1;00:00:02.736=0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:02.336"/>
+  <entry producer="producer33" in="00:12:02.169" out="00:22:26.860">
+   <property name="kdenlive:id">3</property>
+  </entry>
+  <entry producer="producer34" in="00:00:00.000" out="00:01:37.070">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer34" in="00:03:03.036" out="00:22:26.760">
+   <property name="kdenlive:id">4</property>
+  </entry>
+  <entry producer="producer35" in="00:00:00.000" out="00:02:21.054">
+   <property name="kdenlive:id">5</property>
+  </entry>
+  <entry producer="producer35" in="00:03:47.147" out="00:19:53.921">
+   <property name="kdenlive:id">5</property>
+  </entry>
+  <entry producer="producer35" in="00:19:53.954" out="00:22:21.021">
+   <property name="kdenlive:id">5</property>
+  </entry>
+  <entry producer="producer36" in="00:01:24.758" out="00:01:26.326">
+   <property name="kdenlive:id">6</property>
+  </entry>
+  <entry producer="producer36" in="00:01:26.360" out="00:02:38.805">
+   <property name="kdenlive:id">6</property>
+  </entry>
+  <entry producer="producer36" in="00:04:05.038" out="00:23:36.937">
+   <property name="kdenlive:id">6</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist9"/>
+ <tractor id="tractor4" in="00:00:00.000" out="01:45:28.762">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist8"/>
+  <track hide="audio" producer="playlist9"/>
+ </tractor>
+ <producer id="producer37" in="00:00:00.000" out="00:23:55.522">
+  <property name="length">43023</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/redxherring/Videos/Monster/MP4/Monster 57 - That Night [Eng Dub &amp; HD] - YouTube.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">158221921</property>
+  <property name="kdenlive:file_hash">2f455a3f667fe5d8bce305a8fad47d71</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">960</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">877860</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">114728000</property>
+  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.width">960</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist10">
+  <blank length="00:32:17.150"/>
+  <entry producer="producer37" in="00:11:57.090" out="00:12:02.135">
+   <property name="kdenlive:id">3</property>
+   <filter id="filter35" in="00:11:57.090" out="00:11:59.826">
+    <property name="start">1</property>
+    <property name="level">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="alpha">00:00:00.000=0;00:00:02.736=1</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist11"/>
+ <tractor id="tractor5" in="00:00:00.000" out="00:32:22.189">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist10"/>
+  <track hide="audio" producer="playlist11"/>
+ </tractor>
+ <tractor id="tractor6" in="00:00:00.000" out="02:02:09.810">
+  <track producer="black_track"/>
+  <track producer="tractor0"/>
+  <track producer="tractor1"/>
+  <track producer="tractor2"/>
+  <track producer="tractor3"/>
+  <track producer="tractor4"/>
+  <track producer="tractor5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="version">0.9</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="version">0.9</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter36">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter37">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter38">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+</mlt>
