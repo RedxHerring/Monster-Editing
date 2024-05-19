@@ -24,3 +24,8 @@ To reinstall the environment use
 ```bash
 conda env create -f environment.yml
 ```
+
+To dowload wav from online video use for example (per https://ostechnix.com/yt-dlp-tutorial/):
+```bash
+yt-dlp -x --audio-quality 0 --audio-format wav https://www.youtube.com/watch?v=86n7reItMzs
+```
