@@ -2,10 +2,8 @@ pwd0=$(pwd)
 mkdir -p Orig720p/MP4
 # For the name we save, we want to match the format used by the Upscale project, which is
 # EpXXepisodetitle.ass. The title is actually not contained, so we settle for EpXX.ass
-searchstring="Monster "
 for vid in Orig720p/*.mkv; do
-    rest=${vid#*$searchstring} # find first Monster
-    rest=${rest#*$searchstring} # find second Monster
+    rest=$(sed -e 's#.*/Monster \(\)#\1#' <<< "$vid") # find first Monster
     epnum=$(cut -c 1-2<<< $rest)
     out_name="Ep$epnum"
     echo "Processing video $vid, as $out_name"
