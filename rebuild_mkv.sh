@@ -48,6 +48,7 @@ vid_name=${Origmkv:5}
 echo "Preparing $vid_name..."
 
 outmkv="Output/$vid_name"
+outmkv="${outmkv// /_}"
 ninputs=1 # assume 1 video input: 1080p upscaled
 # Set up inputs.txt, which will contain video and subtitle inputs
 rm -f inputs.txt
@@ -62,10 +63,10 @@ rm -f outputs.txt
 nainputs=0
 cd Audio
 for lang in *; do
-    if [ ! -f "Audio/$lang/Ep$epnum.flac" ]; then # dub flac not available, might not be a lnaguage dir, ie music instead, etc.
+    if [ ! -f "$lang/Ep$epnum.wav" ]; then # dub wav not available, might not be a language dir, ie music instead, etc.
         continue
     fi
-    echo "-i Audio/$lang/Ep$epnum.flac" >> $pwd0/inputs.txt
+    echo "-i Audio/$lang/Ep$epnum.wav" >> $pwd0/inputs.txt
     echo "-map $ninputs" >> $pwd0/mappings.txt
     if [[ $lang == "deu" ]]; then # need to use different codec for 5.1
         echo "-c:a:$nainputs libvorbis -q:a:$nainputs 7" >> $pwd0/mappings.txt
@@ -74,13 +75,13 @@ for lang in *; do
     fi
     if [[ "$lang" == "eng" ]]; then
         iadefault=$nainputs
-        echo "Found default audio track number $iadefault in Audio/$lang/Ep$epnum.flac"
+        echo "Found default audio track number $iadefault in Audio/$lang/Ep$epnum.wav"
     fi
     echo "-metadata:s:a:$nainputs language=$lang -metadata:s:a:$nainputs title=$(get_language $lang)-Audio" >> $pwd0/outputs.txt
     ninputs=$(expr $ninputs + 1)
     nainputs=$(expr $nainputs + 1)
     if [[ "$epnum" == "15" ]] && [[ $lang == "jpn" ]]; then # extra audio file
-        echo "-i Audio/jpn/Ep15Orig.flac" >> $pwd0/inputs.txt
+        echo "-i Audio/jpn/Ep15Orig.wav" >> $pwd0/inputs.txt
         echo "-map $ninputs" >> $pwd0/mappings.txt
         echo "-metadata:s:a:$nainputs language=jpn -metadata:s:a:$nainputs title=Japanese-Broadcast-Audio" >> $pwd0/outputs.txt
         ninputs=$(expr $ninputs + 1)
@@ -147,16 +148,25 @@ done
 cd $pwd0
 echo "Adding $nsubs subtitle files"
 
+# hw_setup_str="-init_hw_device qsv=hw -filter_hw_device hw" # intel arc
+# hw_enc_str="hevc_qsv -preset veryslow -global_quality:v 21 -look_ahead 1 -scenario:v archive -pix_fmt p010le" # hevc_qsv
+# hw_enc_str="av1_qsv -preset 1 -extbrc 0 -look_ahead_depth 36" # av1_qsv
+# hw_setup_str="-hwaccel auto -vaapi_device /dev/dri/renderD128" # amd
+hw_setup_str=""
+# hw_enc_str="av1_amf -quality quality" # av1+amf
+hw_enc_str="libsvtav1 -crf 21 -preset 4 -pix_fmt yuv420p10le -svtav1-params film-grain=4" # cpu encoding
+
+
 # Now run actual ffmpeg command
-echo "ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i $Origmkv $(cat inputs.txt | xargs echo) \
+echo "ffmpeg -y -loglevel warning $hw_setup_str -i $Origmkv $(cat inputs.txt | xargs echo) \
 -map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 0:t \
--c:v hevc_qsv -preset veryslow -global_quality:v 21 -look_ahead 1 -scenario:v archive -pix_fmt p010le  -c:s copy -c:t copy \
+-c:v $hw_enc_str -c:s copy -c:t copy \
 -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
 -disposition:a:$iadefault forced -disposition:s:$isdefault forced $outmkv"
 # ffmpeg params
-ffmpeg -y -loglevel warning -init_hw_device qsv=hw -filter_hw_device hw -i "$Origmkv" $(cat inputs.txt | xargs echo) \
+ffmpeg -y -loglevel warning "$hw_setup_str" -i "$Origmkv" $(cat inputs.txt | xargs echo) \
 -map 0:v:0 $(cat mappings.txt | xargs echo) $(cat attach-fonts.txt | xargs echo) -map 0:t \
--c:v hevc_qsv -preset veryslow -global_quality:v 21 -look_ahead 1 -scenario:v archive -pix_fmt p010le  -c:s copy -c:t copy \
+-c:v "$hw_enc_str" -c:s copy -c:t copy \
 -map_metadata 0 -map_metadata:s:v:0 0:s:v:0 -map_metadata:s:t 0:s:t $(cat outputs.txt | xargs echo) \
 -disposition:a:"$iadefault" forced -disposition:s:"$isdefault" forced "$outmkv"
 

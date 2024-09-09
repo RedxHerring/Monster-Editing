@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.22.0" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing">
- <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
+<mlt LC_NUMERIC="C" producer="main_bin" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing" version="7.26.0">
+ <profile colorspace="709" description="1440x1080 23.98fps" display_aspect_den="3" display_aspect_num="4" frame_rate_den="1001" frame_rate_num="24000" height="1080" progressive="1" sample_aspect_den="1" sample_aspect_num="1" width="1440"/>
  <chain id="chain4" out="00:23:54.012">
   <property name="length">34382</property>
   <property name="eof">pause</property>
@@ -28,6 +28,8 @@
   <property name="kdenlive:file_hash">14ac92a7b32e48520e8a0be085ed4e14</property>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:audio_max0">168</property>
+  <property name="kdenlive:control_uuid">{fe67bb2d-a958-4b64-b718-5ea11540f800}</property>
+  <property name="meta.media.0.codec.layout">independent</property>
  </chain>
  <chain id="producer2" out="00:23:55.555">
   <property name="length">34419</property>
@@ -57,6 +59,8 @@
   <property name="kdenlive:audio_max0">181</property>
   <property name="astream">0</property>
   <property name="kdenlive:file_hash">3274ab29ccea1a248ba1d5193c85d5d6</property>
+  <property name="kdenlive:control_uuid">{99962f08-c339-4d75-8a6a-99453b9414d4}</property>
+  <property name="meta.media.0.codec.layout">independent</property>
  </chain>
  <chain id="producer0" out="00:23:55.597">
   <property name="length">34420</property>
@@ -272,6 +276,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:audio_max8">1</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </chain>
  <chain id="producer1" out="00:23:55.555">
   <property name="length">34419</property>
@@ -487,6 +492,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:audio_max7">1</property>
   <property name="kdenlive:audio_max8">1</property>
+  <property name="kdenlive:control_uuid">{393250b2-3cd7-45fb-ac63-6b2b6eadcc6a}</property>
  </chain>
  <chain id="chain3" out="00:02:26.777">
   <property name="length">3520</property>
@@ -556,8 +562,9 @@
   <property name="kdenlive:file_size">16251127</property>
   <property name="kdenlive:file_hash">19e5f0c28b9766b0f55286b231697a8d</property>
   <property name="kdenlive:audio_max0">239</property>
+  <property name="kdenlive:control_uuid">{6499edab-4005-462b-873a-51f4bfac350b}</property>
  </chain>
- <producer id="producer3" in="00:00:00.000" out="01:05:34.117">
+ <producer id="producer3" in="00:00:00.000" out="00:49:42.834">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -638,11 +645,14 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{6499edab-4005-462b-873a-51f4bfac350b}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.aspect_ratio">1</property>
  </chain>
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
   <blank length="00:35:52.010"/>
-  <entry producer="chain0" in="00:00:00.000" out="00:02:26.777">
+  <entry in="00:00:00.000" out="00:02:26.777" producer="chain0">
    <property name="kdenlive:id">8</property>
    <filter id="filter0">
     <property name="window">75</property>
@@ -717,11 +727,13 @@
   <property name="set.test_image">1</property>
   <property name="meta.attr.title.markup">Monster : Chapter 22 : Lunge's Trap</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{99962f08-c339-4d75-8a6a-99453b9414d4}</property>
+  <property name="meta.media.0.codec.layout">independent</property>
  </chain>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
   <blank length="00:36:45.462"/>
-  <entry producer="producer4" in="00:15:57.391" out="00:15:58.809">
+  <entry in="00:15:57.391" out="00:15:58.809" producer="producer4">
    <property name="kdenlive:id">3</property>
    <filter id="filter4" in="00:15:57.391" out="00:15:58.308">
     <property name="window">75</property>
@@ -806,6 +818,8 @@
   <property name="mute_on_pause">0</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{fe67bb2d-a958-4b64-b718-5ea11540f800}</property>
+  <property name="meta.media.0.codec.layout">independent</property>
  </chain>
  <chain id="producer6" out="00:23:55.555">
   <property name="length">34419</property>
@@ -837,11 +851,13 @@
   <property name="set.test_image">1</property>
   <property name="meta.attr.title.markup">Monster : Chapter 22 : Lunge's Trap</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{99962f08-c339-4d75-8a6a-99453b9414d4}</property>
+  <property name="meta.media.0.codec.layout">independent</property>
  </chain>
  <playlist id="playlist4">
   <property name="kdenlive:audio_track">1</property>
   <blank length="00:21:24.024"/>
-  <entry producer="chain1" in="00:21:27.527" out="00:21:32.074">
+  <entry in="00:21:27.527" out="00:21:32.074" producer="chain1">
    <property name="kdenlive:id">2</property>
    <filter id="filter9" in="00:21:27.527" out="00:21:29.488">
     <property name="window">75</property>
@@ -863,7 +879,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.959"/>
-  <entry producer="chain1" in="00:21:37.746" out="00:22:27.236">
+  <entry in="00:21:37.746" out="00:22:27.236" producer="chain1">
    <property name="kdenlive:id">2</property>
    <filter id="filter11" in="00:21:37.746" out="00:21:38.121">
     <property name="window">75</property>
@@ -876,7 +892,7 @@
    </filter>
   </entry>
   <blank length="00:01:56.139"/>
-  <entry producer="producer6" in="00:03:23.982" out="00:11:06.048">
+  <entry in="00:03:23.982" out="00:11:06.048" producer="producer6">
    <property name="kdenlive:id">3</property>
    <filter id="filter12" in="00:03:23.982" out="00:03:24.441">
     <property name="window">75</property>
@@ -889,7 +905,7 @@
    </filter>
   </entry>
   <blank length="00:04:48.257"/>
-  <entry producer="producer6" in="00:15:59.101" out="00:16:00.083">
+  <entry in="00:15:59.101" out="00:16:00.083" producer="producer6">
    <property name="kdenlive:id">3</property>
    <filter id="filter13" in="00:15:59.101" out="00:15:59.142">
     <property name="window">75</property>
@@ -973,6 +989,8 @@
   <property name="mute_on_pause">0</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{fe67bb2d-a958-4b64-b718-5ea11540f800}</property>
+  <property name="meta.media.0.codec.layout">independent</property>
  </chain>
  <chain id="producer8" out="00:23:55.555">
   <property name="length">34419</property>
@@ -1004,10 +1022,12 @@
   <property name="set.test_image">1</property>
   <property name="meta.attr.title.markup">Monster : Chapter 22 : Lunge's Trap</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{99962f08-c339-4d75-8a6a-99453b9414d4}</property>
+  <property name="meta.media.0.codec.layout">independent</property>
  </chain>
  <playlist id="playlist6">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="chain2" in="00:00:00.083" out="00:21:26.735">
+  <entry in="00:00:00.083" out="00:21:26.735" producer="chain2">
    <property name="kdenlive:id">2</property>
    <filter id="filter18" in="00:21:25.108" out="00:21:26.735">
     <property name="window">75</property>
@@ -1020,7 +1040,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.792"/>
-  <entry producer="chain2" in="00:21:31.448" out="00:21:38.080">
+  <entry in="00:21:31.448" out="00:21:38.080" producer="chain2">
    <property name="kdenlive:id">2</property>
    <filter id="filter19" in="00:21:31.448" out="00:21:32.157">
     <property name="window">75</property>
@@ -1033,7 +1053,7 @@
    </filter>
   </entry>
   <blank length="00:00:44.878"/>
-  <entry producer="producer8" in="00:00:00.000" out="00:01:57.516">
+  <entry in="00:00:00.000" out="00:01:57.516" producer="producer8">
    <property name="kdenlive:id">3</property>
    <filter id="filter20" in="00:01:56.473" out="00:01:57.516">
     <property name="window">75</property>
@@ -1046,7 +1066,7 @@
    </filter>
   </entry>
   <blank length="00:07:39.289"/>
-  <entry producer="producer8" in="00:11:07.216" out="00:15:57.557">
+  <entry in="00:11:07.216" out="00:15:57.557" producer="producer8">
    <property name="kdenlive:id">3</property>
    <filter id="filter21" in="00:11:07.216" out="00:11:07.591">
     <property name="window">75</property>
@@ -1068,7 +1088,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.500"/>
-  <entry producer="producer8" in="00:15:59.518" out="00:23:55.305">
+  <entry in="00:15:59.518" out="00:23:55.305" producer="producer8">
    <property name="kdenlive:id">3</property>
    <filter id="filter23" in="00:15:59.518" out="00:15:59.685">
     <property name="window">75</property>
@@ -1333,6 +1353,12 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
+  <property name="meta.media.7.codec.layout">independent</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
+  <property name="meta.media.aspect_ratio">1</property>
  </chain>
  <producer id="producer10" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
@@ -1364,6 +1390,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -1380,6 +1407,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -1452,6 +1480,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -1468,6 +1497,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -1545,6 +1575,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </producer>
  <producer id="producer11" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
@@ -1576,6 +1607,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -1592,6 +1624,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -1664,6 +1697,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -1680,6 +1714,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -1757,6 +1792,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </producer>
  <producer id="producer12" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
@@ -1788,6 +1824,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -1804,6 +1841,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -1876,6 +1914,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -1892,6 +1931,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -1969,6 +2009,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </producer>
  <producer id="producer13" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
@@ -2000,6 +2041,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -2016,6 +2058,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -2088,6 +2131,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -2104,6 +2148,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -2181,6 +2226,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </producer>
  <producer id="producer14" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
@@ -2212,6 +2258,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -2228,6 +2275,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -2300,6 +2348,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -2316,6 +2365,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -2393,6 +2443,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </producer>
  <producer id="producer15" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
@@ -2424,6 +2475,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -2440,6 +2492,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -2512,6 +2565,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -2528,6 +2582,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -2605,6 +2660,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </producer>
  <producer id="producer16" in="00:00:00.000" out="00:07:58.517">
   <property name="length">11473</property>
@@ -2636,6 +2692,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -2652,6 +2709,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -2724,6 +2782,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -2740,6 +2799,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -2817,6 +2877,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{bcfd3e0c-bb80-44cb-8972-9a213b5c2b67}</property>
  </producer>
  <chain id="producer17" out="00:23:55.555">
   <property name="length">34419</property>
@@ -3037,6 +3098,12 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{393250b2-3cd7-45fb-ac63-6b2b6eadcc6a}</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
+  <property name="meta.media.7.codec.layout">independent</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
+  <property name="meta.media.aspect_ratio">1</property>
  </chain>
  <producer id="producer18" in="00:00:00.000" out="00:19:08.425">
   <property name="length">27535</property>
@@ -3068,6 +3135,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -3084,6 +3152,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -3156,6 +3225,7 @@
   <property name="meta.media.7.codec.sample_fmt">fltp</property>
   <property name="meta.media.7.codec.sample_rate">48000</property>
   <property name="meta.media.7.codec.channels">2</property>
+  <property name="meta.media.7.codec.layout">independent</property>
   <property name="meta.media.7.codec.name">ac3</property>
   <property name="meta.media.7.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.7.codec.bit_rate">0</property>
@@ -3172,6 +3242,7 @@
   <property name="meta.media.8.codec.sample_fmt">fltp</property>
   <property name="meta.media.8.codec.sample_rate">44100</property>
   <property name="meta.media.8.codec.channels">2</property>
+  <property name="meta.media.8.codec.layout">stereo</property>
   <property name="meta.media.8.codec.name">aac</property>
   <property name="meta.media.8.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.8.codec.bit_rate">0</property>
@@ -3249,39 +3320,40 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{393250b2-3cd7-45fb-ac63-6b2b6eadcc6a}</property>
  </producer>
  <playlist id="playlist8">
-  <entry producer="producer9" in="00:00:00.000" out="00:21:25.734">
+  <entry in="00:00:00.000" out="00:21:25.734" producer="producer9">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer9" in="00:21:29.196" out="00:21:31.490">
+  <entry in="00:21:29.196" out="00:21:31.490" producer="producer9">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer10" in="00:07:10.510" out="00:07:10.761">
+  <entry in="00:07:10.510" out="00:07:10.761" producer="producer10">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer11" in="00:07:10.802" out="00:07:11.261">
+  <entry in="00:07:10.802" out="00:07:11.261" producer="producer11">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer12" in="00:07:11.553" out="00:07:11.762">
+  <entry in="00:07:11.553" out="00:07:11.762" producer="producer12">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer13" in="00:07:12.054" out="00:07:12.304">
+  <entry in="00:07:12.054" out="00:07:12.304" producer="producer13">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer14" in="00:07:11.303" out="00:07:11.511">
+  <entry in="00:07:11.303" out="00:07:11.511" producer="producer14">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer15" in="00:07:11.803" out="00:07:12.012">
+  <entry in="00:07:11.803" out="00:07:12.012" producer="producer15">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer16" in="00:07:12.346" out="00:07:12.596">
+  <entry in="00:07:12.346" out="00:07:12.596" producer="producer16">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer9" in="00:21:38.330" out="00:22:27.152">
+  <entry in="00:21:38.330" out="00:22:27.152" producer="producer9">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer17" in="00:00:00.000" out="00:01:57.432">
+  <entry in="00:00:00.000" out="00:01:57.432" producer="producer17">
    <property name="kdenlive:id">5</property>
    <filter id="filter27" in="00:01:56.139" out="00:01:57.432">
     <property name="start">1</property>
@@ -3293,7 +3365,7 @@
    </filter>
   </entry>
   <blank length="00:07:39.289"/>
-  <entry producer="producer17" in="00:11:07.132" out="00:15:56.932">
+  <entry in="00:11:07.132" out="00:15:56.932" producer="producer17">
    <property name="kdenlive:id">5</property>
    <filter id="filter28" in="00:11:07.132" out="00:11:08.675">
     <property name="start">1</property>
@@ -3304,13 +3376,13 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer17" in="00:15:59.059" out="00:15:59.768">
+  <entry in="00:15:59.059" out="00:15:59.768" producer="producer17">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer18" in="00:12:46.588" out="00:12:47.214">
+  <entry in="00:12:46.588" out="00:12:47.214" producer="producer18">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer17" in="00:15:59.810" out="00:23:55.555">
+  <entry in="00:15:59.810" out="00:23:55.555" producer="producer17">
    <property name="kdenlive:id">5</property>
   </entry>
  </playlist>
@@ -3543,10 +3615,11 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{393250b2-3cd7-45fb-ac63-6b2b6eadcc6a}</property>
  </chain>
  <playlist id="playlist10">
   <blank length="00:24:15.224"/>
-  <entry producer="producer19" in="00:03:23.899" out="00:11:05.964">
+  <entry in="00:03:23.899" out="00:11:05.964" producer="producer19">
    <property name="kdenlive:id">5</property>
    <filter id="filter29" in="00:11:04.421" out="00:11:05.964">
     <property name="start">1</property>
@@ -3577,12 +3650,13 @@
   <track hide="audio" producer="playlist11"/>
  </tractor>
  <tractor id="tractor6" in="00:00:00.000" out="00:44:42.793">
-  <property name="kdenlive:duration">00:44:42:20</property>
+  <property name="kdenlive:duration">00:44:42.834</property>
   <property name="kdenlive:maxduration">64323</property>
   <property name="kdenlive:clipname">Sequence 1</property>
   <property name="kdenlive:description"/>
   <property name="kdenlive:uuid">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
   <property name="kdenlive:producer_type">17</property>
+  <property name="kdenlive:control_uuid">{c7d9521e-2304-4a3e-a2bc-eb4c213b0283}</property>
   <property name="kdenlive:id">7</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">0b1b6fabfed9eccddf8818bc357a4ffc</property>
@@ -3594,13 +3668,21 @@
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
   <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
-  <property name="kdenlive:sequenceproperties.position">52867</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">41809</property>
+  <property name="kdenlive:sequenceproperties.position">48806</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">720</property>
+  <property name="kdenlive:sequenceproperties.subtitlesList">[
+    {
+        "file": "/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing/Monster_21-22_Trapped_1080p_24fps.kdenlive.srt",
+        "id": 0,
+        "name": "Subtitles"
+    }
+]
+</property>
   <property name="kdenlive:sequenceproperties.tracksCount">6</property>
   <property name="kdenlive:sequenceproperties.videoTarget">-1</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
   <property name="kdenlive:sequenceproperties.zoneout">75</property>
-  <property name="kdenlive:sequenceproperties.zoom">7</property>
+  <property name="kdenlive:sequenceproperties.zoom">14</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
@@ -3856,8 +3938,9 @@
    <property name="distort">0</property>
    <property name="rotate_center">0</property>
    <property name="mlt_service">qtblend</property>
-   <property name="always_active">1</property>
+   <property name="kdenlive_id">qtblend</property>
    <property name="internal_added">237</property>
+   <property name="always_active">1</property>
   </transition>
   <transition id="transition5">
    <property name="a_track">0</property>
@@ -3866,8 +3949,9 @@
    <property name="distort">0</property>
    <property name="rotate_center">0</property>
    <property name="mlt_service">qtblend</property>
-   <property name="always_active">1</property>
+   <property name="kdenlive_id">qtblend</property>
    <property name="internal_added">237</property>
+   <property name="always_active">1</property>
   </transition>
   <filter id="filter31">
    <property name="window">75</property>
@@ -3899,6 +3983,7 @@
   </filter>
   <filter id="filter35">
    <property name="mlt_service">avfilter.subtitles</property>
+   <property name="av.alpha">1</property>
    <property name="internal_added">237</property>
    <property name="av.filename">Monster_21-22_Trapped_1080p_24fps.kdenlive.srt</property>
    <property name="av.force_style">Outline=0,Shadow=1,</property>
@@ -3908,6 +3993,7 @@
   <property name="kdenlive:folder.-1.6">Sequences</property>
   <property name="kdenlive:docproperties.activetimeline">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.binsort">0</property>
   <property name="kdenlive:docproperties.browserurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack II [2004]/</property>
   <property name="kdenlive:docproperties.compositing">1</property>
   <property name="kdenlive:docproperties.documentid">1668365411280</property>
@@ -3965,7 +4051,7 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">23.08.4</property>
+  <property name="kdenlive:docproperties.kdenliveversion">24.08.0</property>
   <property name="kdenlive:docproperties.opensequences">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -3976,25 +4062,25 @@
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
-  <property name="kdenlive:docproperties.rendercustomquality">100</property>
+  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.rendercustomquality">30</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
   <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
+  <property name="kdenlive:docproperties.renderprofile">SVT-AV1</property>
   <property name="kdenlive:docproperties.renderratio">0</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">1</property>
   <property name="kdenlive:docproperties.renderrescalewidth">1</property>
-  <property name="kdenlive:docproperties.renderspeed">1</property>
+  <property name="kdenlive:docproperties.renderspeed">0</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_21-22_Trapped_1080p_24fps.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_21-22_Trapped_1080p_24fps.webm</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.uuid">{334e1ecf-6c85-4e10-878a-86f772e5b6ed}</property>
   <property name="kdenlive:docproperties.version">1.1</property>
@@ -4002,17 +4088,18 @@
   <property name="kdenlive:docproperties.zoom">17</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:binZoom">4</property>
+  <property name="kdenlive:extraBins">project_bin:-1:0</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
-  <entry producer="chain4" in="00:00:00.000" out="00:23:54.012"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:23:55.555"/>
-  <entry producer="producer0" in="00:00:00.000" out="00:23:55.597"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:23:55.555"/>
-  <entry producer="chain3" in="00:00:00.000" out="00:02:26.777"/>
-  <entry producer="tractor6" in="00:00:00.000" out="00:44:42.793"/>
+  <entry in="00:00:00.000" out="00:23:54.012" producer="chain4"/>
+  <entry in="00:00:00.000" out="00:23:55.555" producer="producer2"/>
+  <entry in="00:00:00.000" out="00:23:55.597" producer="producer0"/>
+  <entry in="00:00:00.000" out="00:23:55.555" producer="producer1"/>
+  <entry in="00:00:00.000" out="00:02:26.777" producer="chain3"/>
+  <entry in="00:00:00.000" out="00:44:42.793" producer="tractor6"/>
  </playlist>
  <tractor id="tractor7" in="00:00:00.000" out="00:44:42.793">
   <property name="kdenlive:projectTractor">1</property>
-  <track producer="tractor6" in="00:00:00.000" out="00:44:42.793"/>
+  <track in="00:00:00.000" out="00:44:42.793" producer="tractor6"/>
  </tractor>
 </mlt>

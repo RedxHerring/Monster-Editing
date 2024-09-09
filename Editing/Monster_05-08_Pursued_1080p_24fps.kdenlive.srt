@@ -17,7 +17,7 @@ Heidelberg
 <font size="24"><b>Nina Fortner</b></font>
 
 4
-00:09:53,926 --> 00:09:56,429
+00:09:51,382 --> 00:09:53,884
 <font face="Times New Roman" size="28"> 
 Köhn 
 </font> 
@@ -27,7 +27,7 @@ Köhn
 ‎
 
 5
-00:23:46,925 --> 00:23:50,637
+00:23:44,381 --> 00:23:48,093
 <font size="24"><b> 
 Disappearance 
 </b></font> 
@@ -37,7 +37,7 @@ Disappearance
 ‎
 
 6
-00:40:15,037 --> 00:40:19,500
+00:40:12,493 --> 00:40:16,956
 <font size="24"><b> 
 House of Tragedy 
 </b></font> 
@@ -47,13 +47,13 @@ House of Tragedy
 ‎
 
 7
-00:52:55,213 --> 00:53:00,594
+00:52:52,669 --> 00:52:58,049
 <font size="18"><b> 
 Heidelberg Police Department 
 </b></font>
 
 8
-00:59:38,032 --> 00:59:43,329
+00:59:35,488 --> 00:59:40,785
 <font size="24"><b> 
 Pursued 
 </b></font> 
@@ -63,7 +63,7 @@ Pursued
 ‎
 
 9
-01:13:08,050 --> 01:13:12,846
+01:13:05,506 --> 01:13:10,302
 <font face="Times New Roman" size="28"> 
 5 Months Later 
 </font> 
