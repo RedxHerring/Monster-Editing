@@ -6025,8 +6025,8 @@
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
   <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
-  <property name="kdenlive:sequenceproperties.position">115986</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">6086</property>
+  <property name="kdenlive:sequenceproperties.position">87751</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">34208</property>
   <property name="kdenlive:sequenceproperties.subtitlesList">[
     {
         "file": "/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing/Monster_01-04_Murder_and_Execution_1080p_24fps.kdenlive.ass",
@@ -6039,17 +6039,17 @@
   <property name="kdenlive:sequenceproperties.videoTarget">3</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
   <property name="kdenlive:sequenceproperties.zoneout">113714</property>
-  <property name="kdenlive:sequenceproperties.zoom">13</property>
+  <property name="kdenlive:sequenceproperties.zoom">9</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
             {
-                "data": "3:55488:-1",
+                "data": "1:11901:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:55488:-1",
+                "data": "4:11905:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6059,12 +6059,12 @@
     {
         "children": [
             {
-                "data": "2:102084:-1",
+                "data": "4:61711:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:102091:-1",
+                "data": "3:61706:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6074,17 +6074,12 @@
     {
         "children": [
             {
-                "data": "4:76922:-1",
+                "data": "4:77489:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:76910:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:76867:-1",
+                "data": "2:77470:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6094,12 +6089,12 @@
     {
         "children": [
             {
-                "data": "4:91001:-1",
+                "data": "4:1:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:90997:-1",
+                "data": "3:0:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6109,12 +6104,12 @@
     {
         "children": [
             {
-                "data": "4:100556:-1",
+                "data": "4:78562:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:100509:-1",
+                "data": "3:78550:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6124,12 +6119,12 @@
     {
         "children": [
             {
-                "data": "4:55122:-1",
+                "data": "4:70479:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:55122:-1",
+                "data": "3:70479:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6139,12 +6134,37 @@
     {
         "children": [
             {
-                "data": "4:100791:-1",
+                "data": "4:94351:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:100790:-1",
+                "data": "2:94983:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:95144:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:94802:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:94501:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:94348:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:94638:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6154,12 +6174,22 @@
     {
         "children": [
             {
-                "data": "4:76549:-1",
+                "data": "3:100965:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:76549:-1",
+                "data": "4:100995:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:100976:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:101018:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6169,12 +6199,12 @@
     {
         "children": [
             {
-                "data": "4:105892:-1",
+                "data": "4:44509:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:105881:-1",
+                "data": "3:44509:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6184,12 +6214,12 @@
     {
         "children": [
             {
-                "data": "3:76258:-1",
+                "data": "4:101042:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:76261:-1",
+                "data": "2:101043:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6199,12 +6229,12 @@
     {
         "children": [
             {
-                "data": "1:102125:-1",
+                "data": "4:58468:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:102132:-1",
+                "data": "3:58424:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6214,12 +6244,12 @@
     {
         "children": [
             {
-                "data": "3:13040:-1",
+                "data": "4:15083:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:13125:-1",
+                "data": "3:15076:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6229,12 +6259,17 @@
     {
         "children": [
             {
-                "data": "4:100681:-1",
+                "data": "4:11948:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:100646:-1",
+                "data": "3:11877:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:11958:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6244,12 +6279,17 @@
     {
         "children": [
             {
-                "data": "4:101960:-1",
+                "data": "4:9927:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:101974:-1",
+                "data": "1:9937:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:9963:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6259,12 +6299,12 @@
     {
         "children": [
             {
-                "data": "4:12944:-1",
+                "data": "4:25261:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:12944:-1",
+                "data": "3:25271:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6273,108 +6313,23 @@
     },
     {
         "children": [
-            {
-                "data": "3:4036:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
             {
                 "children": [
                     {
-                        "data": "5:4052:-1",
+                        "data": "3:39825:-1",
                         "leaf": "clip",
                         "type": "Leaf"
                     },
                     {
-                        "data": "2:4052:-1",
+                        "data": "4:39847:-1",
                         "leaf": "clip",
                         "type": "Leaf"
                     }
                 ],
                 "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:4699:-1",
-                "leaf": "clip",
-                "type": "Leaf"
             },
             {
-                "children": [
-                    {
-                        "data": "3:4426:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "5:4434:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:84940:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:84940:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:95298:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:95303:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:84813:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:84807:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:10537:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:10537:-1",
+                "data": "4:39818:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6414,12 +6369,17 @@
     {
         "children": [
             {
-                "data": "4:14307:-1",
+                "data": "3:84000:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:14307:-1",
+                "data": "-2:84103:0",
+                "leaf": "subtitle",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:84020:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6470,6 +6430,681 @@
             },
             {
                 "data": "4:10818:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:61855:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:61862:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:55488:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:55488:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:12089:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:12032:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:102084:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:102091:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:52151:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:52151:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:76922:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:76910:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:76867:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:99875:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:99896:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:91001:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:90997:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:100890:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:100895:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:100556:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:100509:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:95533:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:95543:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:55122:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:55122:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:102309:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:102322:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:100791:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:100790:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:11844:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:11844:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:76549:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:76549:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:14307:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:14307:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:23541:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:23541:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:13040:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:13125:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:10537:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:10537:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:54755:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:54737:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:84813:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:84807:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:8897:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:8889:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:105892:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:105881:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:20758:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:20748:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:95298:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:95303:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:84758:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "2:84556:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "4:84568:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:84940:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:84940:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:23023:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:23013:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:8915:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:8922:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:4036:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "5:4052:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:4052:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:63710:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:63717:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:105871:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "4:102350:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "2:102317:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:12944:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:12944:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:12038:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:12043:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:100681:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:100646:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "5:76213:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:76205:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:102125:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:102132:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:41115:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:41021:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:76258:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:76261:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:4699:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "children": [
+                    {
+                        "data": "3:4426:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    },
+                    {
+                        "data": "5:4434:-1",
+                        "leaf": "clip",
+                        "type": "Leaf"
+                    }
+                ],
+                "type": "Normal"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "4:101960:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:101974:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -6685,621 +7320,6 @@
             }
         ],
         "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "children": [
-                    {
-                        "data": "3:39825:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "4:39847:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            },
-            {
-                "data": "4:39818:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:25261:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:25271:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:9927:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:9937:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:9963:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:11948:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:11877:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:11958:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:15083:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:15076:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:58468:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:58424:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:101042:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:101043:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:44509:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:44509:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:100965:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:100995:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:100976:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:101018:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:94351:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:94983:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:95144:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:94802:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:94501:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:94348:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:94638:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:70479:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:70479:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:78562:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:78550:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:1:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:0:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:77489:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:77470:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:61711:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:61706:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:11901:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:11905:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:61855:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:61862:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:12089:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:12032:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:52151:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:52151:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:99875:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:99896:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:100890:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:100895:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:95533:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:95543:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:102309:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:102322:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:11844:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:11844:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:8897:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:8889:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:41115:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:41021:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:76213:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:76205:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:23541:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:23541:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:12038:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:12043:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:105871:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "4:102350:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:102317:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:63710:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "4:63717:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:8915:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "5:8922:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:23023:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:23013:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:84758:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "2:84556:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "4:84568:-1",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "4:20758:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:20748:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "5:54755:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:54737:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
     }
 ]
 </property>
@@ -7483,7 +7503,7 @@
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.rendercategory">Standardized (open codecs only)</property>
   <property name="kdenlive:docproperties.rendercustomquality">24</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
@@ -7491,7 +7511,7 @@
   <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">SVT-AV1</property>
+  <property name="kdenlive:docproperties.renderprofile">WebM - lossy (AV1/Opus)</property>
   <property name="kdenlive:docproperties.renderratio">0</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">1</property>
