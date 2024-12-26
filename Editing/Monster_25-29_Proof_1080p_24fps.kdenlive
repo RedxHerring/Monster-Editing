@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.22.0" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing">
- <profile frame_rate_num="24000" sample_aspect_num="1" display_aspect_den="3" colorspace="709" progressive="1" description="1440x1080 23.98fps" display_aspect_num="4" frame_rate_den="1001" width="1440" height="1080" sample_aspect_den="1"/>
+<mlt LC_NUMERIC="C" producer="main_bin" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing" version="7.28.0">
+ <profile colorspace="709" description="1440x1080 23.98fps" display_aspect_den="3" display_aspect_num="4" frame_rate_den="1001" frame_rate_num="24000" height="1080" progressive="1" sample_aspect_den="1" sample_aspect_num="1" width="1440"/>
  <chain id="producer0" out="00:23:55.597">
   <property name="length">34420</property>
   <property name="eof">pause</property>
@@ -124,6 +124,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{f4b500d6-e9c0-40b3-8619-96fb58d06b03}</property>
  </chain>
  <chain id="producer1" out="00:23:55.472">
   <property name="length">34417</property>
@@ -248,6 +249,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{9501a3d6-8c45-46f6-9d11-d14f673286c9}</property>
  </chain>
  <chain id="producer3" out="00:24:09.509">
   <property name="length">34754</property>
@@ -372,6 +374,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{4904a616-fb4f-46a2-8672-7e6bc05d7530}</property>
  </chain>
  <chain id="producer2" out="00:23:55.555">
   <property name="length">34419</property>
@@ -496,6 +499,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{061acfee-adee-43d3-baca-e966a2e4fc21}</property>
  </chain>
  <chain id="producer4" out="00:23:55.514">
   <property name="length">34418</property>
@@ -620,6 +624,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{9ad34fdb-c542-466b-b64c-2f8ddabb199c}</property>
  </chain>
  <chain id="producer5" out="00:23:55.514">
   <property name="length">34418</property>
@@ -647,6 +652,8 @@
   <property name="kdenlive:audio_max0">166</property>
   <property name="astream">0</property>
   <property name="kdenlive:file_hash">10876def0a0f90867a1aca2e7010678f</property>
+  <property name="kdenlive:control_uuid">{1d3ee8a2-2a20-4ccc-8ab8-13883b85aca9}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="producer6" out="00:23:55.180">
   <property name="length">34410</property>
@@ -674,6 +681,8 @@
   <property name="kdenlive:audio_max0">176</property>
   <property name="astream">0</property>
   <property name="kdenlive:file_hash">cc24126bd56ed29d2131933ac03a1f56</property>
+  <property name="kdenlive:control_uuid">{849bd1db-0bde-4bf1-8897-b97c7fc6c81c}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="producer7" out="00:23:54.721">
   <property name="length">34399</property>
@@ -701,6 +710,8 @@
   <property name="kdenlive:audio_max0">175</property>
   <property name="astream">0</property>
   <property name="kdenlive:file_hash">069fc7c315b047d78317d68299e618a1</property>
+  <property name="kdenlive:control_uuid">{977ea16e-c07b-46a3-9d59-619da061945a}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="producer8" out="00:23:55.305">
   <property name="length">34413</property>
@@ -728,6 +739,8 @@
   <property name="kdenlive:audio_max0">174</property>
   <property name="astream">0</property>
   <property name="kdenlive:file_hash">3c5010de5aef5aaf7283cd926240600c</property>
+  <property name="kdenlive:control_uuid">{2d824e76-8f10-46dd-9335-84ea38d9651d}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="producer9" out="00:23:55.430">
   <property name="length">34416</property>
@@ -755,8 +768,497 @@
   <property name="kdenlive:audio_max0">180</property>
   <property name="astream">0</property>
   <property name="kdenlive:file_hash">d8c3ef789f091d44354bfb9515292b0b</property>
+  <property name="kdenlive:control_uuid">{b47485ba-05de-4a7e-8d81-55168bfe4a72}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
- <producer id="producer10" in="00:00:00.000" out="02:06:32.491">
+ <chain id="chain18" out="00:06:46.088">
+  <property name="length">9737</property>
+  <property name="eof">pause</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Various Artists - Monster Remix -Octopus- [2004]/08 - Drift Mind (Deep Euro Mix).flac</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1642</property>
+  <property name="meta.media.1.codec.height">1462</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.CATALOG.markup">VPCC-81491</property>
+  <property name="meta.attr.TITLE.markup">Drift Mind (Deep Euro Mix)</property>
+  <property name="meta.attr.ARTIST.markup">Tomoki Hirata</property>
+  <property name="meta.attr.ALBUM.markup">Monster Remix -Octopus-</property>
+  <property name="meta.attr.DATE.markup">2004</property>
+  <property name="meta.attr.GENRE.markup">Anime</property>
+  <property name="meta.attr.ORIGINALARTIST.markup">Various Artists</property>
+  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
+  <property name="meta.attr.track.markup">08/08</property>
+  <property name="meta.attr.disc.markup">01/01</property>
+  <property name="meta.attr.ORIGARTIST.markup">Various Artists</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">Various Artists</property>
+  <property name="meta.attr.ALBUMARTISTSORT.markup">Various Artists</property>
+  <property name="meta.attr.ALBUMSORT.markup">Monster Remix -Octopus-</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">72</property>
+  <property name="meta.media.sample_aspect_den">72</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1642</property>
+  <property name="meta.media.height">1462</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">14</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">50813338</property>
+  <property name="kdenlive:file_hash">039000cf8f9af72fd7dc9d610e2ec3a9</property>
+  <property name="kdenlive:audio_max0">250</property>
+  <property name="kdenlive:control_uuid">{4f212016-bfa8-4b73-ba0e-8373e64aa583}</property>
+ </chain>
+ <chain id="chain19" out="00:01:31.198">
+  <property name="length">2187</property>
+  <property name="eof">pause</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/22 - gossip.flac</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1669</property>
+  <property name="meta.media.1.codec.height">1486</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.TITLE.markup">gossip</property>
+  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.DATE.markup">2004</property>
+  <property name="meta.attr.GENRE.markup">Anime</property>
+  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
+  <property name="meta.attr.track.markup">22/24</property>
+  <property name="meta.attr.disc.markup">01/01</property>
+  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.SHOWSORT.markup">Monster</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1669</property>
+  <property name="meta.media.height">1486</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">15</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">8047389</property>
+  <property name="kdenlive:file_hash">f8ab2b3f586d7b55a5b15d44356b97e2</property>
+  <property name="kdenlive:audio_max0">199</property>
+  <property name="kdenlive:control_uuid">{3e75f516-5ce9-4eef-bf9c-9a4866bf002a}</property>
+ </chain>
+ <chain id="chain20" out="00:01:48.340">
+  <property name="length">2598</property>
+  <property name="eof">pause</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/24 - angel hand.flac</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1669</property>
+  <property name="meta.media.1.codec.height">1486</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.TITLE.markup">angel hand</property>
+  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.DATE.markup">2004</property>
+  <property name="meta.attr.GENRE.markup">Anime</property>
+  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
+  <property name="meta.attr.track.markup">24/24</property>
+  <property name="meta.attr.disc.markup">01/01</property>
+  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.SHOWSORT.markup">Monster</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1669</property>
+  <property name="meta.media.height">1486</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">16</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">10177822</property>
+  <property name="kdenlive:file_hash">d44f39d1d57233faa4e35d3bec2d8c52</property>
+  <property name="kdenlive:audio_max0">215</property>
+  <property name="kdenlive:control_uuid">{0d91a2e1-0356-49be-8624-b4ed6f1a3446}</property>
+ </chain>
+ <chain id="chain21" out="00:01:34.534">
+  <property name="length">2267</property>
+  <property name="eof">pause</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/10 - Xenia.flac</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1669</property>
+  <property name="meta.media.1.codec.height">1486</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.TITLE.markup">Xenia</property>
+  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.DATE.markup">2004</property>
+  <property name="meta.attr.GENRE.markup">Anime</property>
+  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
+  <property name="meta.attr.track.markup">10/24</property>
+  <property name="meta.attr.disc.markup">01/01</property>
+  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.SHOWSORT.markup">Monster</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1669</property>
+  <property name="meta.media.height">1486</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">17</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">9814665</property>
+  <property name="kdenlive:file_hash">d813e5d7aba28d0458a11cd2bc022172</property>
+  <property name="kdenlive:audio_max0">245</property>
+  <property name="kdenlive:control_uuid">{1d245221-49d3-439f-ae18-3e2ed0d3d784}</property>
+ </chain>
+ <chain id="chain22" out="00:01:11.887">
+  <property name="length">1724</property>
+  <property name="eof">pause</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/12 - idler wheel.flac</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1669</property>
+  <property name="meta.media.1.codec.height">1486</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.TITLE.markup">idler wheel</property>
+  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.DATE.markup">2004</property>
+  <property name="meta.attr.GENRE.markup">Anime</property>
+  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
+  <property name="meta.attr.track.markup">12/24</property>
+  <property name="meta.attr.disc.markup">01/01</property>
+  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.SHOWSORT.markup">Monster</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1669</property>
+  <property name="meta.media.height">1486</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">18</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">8223693</property>
+  <property name="kdenlive:file_hash">e5a582c5b47d14b3764e017d4c4a0910</property>
+  <property name="kdenlive:audio_max0">208</property>
+  <property name="kdenlive:control_uuid">{411f9a9d-f578-405c-a939-74a90a9958a4}</property>
+ </chain>
+ <chain id="chain23" out="00:01:39.998">
+  <property name="length">2398</property>
+  <property name="eof">pause</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/08 - gingerly.flac</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1669</property>
+  <property name="meta.media.1.codec.height">1486</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.TITLE.markup">gingerly</property>
+  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.DATE.markup">2004</property>
+  <property name="meta.attr.GENRE.markup">Anime</property>
+  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
+  <property name="meta.attr.track.markup">08/24</property>
+  <property name="meta.attr.disc.markup">01/01</property>
+  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.SHOWSORT.markup">Monster</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1669</property>
+  <property name="meta.media.height">1486</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">19</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">9132596</property>
+  <property name="kdenlive:file_hash">b1cac6717e96c8487a89fb448e081e53</property>
+  <property name="kdenlive:audio_max0">205</property>
+  <property name="kdenlive:control_uuid">{5694c9cc-e3c4-447b-97ad-b1b1ee504827}</property>
+ </chain>
+ <chain id="chain24" out="00:01:43.710">
+  <property name="length">2487</property>
+  <property name="eof">pause</property>
+  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/20 - mid point.flac</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">90000</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">1669</property>
+  <property name="meta.media.1.codec.height">1486</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.TITLE.markup">mid point</property>
+  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.DATE.markup">2004</property>
+  <property name="meta.attr.GENRE.markup">Anime</property>
+  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
+  <property name="meta.attr.track.markup">20/24</property>
+  <property name="meta.attr.disc.markup">01/01</property>
+  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
+  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
+  <property name="meta.attr.SHOWSORT.markup">Monster</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">1669</property>
+  <property name="meta.media.height">1486</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="astream">0</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">20</property>
+  <property name="mute_on_pause">0</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:file_size">7569663</property>
+  <property name="kdenlive:file_hash">6e0fa2148322dbec9ad06f78841862ed</property>
+  <property name="kdenlive:audio_max0">216</property>
+  <property name="kdenlive:control_uuid">{3766955d-c242-4d19-8e21-96b89c465a40}</property>
+ </chain>
+ <producer id="producer10" in="00:00:00.000" out="01:50:41.250">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -776,6 +1278,7 @@
   <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">44100</property>
   <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
   <property name="meta.media.0.codec.name">flac</property>
   <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
@@ -832,6 +1335,7 @@
   <property name="meta.media.width">1669</property>
   <property name="meta.media.height">1486</property>
   <property name="meta.media.color_range">full</property>
+  <property name="kdenlive:control_uuid">{0d91a2e1-0356-49be-8624-b4ed6f1a3446}</property>
  </producer>
  <chain id="chain0" out="00:01:31.198">
   <property name="length">2187</property>
@@ -904,6 +1408,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{3e75f516-5ce9-4eef-bf9c-9a4866bf002a}</property>
  </chain>
  <chain id="chain1" out="00:23:55.514">
   <property name="length">34418</property>
@@ -935,6 +1440,8 @@
   <property name="mute_on_pause">0</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{1d3ee8a2-2a20-4ccc-8ab8-13883b85aca9}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="chain2" out="00:23:54.721">
   <property name="length">34399</property>
@@ -966,6 +1473,8 @@
   <property name="mute_on_pause">0</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{977ea16e-c07b-46a3-9d59-619da061945a}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <producer id="producer12" in="00:00:00.000" out="00:01:43.710">
   <property name="length">2487</property>
@@ -977,6 +1486,7 @@
   <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">44100</property>
   <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
   <property name="meta.media.0.codec.name">flac</property>
   <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
@@ -1033,6 +1543,7 @@
   <property name="meta.media.width">1669</property>
   <property name="meta.media.height">1486</property>
   <property name="meta.media.color_range">full</property>
+  <property name="kdenlive:control_uuid">{3766955d-c242-4d19-8e21-96b89c465a40}</property>
  </producer>
  <chain id="chain3" out="00:23:55.430">
   <property name="length">34416</property>
@@ -1064,10 +1575,13 @@
   <property name="mute_on_pause">0</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{b47485ba-05de-4a7e-8d81-55168bfe4a72}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
   <blank length="00:03:50.384"/>
-  <entry producer="producer11" in="00:00:00.000" out="00:01:48.340">
+  <entry in="00:00:00.000" out="00:01:48.340" producer="producer11">
    <property name="kdenlive:id">16</property>
    <filter id="filter0">
     <property name="window">75</property>
@@ -1087,10 +1601,10 @@
    </filter>
   </entry>
   <blank length="00:01:43.669"/>
-  <entry producer="chain0" in="00:00:00.000" out="00:01:18.477">
+  <entry in="00:00:00.000" out="00:01:18.477" producer="chain0">
    <property name="kdenlive:id">15</property>
    <property name="kdenlive:activeeffect">2</property>
-   <filter id="filter2" in="00:01:15.641" out="00:01:18.518">
+   <filter id="filter2" in="00:01:15.599" out="00:01:18.477">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1126,9 +1640,9 @@
    </filter>
   </entry>
   <blank length="00:12:02.711"/>
-  <entry producer="chain1" in="00:21:06.632" out="00:22:17.100">
+  <entry in="00:21:06.632" out="00:22:17.100" producer="chain1">
    <property name="kdenlive:id">7</property>
-   <filter id="filter6" in="00:22:16.183" out="00:22:17.142">
+   <filter id="filter6" in="00:22:16.141" out="00:22:17.100">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1148,9 +1662,9 @@
    </filter>
   </entry>
   <blank length="00:23:01.126"/>
-  <entry producer="chain2" in="00:03:36.745" out="00:11:29.947">
+  <entry in="00:03:36.745" out="00:11:29.947" producer="chain2">
    <property name="kdenlive:id">9</property>
-   <filter id="filter8" in="00:11:28.153" out="00:11:29.988">
+   <filter id="filter8" in="00:11:28.111" out="00:11:29.947">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1160,7 +1674,7 @@
    </filter>
   </entry>
   <blank length="00:02:12.804"/>
-  <entry producer="producer12" in="00:00:00.000" out="00:01:43.710">
+  <entry in="00:00:00.000" out="00:01:43.710" producer="producer12">
    <property name="kdenlive:id">20</property>
    <filter id="filter9">
     <property name="window">75</property>
@@ -1189,7 +1703,7 @@
    </filter>
   </entry>
   <blank length="00:40:11.678"/>
-  <entry producer="chain3" in="00:14:47.547" out="00:22:27.027">
+  <entry in="00:14:47.547" out="00:22:27.027" producer="chain3">
    <property name="kdenlive:id">11</property>
    <filter id="filter12" in="00:14:47.547" out="00:14:48.340">
     <property name="window">75</property>
@@ -1202,11 +1716,16 @@
    </filter>
   </entry>
  </playlist>
- <playlist id="playlist1"/>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
  <tractor id="tractor0" in="00:00:00.000" out="01:44:36.161">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist0"/>
   <track hide="video" producer="playlist1"/>
   <filter id="filter13">
@@ -1298,6 +1817,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{4f212016-bfa8-4b73-ba0e-8373e64aa583}</property>
  </chain>
  <chain id="chain5" out="00:01:48.340">
   <property name="length">2598</property>
@@ -1370,6 +1890,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{0d91a2e1-0356-49be-8624-b4ed6f1a3446}</property>
  </chain>
  <chain id="chain6" out="00:01:31.198">
   <property name="length">2187</property>
@@ -1442,6 +1963,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{3e75f516-5ce9-4eef-bf9c-9a4866bf002a}</property>
  </chain>
  <chain id="chain7" out="00:23:55.514">
   <property name="length">34418</property>
@@ -1472,6 +1994,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{1d3ee8a2-2a20-4ccc-8ab8-13883b85aca9}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="chain8" out="00:23:55.180">
   <property name="length">34410</property>
@@ -1502,6 +2026,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{849bd1db-0bde-4bf1-8897-b97c7fc6c81c}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="chain9" out="00:23:54.721">
   <property name="length">34399</property>
@@ -1532,6 +2058,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{977ea16e-c07b-46a3-9d59-619da061945a}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="producer13" out="00:23:55.305">
   <property name="length">34413</property>
@@ -1562,6 +2090,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{2d824e76-8f10-46dd-9335-84ea38d9651d}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <producer id="producer14" in="00:00:00.000" out="00:15:55.973">
   <property name="length">22942</property>
@@ -1573,6 +2103,7 @@
   <property name="meta.media.0.codec.sample_fmt">s32</property>
   <property name="meta.media.0.codec.sample_rate">48000</property>
   <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
   <property name="meta.media.0.codec.name">flac</property>
   <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
@@ -1589,6 +2120,7 @@
   <property name="set.test_image">1</property>
   <property name="kdenlive:id">10</property>
   <property name="warp_pitch">0</property>
+  <property name="kdenlive:control_uuid">{2d824e76-8f10-46dd-9335-84ea38d9651d}</property>
  </producer>
  <chain id="chain10" out="00:23:55.430">
   <property name="length">34416</property>
@@ -1619,10 +2151,12 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{b47485ba-05de-4a7e-8d81-55168bfe4a72}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="chain4" in="00:00:00.000" out="00:01:06.381">
+  <entry in="00:00:00.000" out="00:01:06.381" producer="chain4">
    <property name="kdenlive:id">14</property>
    <property name="kdenlive:activeeffect">1</property>
    <filter id="filter16" in="00:01:01.877" out="00:01:06.381">
@@ -1644,7 +2178,7 @@
    </filter>
   </entry>
   <blank length="00:04:27.611"/>
-  <entry producer="chain5" in="00:00:00.000" out="00:01:48.340">
+  <entry in="00:00:00.000" out="00:01:48.340" producer="chain5">
    <property name="kdenlive:id">16</property>
    <property name="kdenlive:activeeffect">1</property>
    <filter id="filter18">
@@ -1672,7 +2206,7 @@
     <property name="end">1</property>
    </filter>
   </entry>
-  <entry producer="chain6" in="00:00:00.000" out="00:01:15.265">
+  <entry in="00:00:00.000" out="00:01:15.265" producer="chain6">
    <property name="kdenlive:id">15</property>
    <filter id="filter21" in="00:00:-0.042" out="00:01:15.265">
     <property name="window">75</property>
@@ -1692,7 +2226,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain7" in="00:08:42.167" out="00:08:49.091">
+  <entry in="00:08:42.167" out="00:08:49.091" producer="chain7">
    <property name="kdenlive:id">7</property>
    <filter id="filter23" in="00:08:42.167" out="00:08:43.627">
     <property name="window">75</property>
@@ -1713,7 +2247,7 @@
    </filter>
   </entry>
   <blank length="00:04:17.226"/>
-  <entry producer="chain7" in="00:13:16.308" out="00:13:21.688">
+  <entry in="00:13:16.308" out="00:13:21.688" producer="chain7">
    <property name="kdenlive:id">7</property>
    <filter id="filter25" in="00:13:16.308" out="00:13:16.767">
     <property name="window">75</property>
@@ -1726,10 +2260,9 @@
    </filter>
   </entry>
   <blank length="00:07:34.201"/>
-  <entry producer="chain7" in="00:20:59.518" out="00:21:05.005">
+  <entry in="00:20:59.518" out="00:21:05.005" producer="chain7">
    <property name="kdenlive:id">7</property>
-   <property name="kdenlive:activeeffect">2</property>
-   <filter id="filter26" in="00:21:02.711" out="00:21:05.047">
+   <filter id="filter26" in="00:21:02.669" out="00:21:05.005">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1757,7 +2290,7 @@
    </filter>
   </entry>
   <blank length="00:01:02.336"/>
-  <entry producer="chain7" in="00:22:16.266" out="00:22:27.069">
+  <entry in="00:22:16.266" out="00:22:27.069" producer="chain7">
    <property name="kdenlive:id">7</property>
    <filter id="filter29">
     <property name="window">75</property>
@@ -1769,7 +2302,7 @@
    </filter>
   </entry>
   <blank length="00:02:33.242"/>
-  <entry producer="chain8" in="00:04:00.959" out="00:05:02.002">
+  <entry in="00:04:00.959" out="00:05:02.002" producer="chain8">
    <property name="kdenlive:id">8</property>
    <filter id="filter30" in="00:05:01.418" out="00:05:02.002">
     <property name="window">75</property>
@@ -1781,7 +2314,7 @@
    </filter>
   </entry>
   <blank length="00:00:04.546"/>
-  <entry producer="chain8" in="00:05:14.598" out="00:11:24.274">
+  <entry in="00:05:14.598" out="00:11:24.274" producer="chain8">
    <property name="kdenlive:id">8</property>
    <filter id="filter31" in="00:11:23.815" out="00:11:24.274">
     <property name="window">75</property>
@@ -1794,7 +2327,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.209"/>
-  <entry producer="chain8" in="00:11:29.780" out="00:22:26.777">
+  <entry in="00:11:29.780" out="00:22:26.777" producer="chain8">
    <property name="kdenlive:id">8</property>
    <filter id="filter32" in="00:11:29.780" out="00:11:30.572">
     <property name="window">75</property>
@@ -1815,9 +2348,9 @@
    </filter>
   </entry>
   <blank length="00:09:50.676"/>
-  <entry producer="chain9" in="00:11:58.600" out="00:22:25.734">
+  <entry in="00:11:58.600" out="00:22:25.734" producer="chain9">
    <property name="kdenlive:id">9</property>
-   <filter id="filter34" in="00:22:19.603" out="00:22:25.776">
+   <filter id="filter34" in="00:22:19.561" out="00:22:25.734">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -1837,7 +2370,7 @@
    </filter>
   </entry>
   <blank length="00:04:42.584"/>
-  <entry producer="producer13" in="00:06:17.809" out="00:06:22.689">
+  <entry in="00:06:17.809" out="00:06:22.689" producer="producer13">
    <property name="kdenlive:id">10</property>
    <filter id="filter36">
     <property name="window">75</property>
@@ -1849,7 +2382,7 @@
    </filter>
   </entry>
   <blank length="00:01:45.212"/>
-  <entry producer="producer14" in="00:05:26.276" out="00:05:37.287">
+  <entry in="00:05:26.276" out="00:05:37.287" producer="producer14">
    <property name="kdenlive:id">10</property>
    <filter id="filter37" in="00:05:26.276" out="00:05:26.777">
     <property name="window">75</property>
@@ -1871,7 +2404,7 @@
    </filter>
   </entry>
   <blank length="00:07:39.623"/>
-  <entry producer="producer13" in="00:16:02.252" out="00:19:09.218">
+  <entry in="00:16:02.252" out="00:19:09.218" producer="producer13">
    <property name="kdenlive:id">10</property>
    <filter id="filter39" in="00:16:02.252" out="00:16:02.878">
     <property name="window">75</property>
@@ -1892,11 +2425,11 @@
    </filter>
   </entry>
   <blank length="00:00:02.461"/>
-  <entry producer="producer13" in="00:19:12.721" out="00:22:26.985">
+  <entry in="00:19:12.721" out="00:22:26.985" producer="producer13">
    <property name="kdenlive:id">10</property>
   </entry>
   <blank length="00:06:34.076"/>
-  <entry producer="chain10" in="00:08:11.261" out="00:14:43.126">
+  <entry in="00:08:11.261" out="00:14:43.126" producer="chain10">
    <property name="kdenlive:id">11</property>
    <filter id="filter41" in="00:08:11.261" out="00:08:13.889">
     <property name="window">75</property>
@@ -1979,6 +2512,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{1d3ee8a2-2a20-4ccc-8ab8-13883b85aca9}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="producer16" out="00:23:55.180">
   <property name="length">34410</property>
@@ -2009,6 +2544,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{849bd1db-0bde-4bf1-8897-b97c7fc6c81c}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="chain11" out="00:01:34.534">
   <property name="length">2267</property>
@@ -2081,6 +2618,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{1d245221-49d3-439f-ae18-3e2ed0d3d784}</property>
  </chain>
  <chain id="chain12" out="00:01:11.887">
   <property name="length">1724</property>
@@ -2153,6 +2691,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{411f9a9d-f578-405c-a939-74a90a9958a4}</property>
  </chain>
  <producer id="producer17" in="00:00:00.000" out="00:00:49.967">
   <property name="length">1199</property>
@@ -2164,6 +2703,7 @@
   <property name="meta.media.0.codec.sample_fmt">s16</property>
   <property name="meta.media.0.codec.sample_rate">44100</property>
   <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
   <property name="meta.media.0.codec.name">flac</property>
   <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
@@ -2220,6 +2760,7 @@
   <property name="meta.media.width">1669</property>
   <property name="meta.media.height">1486</property>
   <property name="meta.media.color_range">full</property>
+  <property name="kdenlive:control_uuid">{5694c9cc-e3c4-447b-97ad-b1b1ee504827}</property>
  </producer>
  <chain id="chain13" out="00:23:54.721">
   <property name="length">34399</property>
@@ -2250,6 +2791,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{977ea16e-c07b-46a3-9d59-619da061945a}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="chain14" out="00:01:43.710">
   <property name="length">2487</property>
@@ -2322,6 +2865,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
+  <property name="kdenlive:control_uuid">{3766955d-c242-4d19-8e21-96b89c465a40}</property>
  </chain>
  <chain id="producer18" out="00:23:55.305">
   <property name="length">34413</property>
@@ -2352,6 +2896,8 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{2d824e76-8f10-46dd-9335-84ea38d9651d}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <chain id="producer19" out="00:23:55.430">
   <property name="length">34416</property>
@@ -2382,10 +2928,12 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{b47485ba-05de-4a7e-8d81-55168bfe4a72}</property>
+  <property name="meta.media.0.codec.layout">stereo</property>
  </chain>
  <playlist id="playlist4">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer15" in="00:00:00.083" out="00:08:39.206">
+  <entry in="00:00:00.083" out="00:08:39.206" producer="producer15">
    <property name="kdenlive:id">7</property>
    <filter id="filter46" in="00:08:38.914" out="00:08:39.206">
     <property name="window">75</property>
@@ -2398,7 +2946,7 @@
    </filter>
   </entry>
   <blank length="00:00:03.003"/>
-  <entry producer="producer15" in="00:08:50.801" out="00:10:07.299">
+  <entry in="00:08:50.801" out="00:10:07.299" producer="producer15">
    <property name="kdenlive:id">7</property>
    <filter id="filter47" in="00:08:50.801" out="00:08:52.886">
     <property name="window">75</property>
@@ -2409,10 +2957,10 @@
     <property name="end">1</property>
    </filter>
   </entry>
-  <entry producer="producer15" in="00:10:08.842" out="00:10:20.646">
+  <entry in="00:10:08.842" out="00:10:20.646" producer="producer15">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="producer15" in="00:10:22.231" out="00:13:14.056">
+  <entry in="00:10:22.231" out="00:13:14.056" producer="producer15">
    <property name="kdenlive:id">7</property>
    <filter id="filter48" in="00:13:13.639" out="00:13:14.056">
     <property name="window">75</property>
@@ -2425,7 +2973,7 @@
    </filter>
   </entry>
   <blank length="00:00:03.295"/>
-  <entry producer="producer15" in="00:13:21.813" out="00:21:00.459">
+  <entry in="00:13:21.813" out="00:21:00.459" producer="producer15">
    <property name="kdenlive:id">7</property>
    <filter id="filter49" in="00:13:21.813" out="00:13:22.439">
     <property name="window">75</property>
@@ -2436,7 +2984,7 @@
     <property name="end">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter50" in="00:21:00.167" out="00:21:00.500">
+   <filter id="filter50" in="00:21:00.125" out="00:21:00.459">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2447,7 +2995,7 @@
    </filter>
   </entry>
   <blank length="00:01:14.640"/>
-  <entry producer="producer16" in="00:00:00.000" out="00:02:34.993">
+  <entry in="00:00:00.000" out="00:02:34.993" producer="producer16">
    <property name="kdenlive:id">8</property>
    <filter id="filter51" out="00:00:00.375">
     <property name="window">75</property>
@@ -2460,7 +3008,7 @@
    </filter>
   </entry>
   <blank length="00:00:59.726"/>
-  <entry producer="producer16" in="00:05:08.800" out="00:05:13.931">
+  <entry in="00:05:08.800" out="00:05:13.931" producer="producer16">
    <property name="kdenlive:id">8</property>
    <filter id="filter52" in="00:05:08.800" out="00:05:09.384">
     <property name="window">75</property>
@@ -2473,7 +3021,7 @@
    </filter>
   </entry>
   <blank length="00:02:11.094"/>
-  <entry producer="chain11" in="00:00:00.000" out="00:01:15.265">
+  <entry in="00:00:00.000" out="00:01:15.265" producer="chain11">
    <property name="kdenlive:id">17</property>
    <filter id="filter53">
     <property name="window">75</property>
@@ -2502,7 +3050,7 @@
    </filter>
   </entry>
   <blank length="00:02:42.793"/>
-  <entry producer="producer16" in="00:11:23.899" out="00:11:26.193">
+  <entry in="00:11:23.899" out="00:11:26.193" producer="producer16">
    <property name="kdenlive:id">8</property>
    <filter id="filter56" in="00:11:23.899" out="00:11:24.441">
     <property name="window">75</property>
@@ -2524,7 +3072,7 @@
    </filter>
   </entry>
   <blank length="00:05:39.456"/>
-  <entry producer="chain12" in="00:00:00.000" out="00:00:32.199">
+  <entry in="00:00:00.000" out="00:00:32.199" producer="chain12">
    <property name="kdenlive:id">18</property>
    <filter id="filter58">
     <property name="window">75</property>
@@ -2545,9 +3093,9 @@
    </filter>
   </entry>
   <blank length="00:00:14.806"/>
-  <entry producer="producer17" in="00:00:00.000" out="00:00:43.418">
+  <entry in="00:00:00.000" out="00:00:43.418" producer="producer17">
    <property name="kdenlive:id">19</property>
-   <filter id="filter60" in="00:00:34.201" out="00:00:43.460">
+   <filter id="filter60" in="00:00:34.159" out="00:00:43.418">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -2583,11 +3131,11 @@
    </filter>
   </entry>
   <blank length="00:03:45.212"/>
-  <entry producer="chain13" in="00:00:00.000" out="00:02:10.302">
+  <entry in="00:00:00.000" out="00:02:10.302" producer="chain13">
    <property name="kdenlive:id">9</property>
   </entry>
   <blank length="00:08:33.116"/>
-  <entry producer="chain14" in="00:00:00.000" out="00:01:43.710">
+  <entry in="00:00:00.000" out="00:01:43.710" producer="chain14">
    <property name="kdenlive:id">20</property>
    <filter id="filter64">
     <property name="window">75</property>
@@ -2599,7 +3147,7 @@
    </filter>
   </entry>
   <blank length="00:01:14.556"/>
-  <entry producer="chain14" in="00:00:00.000" out="00:00:40.457">
+  <entry in="00:00:00.000" out="00:00:40.457" producer="chain14">
    <property name="kdenlive:id">20</property>
    <filter id="filter65">
     <property name="window">75</property>
@@ -2637,10 +3185,10 @@
    </filter>
   </entry>
   <blank length="00:05:51.385"/>
-  <entry producer="producer18" in="00:00:00.000" out="00:01:55.931">
+  <entry in="00:00:00.000" out="00:01:55.931" producer="producer18">
    <property name="kdenlive:id">10</property>
   </entry>
-  <entry producer="producer18" in="00:03:21.688" out="00:06:14.306">
+  <entry in="00:03:21.688" out="00:06:14.306" producer="producer18">
    <property name="kdenlive:id">10</property>
    <filter id="filter69">
     <property name="window">75</property>
@@ -2652,7 +3200,7 @@
    </filter>
   </entry>
   <blank length="00:00:02.961"/>
-  <entry producer="producer18" in="00:06:23.774" out="00:08:10.219">
+  <entry in="00:06:23.774" out="00:08:10.219" producer="producer18">
    <property name="kdenlive:id">10</property>
    <filter id="filter70">
     <property name="window">75</property>
@@ -2672,7 +3220,7 @@
    </filter>
   </entry>
   <blank length="00:00:09.384"/>
-  <entry producer="producer18" in="00:08:25.901" out="00:15:58.058">
+  <entry in="00:08:25.901" out="00:15:58.058" producer="producer18">
    <property name="kdenlive:id">10</property>
    <filter id="filter72">
     <property name="window">75</property>
@@ -2683,7 +3231,7 @@
    </filter>
   </entry>
   <blank length="00:00:06.256"/>
-  <entry producer="producer18" in="00:15:58.100" out="00:16:00.876">
+  <entry in="00:15:58.100" out="00:16:00.876" producer="producer18">
    <property name="kdenlive:id">10</property>
    <filter id="filter73" in="00:15:58.058" out="00:16:00.876">
     <property name="window">75</property>
@@ -2696,7 +3244,7 @@
    </filter>
   </entry>
   <blank length="00:03:05.839"/>
-  <entry producer="producer18" in="00:19:09.760" out="00:19:12.679">
+  <entry in="00:19:09.760" out="00:19:12.679" producer="producer18">
    <property name="kdenlive:id">10</property>
    <filter id="filter74" in="00:19:09.760" out="00:19:10.219">
     <property name="window">75</property>
@@ -2708,7 +3256,7 @@
    </filter>
   </entry>
   <blank length="00:03:13.931"/>
-  <entry producer="producer19" in="00:00:00.000" out="00:01:47.172">
+  <entry in="00:00:00.000" out="00:01:47.172" producer="producer19">
    <property name="kdenlive:id">11</property>
    <filter id="filter75" out="00:00:00.500">
     <property name="window">75</property>
@@ -2720,7 +3268,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer19" in="00:03:12.679" out="00:08:03.045">
+  <entry in="00:03:12.679" out="00:08:03.045" producer="producer19">
    <property name="kdenlive:id">11</property>
    <filter id="filter76" in="00:08:01.460" out="00:08:03.045">
     <property name="window">75</property>
@@ -2733,7 +3281,7 @@
    </filter>
   </entry>
   <blank length="00:06:26.860"/>
-  <entry producer="producer19" in="00:14:43.168" out="00:14:45.712">
+  <entry in="00:14:43.168" out="00:14:45.712" producer="producer19">
    <property name="kdenlive:id">11</property>
    <filter id="filter77" in="00:14:43.168" out="00:14:44.586">
     <property name="window">75</property>
@@ -2754,7 +3302,7 @@
    </filter>
   </entry>
   <blank length="00:07:33.742"/>
-  <entry producer="producer19" in="00:22:27.069" out="00:23:37.079">
+  <entry in="00:22:27.069" out="00:23:37.079" producer="producer19">
    <property name="kdenlive:id">11</property>
    <filter id="filter79" in="00:22:27.069" out="00:22:31.990">
     <property name="window">75</property>
@@ -2928,6 +3476,7 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{f4b500d6-e9c0-40b3-8619-96fb58d06b03}</property>
  </chain>
  <producer id="producer21" in="00:00:00.000" out="00:24:23.023">
   <property name="length">35079</property>
@@ -2959,6 +3508,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -2975,6 +3525,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -3051,6 +3602,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{f4b500d6-e9c0-40b3-8619-96fb58d06b03}</property>
  </producer>
  <chain id="producer22" out="00:23:55.472">
   <property name="length">34417</property>
@@ -3180,6 +3732,7 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{9501a3d6-8c45-46f6-9d11-d14f673286c9}</property>
  </chain>
  <producer id="producer23" in="00:00:00.000" out="00:05:58.850">
   <property name="length">8604</property>
@@ -3211,6 +3764,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -3227,6 +3781,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -3303,6 +3858,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{9501a3d6-8c45-46f6-9d11-d14f673286c9}</property>
  </producer>
  <chain id="chain15" out="00:24:09.509">
   <property name="length">34754</property>
@@ -3432,6 +3988,7 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{4904a616-fb4f-46a2-8672-7e6bc05d7530}</property>
  </chain>
  <chain id="producer24" out="00:23:55.555">
   <property name="length">34419</property>
@@ -3561,6 +4118,7 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{061acfee-adee-43d3-baca-e966a2e4fc21}</property>
  </chain>
  <producer id="producer25" in="00:00:00.000" out="00:11:57.724">
   <property name="length">17210</property>
@@ -3592,6 +4150,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -3608,6 +4167,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -3684,6 +4244,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{061acfee-adee-43d3-baca-e966a2e4fc21}</property>
  </producer>
  <producer id="producer26" in="00:00:00.000" out="00:11:57.724">
   <property name="length">17210</property>
@@ -3715,6 +4276,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -3731,6 +4293,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -3807,6 +4370,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{061acfee-adee-43d3-baca-e966a2e4fc21}</property>
  </producer>
  <producer id="producer27" in="00:00:00.000" out="00:15:57.015">
   <property name="length">22946</property>
@@ -3838,6 +4402,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -3854,6 +4419,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -3930,6 +4496,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{061acfee-adee-43d3-baca-e966a2e4fc21}</property>
  </producer>
  <producer id="producer28" in="00:00:00.000" out="00:11:57.724">
   <property name="length">17210</property>
@@ -3961,6 +4528,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -3977,6 +4545,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -4051,6 +4620,7 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{061acfee-adee-43d3-baca-e966a2e4fc21}</property>
  </producer>
  <chain id="chain16" out="00:23:55.514">
   <property name="length">34418</property>
@@ -4180,6 +4750,10 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{9ad34fdb-c542-466b-b64c-2f8ddabb199c}</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
+  <property name="meta.media.aspect_ratio">1</property>
  </chain>
  <producer id="producer29" in="00:00:00.000" out="00:05:58.892">
   <property name="length">8605</property>
@@ -4211,6 +4785,7 @@
   <property name="meta.media.1.codec.sample_fmt">fltp</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
   <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
   <property name="meta.media.1.codec.name">ac3</property>
   <property name="meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
   <property name="meta.media.1.codec.bit_rate">448000</property>
@@ -4227,6 +4802,7 @@
   <property name="meta.media.2.codec.sample_fmt">fltp</property>
   <property name="meta.media.2.codec.sample_rate">44100</property>
   <property name="meta.media.2.codec.channels">2</property>
+  <property name="meta.media.2.codec.layout">stereo</property>
   <property name="meta.media.2.codec.name">aac</property>
   <property name="meta.media.2.codec.long_name">AAC (Advanced Audio Coding)</property>
   <property name="meta.media.2.codec.bit_rate">0</property>
@@ -4303,15 +4879,16 @@
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{9ad34fdb-c542-466b-b64c-2f8ddabb199c}</property>
  </producer>
  <playlist id="playlist6">
-  <entry producer="producer20" in="00:00:00.000" out="00:08:34.660">
+  <entry in="00:00:00.000" out="00:08:34.660" producer="producer20">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="producer21" in="00:08:44.544" out="00:08:48.924">
+  <entry in="00:08:44.544" out="00:08:48.924" producer="producer21">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="producer20" in="00:08:43.543" out="00:08:49.007">
+  <entry in="00:08:43.543" out="00:08:49.007" producer="producer20">
    <property name="kdenlive:id">2</property>
    <filter id="filter83" in="00:08:46.964" out="00:08:49.007">
     <property name="start">1</property>
@@ -4323,17 +4900,17 @@
    </filter>
   </entry>
   <blank length="00:01:25.943"/>
-  <entry producer="producer20" in="00:10:22.147" out="00:13:14.139">
+  <entry in="00:10:22.147" out="00:13:14.139" producer="producer20">
    <property name="kdenlive:id">2</property>
   </entry>
   <blank length="00:00:03.128"/>
-  <entry producer="producer20" in="00:13:21.730" out="00:21:00.375">
+  <entry in="00:13:21.730" out="00:21:00.375" producer="producer20">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="producer20" in="00:21:07.382" out="00:22:16.099">
+  <entry in="00:21:07.382" out="00:22:16.099" producer="producer20">
    <property name="kdenlive:id">2</property>
   </entry>
-  <entry producer="producer20" in="00:22:20.103" out="00:22:25.901">
+  <entry in="00:22:20.103" out="00:22:25.901" producer="producer20">
    <property name="kdenlive:id">2</property>
    <filter id="filter84" in="00:22:23.774" out="00:22:25.901">
     <property name="start">1</property>
@@ -4344,7 +4921,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:00:00.000" out="00:02:34.993">
+  <entry in="00:00:00.000" out="00:02:34.993" producer="producer22">
    <property name="kdenlive:id">3</property>
    <filter id="filter85" in="00:02:33.992" out="00:02:34.993">
     <property name="start">1</property>
@@ -4356,18 +4933,18 @@
    </filter>
   </entry>
   <blank length="00:00:59.935"/>
-  <entry producer="producer22" in="00:05:09.009" out="00:05:13.931">
+  <entry in="00:05:09.009" out="00:05:13.931" producer="producer22">
    <property name="kdenlive:id">3</property>
   </entry>
-  <entry producer="producer22" in="00:05:14.598" out="00:11:24.274">
+  <entry in="00:05:14.598" out="00:11:24.274" producer="producer22">
    <property name="kdenlive:id">3</property>
   </entry>
-  <entry producer="producer23" in="00:02:51.093" out="00:02:51.802">
+  <entry in="00:02:51.093" out="00:02:51.802" producer="producer23">
    <property name="kdenlive:id">3</property>
   </entry>
-  <entry producer="producer22" in="00:11:30.322" out="00:22:26.401">
+  <entry in="00:11:30.322" out="00:22:26.401" producer="producer22">
    <property name="kdenlive:id">3</property>
-   <filter id="filter86" in="00:22:23.565" out="00:22:26.443">
+   <filter id="filter86" in="00:22:23.523" out="00:22:26.401">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -4376,15 +4953,15 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain15" in="00:00:00.000" out="00:02:09.593">
+  <entry in="00:00:00.000" out="00:02:09.593" producer="chain15">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain15" in="00:03:36.745" out="00:11:29.029">
+  <entry in="00:03:36.745" out="00:11:29.029" producer="chain15">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="chain15" in="00:12:09.551" out="00:22:25.734">
+  <entry in="00:12:09.551" out="00:22:25.734" producer="chain15">
    <property name="kdenlive:id">4</property>
-   <filter id="filter87" in="00:22:19.686" out="00:22:25.776">
+   <filter id="filter87" in="00:22:19.645" out="00:22:25.734">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -4394,37 +4971,37 @@
    </filter>
   </entry>
   <blank length="00:01:51.301"/>
-  <entry producer="producer24" in="00:03:21.563" out="00:06:14.181">
+  <entry in="00:03:21.563" out="00:06:14.181" producer="producer24">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer25" in="00:03:08.675" out="00:03:09.760">
+  <entry in="00:03:08.675" out="00:03:09.760" producer="producer25">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer26" in="00:03:09.843" out="00:03:11.637">
+  <entry in="00:03:09.843" out="00:03:11.637" producer="producer26">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer24" in="00:06:23.649" out="00:08:10.093">
+  <entry in="00:06:23.649" out="00:08:10.093" producer="producer24">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer27" in="00:05:26.777" out="00:05:36.119">
+  <entry in="00:05:26.777" out="00:05:36.119" producer="producer27">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer24" in="00:08:25.776" out="00:15:57.933">
+  <entry in="00:08:25.776" out="00:15:57.933" producer="producer24">
    <property name="kdenlive:id">5</property>
   </entry>
   <blank length="00:00:06.256"/>
-  <entry producer="producer24" in="00:15:57.975" out="00:16:00.042">
+  <entry in="00:15:57.975" out="00:16:00.042" producer="producer24">
    <property name="kdenlive:id">5</property>
   </entry>
   <blank length="00:03:07.049"/>
-  <entry producer="producer28" in="00:09:34.826" out="00:09:35.160">
+  <entry in="00:09:34.826" out="00:09:35.160" producer="producer28">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer24" in="00:19:10.510" out="00:19:12.554">
+  <entry in="00:19:10.510" out="00:19:12.554" producer="producer24">
    <property name="kdenlive:id">5</property>
   </entry>
   <blank length="00:03:14.056"/>
-  <entry producer="chain16" in="00:00:00.000" out="00:01:47.047">
+  <entry in="00:00:00.000" out="00:01:47.047" producer="chain16">
    <property name="kdenlive:id">6</property>
    <filter id="filter88" in="00:01:45.045" out="00:01:47.047">
     <property name="start">1</property>
@@ -4435,19 +5012,19 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain16" in="00:03:12.554" out="00:08:01.168">
+  <entry in="00:03:12.554" out="00:08:01.168" producer="chain16">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain16" in="00:08:12.512" out="00:14:43.001">
+  <entry in="00:08:12.512" out="00:14:43.001" producer="chain16">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="producer29" in="00:03:40.791" out="00:03:41.416">
+  <entry in="00:03:40.791" out="00:03:41.416" producer="producer29">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain16" in="00:14:48.298" out="00:22:26.902">
+  <entry in="00:14:48.298" out="00:22:26.902" producer="chain16">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="chain16" in="00:22:31.907" out="00:23:36.954">
+  <entry in="00:22:31.907" out="00:23:36.954" producer="chain16">
    <property name="kdenlive:id">6</property>
   </entry>
  </playlist>
@@ -4589,6 +5166,7 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{f4b500d6-e9c0-40b3-8619-96fb58d06b03}</property>
  </chain>
  <chain id="producer30" out="00:23:55.472">
   <property name="length">34417</property>
@@ -4718,6 +5296,7 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{9501a3d6-8c45-46f6-9d11-d14f673286c9}</property>
  </chain>
  <chain id="producer31" out="00:23:55.555">
   <property name="length">34419</property>
@@ -4847,10 +5426,11 @@
   <property name="set.test_image">0</property>
   <property name="vstream">0</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{061acfee-adee-43d3-baca-e966a2e4fc21}</property>
  </chain>
  <playlist id="playlist8">
   <blank length="00:08:42.584"/>
-  <entry producer="chain17" in="00:08:51.134" out="00:10:07.216">
+  <entry in="00:08:51.134" out="00:10:07.216" producer="chain17">
    <property name="kdenlive:id">2</property>
    <filter id="filter89" in="00:08:51.134" out="00:08:53.178">
     <property name="start">1</property>
@@ -4861,11 +5441,11 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="chain17" in="00:10:08.759" out="00:10:20.562">
+  <entry in="00:10:08.759" out="00:10:20.562" producer="chain17">
    <property name="kdenlive:id">2</property>
   </entry>
   <blank length="00:02:52.052"/>
-  <entry producer="chain17" in="00:13:16.975" out="00:13:20.062">
+  <entry in="00:13:16.975" out="00:13:20.062" producer="chain17">
    <property name="kdenlive:id">2</property>
    <filter id="filter90" in="00:13:18.393" out="00:13:20.062">
     <property name="start">1</property>
@@ -4877,7 +5457,7 @@
    </filter>
   </entry>
   <blank length="00:11:28.320"/>
-  <entry producer="producer30" in="00:04:01.668" out="00:05:01.585">
+  <entry in="00:04:01.668" out="00:05:01.585" producer="producer30">
    <property name="kdenlive:id">3</property>
    <filter id="filter91" in="00:04:01.668" out="00:04:02.586">
     <property name="start">1</property>
@@ -4889,7 +5469,7 @@
    </filter>
   </entry>
   <blank length="00:37:25.275"/>
-  <entry producer="producer31" in="00:00:00.000" out="00:01:55.806">
+  <entry in="00:00:00.000" out="00:01:55.806" producer="producer31">
    <property name="kdenlive:id">5</property>
    <filter id="filter92" out="00:00:03.712">
     <property name="start">1</property>
@@ -4909,11 +5489,11 @@
    </filter>
   </entry>
   <blank length="00:12:32.074"/>
-  <entry producer="producer31" in="00:16:02.127" out="00:19:09.092">
+  <entry in="00:16:02.127" out="00:19:09.092" producer="producer31">
    <property name="kdenlive:id">5</property>
   </entry>
   <blank length="00:00:02.461"/>
-  <entry producer="producer31" in="00:19:12.596" out="00:22:26.568">
+  <entry in="00:19:12.596" out="00:22:26.568" producer="producer31">
    <property name="kdenlive:id">5</property>
    <filter id="filter94" in="00:22:25.567" out="00:22:26.568">
     <property name="start">1</property>
@@ -4935,13 +5515,14 @@
   <track hide="audio" producer="playlist8"/>
   <track hide="audio" producer="playlist9"/>
  </tractor>
- <tractor id="tractor5" in="00:00:00.000" out="02:06:32.491">
-  <property name="kdenlive:duration">01:45:41:05</property>
+ <tractor id="tractor5" in="00:00:00.000" out="01:45:41.208">
+  <property name="kdenlive:duration">01:45:41.250</property>
   <property name="kdenlive:maxduration">152037</property>
   <property name="kdenlive:clipname">Sequence 1</property>
   <property name="kdenlive:description"/>
   <property name="kdenlive:uuid">{efee6f26-5885-4041-94a9-83bc27757afc}</property>
   <property name="kdenlive:producer_type">17</property>
+  <property name="kdenlive:control_uuid">{83f2e878-2735-4756-877a-2d39e48a2e49}</property>
   <property name="kdenlive:id">13</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">171fda0c503dcbfebcf22f4dbf1a9d14</property>
@@ -4950,11 +5531,22 @@
   <property name="kdenlive:sequenceproperties.audioTarget">-1</property>
   <property name="kdenlive:sequenceproperties.disablepreview">0</property>
   <property name="kdenlive:sequenceproperties.documentuuid">{efee6f26-5885-4041-94a9-83bc27757afc}</property>
+  <property name="kdenlive:sequenceproperties.globalSubtitleStyles">[
+]
+</property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
   <property name="kdenlive:sequenceproperties.hidesubtitle">0</property>
   <property name="kdenlive:sequenceproperties.position">152036</property>
   <property name="kdenlive:sequenceproperties.scrollPos">122909</property>
+  <property name="kdenlive:sequenceproperties.subtitlesList">[
+    {
+        "file": "/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing/Monster_25-29_Proof_1080p_24fps.kdenlive.ass",
+        "id": 0,
+        "name": "Subtitles"
+    }
+]
+</property>
   <property name="kdenlive:sequenceproperties.tracksCount">5</property>
   <property name="kdenlive:sequenceproperties.videoTarget">-1</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
@@ -4964,17 +5556,12 @@
     {
         "children": [
             {
-                "data": "3:115911",
+                "data": "2:90607:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:115890",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:115902",
+                "data": "4:90610:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4984,12 +5571,12 @@
     {
         "children": [
             {
-                "data": "2:120610",
+                "data": "3:31624:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:120613",
+                "data": "2:31624:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -4999,12 +5586,12 @@
     {
         "children": [
             {
-                "data": "3:31484",
+                "data": "3:31484:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:31390",
+                "data": "1:31390:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5014,52 +5601,12 @@
     {
         "children": [
             {
-                "data": "-2:123224",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "2:123180",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "3:123180",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "0:79150",
+                "data": "1:115961:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:75682",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:81212",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:76938",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:75944",
+                "data": "4:115961:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5069,12 +5616,12 @@
     {
         "children": [
             {
-                "data": "1:115961",
+                "data": "3:36778:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:115961",
+                "data": "2:36773:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5084,37 +5631,12 @@
     {
         "children": [
             {
-                "data": "2:18838",
+                "data": "3:12446:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:18838",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:27827",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:20444",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:36778",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:36773",
+                "data": "1:12411:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5124,12 +5646,12 @@
     {
         "children": [
             {
-                "data": "3:12446",
+                "data": "2:97598:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:12411",
+                "data": "3:97598:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5139,12 +5661,12 @@
     {
         "children": [
             {
-                "data": "2:97598",
+                "data": "2:12519:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:97598",
+                "data": "4:12529:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5154,12 +5676,12 @@
     {
         "children": [
             {
-                "data": "2:12519",
+                "data": "2:0:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:12529",
+                "data": "3:12340:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5169,47 +5691,12 @@
     {
         "children": [
             {
-                "data": "-2:3711",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:0",
+                "data": "3:130101:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "children": [
-                    {
-                        "data": "2:0",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "3:12340",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            },
-            {
-                "data": "-2:3886",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:130101",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:130068",
+                "data": "1:130068:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5219,37 +5706,12 @@
     {
         "children": [
             {
-                "data": "-2:35361",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "1:35324",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "4:35341",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:100151",
+                "data": "1:35324:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:100134",
+                "data": "4:35341:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5259,12 +5721,12 @@
     {
         "children": [
             {
-                "data": "2:139418",
+                "data": "2:123180:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:139464",
+                "data": "3:123180:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5274,12 +5736,17 @@
     {
         "children": [
             {
-                "data": "4:14354",
+                "data": "3:97554:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:14354",
+                "data": "3:97527:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:97494:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5289,17 +5756,17 @@
     {
         "children": [
             {
-                "data": "3:36897",
+                "data": "3:115911:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:36897",
+                "data": "2:115890:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:40040",
+                "data": "3:115902:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5309,12 +5776,27 @@
     {
         "children": [
             {
-                "data": "3:45762",
+                "data": "0:79150:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:45748",
+                "data": "1:75682:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:81212:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:75944:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:76938:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5324,47 +5806,12 @@
     {
         "children": [
             {
-                "data": "0:29815",
+                "data": "1:18745:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:29764",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:29835",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:29920",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:45780",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:53942",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:55070",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:45767",
+                "data": "4:18763:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5374,12 +5821,12 @@
     {
         "children": [
             {
-                "data": "2:100376",
+                "data": "2:120610:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:100376",
+                "data": "3:120613:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5389,12 +5836,12 @@
     {
         "children": [
             {
-                "data": "4:111418",
+                "data": "3:100151:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:111418",
+                "data": "1:100134:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5404,12 +5851,12 @@
     {
         "children": [
             {
-                "data": "2:111368",
+                "data": "2:139418:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:111368",
+                "data": "3:139464:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5419,12 +5866,12 @@
     {
         "children": [
             {
-                "data": "3:61511",
+                "data": "4:14354:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:61511",
+                "data": "2:14354:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5434,12 +5881,17 @@
     {
         "children": [
             {
-                "data": "3:14638",
+                "data": "3:36897:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:14638",
+                "data": "1:36897:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:40040:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5449,37 +5901,12 @@
     {
         "children": [
             {
-                "data": "-2:93453",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "2:93387",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "3:93387",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:150358",
+                "data": "3:45762:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:150477",
+                "data": "2:45748:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5489,12 +5916,22 @@
     {
         "children": [
             {
-                "data": "0:139459",
+                "data": "3:45780:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:139480",
+                "data": "2:55070:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:53942:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:45767:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5504,37 +5941,12 @@
     {
         "children": [
             {
-                "data": "-2:31679",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            },
-            {
-                "children": [
-                    {
-                        "data": "3:31624",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    },
-                    {
-                        "data": "2:31624",
-                        "leaf": "clip",
-                        "type": "Leaf"
-                    }
-                ],
-                "type": "Normal"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:90607",
+                "data": "2:100376:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:90610",
+                "data": "3:100376:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5544,37 +5956,12 @@
     {
         "children": [
             {
-                "data": "0:64619",
+                "data": "4:111418:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:64619",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:64630",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:97554",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:97527",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:97494",
+                "data": "1:111418:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5584,12 +5971,87 @@
     {
         "children": [
             {
-                "data": "1:18745",
+                "data": "2:111368:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "4:18763",
+                "data": "3:111368:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:61511:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:61511:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:14638:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:14638:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:93387:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:93387:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:150358:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:150477:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "0:139459:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:139480:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -5687,497 +6149,12 @@
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter99">
-   <property name="mlt_service">avfilter.subtitles</property>
-   <property name="internal_added">237</property>
-   <property name="av.filename">Monster_25-29_Proof_1080p_24fps.kdenlive.srt</property>
-   <property name="av.force_style">Outline=0,Shadow=1,</property>
-  </filter>
  </tractor>
- <chain id="chain18" out="00:06:46.088">
-  <property name="length">9737</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Various Artists - Monster Remix -Octopus- [2004]/08 - Drift Mind (Deep Euro Mix).flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1642</property>
-  <property name="meta.media.1.codec.height">1462</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.CATALOG.markup">VPCC-81491</property>
-  <property name="meta.attr.TITLE.markup">Drift Mind (Deep Euro Mix)</property>
-  <property name="meta.attr.ARTIST.markup">Tomoki Hirata</property>
-  <property name="meta.attr.ALBUM.markup">Monster Remix -Octopus-</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Various Artists</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">08/08</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Various Artists</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Various Artists</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Various Artists</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster Remix -Octopus-</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">72</property>
-  <property name="meta.media.sample_aspect_den">72</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1642</property>
-  <property name="meta.media.height">1462</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">14</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">50813338</property>
-  <property name="kdenlive:file_hash">039000cf8f9af72fd7dc9d610e2ec3a9</property>
-  <property name="kdenlive:audio_max0">250</property>
- </chain>
- <chain id="chain19" out="00:01:31.198">
-  <property name="length">2187</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/22 - gossip.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1669</property>
-  <property name="meta.media.1.codec.height">1486</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">gossip</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">22/24</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1669</property>
-  <property name="meta.media.height">1486</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">15</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">8047389</property>
-  <property name="kdenlive:file_hash">f8ab2b3f586d7b55a5b15d44356b97e2</property>
-  <property name="kdenlive:audio_max0">199</property>
- </chain>
- <chain id="chain20" out="00:01:48.340">
-  <property name="length">2598</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/24 - angel hand.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1669</property>
-  <property name="meta.media.1.codec.height">1486</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">angel hand</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">24/24</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1669</property>
-  <property name="meta.media.height">1486</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">16</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">10177822</property>
-  <property name="kdenlive:file_hash">d44f39d1d57233faa4e35d3bec2d8c52</property>
-  <property name="kdenlive:audio_max0">215</property>
- </chain>
- <chain id="chain21" out="00:01:34.534">
-  <property name="length">2267</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/10 - Xenia.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1669</property>
-  <property name="meta.media.1.codec.height">1486</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">Xenia</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">10/24</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1669</property>
-  <property name="meta.media.height">1486</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">17</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">9814665</property>
-  <property name="kdenlive:file_hash">d813e5d7aba28d0458a11cd2bc022172</property>
-  <property name="kdenlive:audio_max0">245</property>
- </chain>
- <chain id="chain22" out="00:01:11.887">
-  <property name="length">1724</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/12 - idler wheel.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1669</property>
-  <property name="meta.media.1.codec.height">1486</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">idler wheel</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">12/24</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1669</property>
-  <property name="meta.media.height">1486</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">18</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">8223693</property>
-  <property name="kdenlive:file_hash">e5a582c5b47d14b3764e017d4c4a0910</property>
-  <property name="kdenlive:audio_max0">208</property>
- </chain>
- <chain id="chain23" out="00:01:39.998">
-  <property name="length">2398</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/08 - gingerly.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1669</property>
-  <property name="meta.media.1.codec.height">1486</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">gingerly</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">08/24</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1669</property>
-  <property name="meta.media.height">1486</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">19</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">9132596</property>
-  <property name="kdenlive:file_hash">b1cac6717e96c8487a89fb448e081e53</property>
-  <property name="kdenlive:audio_max0">205</property>
- </chain>
- <chain id="chain24" out="00:01:43.710">
-  <property name="length">2487</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Monster [Ultimate Collection] By Kira [SEV]/Original Soundtracks [2004]/Monster - Original Soundtrack [2004]/20 - mid point.flac</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">44100</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">flac</property>
-  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.media.1.stream.type">video</property>
-  <property name="meta.media.1.stream.frame_rate">90000</property>
-  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.width">1669</property>
-  <property name="meta.media.1.codec.height">1486</property>
-  <property name="meta.media.1.codec.rotate">0</property>
-  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.1.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.1.codec.colorspace">601</property>
-  <property name="meta.media.1.codec.name">mjpeg</property>
-  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.1.codec.bit_rate">0</property>
-  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
-  <property name="meta.attr.TITLE.markup">mid point</property>
-  <property name="meta.attr.ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.DATE.markup">2004</property>
-  <property name="meta.attr.GENRE.markup">Anime</property>
-  <property name="meta.attr.COMPOSER.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ORIGINALARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ENCODEDBY.markup">Mr. J</property>
-  <property name="meta.attr.track.markup">20/24</property>
-  <property name="meta.attr.disc.markup">01/01</property>
-  <property name="meta.attr.ORIGARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUM ARTIST.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMARTISTSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.ALBUMSORT.markup">Monster : Original Soundtrack</property>
-  <property name="meta.attr.COMPOSERSORT.markup">Kuniaki Haishima</property>
-  <property name="meta.attr.SHOWSORT.markup">Monster</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="format">3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">1</property>
-  <property name="vstream">0</property>
-  <property name="meta.media.frame_rate_num">90000</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.has_b_frames">0</property>
-  <property name="meta.media.width">1669</property>
-  <property name="meta.media.height">1486</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="astream">0</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">20</property>
-  <property name="mute_on_pause">0</property>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:file_size">7569663</property>
-  <property name="kdenlive:file_hash">6e0fa2148322dbec9ad06f78841862ed</property>
-  <property name="kdenlive:audio_max0">216</property>
- </chain>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.12">Sequences</property>
   <property name="kdenlive:docproperties.activetimeline">{efee6f26-5885-4041-94a9-83bc27757afc}</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.binsort">0</property>
   <property name="kdenlive:docproperties.browserurl">/home/redxarch/Videos/</property>
   <property name="kdenlive:docproperties.compositing">1</property>
   <property name="kdenlive:docproperties.documentid">1669937194721</property>
@@ -6235,7 +6212,7 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">23.08.4</property>
+  <property name="kdenlive:docproperties.kdenliveversion">24.12.0</property>
   <property name="kdenlive:docproperties.opensequences">{efee6f26-5885-4041-94a9-83bc27757afc}</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -6246,14 +6223,15 @@
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
-  <property name="kdenlive:docproperties.rendercustomquality">100</property>
+  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.rendercustomquality">30</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
   <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
-  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
+  <property name="kdenlive:docproperties.renderprofile">SVT-AV1</property>
   <property name="kdenlive:docproperties.renderratio">1</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">540</property>
@@ -6263,17 +6241,22 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_25-29_Proof_1080p_24fps.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_25-29_Proof_1080p_24fps.webm</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.sessionid">{80dc4c28-9cfe-4bcb-a881-b853830da2ad}</property>
   <property name="kdenlive:docproperties.uuid">{efee6f26-5885-4041-94a9-83bc27757afc}</property>
   <property name="kdenlive:docproperties.version">1.1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.zoom">4</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:binZoom">4</property>
+  <property name="kdenlive:extraBins">project_bin:-1:0</property>
   <property name="kdenlive:documentnotes">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
-&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;meta charset="utf-8" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: "\2610"; }
+li.checked::marker { content: "\2612"; }
 &lt;/style>&lt;/head>&lt;body style=" font-family:'Noto Sans'; font-size:10pt; font-weight:400; font-style:normal;">
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">srt formatting: https://docs.fileformat.com/video/srt/&lt;/p>
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">adding empty char to raise subtitles by a line: &lt;/p>
@@ -6281,29 +6264,29 @@ p, li { white-space: pre-wrap; }
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">list of dub voice actors: https://www.behindthevoiceactors.com/tv-shows/Monster/&lt;/p>
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;br />&lt;/p>&lt;/body>&lt;/html></property>
-  <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
+  <property name="kdenlive:documentnotesversion">2</property>
   <property name="xml_retain">1</property>
-  <entry producer="producer0" in="00:00:00.000" out="00:23:55.597"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:23:55.472"/>
-  <entry producer="producer3" in="00:00:00.000" out="00:24:09.509"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:23:55.555"/>
-  <entry producer="producer4" in="00:00:00.000" out="00:23:55.514"/>
-  <entry producer="producer5" in="00:00:00.000" out="00:23:55.514"/>
-  <entry producer="producer6" in="00:00:00.000" out="00:23:55.180"/>
-  <entry producer="producer7" in="00:00:00.000" out="00:23:54.721"/>
-  <entry producer="producer8" in="00:00:00.000" out="00:23:55.305"/>
-  <entry producer="producer9" in="00:00:00.000" out="00:23:55.430"/>
-  <entry producer="tractor5" in="00:00:00.000" out="01:46:40.290"/>
-  <entry producer="chain18" in="00:00:00.000" out="00:06:46.088"/>
-  <entry producer="chain19" in="00:00:00.000" out="00:01:31.198"/>
-  <entry producer="chain20" in="00:00:00.000" out="00:01:48.340"/>
-  <entry producer="chain21" in="00:00:00.000" out="00:01:34.534"/>
-  <entry producer="chain22" in="00:00:00.000" out="00:01:11.887"/>
-  <entry producer="chain23" in="00:00:00.000" out="00:01:39.998"/>
-  <entry producer="chain24" in="00:00:00.000" out="00:01:43.710"/>
+  <entry in="00:00:00.000" out="00:23:55.597" producer="producer0"/>
+  <entry in="00:00:00.000" out="00:23:55.472" producer="producer1"/>
+  <entry in="00:00:00.000" out="00:24:09.509" producer="producer3"/>
+  <entry in="00:00:00.000" out="00:23:55.555" producer="producer2"/>
+  <entry in="00:00:00.000" out="00:23:55.514" producer="producer4"/>
+  <entry in="00:00:00.000" out="00:23:55.514" producer="producer5"/>
+  <entry in="00:00:00.000" out="00:23:55.180" producer="producer6"/>
+  <entry in="00:00:00.000" out="00:23:54.721" producer="producer7"/>
+  <entry in="00:00:00.000" out="00:23:55.305" producer="producer8"/>
+  <entry in="00:00:00.000" out="00:23:55.430" producer="producer9"/>
+  <entry in="00:00:00.000" out="00:06:46.088" producer="chain18"/>
+  <entry in="00:00:00.000" out="00:01:31.198" producer="chain19"/>
+  <entry in="00:00:00.000" out="00:01:48.340" producer="chain20"/>
+  <entry in="00:00:00.000" out="00:01:34.534" producer="chain21"/>
+  <entry in="00:00:00.000" out="00:01:11.887" producer="chain22"/>
+  <entry in="00:00:00.000" out="00:01:39.998" producer="chain23"/>
+  <entry in="00:00:00.000" out="00:01:43.710" producer="chain24"/>
+  <entry in="00:00:00.000" out="01:45:41.208" producer="tractor5"/>
  </playlist>
- <tractor id="tractor6" in="00:00:00.000" out="01:45:41.250">
+ <tractor id="tractor6" in="00:00:00.000" out="01:45:41.208">
   <property name="kdenlive:projectTractor">1</property>
-  <track producer="tractor5" in="00:00:00.000" out="01:45:41.250"/>
+  <track in="00:00:00.000" out="01:45:41.208" producer="tractor5"/>
  </tractor>
 </mlt>

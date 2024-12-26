@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing" version="7.24.0">
+<mlt LC_NUMERIC="C" producer="main_bin" root="/mnt/data1/Anime-Edits/Monster/Monster-Editing/Editing" version="7.28.0">
  <profile colorspace="709" description="960x720 29.97fps" display_aspect_den="3" display_aspect_num="4" frame_rate_den="1001" frame_rate_num="30000" height="720" progressive="1" sample_aspect_den="1" sample_aspect_num="1" width="960"/>
  <chain id="producer0" out="00:23:55.556">
   <property name="length">43024</property>
@@ -21,15 +21,16 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">2</property>
-  <property name="kdenlive:file_size">275630230</property>
+  <property name="kdenlive:file_size">275331200</property>
   <property name="kdenlive:audio_max">1</property>
   <property name="global_feed">1</property>
-  <property name="kdenlive:audio_max0">235</property>
+  <property name="kdenlive:audio_max0">194</property>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_hash">ea823999b31878b7a191abaf4789ad24</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 36 : A Monster Of Chaos</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{3e6f069f-23f1-451d-bdd3-bfada5de12f5}</property>
+  <property name="kdenlive:file_hash">439a7e8e8fb4174f2d826dadad1da80e</property>
  </chain>
  <chain id="producer2" out="00:23:55.589">
   <property name="length">43025</property>
@@ -51,15 +52,16 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">3</property>
-  <property name="kdenlive:file_size">275636918</property>
+  <property name="kdenlive:file_size">275331206</property>
   <property name="kdenlive:audio_max">1</property>
   <property name="global_feed">1</property>
-  <property name="kdenlive:audio_max0">223</property>
+  <property name="kdenlive:audio_max0">193</property>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_hash">53b7a5dee166ae51cc0a412b8edef515</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 37 : A Monster Without A Name</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{a484a04a-a3c5-4529-893a-eb78ced57f13}</property>
+  <property name="kdenlive:file_hash">6a1e6a27d4715a574b6979b5551aa162</property>
  </chain>
  <chain id="producer6" out="00:23:55.589">
   <property name="length">43025</property>
@@ -81,15 +83,16 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">4</property>
-  <property name="kdenlive:file_size">275636918</property>
+  <property name="kdenlive:file_size">275331204</property>
   <property name="kdenlive:audio_max">2</property>
   <property name="global_feed">1</property>
-  <property name="kdenlive:audio_max0">209</property>
+  <property name="kdenlive:audio_max0">200</property>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_hash">02e9af21c52969b2f01ff7df2dc4649c</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 38 : The Demon In Our Eyes</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{a20a9eb7-5d71-4cf8-b4a0-05f5e1337ca2}</property>
+  <property name="kdenlive:file_hash">0aa11f3f3e40fc79bc1766e589f38193</property>
  </chain>
  <chain id="producer4" out="00:23:55.455">
   <property name="length">43021</property>
@@ -111,15 +114,16 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">5</property>
-  <property name="kdenlive:file_size">275610166</property>
+  <property name="kdenlive:file_size">275331202</property>
   <property name="kdenlive:audio_max">1</property>
   <property name="global_feed">1</property>
-  <property name="kdenlive:audio_max0">228</property>
+  <property name="kdenlive:audio_max0">189</property>
   <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_hash">c3b46d00b51840e472c6364df0feb4c2</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 39 : The Hell Of His Eyes</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{67a5ce30-9db4-4496-ad01-9b6214ae486a}</property>
+  <property name="kdenlive:file_hash">f24371edc5ac859c23fdd3bfb7c3c002</property>
  </chain>
  <chain id="producer41" out="00:23:55.522">
   <property name="length">00:23:55.556</property>
@@ -163,13 +167,14 @@
   <property name="meta.media.height">720</property>
   <property name="meta.media.color_range">mpeg</property>
   <property name="kdenlive:id">6</property>
-  <property name="kdenlive:file_size">158606082</property>
-  <property name="kdenlive:file_hash">8635670d4aa285cae7e29ec10c3ddef3</property>
+  <property name="kdenlive:file_size">108730684</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
   <property name="global_feed">1</property>
   <property name="meta.media.has_b_frames">1</property>
   <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:control_uuid">{182e0529-ba5e-4489-bca6-d02f597d84e7}</property>
+  <property name="kdenlive:file_hash">1be5627bc1c73cc1d312ea81bb00dc61</property>
  </chain>
  <chain id="producer42" out="00:23:55.589">
   <property name="length">00:23:55.622</property>
@@ -213,13 +218,14 @@
   <property name="meta.media.height">720</property>
   <property name="meta.media.color_range">mpeg</property>
   <property name="kdenlive:id">7</property>
-  <property name="kdenlive:file_size">167396801</property>
-  <property name="kdenlive:file_hash">1269c16d4fdfcb627d707d114898defd</property>
+  <property name="kdenlive:file_size">125011831</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
   <property name="global_feed">1</property>
   <property name="meta.media.has_b_frames">1</property>
   <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:control_uuid">{bb150567-62fe-4391-999d-83fd720c1fda}</property>
+  <property name="kdenlive:file_hash">c50d15eb73a902b78f5914af784932b2</property>
  </chain>
  <chain id="producer43" out="00:23:55.589">
   <property name="length">00:23:55.622</property>
@@ -263,13 +269,14 @@
   <property name="meta.media.height">720</property>
   <property name="meta.media.color_range">mpeg</property>
   <property name="kdenlive:id">8</property>
-  <property name="kdenlive:file_size">168588415</property>
-  <property name="kdenlive:file_hash">f1cb01d8d614b873d848592d3d3334f6</property>
+  <property name="kdenlive:file_size">126471493</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
   <property name="global_feed">1</property>
   <property name="meta.media.has_b_frames">1</property>
   <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:control_uuid">{b66c05ce-a900-40c9-a692-36fa3ee91976}</property>
+  <property name="kdenlive:file_hash">82733c1571d868af315637317f712f16</property>
  </chain>
  <chain id="producer44" out="00:23:55.455">
   <property name="length">00:23:55.489</property>
@@ -313,13 +320,14 @@
   <property name="meta.media.height">720</property>
   <property name="meta.media.color_range">mpeg</property>
   <property name="kdenlive:id">9</property>
-  <property name="kdenlive:file_size">154143012</property>
-  <property name="kdenlive:file_hash">e397c9b70117ea5490374e08bcdebf50</property>
+  <property name="kdenlive:file_size">102311934</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
   <property name="global_feed">1</property>
   <property name="meta.media.has_b_frames">1</property>
   <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:control_uuid">{ed344a9f-6d2c-47ac-8827-04a334ba3535}</property>
+  <property name="kdenlive:file_hash">faafb3946c111662b8f3231f95b1ffac</property>
  </chain>
  <producer id="producer1" in="00:00:00.000" out="01:19:34.201">
   <property name="length">2147483647</property>
@@ -360,9 +368,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 36 : A Monster Of Chaos</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{3e6f069f-23f1-451d-bdd3-bfada5de12f5}</property>
  </chain>
  <chain id="producer12" out="00:23:55.589">
   <property name="length">43025</property>
@@ -393,9 +402,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 37 : A Monster Without A Name</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{a484a04a-a3c5-4529-893a-eb78ced57f13}</property>
  </chain>
  <chain id="producer13" out="00:23:55.589">
   <property name="length">43025</property>
@@ -426,9 +436,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 38 : The Demon In Our Eyes</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{a20a9eb7-5d71-4cf8-b4a0-05f5e1337ca2}</property>
  </chain>
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
@@ -626,9 +637,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 36 : A Monster Of Chaos</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{3e6f069f-23f1-451d-bdd3-bfada5de12f5}</property>
  </chain>
  <chain id="producer19" out="00:23:55.589">
   <property name="length">43025</property>
@@ -659,9 +671,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 37 : A Monster Without A Name</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{a484a04a-a3c5-4529-893a-eb78ced57f13}</property>
  </chain>
  <chain id="producer20" out="00:23:55.589">
   <property name="length">43025</property>
@@ -692,9 +705,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 38 : The Demon In Our Eyes</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{a20a9eb7-5d71-4cf8-b4a0-05f5e1337ca2}</property>
  </chain>
  <chain id="producer21" out="00:23:55.455">
   <property name="length">43021</property>
@@ -725,9 +739,10 @@
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
-  <property name="meta.media.0.codec.layout">stereo</property>
+  <property name="meta.media.0.codec.layout">independent</property>
   <property name="meta.attr.title.markup">Monster : Chapter 39 : The Hell Of His Eyes</property>
   <property name="astream">0</property>
+  <property name="kdenlive:control_uuid">{67a5ce30-9db4-4496-ad01-9b6214ae486a}</property>
  </chain>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
@@ -1036,6 +1051,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
   <property name="format">3</property>
+  <property name="kdenlive:control_uuid">{182e0529-ba5e-4489-bca6-d02f597d84e7}</property>
  </chain>
  <playlist id="playlist4">
   <blank length="00:09:39.206"/>
@@ -1110,17 +1126,17 @@
   <property name="meta.media.0.codec.color_trc">1</property>
   <property name="meta.media.0.codec.name">h264</property>
   <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.0.codec.bit_rate">879980</property>
+  <property name="meta.media.0.codec.bit_rate">603149</property>
   <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
   <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
   <property name="meta.attr.major_brand.markup">isom</property>
   <property name="meta.attr.minor_version.markup">512</property>
   <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
-  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">114728000</property>
-  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.frame_rate_num">30000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
   <property name="meta.media.colorspace">709</property>
   <property name="meta.media.color_trc">1</property>
   <property name="meta.media.width">960</property>
@@ -1130,8 +1146,12 @@
   <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
-  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.has_b_frames">2</property>
   <property name="format">3</property>
+  <property name="kdenlive:control_uuid">{182e0529-ba5e-4489-bca6-d02f597d84e7}</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc60.31.102 libx264</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.aspect_ratio">1</property>
  </chain>
  <producer id="producer23" in="00:00:00.000" out="00:15:41.041">
   <property name="length">28204</property>
@@ -1151,14 +1171,14 @@
   <property name="meta.media.0.codec.color_trc">1</property>
   <property name="meta.media.0.codec.name">h264</property>
   <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.0.codec.bit_rate">879980</property>
+  <property name="meta.media.0.codec.bit_rate">603149</property>
   <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
   <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
   <property name="meta.attr.0.stream.encoder.markup">Lavc60.31.102 libx264</property>
   <property name="meta.attr.major_brand.markup">isom</property>
   <property name="meta.attr.minor_version.markup">512</property>
   <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
-  <property name="meta.attr.encoder.markup">Lavf58.76.100</property>
+  <property name="meta.attr.encoder.markup">Lavf60.16.100</property>
   <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
@@ -1172,16 +1192,19 @@
   <property name="set.test_image">0</property>
   <property name="kdenlive:id">6</property>
   <property name="warp_pitch">0</property>
-  <property name="meta.media.frame_rate_num">114728000</property>
-  <property name="meta.media.frame_rate_den">3828089</property>
+  <property name="meta.media.frame_rate_num">30000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
   <property name="meta.media.colorspace">709</property>
   <property name="meta.media.color_trc">1</property>
-  <property name="meta.media.has_b_frames">1</property>
+  <property name="meta.media.has_b_frames">2</property>
   <property name="meta.media.width">960</property>
   <property name="meta.media.height">720</property>
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:control_uuid">{182e0529-ba5e-4489-bca6-d02f597d84e7}</property>
+  <property name="vstream">0</property>
+  <property name="meta.media.aspect_ratio">1</property>
  </producer>
  <chain id="producer97" out="00:23:55.589">
   <property name="length">00:23:55.622</property>
@@ -1238,6 +1261,7 @@
   <property name="meta.attr.0.stream.encoder.markup">Lavc60.31.102 libx264</property>
   <property name="vstream">0</property>
   <property name="meta.media.aspect_ratio">1</property>
+  <property name="kdenlive:control_uuid">{bb150567-62fe-4391-999d-83fd720c1fda}</property>
  </chain>
  <chain id="producer98" out="00:23:55.589">
   <property name="length">00:23:55.622</property>
@@ -1294,6 +1318,7 @@
   <property name="format">3</property>
   <property name="vstream">0</property>
   <property name="meta.media.aspect_ratio">1</property>
+  <property name="kdenlive:control_uuid">{b66c05ce-a900-40c9-a692-36fa3ee91976}</property>
  </chain>
  <chain id="producer99" out="00:23:55.455">
   <property name="length">00:23:55.489</property>
@@ -1347,6 +1372,7 @@
   <property name="set.test_image">0</property>
   <property name="meta.media.has_b_frames">1</property>
   <property name="format">3</property>
+  <property name="kdenlive:control_uuid">{ed344a9f-6d2c-47ac-8827-04a334ba3535}</property>
  </chain>
  <playlist id="playlist6">
   <entry in="00:00:00.100" out="00:01:06.573" producer="producer96">
@@ -1498,42 +1524,41 @@
   <track hide="audio" producer="playlist6"/>
   <track hide="audio" producer="playlist7"/>
  </tractor>
- <tractor id="{dc471078-0fa1-4aee-9eaf-0f820d2848d9}" in="00:00:00.000" out="01:14:34.167">
-  <property name="kdenlive:uuid">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
-  <property name="kdenlive:clipname">Sequence 1</property>
-  <property name="kdenlive:sequenceproperties.hasAudio">1</property>
-  <property name="kdenlive:sequenceproperties.hasVideo">1</property>
-  <property name="kdenlive:sequenceproperties.activeTrack">3</property>
-  <property name="kdenlive:sequenceproperties.tracksCount">4</property>
-  <property name="kdenlive:sequenceproperties.documentuuid">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
-  <property name="kdenlive:duration">01:14:34.201</property>
+ <tractor id="tractor4" in="00:00:00.000" out="01:19:34.201">
+  <property name="kdenlive:duration">01:14:34;05</property>
   <property name="kdenlive:maxduration">134091</property>
+  <property name="kdenlive:clipname">Sequence 1</property>
+  <property name="kdenlive:description"/>
+  <property name="kdenlive:uuid">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
   <property name="kdenlive:producer_type">17</property>
+  <property name="kdenlive:control_uuid">{3fb520b7-6ac0-4c21-be73-0dd818eba0b5}</property>
   <property name="kdenlive:id">11</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">7b5eec519ff52c5c0d82b1e7a80c5835</property>
   <property name="kdenlive:folderid">10</property>
-  <property name="kdenlive:markers">[
-]
-</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">3</property>
   <property name="kdenlive:sequenceproperties.audioTarget">-1</property>
   <property name="kdenlive:sequenceproperties.disablepreview">0</property>
-  <property name="kdenlive:sequenceproperties.position">66902</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">514861</property>
+  <property name="kdenlive:sequenceproperties.documentuuid">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
+  <property name="kdenlive:sequenceproperties.hasAudio">1</property>
+  <property name="kdenlive:sequenceproperties.hasVideo">1</property>
+  <property name="kdenlive:sequenceproperties.position">6454</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">0</property>
+  <property name="kdenlive:sequenceproperties.tracksCount">4</property>
   <property name="kdenlive:sequenceproperties.videoTarget">-1</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
   <property name="kdenlive:sequenceproperties.zoneout">134164</property>
-  <property name="kdenlive:sequenceproperties.zoom">3</property>
+  <property name="kdenlive:sequenceproperties.zoom">11</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
             {
-                "data": "1:3221",
+                "data": "0:2717:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:3221",
+                "data": "3:2738:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1543,12 +1568,12 @@
     {
         "children": [
             {
-                "data": "0:2832",
+                "data": "1:2919:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:2841",
+                "data": "3:2919:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1558,12 +1583,12 @@
     {
         "children": [
             {
-                "data": "1:17521",
+                "data": "3:66607:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:17521",
+                "data": "1:66607:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1573,12 +1598,12 @@
     {
         "children": [
             {
-                "data": "1:26636",
+                "data": "1:2857:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:26636",
+                "data": "3:2868:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1588,12 +1613,12 @@
     {
         "children": [
             {
-                "data": "0:35584",
+                "data": "0:51766:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:35584",
+                "data": "3:51857:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1603,12 +1628,12 @@
     {
         "children": [
             {
-                "data": "1:35584",
+                "data": "3:66678:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:35584",
+                "data": "0:66678:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1618,12 +1643,12 @@
     {
         "children": [
             {
-                "data": "3:94345",
+                "data": "3:94345:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:94344",
+                "data": "3:94344:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1633,12 +1658,12 @@
     {
         "children": [
             {
-                "data": "3:66678",
+                "data": "1:35584:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:66678",
+                "data": "3:35584:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1648,12 +1673,12 @@
     {
         "children": [
             {
-                "data": "0:51766",
+                "data": "0:35584:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:51857",
+                "data": "2:35584:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1663,12 +1688,12 @@
     {
         "children": [
             {
-                "data": "1:2857",
+                "data": "1:26636:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:2868",
+                "data": "3:26636:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1678,12 +1703,12 @@
     {
         "children": [
             {
-                "data": "3:66607",
+                "data": "1:17521:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:66607",
+                "data": "3:17521:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1693,12 +1718,12 @@
     {
         "children": [
             {
-                "data": "1:2919",
+                "data": "0:2832:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:2919",
+                "data": "3:2841:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1708,12 +1733,12 @@
     {
         "children": [
             {
-                "data": "0:2717",
+                "data": "1:3221:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:2738",
+                "data": "3:3221:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1723,12 +1748,12 @@
     {
         "children": [
             {
-                "data": "3:66618",
+                "data": "3:66618:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:66618",
+                "data": "1:66618:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1738,12 +1763,12 @@
     {
         "children": [
             {
-                "data": "3:66724",
+                "data": "1:3817:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:66724",
+                "data": "3:3817:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1753,12 +1778,12 @@
     {
         "children": [
             {
-                "data": "3:3365",
+                "data": "3:66137:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:3365",
+                "data": "1:66137:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1768,12 +1793,12 @@
     {
         "children": [
             {
-                "data": "1:2790",
+                "data": "1:0:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:2797",
+                "data": "3:0:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1783,12 +1808,22 @@
     {
         "children": [
             {
-                "data": "1:66209",
+                "data": "0:17358:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:66209",
+                "data": "3:17482:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:17441:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:17358:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1798,12 +1833,22 @@
     {
         "children": [
             {
-                "data": "3:54975",
+                "data": "0:2036:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:54975",
+                "data": "1:1993:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:1993:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:2042:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1813,12 +1858,12 @@
     {
         "children": [
             {
-                "data": "1:53182",
+                "data": "1:2108:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:53296",
+                "data": "3:2108:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1828,12 +1873,12 @@
     {
         "children": [
             {
-                "data": "1:53380",
+                "data": "1:53380:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:53380",
+                "data": "3:53380:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1843,12 +1888,12 @@
     {
         "children": [
             {
-                "data": "1:2108",
+                "data": "1:53182:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:2108",
+                "data": "3:53296:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1858,22 +1903,12 @@
     {
         "children": [
             {
-                "data": "0:2036",
+                "data": "3:54975:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:1993",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:1993",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:2042",
+                "data": "1:54975:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1883,22 +1918,12 @@
     {
         "children": [
             {
-                "data": "0:17358",
+                "data": "1:66209:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:17482",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:17441",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:17358",
+                "data": "3:66209:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1908,12 +1933,12 @@
     {
         "children": [
             {
-                "data": "1:0",
+                "data": "1:2790:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:0",
+                "data": "3:2797:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1923,12 +1948,12 @@
     {
         "children": [
             {
-                "data": "3:66137",
+                "data": "3:3365:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:66137",
+                "data": "1:3365:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1938,12 +1963,12 @@
     {
         "children": [
             {
-                "data": "1:3817",
+                "data": "3:66724:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:3817",
+                "data": "1:66724:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -2034,6 +2059,7 @@
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.10">Sequences</property>
   <property name="kdenlive:sequenceFolder">10</property>
+  <property name="kdenlive:docproperties.activetimeline">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.binsort">0</property>
   <property name="kdenlive:docproperties.browserurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/clips/</property>
@@ -2093,7 +2119,8 @@
     }
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">24.04.90</property>
+  <property name="kdenlive:docproperties.kdenliveversion">24.12.0</property>
+  <property name="kdenlive:docproperties.opensequences">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/redxarch/.local/share/kdenlive/profiles/customprofile1</property>
@@ -2127,6 +2154,7 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.sessionid">{5ac6ec63-7d6b-4e40-9b8f-08752a0ad536}</property>
   <property name="kdenlive:docproperties.uuid">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
   <property name="kdenlive:docproperties.version">1.1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
@@ -2135,8 +2163,7 @@
   <property name="kdenlive:binZoom">1</property>
   <property name="kdenlive:extraBins">project_bin:-1:0</property>
   <property name="kdenlive:documentnotes"/>
-  <property name="kdenlive:docproperties.opensequences">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
-  <property name="kdenlive:docproperties.activetimeline">{dc471078-0fa1-4aee-9eaf-0f820d2848d9}</property>
+  <property name="kdenlive:documentnotesversion">2</property>
   <property name="xml_retain">1</property>
   <entry in="00:00:00.000" out="00:23:55.556" producer="producer0"/>
   <entry in="00:00:00.000" out="00:23:55.589" producer="producer2"/>
@@ -2146,10 +2173,10 @@
   <entry in="00:00:00.000" out="00:23:55.589" producer="producer42"/>
   <entry in="00:00:00.000" out="00:23:55.589" producer="producer43"/>
   <entry in="00:00:00.000" out="00:23:55.455" producer="producer44"/>
-  <entry in="00:00:00.000" out="01:14:34.201" producer="{dc471078-0fa1-4aee-9eaf-0f820d2848d9}"/>
+  <entry in="00:00:00.000" out="01:14:34.167" producer="tractor4"/>
  </playlist>
- <tractor id="tractor4" in="00:00:00.000" out="01:14:34.167">
+ <tractor id="tractor5" in="00:00:00.000" out="01:14:34.201">
   <property name="kdenlive:projectTractor">1</property>
-  <track in="00:00:00.000" out="01:14:34.167" producer="{dc471078-0fa1-4aee-9eaf-0f820d2848d9}"/>
+  <track in="00:00:00.000" out="01:14:34.201" producer="tractor4"/>
  </tractor>
 </mlt>
