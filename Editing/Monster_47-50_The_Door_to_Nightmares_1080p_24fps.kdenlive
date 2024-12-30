@@ -638,34 +638,6 @@
   <property name="kdenlive:audio_max0">198</property>
   <property name="kdenlive:monitorPosition">0</property>
  </chain>
- <chain id="chain22" out="00:11:28.070">
-  <property name="length">16498</property>
-  <property name="eof">pause</property>
-  <property name="resource">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Audio/clips/Edvard SCHIFFAUER： TŘÍFLÉTNOVÉ PELEMELE PRO KRÁLÍKA FIALU pro tři flétny a bicí nástroje [-D0y2czUirY].wav</property>
-  <property name="mlt_service">avformat</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.layout">independent</property>
-  <property name="meta.media.0.codec.name">pcm_s16le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">1536000</property>
-  <property name="meta.attr.encoder.markup">Lavf61.7.100</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="astream">0</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">12</property>
-  <property name="kdenlive:control_uuid">{3037bc34-9d6e-42af-ac54-947e763c4536}</property>
-  <property name="kdenlive:clip_type">1</property>
-  <property name="kdenlive:file_size">132113078</property>
-  <property name="kdenlive:file_hash">88315f3d893e4579515e9ae7f76f89ba</property>
-  <property name="kdenlive:audio_max0">249</property>
-  <property name="kdenlive:monitorPosition">0</property>
- </chain>
  <chain id="chain23" out="00:14:32.908">
   <property name="length">20929</property>
   <property name="eof">pause</property>
@@ -3261,12 +3233,17 @@
     {
         "children": [
             {
-                "data": "3:23319:-1",
+                "data": "3:35183:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:23319:-1",
+                "data": "3:43493:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:35166:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3276,17 +3253,12 @@
     {
         "children": [
             {
-                "data": "3:20459:-1",
+                "data": "3:53115:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:20657:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:20459:-1",
+                "data": "1:53042:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3296,122 +3268,12 @@
     {
         "children": [
             {
-                "data": "3:23680:-1",
+                "data": "3:35016:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:23725:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:23676:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:25186:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:25181:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:12907:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:12907:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:12874:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:23755:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:23738:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:34482:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:34555:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:34520:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:20670:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:23306:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:20669:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:30914:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:30904:-1",
+                "data": "1:35016:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3441,12 +3303,12 @@
     {
         "children": [
             {
-                "data": "3:35016:-1",
+                "data": "3:30914:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:35016:-1",
+                "data": "1:30904:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3456,12 +3318,17 @@
     {
         "children": [
             {
-                "data": "3:53115:-1",
+                "data": "1:20670:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:53042:-1",
+                "data": "2:23306:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:20669:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3471,17 +3338,17 @@
     {
         "children": [
             {
-                "data": "3:35183:-1",
+                "data": "1:34482:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:43493:-1",
+                "data": "3:34555:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:35166:-1",
+                "data": "3:34520:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3491,32 +3358,12 @@
     {
         "children": [
             {
-                "data": "3:43547:-1",
+                "data": "3:23755:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:43547:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "-2:44362:0",
-                "leaf": "subtitle",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:88927:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:88927:-1",
+                "data": "1:23738:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3526,12 +3373,17 @@
     {
         "children": [
             {
-                "data": "2:87871:-1",
+                "data": "3:12907:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:87871:-1",
+                "data": "2:12907:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:12874:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3541,12 +3393,172 @@
     {
         "children": [
             {
-                "data": "3:83514:-1",
+                "data": "3:25186:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:83507:-1",
+                "data": "2:25181:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:23680:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:23725:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:23676:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:20459:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:20657:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:20459:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:34601:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:34601:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:30970:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:30955:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:46888:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:46890:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:54419:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:54410:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:31019:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:31019:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:72017:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "0:71991:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "2:59221:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:59231:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:13620:-1",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:13600:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3576,12 +3588,12 @@
     {
         "children": [
             {
-                "data": "3:13620:-1",
+                "data": "3:83514:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "1:13600:-1",
+                "data": "1:83507:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3591,12 +3603,12 @@
     {
         "children": [
             {
-                "data": "2:59221:-1",
+                "data": "2:87871:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:59231:-1",
+                "data": "3:87871:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3606,12 +3618,12 @@
     {
         "children": [
             {
-                "data": "3:72017:-1",
+                "data": "1:88927:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:71991:-1",
+                "data": "3:88927:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3621,72 +3633,12 @@
     {
         "children": [
             {
-                "data": "3:31019:-1",
+                "data": "3:23319:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "2:31019:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:54419:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:54410:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "2:46888:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:46890:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:30970:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:30955:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:34601:-1",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "2:34601:-1",
+                "data": "1:23319:-1",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -3869,7 +3821,7 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_47-50_The_Door_to_Nightmares_1080p_24fps.webm</property>
   <property name="kdenlive:docproperties.seekOffset">7193</property>
-  <property name="kdenlive:docproperties.sessionid">{12ba8d55-97b0-49bb-bfe3-60d71bf0f437}</property>
+  <property name="kdenlive:docproperties.sessionid">{c13949c3-b5ab-4996-bb45-b8d3c2551c38}</property>
   <property name="kdenlive:docproperties.uuid">{ae036d2a-cf89-443a-8132-d25876d1455e}</property>
   <property name="kdenlive:docproperties.version">1.1</property>
   <property name="kdenlive:expandedFolders"/>
@@ -3886,7 +3838,6 @@
   <entry in="00:00:00.000" out="00:23:54.012" producer="chain20"/>
   <entry in="00:00:00.000" out="00:23:54.012" producer="chain19"/>
   <entry in="00:00:00.000" out="00:23:54.012" producer="chain21"/>
-  <entry in="00:00:00.000" out="00:11:28.070" producer="chain22"/>
   <entry in="00:00:00.000" out="00:14:32.908" producer="chain23"/>
   <entry in="00:00:00.000" out="01:22:58.767" producer="tractor5"/>
  </playlist>
