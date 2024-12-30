@@ -2870,7 +2870,7 @@
 </property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
-  <property name="kdenlive:sequenceproperties.position">146943</property>
+  <property name="kdenlive:sequenceproperties.position">146913</property>
   <property name="kdenlive:sequenceproperties.scrollPos">9107924</property>
   <property name="kdenlive:sequenceproperties.subtitlesList">[
     {
@@ -3415,7 +3415,7 @@
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.renderurl">/home/redxarch/Videos/Monster_51-55_Room_402_1080p_24fps.webm</property>
+  <property name="kdenlive:docproperties.renderurl">/mnt/data1/Anime-Edits/Monster/Monster-Editing/Output/Monster-Edit/Monster_51-55_Room_402_1080p_24fps.webm</property>
   <property name="kdenlive:docproperties.seekOffset">8991</property>
   <property name="kdenlive:docproperties.sessionid">{ebef4270-c598-4d99-b35c-7f0ff24073fc}</property>
   <property name="kdenlive:docproperties.uuid">{6b917ac2-e7fe-45a0-8d57-7756dda43f4d}</property>
@@ -3425,6 +3425,23 @@
   <property name="kdenlive:extraBins">project_bin:-1:0</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:documentnotesversion">2</property>
+  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
+  <property name="kdenlive:docproperties.rendercustomquality">-1</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderfullcolorrange">0</property>
+  <property name="kdenlive:docproperties.rendermode">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderpreview">0</property>
+  <property name="kdenlive:docproperties.renderprofile">SVT-AV1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">540</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">720</property>
+  <property name="kdenlive:docproperties.renderspeed">1</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">-1</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="xml_retain">1</property>
   <entry in="00:00:00.000" out="00:23:54.012" producer="chain10"/>
   <entry in="00:00:00.000" out="00:23:54.012" producer="chain11"/>
